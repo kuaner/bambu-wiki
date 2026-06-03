@@ -1,0 +1,145 @@
+---
+path: zh/h2/maintenance/replace-xy-belt
+title: "更换 H2 系列 X/Y 皮带"
+description: "本文介绍了如何更换 H2 系列 X/Y 皮带"
+tags: []
+created: 2025-03-25T02:11:56.832Z
+updated: 2026-04-03T09:50:15.170Z
+source: https://wiki.bambulab.com/zh/h2/maintenance/replace-xy-belt
+---
+
+## X/Y 皮带
+
+H2D 3D 打印上使用的 X/Y 皮带是节线长为 1824mm，宽 9mm 的开口皮带，一共有两条。 它们将 X/Y 电机和工具头连接起来并驱动工具头在 X/Y 方向的移动。
+
+> 本指南提供了最为高效、轻松的拆装方法，为确保操作顺利进行，请严格按照流程执行。
+
+**X/Y 皮带的备件包含以下：**
+
+1. 皮带 \* 2
+2. M3x8螺丝 - 用于固定皮带固定座 \* 6
+3. 皮带固定座 \* 2
+4. 皮带固定块 \* 4
+
+## 何时更换
+
+1. X/Y 皮带断裂
+2. X/Y 皮带磨损
+
+## 所需的工具和材料
+
+1. 新的 X/Y 皮带
+2. H2.0 内六角扳手
+
+**更换 H2D X/Y 皮带所涉及的螺丝规格及数量（建议妥善保管拆下的螺丝，避免丢失）：**
+
+| **螺丝规格** | **螺丝图片** | **用途** | **位置示意图** |  | **螺丝数量** |
+| --- | --- | --- | --- | --- | --- |
+| M3x8 |  | 用于固定 X/Y 皮带固定座 |  |  | 6 |
+
+## 安全提示
+
+> **重要提醒 ！**
+>
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生电路短路从而引起额外的电子设备损坏和安全隐患。
+>
+> 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+>
+> 如果您对本指南有任何疑问，请点击此处联系在线技术支持 （服务时间 9:00-21:00），我们将及时回复并为您提供所需的帮助。
+
+## 移除 X/Y 皮带
+
+### 步骤 1：移除 X/Y 皮带固定块
+
+1. 使用 H2.0 内六角扳手移除 6 颗工具头上皮带压块的螺丝（M3x8），将两侧的皮带固定块从工具头上取出；
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-11.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-13.png)
+
+2. 然后使用内六角扳手顶住皮带固定座，将皮带固定座顶出一点，然后翻转皮带固定块，将皮带送出。
+
+> 注：为避免后续安装，您可以只移除一侧皮带固定块上的两个固定座，另外一侧无需移除。
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-9.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-10.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-8.png)
+
+### 步骤 2：粘接皮带
+
+将皮带抽出后，您可以在旧皮带的末端滴几滴速干胶（建议带手套操作，避免胶水粘在手上），然后将新皮带的朝向与旧皮带保持一致（下图中均为齿面朝上），将新旧皮带粘在一起，等待新旧皮带粘牢。
+
+**您可以参考相同的方法，将另外一根 X/Y 皮带粘牢固。**
+
+您可以像下图所示，将新皮带粘在旧皮带的上面，以便于粘的更牢固，防止在穿引的时候断开。
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-4.png)
+
+### 步骤 3：安装皮带固定块
+
+然后您可以拿住两根皮带，找到新皮带的末端，将皮带穿过皮带固定快，然后将皮带固定座的齿面对准皮带的齿面，并且凸起的点位于皮带的末端。然后拉动皮带，将固定座和皮带一起卡入固定块中。
+
+然后参考相同的方法，将另外一个皮带也固定。
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-7.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-5.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-6.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-1.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-2.png)
+
+## 安装 X/Y 皮带
+
+### 步骤 1：穿 X/Y 皮带
+
+拉动旧皮带另一端的固定块，在旧皮带的引导下，将新皮带带穿过惰轮和电机。
+
+但操作要放慢些和小心点，可以用一边推送，另一边拉的方式穿皮带，通过拉动皮带来将新皮带完全穿到打印机上。
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-3.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-29.png)
+
+### 步骤 2：移除旧皮带
+
+1. 当新皮带完全安装在打印机上时，您可以从新旧皮带的粘接处，将皮带撕开，然后清理新皮带上的胶水；
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-27.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-26.png)
+
+2. 您可以将旧皮带上的皮带固定座取下（取下的步骤您可以参考上述“**步骤 1：移除 X/Y 皮带固定块**”）；
+3. 然后安装到新皮带上（详细步骤可参考**“步骤 3：安装皮带固定块”**），或者您也可以使用 XY 皮带备件中所包含的皮带固定座。
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-25.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-23.png)
+
+### 步骤 3：安装皮带固定块
+
+将皮带固定座装入工具头，并使用 H2.0 内六角扳手拧紧三颗固定螺丝（M3x8）。当开始装另外一侧时，您需要将所需安装皮带固定块的对侧贴住 Y 轴，但由于皮带处于张紧状态，您需要用手将皮带固定块往里推，然后使用 H2.0 内六角扳手拧紧三颗螺丝（M3x8）。建议先拧紧中间的一颗螺丝。
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-24.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-22.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-28.png)
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-21.png)
+
+## 如何验证成功
+
+工具头可正常移动，张紧器惰轮转动无异响，未出现皮带共振频率异常/偏低的报错即可。
+
+## 结束语
+
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请在开始操作前联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
+> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)

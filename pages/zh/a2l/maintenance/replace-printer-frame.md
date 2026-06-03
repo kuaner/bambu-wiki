@@ -1,0 +1,100 @@
+---
+path: zh/a2l/maintenance/replace-printer-frame
+title: "A2L 更换龙门架"
+description: ""
+tags: []
+created: 2026-06-01T13:15:12.866Z
+updated: 2026-06-01T13:15:12.866Z
+source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame
+---
+
+## A2L 龙门架组件
+
+![faz073-2.png](https://public-cdn.bblmw.com/wiki/new/a2l/danpintu/faz073-2.png)
+
+## 何时使用本指南？
+
+- 龙门架变形
+- Z轴运动异常
+- 拓竹售后技术支持建议更换
+
+## 所需的工具和材料
+
+A2L 龙门架
+
+- H2.0 内六角螺丝刀
+- 镊子
+
+> 更换 A2L 龙门架预计耗时30分钟
+
+### **安全警告**
+
+> **重要提醒！**
+>
+> **在进行任何维护工作之前，务必关闭打印机的电源**，包括对打印机的电子元件和工具头电线进行维护。在打印机通电时进行此类操作可能会导致短路，从而损坏电子设备和造成安全隐患。
+>
+> 在维护或故障排除过程中，您可能需要拆卸热端等部件，从而暴露电线和电子元件。如果它们在打印机仍处于通电状态时相互接触或与其他金属、电子元件接触，就可能发生短路。**这将损坏打印机的电子元件和造成其他问题。**
+>
+> 因此，**在进行任何维护前，务必关闭打印机并断开电源**，以防止短路或损坏打印机的电子元件，从而确保维护工作安全有效地进行。如果您对本指南有任何疑问，请[点击这里提交工单](https://bambulab.com/zh/my/support/tickets?from=5)，我们将及时回复并提供帮助。
+
+## **拆除 A2L 龙门架**
+
+### 1. 断开连接线缆
+
+使用 H2.0 内六角螺丝刀拆除两颗螺丝，拔除连接线缆。  
+![lmj001.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj001.jpg)![lmj002.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj002.jpg)
+
+### 2. 断开Z电机连接线
+
+打开Z电机转接线盖，断开Z电机插头。  
+![lmj004.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj004.webp)
+
+### 3. 分离龙门架
+
+移除Y轴上盖，使用 H2.0 内六角螺丝刀拆除图示的10颗螺丝。  
+![yzgb001.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/yzgb001.webp)![lmj006.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj006.jpg)
+
+向上抬升 X 轴，取下底座部分。  
+![lmj007.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj007.jpg)![lmj008.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj008.webp)
+
+> 如您目的是拆卸底座部分，到此步已经完成，无需拆卸X轴。
+
+### 4. 移除X 轴
+
+使用 H2.0 内六角螺丝刀拆下6颗螺丝，取下X轴。  
+![gjtxl0016.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/gjtxl0016.jpg)  
+![x001.webp](https://public-cdn.bblmw.com/wiki/new/a2l/test/x001.webp)
+
+> 拆卸螺丝过程中请全程用手托住 X 轴型材部分，以免 X 轴突然掉落。
+
+## **安装 A2L 龙门架**
+
+### 1. 安装龙门架
+
+参照图示将底座放入龙门架，使用 H2.0 内六角螺丝刀锁入10颗螺丝固定。  
+![lmj009.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj009.webp)![lmj006.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj006.jpg)
+
+将热床向后移动一小段距离，插入 Y 轴上盖，对齐上盖前方并推动到位，然后下压上盖后方安装到位。  
+![yzgb002.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/yzgb002.webp)![yzgb003.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/yzgb003.webp)
+
+### 2. 安装Z电机连接线
+
+连接Z电机线，装回Z电机转接线盖。  
+![lmj005.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj005.webp)
+
+### 3. 安装X轴
+
+将X轴对齐安装孔位，然后使用 H2.0 内六角螺丝刀锁入6颗螺丝。  
+![gjtxl0016.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/gjtxl0016.jpg)
+
+### 4. 安装连接线缆
+
+将线缆有凸起一侧对齐插入插槽缺口，使用 H2.0 内六角螺丝刀锁入两颗螺丝。  
+![lmj012.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj012.jpg)![lmj001.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/lmj001.jpg)
+
+## 结束语
+
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请在开始操作前联系我们的客户服务团队。  
+> 我们随时乐意为您解答疑问并提供支持。  
+> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)

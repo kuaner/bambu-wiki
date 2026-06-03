@@ -1,0 +1,151 @@
+---
+path: zh/x1/troubleshooting/homing-and-leveling-failure
+title: "X1/P1 打印机回零 & 调平失败故障排查"
+description: "本文将详细为您介绍可能会导致 X1/P1 设备回零 & 调平失败的原因以及解决方案。"
+tags: ["p1p", "p1s", "x1c"]
+created: 2026-02-03T04:28:34.849Z
+updated: 2026-02-10T03:05:14.246Z
+source: https://wiki.bambulab.com/zh/x1/troubleshooting/homing-and-leveling-failure
+---
+
+## 故障现象
+
+发起打印的准备阶段中，工具头在回到废料滑梯的过程时撞击设备框架,发出剧烈的咔咔声；  
+Z轴准备回零的过程中，设备出现“Z轴回零失败”并取消打印。
+
+## 安全提示
+
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
+> 在您对打印机进行故障排查或维护时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
+## XY 轴回零异常
+
+### 极限位置检查
+
+打印机回零的过程中，工具头会触碰 X 轴右侧极限位置和前框架。  
+当设备出现 XY 轴回零异常时，请断电关机后手动推拉工具头，检查移动范围以及极限位置处是否存在阻碍。
+
+右侧极限位置：
+
+![image6.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image6.png)
+
+前框架：  
+左右两侧应同时撞击前框架，如果出现不同步的情况，请重新张紧 XY 皮带。  
+![image7.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image7.png)  
+![image8.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image8.png)
+
+### 工具头推拉测试
+
+1. 先前后推拉工具头，若移动出现卡顿，说明故障大概率出在 AB 电机或 Y 轴，需按以下步骤进一步排查；若前后推拉无卡顿，仅左右推拉有异常，通常为碳杆阻力过大导致。
+
+![image26.webp](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image26.webp)  
+2. 尝试左右推拉工具头，若左右推拉顺畅无卡顿，可直接判定为 Y 轴异常；对于Y轴异常以及碳杆阻力过大的情况，请根据[X1系列打印机定期维护建议](../maintenance/basic-maintenance.md)进行维护。
+
+![image27.webp](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image27.webp)  
+3. 若左右推拉依然存在卡顿，需通过斜对角推拉工具头，定位 AB 电机的具体故障（Core-XY 运动结构下，工具头斜对角移动时仅有单个电机参与转动，可精准判定故障电机）：  
+从左上往右下推拉时出现卡顿，为 A 电机故障；  
+从右上往左下推拉时出现卡顿，为 B 电机故障。请参考[更换 XY 电机](../maintenance/replace-the-xy-motor.md)进行更换。
+
+![toolhead-moving.webp](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/toolhead-moving.webp)
+
+## Z 轴回零异常
+
+### 热床和打印板检查
+
+热床通过“感应喷嘴接触热床的力”来实现 Z 轴回零，所以要使归位成功，需要保证：喷嘴尖端干净，底板表面坚硬。  
+请从侧面打光，眼睛紧贴热床表观察热床和打印板，检查表面是否有鼓包或异物。
+
+|  |  |
+| --- | --- |
+| image25.jpeg | image28.jpg |
+
+对于打印板鼓包的问题，最好的办法是换一块新的打印板贴膜，如果急需使用设备的话，可用刀片在凸起的表面切几刀，释放内部的气泡，使其恢复平整：
+
+![](https://wiki.bambulab.com/x1/troubleshooting/hmscode/mc-assets/500px-make-kerf-on-the-bulge-surface.png)
+
+可能的报错：[HMS\_0300-0D00-0002-0001: 热床回零异常，可能是由于打印板上有鼓包，或喷嘴未清理干净。](hmscode/0300_0D00_0002_0001.md)
+
+### 喷嘴检查
+
+正常情况下，打印机会在开始打印时自动清洁喷嘴，但仍有可能喷嘴不够干净，需手动清理。
+
+![](https://wiki.bambulab.com/x1/troubleshooting/hmscode/mc-assets/500px-clean-the-nozzle-tip.png)
+
+确保两颗热端固定螺丝已拧紧
+
+![](https://wiki.bambulab.com/p1/maintenance/hotend-assembly/2_screws.jpg)
+
+### Z 轴丝杆检查
+
+检查 Z 轴滑块的表面是否有异物，以及轴承是否凸起；
+
+|  |  |  |
+| --- | --- | --- |
+| image1.png  右侧轴承正常状态 | image2.png  左侧轴承正常状态 | image3.png  后侧轴承正常状态 |
+
+再检查丝杆顶部是否有异物。
+
+![image4.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image4.png)
+
+如果您发现轴承凸出，可参考[X1/P1 系列 Z 轴直线轴承脱出处理指南](../../p1/troubleshooting/bearing-disengaged.md)进行调整。
+
+此外轴承凸起通常是由于底部的三个孔中存在异物，导致轴承受到挤压而凸出。复原轴承后请**清理干净孔洞内杂物**，否则故障可能会再次发生。
+
+![image5.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image5.png)
+
+### 废料滑梯或打印板干涉
+
+检查热床与废料滑梯之间是否有明显的干涉，热床向上移动的过程中应与废料滑梯保持**1-2mm的间距**。
+
+![image23.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image23.png)
+
+同时，请检查打印板的位置，确保其与打印机内衬之间保持**1-2mm的间距**。
+
+![image24.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image24.png)
+
+如果您发现打印板会和废料滑梯或内衬相互摩擦，请查看[Z 轴回中失败—组件干涉](homing-z-axis-failed_part-unit-interference.md)，获取解决方案。
+
+### 打印机底部检查
+
+取下玻璃上盖，将打印机侧放。检查底部是否有东西卡住了 Z 电机和同步带轮。清理后拉动Z皮带，观察热床上下移动过程是否顺畅。
+
+![image13.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image13.png)
+
+![image14.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image14.png)
+
+### 热床信号线剐蹭
+
+慢慢抬升热床，直到它几乎接近喷嘴，然后从腔室朝内部观察，检查 Z 轴丝杠旁边的热床电缆是否被过紧。如果线缆的形状与下图相似，未处于绷直状态，则线缆状态正常。
+
+![image9.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image9.png)
+
+如果热床线缆被拉紧绷直，请点击[Z轴回中失败错误—热床线缆被拉紧](homing-Z-axis-failed_cable-tensioned.md)，获取解决方案。
+
+### 缓冲器螺丝
+
+若打印机安装了 AMS Hub 或缓冲器，当固定螺丝拧得太紧时，也可能在床靠近喷嘴时卡住 Z 轴，请试着松开这两个螺丝 1~2 圈。
+
+![image19.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image19.png)
+
+### 调整热床
+
+如果以上方案仍未解决您的问题，请尝试拧松图中标记位置的 6 个螺丝，然后将热床向前门方向推一推，再重新锁紧 6 颗螺丝。
+
+![image15.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image15.png)  
+![image16.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image16.png)
+
+完成后参考 [热床手动调平](../manual/manual-bed-leveling.md) 调整热床调平螺母。
+
+![image17.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image17.png)
+
+## 功能验证
+
+点击屏幕上或软件上的回零按钮，设备能够顺利完成回零动作并且没有报错。
+
+![image18.png](https://wiki.bambulab.com/x1/troubleshooting/homing-leveling-failure/image18.png)
+
+## 结束语
+
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。

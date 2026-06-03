@@ -1,0 +1,153 @@
+---
+path: zh/a2l/troubleshooting/heatbed-not-heat-up
+title: "A2L 热床不升温故障排查"
+description: "本文介绍了热床不升温的故障排查步骤"
+tags: []
+created: 2026-06-01T13:13:58.839Z
+updated: 2026-06-01T13:29:31.134Z
+source: https://wiki.bambulab.com/zh/a2l/troubleshooting/heatbed-not-heat-up
+---
+
+本文介绍了热床不升温的故障排查步骤。
+
+## 适用范围
+
+当设备出现以下任一现象或报错时，可参考本文步骤进行排障：
+
+### 现象描述
+
+- 热床温度显示为 0℃
+- 屏幕显示热床温度高于热床实际温度
+- 设定床温后，热床长时间无法升温
+- 热床加热过程中报温控异常并中断
+
+### 适用的 HMS 报错码
+
+| HMS Code | 故障描述 | 推荐排查路径 |
+| --- | --- | --- |
+| [HMS\_0300-0100-0001-0007](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_0007) | 热床温控异常，温度传感器可能开路 | 检查热床线缆连接 → 测量 NTC 阻值 |
+| [HMS\_0300-0100-0001-0008](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_0008) | 热床加热异常，加热模块可能故障 | 检查热床线缆连接 → 测量加热器阻值 |
+| [HMS\_0300-0100-0001-0005](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_0005) | 热床温控异常，加热模块损坏 | 检查 AC 板 → 测量热床线缆阻值 |
+| [HMS\_0300-0100-0001-000A](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_000A) | 热床温控异常，AC 板可能故障 | 测量主板-AC 线缆阻值 → 检查 AC 板状态 |
+
+> - 如果屏幕**弹出具体 HMS 报错码**，建议直接参考上表中的"推荐排查路径"，跳转至对应步骤；
+> - 如果**只观察到现象，不知道具体报错**，请按照下方步骤 1-4 顺序排查。
+
+## 故障原因
+
+- 热床信号线或供电线接触不良、松动或脱落
+- AC 板异常
+- 热床温度传感器或测温线缆异常
+- 热床加热器开路/短路，阻值异常
+- 主板异常
+
+## 所需材料与工具
+
+- H2.0 / H1.5 内六角扳手
+- 十字螺丝刀
+- 镊子
+- 万用表
+
+## 排查步骤
+
+> **注意：**在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，**请关闭打印机电源并断开电源连接**，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。
+>
+> 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，**避免在高温状态下操作**，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
+### 步骤 1：检查热床线缆连接
+
+1. 参考[更换 AC 板指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-ac-board)，露出 AC 板，重新连接以下两条线缆：
+   - **热床信号线（#1）**
+   - **热床加热线（#2）**
+
+![](https://public-cdn.bblmw.com/wiki/new/a2l/troubleshooting/heatbed-not-heat-up/008.png)
+
+2. 将底盖临时复位（可先不锁螺丝），开机测试：
+
+   - 屏幕是否显示正常床温？
+   - 设置热床温度后，热床能否正常升温？
+3. 判断结果：
+
+   - ✅ **温度正常** → 重新连接已解决问题，请固定底盖完成维护。
+   - ❌ **温度仍异常** → 进入步骤 2。
+
+### 步骤 2：检查 AC 板状态
+
+检查 AC 板上的元器件是否存在烧焦、烧毁痕迹。
+
+![](https://public-cdn.bblmw.com/wiki/new/a2l/troubleshooting/heatbed-not-heat-up/003.png)
+
+**判断结果：**
+
+- ❌ **存在明显烧焦/损坏** → 参考[更换 AC 板指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-ac-board)更换 AC 板后复测。
+- ✅ **外观无明显异常** → 进入步骤 3。
+
+### 步骤 3：测量热床线缆阻值
+
+> 关于如何使用万用表测量阻值，具体请参考：[如何使用万用表检测电路是否正常](../../knowledge-sharing/multimeter.md)。
+
+本步骤分为两项独立测量，请根据您的报错代码选择对应子步骤：
+
+#### 测量 NTC 温度传感器阻值
+
+1. 小心拔下**热床信号线**，用万用表测量黄色与蓝色连接线端口处。
+
+![](https://public-cdn.bblmw.com/wiki/new/a2l/troubleshooting/heatbed-not-heat-up/004.png)
+
+2. 常温（20~25℃）下，阻值在 100~125 kΩ 范围内为正常。对照下表判断阻值是否正常：
+
+   | 环境温度（℃） | 正常阻值范围（kΩ） |
+   | --- | --- |
+   | 0~20 | 327~124 |
+   | 20~40 | 124~53 |
+
+   > 注：随着温度上升，电阻会减小（NTC 特性）。
+3. 判断结果：
+
+   - ❌ **阻值明显异常**（例如开路、短路或远超表中范围） → 测温链路异常，请参考[更换热床指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-heatbed-unit)更换热床。
+   - ✅ **阻值正常** → 如仍报错，进入步骤 4。
+
+#### 测量加热器阻值
+
+1. 小心拔下**热床加热线**，测量插头两端的阻值。
+
+![](https://public-cdn.bblmw.com/wiki/new/a2l/troubleshooting/heatbed-not-heat-up/005.png)
+
+2. 对照下表判断阻值是否正常：
+
+   | 设备版本 | 正常阻值 |
+   | --- | --- |
+   | 110V 版本 | 约 15 kΩ |
+   | 220V 版本 | 约 60 kΩ |
+3. 判断结果：
+
+   - ❌ **阻值明显异常**（开路、短路或显著偏离） → 加热链路异常，请参考[更换热床指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-heatbed-unit)更换热床。
+   - ✅ **阻值正常** → AC 板或主板可能故障，进入步骤 4。
+
+### 步骤 4：测量主板-AC 线缆阻值
+
+> **本步骤优先适用于 HMS\_000A（AC 通信异常）。**
+
+1. 小心拔下主板-AC 线缆的 AC 端接头。
+
+![ac-plug.png](https://public-cdn.bblmw.com/wiki/new/a2l/troubleshooting/heatbed-not-heat-up/ac-plug.png)
+
+2. 用万用表测量下图所示的两个端口：
+
+![](https://public-cdn.bblmw.com/wiki/new/a2l/troubleshooting/heatbed-not-heat-up/006.png)
+
+3. 常温（20~25℃）下，正常阻值为 55~60 kΩ。
+
+   > 注：随温度上升，电阻减小
+4. 判断结果：
+
+   - ❌ **阻值明显异常** → 主板-AC 线缆故障，请参考[主板-AC 线缆更换指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-cables)进行更换。
+   - ✅ **阻值正常** → 主板或 AC 板可能故障：
+     - 优先参考[主板更换指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-mainboard)更换主板；
+     - 若更换后仍报错，再参考[AC 板更换指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-ac-board)更换 AC 板。
+
+## 结束语
+
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
