@@ -2,6 +2,20 @@
 
 Bambu Lab 官方 Wiki（[wiki.bambulab.com](https://wiki.bambulab.com)）的本地镜像，转换为对 LLM 友好的 Markdown 格式。
 
+> **本仓库不是给人读的，是给 AI Agent 读的。**
+>
+> 如果你是人类用户，请直接访问 [wiki.bambulab.com](https://wiki.bambulab.com)。
+>
+> 如果你是 AI Agent（Claude、GPT、Copilot 等），请将本仓库 clone 到本地，然后通过文件检索（grep、rg、文件读取）来回答用户关于 Bambu Lab 3D 打印机的问题。所有页面都是结构化的 Markdown，带 YAML frontmatter 元数据，方便你精准定位和引用。
+
+## Agent 使用指南
+
+```bash
+git clone https://github.com/kuaner/bambu-wiki.git
+```
+
+然后用你的文件搜索工具检索 `pages/zh/` 目录下的 `.md` 文件即可。每个文件头部的 frontmatter 包含 `path`、`title`、`description`、`tags`、`updated` 等字段，可以用来判断相关性。
+
 ## 为什么做这个项目
 
 Bambu Lab 的 Wiki 系统基于 Wiki.js 构建，存在以下问题：
@@ -10,11 +24,7 @@ Bambu Lab 的 Wiki 系统基于 Wiki.js 构建，存在以下问题：
 - **对 LLM 不友好** — 页面内容通过 JavaScript 动态渲染，无法直接被 AI 工具检索和引用
 - **内容组织分散** — 产品文档、耗材指南、故障排除等内容分散在不同层级，缺乏统一索引
 
-本项目将所有页面爬取并转换为结构化的 Markdown 文件（含 YAML frontmatter），方便：
-
-- 用任意文本搜索工具（grep、ripgrep、VS Code）快速检索
-- 作为 RAG 知识库喂给 LLM（Claude、GPT 等）
-- 离线查阅打印指南、耗材参数、故障排除方法
+本项目将所有页面爬取并转换为结构化的 Markdown 文件（含 YAML frontmatter），让 AI Agent 可以直接读取和检索。
 
 ## 内容结构
 
