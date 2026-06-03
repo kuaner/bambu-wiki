@@ -1,0 +1,61 @@
+name: Daily Crawl Update
+
+on:
+  schedule:
+    # 每天 UTC 02:00 执行（北京时间 10:00）
+    - cron: '0 2 * * *'
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run incremental crawl
+        run: |
+          python3 crawl.py -p 'zh/.*' --discover -c 5 -d 0.5
+
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            # 统计变化
+            ADDED=$(git diff --name-only --diff-filter=A -- 'pages/*.md' 'pages/**/*.md' | wc -l | tr -d ' ')
+            MODIFIED=$(git diff --name-only --diff-filter=M -- 'pages/*.md' 'pages/**/*.md' | wc -l | tr -d ' ')
+            DELETED=$(git diff --name-only --diff-filter=D -- 'pages/*.md' 'pages/**/*.md' | wc -l | tr -d ' ')
+            TOTAL=$(find pages -name '*.md' -type f | wc -l | tr -d ' ')
+            echo "summary=+${ADDED} ~${MODIFIED} -${DELETED} (total: ${TOTAL})" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "auto update: ${{ steps.check.outputs.summary }}"
+          git push

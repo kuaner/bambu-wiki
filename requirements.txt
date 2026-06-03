@@ -1,0 +1,2 @@
+aiohttp>=3.9
+markdownify>=1.1
