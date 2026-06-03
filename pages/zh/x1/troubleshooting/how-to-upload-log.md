@@ -1,11 +1,11 @@
 ---
-path: zh/X1/troubleshooting/how-to-upload-log
+path: zh/x1/troubleshooting/how-to-upload-log
 title: "如何创建工单及上传日志"
 description: "本指南将引导您通过 Bambu Handy 或在 Bambu Lab 官网创建工单及上传日志，以及上传日志常见问题。"
 tags: []
 created: 2024-10-08T04:14:08.421Z
 updated: 2026-06-02T03:11:16.881Z
-source: https://wiki.bambulab.com/zh/X1/troubleshooting/how-to-upload-log
+source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 ---
 
 ## 通过 Bambu Handy 提交工单及日志
@@ -139,7 +139,7 @@ source: https://wiki.bambulab.com/zh/X1/troubleshooting/how-to-upload-log
 
 - 外观可见的机械和电子件结构损坏：拍摄一段描述损坏位置的视频。
 - 供电/电子电路异常：拍摄线缆连接状态视频，并参考[硬件指示灯语义解释](../../general/indicator-led-explanation.md)。
-- 工具头模块异常：拍摄2段视频，一段视频记录线缆连接状态，一段视频记录耗材从挤出机上端送入和送出时，屏幕或者Bambu Software上挤出机的进料指示标志。请参考[更换工具头电路板（新版）](../../x1/maintenance/toolhead_boards_v9.md)的步骤 13。
+- 工具头模块异常：拍摄2段视频，一段视频记录线缆连接状态，一段视频记录耗材从挤出机上端送入和送出时，屏幕或者Bambu Software上挤出机的进料指示标志。请参考[更换工具头电路板（新版）](../maintenance/toolhead_boards_v9.md)的步骤 13。
 - 热床模块异常：拍摄热床回中和调平的视频。
 - 微型激光雷达、AI 模块、屏幕、SD 卡、相机、LED、风扇、腔温异常：拍摄异常模块及周边线缆连接状态视频。
 - X/Y/Z 轴异响/异常：拍摄 XYZ 轴运动时的视频。
