@@ -4,7 +4,7 @@ title: "P2S"
 description: ""
 tags: []
 created: 2025-10-14T13:07:42.724Z
-updated: 2026-06-03T02:28:08.328Z
+updated: 2026-06-03T02:28:09.377Z
 source: https://wiki.bambulab.com/zh/p2s
 ---
 

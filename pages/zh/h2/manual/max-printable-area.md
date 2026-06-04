@@ -4,11 +4,9 @@ title: "H2 系列打印机最大打印/加工范围"
 description: ""
 tags: []
 created: 2025-04-09T06:15:07.305Z
-updated: 2026-06-03T02:12:27.471Z
+updated: 2026-06-03T09:23:26.522Z
 source: https://wiki.bambulab.com/zh/h2/manual/max-printable-area
 ---
-
-> 注意：**图示的（x，y）表示坐标**，而非面积。两个 X 坐标相减即为 X 方向的打印范围，两个 Y 坐标相减即为 Y 方向的打印范围。
 
 ## H2D
 
@@ -52,7 +50,7 @@ source: https://wiki.bambulab.com/zh/h2/manual/max-printable-area
 
 水平方向最大可打印面积 X340\*Y320mm，Z 方向最大高度 340mm；最大可打印体积 X340\*Y320\*Z340mm。
 
-![image_-_2025-12-15t175005.654.png](https://wiki.bambulab.com/h2/manual/max-printable-area/image_-_2025-12-15t175005.654.png)
+![image_-_2025-12-15t175005.654.png](https://wiki.bambulab.com/h2/manual/max-printable-area/h2s-cn.jpg)
 
 ### 激光模组
 
