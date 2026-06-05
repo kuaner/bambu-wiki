@@ -4,7 +4,7 @@ title: "常见问题"
 description: ""
 tags: []
 created: 2022-08-03T03:01:56.447Z
-updated: 2026-06-02T02:21:35.754Z
+updated: 2026-06-02T02:21:36.798Z
 source: https://wiki.bambulab.com/zh/faq
 ---
 

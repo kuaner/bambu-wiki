@@ -22,5 +22,6 @@
   "zh/makerworld/faq": "HTTP 404",
   "zh/h2/trubleshooting/dual-extruder-Idlers-clogging": "HTTP 404",
   "zh/h2/troubleshooting/calibrate-failed/p2smarker.png": "timeout/error",
-  "zh/x1/manual/X1-X1C-AMS-firmware-release-history": "HTTP 404"
+  "zh/x1/manual/X1-X1C-AMS-firmware-release-history": "HTTP 404",
+  "zh/p2s/troubleshooting/extruder_motor_test": "HTTP 403"
 }

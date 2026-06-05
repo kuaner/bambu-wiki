@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-06-03T10:24:19.200Z
+updated: 2026-06-04T14:34:17.253Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -119,13 +119,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-0100-0001-000E
 >
-> - [H2C / H2D / H2D Pro / H2S / P2S](../h2d/troubleshooting/hmscode/0300_0100_0001_000E.md)
+> - [A2L](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_000E)
 
 > **HMS\_0300-0100-0001-000E: 检测到电源电压与机器不匹配，热床加热已禁用**
 >
 > **Synonyms:** 0300-0100-0001-000E
 >
-> - [A2L](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_000E)
+> - [H2C / H2D / H2D Pro / H2S / P2S](../h2d/troubleshooting/hmscode/0300_0100_0001_000E.md)
 
 > **HMS\_0300-0100-0002-000F: 腔体目标温度设定过高，而热床目标温度设定过低，已跳过热床降温。建议您设置匹配的腔温与热床温度。**
 >
@@ -283,17 +283,17 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > - [A2L](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0200_0001_0006)
 
-> **HMS\_0300-0200-0001-0007: 喷嘴温控异常，温度传感器可能开路。**
->
-> **Synonyms:** 0300-0200-0001-0007
->
-> - [P2S](../p2s/troubleshooting/hmscode/0300_0200_0001_0007.md)
-
 > **HMS\_0300-0200-0001-0007: 右挤出机喷嘴温控异常，温度传感器可能开路。**
 >
 > **Synonyms:** 0300-0200-0001-0007
 >
 > - [H2C / H2D / H2D Pro](../h2/troubleshooting/hmscode/0300_0200_0001_0007.md)
+
+> **HMS\_0300-0200-0001-0007: 喷嘴温控异常，温度传感器可能开路。**
+>
+> **Synonyms:** 0300-0200-0001-0007
+>
+> - [P2S](../p2s/troubleshooting/hmscode/0300_0200_0001_0007.md)
 
 > **HMS\_0300-0200-0001-0007: 喷嘴温控异常，温度传感器可能开路。**
 >
@@ -2243,7 +2243,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-A800-0001-0001
 >
-> - [P2S](../p2s/troubleshooting/hmscode/0300_A800_0001_0001.md)
+> - [A2L / P2S / X2D](../p2s/troubleshooting/hmscode/0300_A800_0001_0001.md)
 
 > **HMS\_0300-AB00-0001-0001: 右热端散热片温度过高，可能导致热端堵头。请打开打印机上盖和前门以降低腔温，或降低环境温度。**
 >
@@ -2539,7 +2539,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > - [A1 Mini / H2C / H2D / H2D Pro / H2S / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0500_0200_0002_0006.md)
 
-> **HMS\_0500-0200-0002-0008: 时间同步失败。**
+> **HMS\_0500-0200-0002-0008: 时间同步失败**
 >
 > **Synonyms:** 0500-0200-0002-0008
 >

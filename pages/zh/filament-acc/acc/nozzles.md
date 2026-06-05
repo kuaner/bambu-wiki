@@ -4,7 +4,7 @@ title: "拓竹热端喷嘴介绍"
 description: "本篇指南详细介绍了拓竹各类喷嘴组件的特点、功能、尺寸、材质，以及喷嘴硅胶套的基本信息。"
 tags: []
 created: 2025-12-30T10:35:04.180Z
-updated: 2026-05-25T01:30:13.389Z
+updated: 2026-06-04T09:47:34.501Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/nozzles
 ---
 
@@ -149,22 +149,22 @@ H2D 打印机有两个独立的喷嘴组件，每次使用其中一个喷嘴进�
 > - **切片分组介绍：**[双喷嘴打印机耗材切片分组](../../software/bambu-studio/manual/dual-nozzles-slicing-filament-grouping.md)
 > - **可打印范围：**[H2D双喷嘴可打印范围介绍](../../h2/manual/printable-range-for-dual-nozzles.md)
 
-#### A1 系列喷嘴
+#### A 系列喷嘴
 
 |  |  |
 | --- | --- |
-| A1 Series Nozzle | **购买链接：**[A1 系列热端喷嘴](https://item.jd.com/10087803259803.html) |
-| **适配机型：** A1 / A1 mini |
+| A1 Series Nozzle | **购买链接：**[A 系列热端喷嘴](https://item.jd.com/10087803259803.html) |
+| **适配机型：** A2L / A1 / A1 mini |
 | **最高打印温度：** 300 ℃ |
 | **尺寸：** 0.2mm/0.4mm/0.6mm/0.8mm |
 | **材质：** 不锈钢 / 硬化钢 |
 
-A1 系列热端喷嘴采用特殊的一体式设计，喷嘴集成到热块中，并通过细金属管连接到散热器，以获得最佳性能。有了这种设计，热端的加热速度比普通热端快得多，而且一体式设计与便捷的卡扣设计使得喷嘴更换过程变得轻松快捷，有效减少了更换喷嘴时可能出现的问题。
+A 系列热端喷嘴采用特殊的一体式设计，喷嘴集成到热块中，并通过细金属管连接到散热器，以获得最佳性能。有了这种设计，热端的加热速度比普通热端快得多，而且一体式设计与便捷的卡扣设计使得喷嘴更换过程变得轻松快捷，有效减少了更换喷嘴时可能出现的问题。
 
-A1 标配的是 0.4mm 不锈钢喷嘴组件，也可选购升级为硬化钢喷嘴。
+A 系列打印机标配的是 0.4mm 不锈钢喷嘴组件，也可选购升级为硬化钢喷嘴。
 
-> - **更换教程：**[更换A1热端](../../a1/maintenance/replace-hotend.md)
-> - **堵塞清理教程：**[A1 系列喷嘴/热端堵塞清理指南](../../a1-mini/troubleshooting/nozzle-clog.md)；[热端脏污清洁维护](../../a1-mini/maintenance/clean-hotend-assembly.md)
+> - **更换教程：**[更换 A1 热端](../../a1/maintenance/replace-hotend.md)；[更换 A2L 热端及热端硅胶套](https://wiki.bambulab.com/zh/a2l/maintenance/replace-silicone-sock-for-hotend)
+> - **堵塞清理教程：** [A2L 喷嘴堵塞清理指南](https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hotend)；[A1 系列喷嘴/热端堵塞清理指南](../../a1-mini/troubleshooting/nozzle-clog.md)；[热端脏污清洁维护](../../a1-mini/maintenance/clean-hotend-assembly.md)
 
 #### X1 / P1 系列喷嘴
 
@@ -209,20 +209,26 @@ P1S 标配 0.4 mm 不锈钢喷嘴，也可选购升级为硬化钢喷嘴。X1C �
 
 ### ⭐ 喷嘴-机型适配表
 
+💡**提示**：表格可**上下滑动**查看更多信息。
+
 | 产品名称 | 图片 | 适配机型 |
 | --- | --- | --- |
 | [TPU 热端](https://item.jd.com/10213815463816.html?pcdk=EQz3y1RRCoTlqEsYSe2kcYktrYddxwFV2gnDAJFhGy0%3D.M8AW.sbc1) | H2 系列/P2S 热端喷嘴 | H2D 与 H2D Pro 的右热端 |
 | [H2 系列/P2S/X2D 热端喷嘴](https://item.jd.com/10145051294182.html) | H2 系列/P2S 热端喷嘴 | H2D, H2S, H2C, P2S, X2D |
 | [H2C 智能感应热端](https://item.jd.com/10200112744649.html) | H2C 智能感应热端 | H2C |
 | [X1C/P1 系列热端喷嘴](https://item.jd.com/10058365307258.html) | X1C/P1 系列热端喷嘴 | X1C, P1P, P1S |
-| [A1 系列热端喷嘴](https://item.jd.com/10087803259803.html) | A1 系列热端喷嘴 | A1 mini, A1 |
+| [A 系列热端喷嘴](https://item.jd.com/10087803259803.html) | A1 系列热端喷嘴 | A1 mini, A1, A2L |
 | [高流量硬化钢热端喷嘴 - H2/P2S/X2D](https://item.jd.com/10145051305491.html) | 高流量硬化钢热端喷嘴 - H2/P2S | H2D, H2S, H2C, P2S, X2D |
 | [不锈钢喷嘴全金属热端套装【X1 系列专用】](https://item.jd.com/10061830517199.html#switch-sku) | 不锈钢喷嘴全金属热端套装【X1 系列专用】 | X1C |
 | [硬化钢喷嘴全金属热端套装【X1 系列专用】](https://item.jd.com/10058364850753.html) | 硬化钢喷嘴全金属热端套装【X1 系列专用】 | X1C |
 | [不锈钢喷嘴全金属热端套装【P1 系列专用】](https://item.jd.com/10067317152309.html) | 不锈钢喷嘴全金属热端套装【P1 系列专用】 | P1P, P1S |
 | [硬化钢喷嘴全金属热端套装【P1 系列专用】](https://item.jd.com/10067317462186.html) | 硬化钢喷嘴全金属热端套装【P1 系列专用】 | P1P, P1S |
-| 碳化钨喷嘴 | 碳化钨喷嘴 | H2D, H2S, H2C, P2S, X2D |
-| 碳化钨高流量喷嘴 | 碳化钨高流量喷嘴 | H2D, H2S, H2C, P2S, X2D |
+| [碳化钨喷嘴](https://item.jd.com/10211584828822.html?pcdk=AT4tISGVv9iLh0b9s01RicIKpHjgY9lrO7apMeqXIbnL_UV3Ku-r6IlCfZ1ir6kl.rQ4a.tlbT#switch-sku) | 碳化钨喷嘴 | H2D, H2S, H2C, P2S, X2D |
+| [碳化钨高流量喷嘴](https://item.jd.com/10211585701067.html?pcdk=4UpE6WAT_H918SdYfUBrskM7-efpqDdUABH5mkuQ6cmPW9VI_I8MxpjjVGjRcgdb.rQ4a.tlbT#switch-sku) | 碳化钨高流量喷嘴 | H2D, H2S, H2C, P2S, X2D |
+
+> ℹ️ **喷嘴适配性说明：**
+>
+> - A2L 打印机虽然支持使用拓竹全系列机型的快拆热端，但**无法保证一定带来性能提升**。为了确保最佳打印效果，A2L 打印机请使用 A 系列喷嘴进行打印。
 
 ## **喷嘴（热端）硅胶套**
 
@@ -260,6 +266,18 @@ X2D 和 P2S 共用同一类硅胶套，但无 AI 识别功能。
 **购买链接：** [P2S/X2D 硅胶套](https://item.jd.com/10194459622494.html)
 
 ![23.p2s_硅胶套.png](https://wiki.bambulab.com/filament-acc/acc/nozzles/23.p2s_%E7%A1%85%E8%83%B6%E5%A5%97.png)
+
+### A2L 硅胶套
+
+由优质硅胶制成，具有更高的耐温性。硅胶套为热端提供优质的隔热性能，使其在打印过程中保持稳定的温度，同时起到保护作用，防止耗材粘在热端上。
+
+**适配机型：** A2L
+
+**更换指南：** [更换 A2L 热端硅胶套](https://wiki.bambulab.com/zh/a2l/maintenance/replace-silicone-sock-for-hotend)
+
+**购买链接：** [A2L 热端硅胶套](https://item.jd.com/10224277526854.html?pcdk=yL13HC2JBY7zg5aik8XiiJasWf9_41z6VR533M461CY=.M8AW.sbc1)
+
+![fah071.png](https://public-cdn.bblmw.com/wiki/new/a2l/danpintu/fah071.png)
 
 ### **A1/A1 mini 硅胶套**
 

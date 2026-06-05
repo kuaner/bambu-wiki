@@ -4,7 +4,7 @@ title: "挤出机维护指南：X1 系列挤出机维护"
 description: "本指南提供 X1 系列挤出机堵塞清理、挤出机拆解与组装的详细步骤。"
 tags: []
 created: 2022-07-31T11:32:53.494Z
-updated: 2026-06-03T07:53:43.425Z
+updated: 2026-06-04T08:39:56.430Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/extruder-clog
 ---
 
@@ -20,6 +20,8 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/extruder-clog
 - 工具头内部温度过高，导致驱动齿轮附近的耗材变形。
 - 挤出机发出咔嗒声或研磨声。
 - 挤出机齿轮中可见耗材碎屑或损伤。
+
+若有耗材卡在挤出机耗材传感器处，请参阅 [HMS HMS\_0700-2000-0002-0004](hmscode/0700_2000_0002_0004.md) 相关页面。
 
 ## 所需工具与材料
 

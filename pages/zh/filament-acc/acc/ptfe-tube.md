@@ -4,7 +4,7 @@ title: "拓竹铁氟龙料管介绍"
 description: "本文介绍了拓竹铁氟龙料管（PTFE 管）的基本信息，裁剪方法，及其在各机型上的安装位置与连接方式。"
 tags: []
 created: 2026-04-23T02:40:11.051Z
-updated: 2026-05-29T09:32:50.855Z
+updated: 2026-06-04T10:32:54.034Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/ptfe-tube
 ---
 
@@ -24,6 +24,31 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/ptfe-tube
 ## 料管规格速查
 
 👇 点击下方标题栏，查看对应机型所需料管的数量、长度、安装位置等信息。
+
+▸ A2L
+
+连接外挂料盘支架：
+
+| 管路位置 | 数量 | 长度 | 内径 / 外径 |
+| --- | --- | --- | --- |
+| 外挂料盘支架 → 工具头五通组件 | **1** | **975** mm | 2.5 / 4.0 mm |
+
+连接 1 台 AMS（通过料管中继接头）：
+
+| 管路位置 | 数量 | 长度 | 内径 / 外径 |
+| --- | --- | --- | --- |
+| 工具头五通组件 → 料管中继接头 | **1** | **760** mm | 2.5 / 4.0 mm |
+| 料管中继接头 → AMS | **1** | **550** mm | 2.5 / 4.0 mm |
+
+连接 4 台 AMS + 1 台 AMS lite（通过料管中继接头及四进一料管拓展口）：
+
+| 管路位置 | 数量 | 长度 | 内径 / 外径 |
+| --- | --- | --- | --- |
+| 工具头五通组件 → 料管中继接头 | **1** | **760** mm | 2.5 / 4.0 mm |
+| 料管中继接头 → 四进一料管拓展口 | **1** | **70** mm | 2.5 / 4.0 mm |
+| 四进一料管拓展口 → 靠近打印机的 2 台 AMS | **2** | **450** mm | 2.5 / 4.0 mm |
+| 四进一料管拓展口 → 另外 2 台 AMS | **2** | **900** mm | 2.5 / 4.0 mm |
+| AMS lite → 工具头五通组件 | **3** | 使用 AMS lite 自带料管 | 2.5 / 4.0 mm |
 
 ▸ A1 mini
 
@@ -146,9 +171,139 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/ptfe-tube
 > 💡 **小Tip:**  
 > 在确保进料阻力符合要求的前提下，适当缩短料管长度可有效减少打印耗时。
 
-## A 系列料管更换
+## A2L 料管更换
 
-A 系列打印机不同连接配置下所需料管信息如下：
+A2L 打印机不同连接配置下所需料管信息如下：
+
+ A2L 连接外挂料盘支架
+
+| 管路位置 | 数量 | 长度 | 内径 / 外径 |
+| --- | --- | --- | --- |
+| 外挂料盘支架 → 工具头五通组件 | **1** | **975** mm | 2.5 / 4.0 mm |
+
+ A2L 连接 1 台 AMS（通过料管中继接头）
+
+| 管路位置 | 数量 | 长度 | 内径 / 外径 |
+| --- | --- | --- | --- |
+| 工具头五通组件 → 料管中继接头 | **1** | **760** mm | 2.5 / 4.0 mm |
+| 料管中继接头 → AMS | **1** | **550** mm | 2.5 / 4.0 mm |
+
+ A2L 连接 4 台 AMS + 1 台 AMS lite（通过料管中继接头及四进一料管拓展口）
+
+| 管路位置 | 数量 | 长度 | 内径 / 外径 |
+| --- | --- | --- | --- |
+| 工具头五通组件 → 料管中继接头 | **1** | **760** mm | 2.5 / 4.0 mm |
+| 料管中继接头 → 四进一料管拓展口 | **1** | **70** mm | 2.5 / 4.0 mm |
+| 四进一料管拓展口 → 靠近打印机的 2 台 AMS | **2** | **450** mm | 2.5 / 4.0 mm |
+| 四进一料管拓展口 → 另外 2 台 AMS | **2** | **900** mm | 2.5 / 4.0 mm |
+| AMS lite → 工具头五通组件 | **3** | 使用 AMS lite 自带料管 | 2.5 / 4.0 mm |
+
+### 更换连接外挂料盘支架的料管
+
+#### 移除料管
+
+**步骤 1.** 按压料盘支架上的料管接口黑色外圈，拆除料管。  
+![a2l-pack-009-s02-remove-spool-holder-ptfe-tube.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/packing/a2l-pack-009-s02-remove-spool-holder-ptfe-tube.png)
+
+**步骤 2.** 按压工具头进料口黑色外圈，拔出料管的另一端。
+
+> 推荐使用镊子进行辅助。
+
+![a2l-pack-001-s02-press-toolhead-inlet-collar.png.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/packing/a2l-pack-001-s02-press-toolhead-inlet-collar.png.png)
+
+#### 连接料管
+
+取出铁氟龙料管，将一端连接外挂料盘支架上的料管接头，另一端连接工具头上任意一个进料口。  
+![a2l-119-apxa-spoolholder-connect-ptfe-tube.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-119-apxa-spoolholder-connect-ptfe-tube.png)
+
+### 更换连接 AMS lite 的料管
+
+#### 移除料管
+
+**步骤 1.** 按压工具头进料口黑色外圈，依次拔出料管。
+
+> 推荐使用镊子进行辅助。
+
+![a2l-pack-007-s02-press-toolhead-inlet-collar.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/packing/a2l-pack-007-s02-press-toolhead-inlet-collar.png)
+
+**步骤 2.** 按压 AMS lite 上的料管接口黑色外圈，拔出料管的另一端。
+
+（此处图片以A1示意，AMS lite 侧操作相同）
+
+![](https://wiki.bambulab.com/a1-combo-packing/39.png)
+
+#### 连接料管
+
+**步骤 1.** 将四根铁氟龙料管齐平端全部插入工具头进料口。
+
+![a2l-107-s17-amslite-insert-ptfe-into-toolhead.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-107-s17-amslite-insert-ptfe-into-toolhead.png)
+
+**步骤 2.** 将两根较短铁氟龙料管插入 AMS lite 接口 1 和 2 中，将两根较长铁氟龙料管插入 AMS lite 接口 3 和 4 中。
+
+![a2l-109-s17-amslite-insert-ptfe-into-port-1-2.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-109-s17-amslite-insert-ptfe-into-port-1-2.png)
+
+### 更换连接 AMS 的料管
+
+#### 移除料管（**仅连接 1 台 AMS 时**）
+
+**步骤 1.** 按压工具头五通组件的料管接口黑色外圈，垂直用力拔出连接料管中继接头的料管。  
+![a2l-pack-001-s02-press-toolhead-inlet-collar.png.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/packing/a2l-pack-001-s02-press-toolhead-inlet-collar.png.png)
+
+**步骤 2.** 按压料管中继接头上下两侧的料管接口，分别拔出上下两侧料管；
+
+|  |  |
+| --- | --- |
+|  |  |
+
+**步骤 3.** 随后在 AMS 出料口处，按压出料口上方的黑色区域，拔出料管的另一端。  
+![](https://wiki.bambulab.com/ams-2-pro/maintenance/replace-feeder-unit/image-11.png)
+
+#### 移除料管（**连接 2-4 台 AMS 时**）
+
+**步骤 1.** 按压工具头五通组件的料管接口黑色外圈，垂直用力拔出连接料管中继接头的料管。  
+![a2l-pack-001-s02-press-toolhead-inlet-collar.png.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/packing/a2l-pack-001-s02-press-toolhead-inlet-collar.png.png)
+
+**步骤 2.** 按压四进一料管拓展口上各料管接口，拔出连接各台 AMS 的料管；
+
+![a2l_remove_tubes_from_4-in-1_ptfe_adapter.png](https://wiki.bambulab.com/filament-acc/acc/ptfe-tube/a2l_remove_tubes_from_4-in-1_ptfe_adapter.png)
+
+**步骤 3.** 按压料管中继接头上下两侧的料管接口黑色外圈，分别拔出连接的料管，再按压四进一料管拓展口黑色外圈，拔出短料管；
+
+|  |  |
+| --- | --- |
+|  |  |
+
+**步骤 4.** 在各 AMS 出料口处，按压出料口上方的黑色区域，拔出料管的另一端。
+
+![](https://wiki.bambulab.com/ams-2-pro/maintenance/replace-feeder-unit/image-11.png)
+
+#### 连接料管（连接 1 台 AMS 时）
+
+**步骤 1.** 在 AMS 中插入约 550mm 的铁氟龙料管，并将另一端连接料管中继接头下方。  
+![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/a2l-ams-connection-guide/054.png)
+
+**步骤 2.** 取出另一根约 760mm 的铁氟龙料管，连接料管中继接头上方和工具头上任意一个进料口。  
+![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/a2l-ams-connection-guide/053.png)
+
+#### 连接料管（连接 2-4 台 AMS 时）
+
+**步骤 1.** 取一根约 760mm 的料管，将两端分别插入工具头五通组件的料管口和料管中继接头中。  
+![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/a2l-ams-connection-guide/031.png)
+
+**步骤 2.** 取一根约 70mm 的短料管，将两端分别插入四进一料管拓展口和料管中继接头。  
+![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/a2l-ams-connection-guide/025.png)
+
+**步骤 3.** 使用两根约 450mm 的料管连接四进一料管拓展口和两台靠近打印机的 AMS。  
+![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/a2l-ams-connection-guide/026.png)
+
+**步骤 4.** 使用两根约 900mm 的料管连接四进一料管拓展口和另外两台 AMS。  
+![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/a2l-ams-connection-guide/050.png)
+
+> 料管长度请根据 AMS 的实际摆放位置适当调整，避免料管过长导致进料阻力增大。
+
+## A1 系列料管更换
+
+A1 系列打印机不同连接配置下所需料管信息如下：
 
  A1 mini 连接 AMS lite
 
