@@ -4,9 +4,33 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-05-29T09:23:21.447Z
+updated: 2026-06-05T08:35:33.582Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 05/06/2026
+
+### 新页面
+
+- [A2L](https://wiki.bambulab.com/zh/a2l)
+- [清洁湿巾](https://wiki.bambulab.com/zh/filament-acc/acc/cleaning-wipes)
+
+### 更新页面
+
+- [拓竹打印机和 AMS 功率参数](general/power-consumption.md)
+- [更换 P2S/X2D 料盘支架](p2s/maintenance/replace-spool-holder.md)
+- [P2S 挤出机堵塞清理指南](p2s/maintenance/extruder-cleaning-guide.md)
+- [拓竹热端喷嘴介绍](filament-acc/acc/nozzles.md)
+- [拓竹铁氟龙料管介绍](filament-acc/acc/ptfe-tube.md)
+- [HMS\_0C00-0300-0002-001C: 检测到可能发生了裹头。](h2/troubleshooting/hmscode/0C00_0300_0002_001C.md)
+- [如何查找序列号及注册新序列号](general/find-sn.md)
+- [更换 P2S 切刀顶杆组件](p2s/maintenance/replace-filament-cutter-stopper.md)
+- [H2 系列的 TPU 打印准备工作](h2/h2d-tpu-printing-guide.md)
+- [支撑耗材与支撑功能的介绍](software/bambu-studio/support.md)
+- [A2L 主要部件介绍](https://wiki.bambulab.com/zh/a2l/manual/a2l-intro)
+- [3D打印层纹问题排查与解决方案](filament-acc/filament/print-quality/severe-layer-artifacts.md)
+- [TPU 送料助力模块组装 & 使用指南](general/manual/tpu-feed-assist-module.md)
+- [A1 AC 板更换指南](a1/maintenance/ac-board-replacement.md)
 
 ## 29/05/2026
 

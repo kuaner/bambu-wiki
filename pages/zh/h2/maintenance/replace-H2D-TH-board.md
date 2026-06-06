@@ -4,7 +4,7 @@ title: "更换 H2D 挤出接口板/TH 板/FPC 排线"
 description: "本文介绍了如何更换 H2D 挤出接口板/TH 板/FPC 排线"
 tags: []
 created: 2025-03-25T03:04:06.264Z
-updated: 2026-06-02T08:51:09.561Z
+updated: 2026-06-02T08:51:10.836Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-H2D-TH-board
 ---
 

@@ -4,7 +4,7 @@ title: "H2C"
 description: "本文提供了所有关于 Bambu Lab H2C 的文章链接。"
 tags: []
 created: 2025-11-18T13:09:34.372Z
-updated: 2026-05-26T03:40:32.301Z
+updated: 2026-06-05T09:40:47.285Z
 source: https://wiki.bambulab.com/zh/h2c
 ---
 
@@ -248,7 +248,6 @@ source: https://wiki.bambulab.com/zh/h2c
 - [更换 H2C X/Y 皮带张紧器惰轮](h2/maintenance/replace-xy-belt-tensioner.md)
 - [更换 H2C X/Y 皮带](h2/maintenance/replace-xy-belt.md)
 - [更换 H2C Z 轴张紧器组件/Z 轴皮带/Z 轴同步轮](h2/maintenance/replace-z-axis-tensioner.md)
-- [更换 H2C 工具头线轨组件](h2/maintenance/replace-x-axis-assembly.md)
 - [更换 H2C 2004 升降电机组件](h2/maintenance/replace-2004-lifting-motor-unit.md)
 - [更换 H2C 挤出霍尔转接板/2004 切换电机组件](h2/maintenance/replace-extruder-hall-sensor-board.md)
 - [更换 H2 系列框架惰轮](h2/maintenance/replace-regular-idler-pulley.md)

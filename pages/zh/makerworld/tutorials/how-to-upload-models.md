@@ -4,7 +4,7 @@ title: "如何上传模型和打印配置"
 description: "这篇文章介绍了如何在 MakerWorld 上传并发布模型和打印配置作品。"
 tags: []
 created: 2025-02-10T11:50:13.677Z
-updated: 2026-05-27T11:45:10.403Z
+updated: 2026-06-05T10:09:18.760Z
 source: https://wiki.bambulab.com/zh/makerworld/tutorials/how-to-upload-models
 ---
 
@@ -32,9 +32,7 @@ source: https://wiki.bambulab.com/zh/makerworld/tutorials/how-to-upload-models
 
 #### 从第三方网站导入
 
-另外，创作者可以在将第三方网站账号 与 MakerWorld 账号关联后，从第三方网站帐户导入模型。导入的模型将被保存为草稿，编辑后可提交发布。
-
-> **注意**：由于技术原因，目前无法支持 Printable。
+另外，创作者可以在将第三方网站账号（Printables 和 Thingiverse）与 MakerWorld 账号关联后，从第三方网站帐户导入模型。导入的模型将被保存为草稿，编辑后可提交发布。
 
 |  |  |
 | --- | --- |
@@ -74,7 +72,7 @@ source: https://wiki.bambulab.com/zh/makerworld/tutorials/how-to-upload-models
 
 #### 上传原始模型文件
 
-如果您有 **STL/CAD 文件或其他类型的 3MF 文件**，可以原始模型文件的形式上传。支持的 3D 格式：3ds、amf、dwg、dxf、f3d、f3z、factory、fcstd、iges、ipt、obj、py、rsdoc、scad、sldasm、sldprt、slvs、step、stl、studio3、zip、3mf、stpz、fcstd。
+如果您有 **STL/CAD 文件或其他类型的 3MF 文件**，可以原始模型文件的形式上传。支持的 3D 格式：3ds、amf、blend、dwg、dxf、f3d、f3z、factory、fcstd、iges、ipt、obj、py、rsdoc、scad、sldasm、sldprt、slvs、step、stl、studio3、zip、3mf、stpz、fcstd。
 
 ![原始模型文件.png](https://wiki.bambulab.com/makerworld/how-to-upload-models/%E5%8E%9F%E5%A7%8B%E6%A8%A1%E5%9E%8B%E6%96%87%E4%BB%B6.png)
 
@@ -130,3 +128,160 @@ source: https://wiki.bambulab.com/zh/makerworld/tutorials/how-to-upload-models
 ![添加打印配置.png](https://wiki.bambulab.com/makerworld/how-to-upload-models/%E6%B7%BB%E5%8A%A0%E6%89%93%E5%8D%B0%E9%85%8D%E7%BD%AE.png)
 
 > 请查看[**打印配置文件上传指南**](print-profile-upload.md)并确保打印配置符合要求；违反准则的作品会被下架。
+
+## FAQs
+
+### 模型上传切片验证失败怎么办？
+
+#### 文件格式错误或文件损坏
+
+**解决方案：**
+
+- 导出时选择导出通用 3mf 文件；
+
+![导出通用3mf.png](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/%E5%AF%BC%E5%87%BA%E9%80%9A%E7%94%A83mf.png)
+
+- 用切片软件打开文件后显示“文件损坏”，则需要重新使用 Studio 配置文件。
+
+#### 较大 3mf 文件上传后显示 0Kb，无法上传
+
+当模型数量较多时，若导出时选择通用 3mf 格式，文件会整合所有模型的几何信息；上传过程中系统解压并解析该文件时，过大的数据量会导致解析失败。
+
+![较大3mf.png](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/%E8%BE%83%E5%A4%A73mf.png)
+
+**解决方案**：用 Bambu Studio 打开文件，按下 Ctrl+S 保存文件，重新上传保存后的文件即可。
+
+##### 模型本地切片正常，上传后显示超出规避区
+
+**错误现象**：
+
+![](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/image-11.png)
+
+1. 模型靠近打印板边缘、靠近 X\P\H 机型规避区；
+
+|  |  |
+| --- | --- |
+|  |  |
+
+**解决方案**：重新摆放模型，确保模型与打印板边缘保持一定距离。
+
+2. 擦料塔相关参数设置，上传后切片测试擦料塔超出规避区；
+
+|  |  |
+| --- | --- |
+|  |  |
+
+**解决方案**：建议将擦料塔、耗材清理量参数恢复默认（与云端切片验证保持一致）后进行切片测试。
+
+3. 模型没有超出打印区域，但支撑超出打印区域；
+
+![image_-_2026-01-14t165209.404.png](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/image_-_2026-01-14t165209.404.png)
+
+**解决方案**：
+
+- 将模型移动到打印板中间区域；
+- 选择打印板面积更大的 H2 系列打印机，并导出 3mf 文件上传。
+
+#### 模型靠得太近显示 gcode 冲突
+
+**错误现象：**
+
+![20260114-171732.png](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/20260114-171732.png)
+
+部分模型存在悬垂，生成的悬垂可能大于模型本体，导致悬垂与其他模型产生干涉；
+
+![](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/image-1.png)
+
+**解决方案**：建议将互相干涉的模型之间保持一定距离。
+
+#### 配置文件中高低温耗材混打
+
+**错误信息：**
+
+![](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/image-2.png)
+
+![](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/image-3.png)
+
+**解决方案**：高低温耗材无法混合打印，需要重新调整配置文件，避免高低温耗材混打。
+
+#### 配置文件中有自定义的耗材预设或者打印机预设
+
+**错误信息：**
+
+![](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/image-4.png)
+
+自定义耗材预设：
+
+![](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/image-5.png)
+
+其他打印机预设：
+
+![](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/image-6.png)
+
+**解决方案**：将其设置为 Bambu 打印机与 Bambu 耗材预设。
+
+#### 复杂模型切片后超出盘时间阈值
+
+云端切片有切片时长限制，若超出限制（每盘 5 分钟，3mf 文件 15 分钟），则切片验证失败；
+
+**解决方案：**
+
+- 建议以文件形式上传
+- 拆分模型，配置多个盘的 3mf 文件
+
+#### 模型上传后，兼容性中缺少某些机型
+
+文件上传后系统会自动筛选并屏蔽不兼容机型，因上传页面的机型展示存在误导性，建议上传前手动切换所有目标机型完成适配测试。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+> 注意：不同机型无法完全适配的根本原因是规避区不同，且由于工具头大小不同，逐件打印时规避区的大小也会产生变化。
+
+**解决方案：**
+
+- 建议用户手动切换各目标打印机型号逐一测试，确保文件与所有机型均适配；
+- 关闭逐盘打印模式，减少机型适配的规避区限制；
+- 将存在适配冲突的模型拆分，分多个打印任务分别执行。
+
+#### Bambu Suite 版本太低
+
+**错误表现：**
+
+![](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/img_v3_02ts_0507362f-a358-46f0-8c7b-cf91f4eb7d1g.jpg)
+
+**解决方案**：更新 Bambu Suite 至最新版本。
+
+#### 2D 文件格式错误 (0 byte)
+
+**错误表现：**
+
+![file_corrupted_zh.png](https://wiki.bambulab.com/makerworld/how-to-upload-models/faq/file_corrupted_zh.png)
+
+**解决方案：** 点击“文件 > 项目保存为 > .lac格式”。
+
+![](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/img_v3_02ts_41f2a3be-8260-4e5c-83c7-904aea1bfd2g.gif)
+
+### 模型无法打开、下载怎么办？
+
+#### 下载次数限制
+
+模型下载次数过多可能触发平台限流，导致无法下载模型。
+
+#### 电脑浏览器与网络设置原因
+
+- 建议优先使用 Chrome 等浏览器；若仍然无法正常使用，建议更换浏览器。
+
+> 若使用 Mac 的 Safari 浏览器，建议检查 Safari 的版本，若版本低于 16.4，则需要升级 macOS 系统。
+
+- 建议优先关闭浏览器所有插件；  
+  ![](https://wiki.bambulab.com/makerworld/troubleshooting-loading-issues/image-13.png)
+- 若使用 VPN 软件，建议关闭后重试；
+- 尝试开启浏览器无痕/隐身模式，测试能否正常加载。
+
+## 结束语
+
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
