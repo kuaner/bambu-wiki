@@ -4,7 +4,7 @@ title: "H2C"
 description: "本文提供了所有关于 Bambu Lab H2C 的文章链接。"
 tags: []
 created: 2025-11-18T13:09:34.372Z
-updated: 2026-06-05T09:40:47.285Z
+updated: 2026-06-05T09:40:48.380Z
 source: https://wiki.bambulab.com/zh/h2c
 ---
 
