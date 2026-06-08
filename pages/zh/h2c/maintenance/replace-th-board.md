@@ -4,7 +4,7 @@ title: "更换 H2C TH 板"
 description: "本文介绍了如何更换 H2C TH 板"
 tags: []
 created: 2025-11-18T13:15:21.116Z
-updated: 2026-06-02T07:35:58.417Z
+updated: 2026-06-08T02:41:29.471Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-th-board
 ---
 
@@ -316,9 +316,9 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 
 **位置示意图：**
 
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-14.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-14.png)
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-10.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-10.png)
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-9.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-9.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-14.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-10.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-9.png)
 
 ###### 螺丝规格：BT3x20
 
@@ -328,7 +328,7 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 
 **位置示意图：**
 
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-7.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-7.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-7.png)
 
 ###### 螺丝规格：BT2.6x8
 
@@ -338,8 +338,8 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 
 **位置示意图：**
 
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-8.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-8.png)
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-5.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-5.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-8.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-5.png)
 
 ###### 螺丝规格：BT2.6x8
 
@@ -349,7 +349,7 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 
 **位置示意图：**
 
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-4.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-4.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-4.png)
 
 ###### 螺丝规格：BT2.6x8
 
@@ -359,7 +359,7 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 
 **位置示意图：**
 
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-3.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-3.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-3.png)
 
 ###### 螺丝规格：M1.6x4
 
@@ -369,7 +369,7 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 
 **位置示意图：**
 
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-6.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-6.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-6.png)
 
 ## 结束语
 

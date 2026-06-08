@@ -4,7 +4,7 @@ title: "X1/X1C 固件发布记录"
 description: "本指南提供 X1 及 X1C 所有固件发布记录"
 tags: []
 created: 2025-09-18T07:09:27.945Z
-updated: 2026-05-26T03:46:34.842Z
+updated: 2026-06-08T02:55:37.538Z
 source: https://wiki.bambulab.com/zh/x1/manual/X1-X1C-firmware-release-history
 ---
 
@@ -1046,8 +1046,6 @@ SD未格式化时会提示“需要格式化”。
 4. [Algorithm]支持检测到激光参数飘移时，自动进行激光标定。
 
 5. [AMS]支持AMS打印中缠料或料盘卡住时暂停打印并弹框提示，手动处理完异常后可点重试继续打印。
-
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/boxcnJpWSQC2jNk1Bz6CXoIcdqe/?fallback_source=1&height=1280&mount_node_token=PgEsd2iOWoeysWxK0ZDckBfMnZf&mount_point=docx_image&policy=equal&width=1280)
 
 【问题修复】
 
