@@ -4,7 +4,7 @@ title: "X2D"
 description: ""
 tags: []
 created: 2026-04-13T03:43:10.298Z
-updated: 2026-05-29T07:23:51.481Z
+updated: 2026-06-08T04:07:01.377Z
 source: https://wiki.bambulab.com/zh/x2d
 ---
 
@@ -78,7 +78,6 @@ source: https://wiki.bambulab.com/zh/x2d
 - [X2D 主挤出机堵塞清理](maintenance/extruder-cleaning-guide.md)
 - [X2D 辅助挤出机堵塞清理](https://wiki.bambulab.com/zh/x2d/maintenance/auxiliary-extruder-cleaning-guide)
 - [X2D 喷嘴/热端堵塞清理指南](maintenance/cold-pull-maintenance-hotend.md)
-- [X2D 挤出电机测试方法](p2s/troubleshooting/extruder_motor_test.md)
 - [打印机电路故障排查-X2D](troubleshooting/x2d-circuit-fault-template.md)
 - [X2D 回零&调平失败故障排查](https://wiki.bambulab.com/zh/x2d/troubleshooting/homing-leveling-failure)
 

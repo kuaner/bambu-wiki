@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-06-04T14:34:17.253Z
+updated: 2026-06-08T08:49:31.157Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -1638,6 +1638,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 0300-2600-0001-000B
 >
 > - [H2C / H2D / H2D Pro](../h2/troubleshooting/hmscode/0300_2600_0001_000B.md)
+
+> **HMS\_0300-2600-0001-000B: 喷嘴在位检测失败：左挤出机喷嘴未安装或安装不到位。**
+>
+> **Synonyms:** 0300-2600-0001-000B
+>
+> - [X2D](https://wiki.bambulab.com/zh/x2d/troubleshooting/hmscode/0300_2600_0001_000B)
 
 > **HMS\_0300-2700-0001-0001: 喷嘴偏移校准传感器频率过低，可能传感器已损坏。**
 >

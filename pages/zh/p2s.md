@@ -4,7 +4,7 @@ title: "P2S"
 description: ""
 tags: []
 created: 2025-10-14T13:07:42.724Z
-updated: 2026-06-03T02:28:09.377Z
+updated: 2026-06-08T07:13:53.887Z
 source: https://wiki.bambulab.com/zh/p2s
 ---
 
@@ -66,7 +66,6 @@ source: https://wiki.bambulab.com/zh/p2s
 - [P2S 热床线缆刮蹭背板异响及处理方案](maintenance/heatbed_cable_noise.md)
 - [打印机电路故障排查 - P2S](p2s-circuit-fault-template.md)
 - [P2S 打印机网络连接指南](h2/manual/h2d-network-connection-guide.md)
-- [P2S 挤出电机测试方法](troubleshooting/extruder_motor_test.md)
 
 ### 远程诊断
 

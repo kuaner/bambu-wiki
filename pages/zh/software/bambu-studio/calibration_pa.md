@@ -1,10 +1,10 @@
 ---
 path: zh/software/bambu-studio/calibration_pa
 title: "动态流量校准"
-description: ""
+description: "本文详细介绍动态流量校准及其具体操作方法。"
 tags: []
 created: 2023-08-01T13:28:50.468Z
-updated: 2026-06-02T02:52:26.155Z
+updated: 2026-06-08T06:54:05.391Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/calibration_pa
 ---
 
@@ -24,6 +24,12 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/calibration_pa
 启用该功能后，打印出的拐角更干净，细节更清晰，挤出也更加稳定，尤其适合速度变化频繁的打印任务。
 
 ![0_校准前后对比.jpg](https://wiki.bambulab.com/software/bambu-studio/calibration/0_%E6%A0%A1%E5%87%86%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94.jpg)
+
+### 什么是 K 值？
+
+K 值是用来衡量流体动力学补偿应用量的指标。K 值是针对特定的**打印机及耗材**组合而定的，不同材质的耗材压缩程度不同，且不同打印机的挤出系统响应延迟也各不相同。
+
+该值本质上是一个比例常数，用于告知打印机固件根据工具头的加速度来调整挤出流量的强度。较高的 K 值意味着在工具头加速期间对挤出速率进行更强的补偿；较低的 K 值则意味着补偿较弱。换句话说，K 值较高的**打印机及耗材**组合，其挤出指令的响应延迟更明显。
 
 ### 何时需要进行动态流量校准?
 
