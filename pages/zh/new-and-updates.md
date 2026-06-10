@@ -4,7 +4,7 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-06-05T08:35:33.582Z
+updated: 2026-06-09T08:10:20.818Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
 
@@ -286,6 +286,26 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 - [A1 系列热端加热组件更换指引](a1-mini/maintenance/hotend-heating-assembly-replacement.md)
 - [P2S 喷嘴吐料位置标定](p2s/troubleshooting/purge-wiper-position-calibeation.md)
 - [HMS\_0700-8000-0001-0004: AMS A加热器1异常发热。](h2d/troubleshooting/hmscode/0700_8000_0001_0004.md)
+
+### 🔔 Wiki 评论区功能更新公告
+
+Wiki 评论区已全面更新：无需登录，仅需填写昵称和邮箱即可评论；历史注册账号信息将于两周后删除。
+
+点击查看详情
+
+为了提升大家在 **拓竹 Wiki** 的使用体验，我们已对 **评论区功能** 进行了版本更新：  
+• ✅ 新版本评论区无需登录或注册账号，评论内容在审核通过后将会公开;  
+• 💬 仅需填写 **昵称和邮箱** 即可发表评论(邮箱仅用于交流目的);  
+• 📧 我们会定期清除邮箱缓存数据，保障信息安全。  
+  
+**关于历史评论数据的说明**  
+• 过去在评论区注册并留下的邮箱信息，将于 **两周后统一删除；**  
+• 如您对历史评论删除、邮箱保留或其他数据处理有特殊需求，请使用**相同的邮箱**在评论区留言与我们联系。  
+  
+感谢大家一直以来对拓竹 Wiki 的支持与反馈！  
+如有任何问题或建议，欢迎随时通过评论区与我们沟通 😊  
+  
+2026 年 3 月 18 日
 
 ## 13/03/2026
 

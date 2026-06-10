@@ -4,7 +4,7 @@ title: "H2C 固件发布记录"
 description: "本指南提供 H2C 所有固件发布记录"
 tags: []
 created: 2025-11-18T12:41:33.455Z
-updated: 2026-06-01T14:54:10.630Z
+updated: 2026-06-01T14:54:12.106Z
 source: https://wiki.bambulab.com/zh/h2c/manual/h2c-firmware-release-history
 ---
 

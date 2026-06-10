@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-06-08T08:49:31.157Z
+updated: 2026-06-09T09:43:05.237Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -1049,13 +1049,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-1200-0002-0001
 >
-> - [P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_1200_0002_0001.md)
+> - [P2S](../p2s/troubleshooting/hmscode/0300_1200_0002_0001.md)
 
 > **HMS\_0300-1200-0002-0001: 工具头前盖脱落。**
 >
 > **Synonyms:** 0300-1200-0002-0001
 >
-> - [P2S](../p2s/troubleshooting/hmscode/0300_1200_0002_0001.md)
+> - [P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_1200_0002_0001.md)
 
 > **HMS\_0300-1300-0001-0001: A电机电流传感器异常，可能是硬件采样电路故障。**
 >
@@ -3931,11 +3931,23 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > - [H2C / H2D / H2D Pro](../h2/troubleshooting/hmscode/07FE_8000_0001_0002.md)
 
+> **HMS\_07FE-8000-0001-0002: 检测挤出机切换角度的霍尔传感器断路，请检查霍尔传感器是否异常。**
+>
+> **Synonyms:** 07FE-8000-0001-0002, 07FF-8000-0001-0002, 18FE-8000-0001-0002, 18FF-8000-0001-0002
+>
+> - [X2D](https://wiki.bambulab.com/zh/x2d/troubleshooting/hmscode/07FE_8000_0001_0002)
+
 > **HMS\_07FE-8000-0001-0003: 工具头升降电机位置霍尔信号异常，可能是工具头内部通信故障。**
 >
 > **Synonyms:** 07FE-8000-0001-0003, 07FF-8000-0001-0003, 18FE-8000-0001-0003, 18FF-8000-0001-0003
 >
 > - [H2C / H2D / H2D Pro](../h2/troubleshooting/hmscode/07FE_8000_0001_0003.md)
+
+> **HMS\_07FE-8000-0001-0003: 检测挤出机切换角度的霍尔信号异常，可能是工具头内部通信故障。**
+>
+> **Synonyms:** 07FE-8000-0001-0003, 07FF-8000-0001-0003, 18FE-8000-0001-0003, 18FF-8000-0001-0003
+>
+> - [X2D](https://wiki.bambulab.com/zh/x2d/troubleshooting/hmscode/07FE_8000_0001_0003)
 
 > **HMS\_07FE-8000-0001-0004: 工具头升降电机位置霍尔传感器短路，请检查霍尔传感器是否异常。**
 >
@@ -3943,11 +3955,23 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > - [H2C / H2D / H2D Pro](../h2/troubleshooting/hmscode/07FE_8000_0001_0004.md)
 
+> **HMS\_07FE-8000-0001-0004: 检测挤出机切换角度的霍尔传感器短路，请检查霍尔传感器是否异常。**
+>
+> **Synonyms:** 07FE-8000-0001-0004, 07FF-8000-0001-0004, 18FE-8000-0001-0004, 18FF-8000-0001-0004
+>
+> - [X2D](https://wiki.bambulab.com/zh/x2d/troubleshooting/hmscode/07FE_8000_0001_0004)
+
 > **HMS\_07FE-8000-0001-0005: 挤出机切换限位角度发生较大偏移，请检查堵嘴片是否卡住或是否有耗材卡在工具头内。**
 >
 > **Synonyms:** 07FE-8000-0001-0005, 07FF-8000-0001-0005, 18FE-8000-0001-0005, 18FF-8000-0001-0005
 >
 > - [X2D](../x2d/troubleshooting/hmscode/07FE_8000_0001_0005.md)
+
+> **HMS\_07FE-8000-0001-0006: 挤出机切换过程中TH板断联，请检查连接排线是否松动。**
+>
+> **Synonyms:** 07FE-8000-0001-0006, 07FE-8100-0001-0006, 07FF-8000-0001-0006, 07FF-8100-0001-0006
+>
+> - [X2D](https://wiki.bambulab.com/zh/x2d/troubleshooting/hmscode/07FE_8000_0001_0006)
 
 > **HMS\_07FE-8000-0002-0001: 挤出机切换过程中升降动作异常，请检查堵嘴片是否卡住或是否有耗材卡在工具头内。**
 >

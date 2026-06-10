@@ -4,7 +4,7 @@ title: "Bambu Studio 性能测试方法"
 description: "当您使用 Bambu Studio 时发现软件运行缓慢、准备窗口或调参时卡顿，可参考本文导出软件工作文件，提供给技术团队分析。"
 tags: []
 created: 2026-05-14T08:43:03.337Z
-updated: 2026-06-03T03:51:51.554Z
+updated: 2026-06-10T01:42:02.895Z
 source: https://wiki.bambulab.com/zh/bambu-studio/troubleshoot/performance-testing-method
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/bambu-studio/troubleshoot/performance-testi
 
 当您使用 Bambu Studio 遇到运行过慢或其他卡顿现象时，可根据指南导出软件运行状态，发送给我们的技术团队分析原因。
 
-## 操作步骤
+## Windows 操作步骤
 
 ### 下载软件
 
@@ -48,6 +48,19 @@ source: https://wiki.bambulab.com/zh/bambu-studio/troubleshoot/performance-testi
 ### 导出文件
 
 在建立的文件夹中导出生成的 .Zip 压缩包，通过[工单](../../x1/troubleshooting/how-to-upload-log.md)上传给我们用于分析。
+
+![up1.jpg](https://wiki.bambulab.com/software/bambu-studio/performance-testing-method/up1.jpg)
+
+## MAC 操作步骤
+
+在终端 /terminal 中执行这条命令。
+
+> while ! pgrep -x BambuStudio>/dev/null; do sleep 0.1; done; sample $(pgrep -x BambuStudio) -f bambu\_studio.txt 60
+
+- -f bambu\_studio.txt 表示最终结果的保存文件名称，可以根据情况调整。
+- 60 表示取样60秒，可以根据情况调整。
+
+这条命令会一直等待直到 Studio 启动，如果已经启动会立即进行取样。取样完成后，通过[工单](../../x1/troubleshooting/how-to-upload-log.md)上传给我们用于分析。
 
 ![up1.jpg](https://wiki.bambulab.com/software/bambu-studio/performance-testing-method/up1.jpg)
 

@@ -4,7 +4,7 @@ title: "激光与刀切模组可加工材料清单"
 description: "本页面简要列出了经过测试可在拓竹打印机上使用激光雕刻与刀切模组加工的材料清单。"
 tags: []
 created: 2025-12-12T08:40:56.621Z
-updated: 2026-06-02T02:49:04.710Z
+updated: 2026-06-02T02:49:05.822Z
 source: https://wiki.bambulab.com/zh/h2/laser/processable-materials-list
 ---
 

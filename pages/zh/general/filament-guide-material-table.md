@@ -4,7 +4,7 @@ title: "耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水�
 description: "耗材指南可帮助您选择合适的耗材打印材料，包括喷嘴和打印面板的兼容性、打印设置及存储办法。"
 tags: []
 created: 2023-05-12T03:43:34.799Z
-updated: 2026-05-22T09:35:19.341Z
+updated: 2026-06-09T06:41:37.630Z
 source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 ---
 
@@ -31,7 +31,7 @@ source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 | **Wood / Rock / Metal-filled PLA** | **不可用** | 可用 | 可用 | 可用 | 可用 | 可用 | 可用 | Metal-filled PLA **需要** | 190 - 240 |
 | **PLA-CF/GF** | **不可用** | **拓竹 PLA-CF：推荐** | 可用 | 可用 | **不推荐** | 可用 | 可用 | **需要** | 210 - 240 |
 | **PLA 夜光（Glow-in-the-dark）** | **不可用** | **拓竹 PLA 夜光：推荐** | 可用 | 可用 | 可用 | 可用 | 可用 | **需要** | 210 - 240 |
-| **PVA、BVOH**  **（干燥的）** | 可用 | 可用 | 可用 | 可用 | 可用 | 可用 | 可用 | 不需要 | 190 - 240 |
+| **PVA、BVOH**  **（干燥的）** | **不可用** | 可用 | 可用 | 可用 | 可用 | 可用 | 可用 | 不需要 | 190 - 240 |
 | **Support W、Support for PLA、**  **Support for PLA/PETG** | 可用 | 可用 | 可用 | 可用 | 可用 | 可用 | 可用 | 不需要 | 190 - 240 |
 | **PETG** | 可用 | 可用 | 可用 | 可用 | 可用 | 可用 | 可用 | 不需要 | 240 - 270 |
 | **PETG HF** | 可用 | 可用 | 可用 | 可用 | 可用 | 可用 | 可用 | 不需要 | 230 - 260 |
