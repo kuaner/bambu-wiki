@@ -4,7 +4,7 @@ title: "X2D"
 description: ""
 tags: []
 created: 2026-04-13T03:43:10.298Z
-updated: 2026-06-08T04:07:01.377Z
+updated: 2026-06-11T01:34:21.265Z
 source: https://wiki.bambulab.com/zh/x2d
 ---
 
@@ -75,6 +75,7 @@ source: https://wiki.bambulab.com/zh/x2d
 - [X2D 堵塞排查指南](troubleshooting/clogging.md)
 - [X2D 首层打印质量改善指南](troubleshooting/first-layer-printing-optimization-guide.md)
 - [X2D 挤出机进料霍尔故障](x1/troubleshooting/filament-sensor-test.md)
+- [X2D 右霍尔检测板组件清理指南](https://wiki.bambulab.com/zh/x2d/troubleshooting/right_filament_sensor_board_cleaning_guide)
 - [X2D 主挤出机堵塞清理](maintenance/extruder-cleaning-guide.md)
 - [X2D 辅助挤出机堵塞清理](https://wiki.bambulab.com/zh/x2d/maintenance/auxiliary-extruder-cleaning-guide)
 - [X2D 喷嘴/热端堵塞清理指南](maintenance/cold-pull-maintenance-hotend.md)

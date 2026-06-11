@@ -4,7 +4,7 @@ title: "耗材变轨器使用指南 - H2 系列"
 description: "本指南涵盖耗材变轨器的详细介绍，以及 H2 系列打印机搭配耗材变轨器进行打印的具体操作步骤。"
 tags: []
 created: 2026-05-12T04:18:47.643Z
-updated: 2026-05-22T07:07:06.934Z
+updated: 2026-06-10T07:20:05.145Z
 source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch-h2
 ---
 
@@ -86,7 +86,7 @@ source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch-h2
 
 #### 固件/软件版本说明
 
-- H2C：01.01.50.00
+- H2C：01.01.50.00 beta 及以上
 - Bambu Studio：2.5.3.60
 - Bambu Handy：3.18.0
 

@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-06-09T09:43:05.237Z
+updated: 2026-06-10T09:52:53.236Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -84,6 +84,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 0300-0100-0001-0008
 >
 > - [A2L](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_0008)
+
+> **HMS\_0300-0100-0001-0008: 热床加热过程中出现异常，加热模块可能故障。**
+>
+> **Synonyms:** 0300-0100-0001-0008
+>
+> - [H2D](https://wiki.bambulab.com/zh/h2/troubleshooting/hmscode/0300_0100_0001_0008)
 
 > **HMS\_0300-0100-0001-0008: 热床加热过程中出现异常，加热模块可能故障。**
 >
@@ -283,17 +289,17 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > - [A2L](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0200_0001_0006)
 
-> **HMS\_0300-0200-0001-0007: 右挤出机喷嘴温控异常，温度传感器可能开路。**
->
-> **Synonyms:** 0300-0200-0001-0007
->
-> - [H2C / H2D / H2D Pro](../h2/troubleshooting/hmscode/0300_0200_0001_0007.md)
-
 > **HMS\_0300-0200-0001-0007: 喷嘴温控异常，温度传感器可能开路。**
 >
 > **Synonyms:** 0300-0200-0001-0007
 >
 > - [P2S](../p2s/troubleshooting/hmscode/0300_0200_0001_0007.md)
+
+> **HMS\_0300-0200-0001-0007: 右挤出机喷嘴温控异常，温度传感器可能开路。**
+>
+> **Synonyms:** 0300-0200-0001-0007
+>
+> - [H2C / H2D / H2D Pro](../h2/troubleshooting/hmscode/0300_0200_0001_0007.md)
 
 > **HMS\_0300-0200-0001-0007: 喷嘴温控异常，温度传感器可能开路。**
 >
@@ -605,13 +611,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-0800-0001-0002
 >
-> - [A2L](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0800_0001_0002)
+> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
 
 > **HMS\_0300-0800-0001-0002: Z电机短路，可能电机故障。**
 >
 > **Synonyms:** 0300-0800-0001-0002
 >
-> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
+> - [A2L](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0800_0001_0002)
 
 > **HMS\_0300-0800-0001-0003: Z电机电阻异常，可能是电机故障。**
 >
@@ -1049,13 +1055,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-1200-0002-0001
 >
-> - [P2S](../p2s/troubleshooting/hmscode/0300_1200_0002_0001.md)
+> - [P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_1200_0002_0001.md)
 
 > **HMS\_0300-1200-0002-0001: 工具头前盖脱落。**
 >
 > **Synonyms:** 0300-1200-0002-0001
 >
-> - [P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_1200_0002_0001.md)
+> - [P2S](../p2s/troubleshooting/hmscode/0300_1200_0002_0001.md)
 
 > **HMS\_0300-1300-0001-0001: A电机电流传感器异常，可能是硬件采样电路故障。**
 >
@@ -1871,7 +1877,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-4100-0001-0001
 >
-> - [A1 / A1 Mini / H2C / H2D / H2D Pro / H2S / P1P / P1S / P2S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_4100_0001_0001.md)
+> - [A1 / A1 Mini / A2L / H2C / H2D / H2D Pro / H2S / P1P / P1S / P2S / X1 / X1C / X1E / X2D](../x1/troubleshooting/hmscode/0300_4100_0001_0001.md)
 
 > **HMS\_0300-9000-0001-0001: 腔温加热失败，腔温加热器热风产出可能异常。**
 >
@@ -2807,7 +2813,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0500-0500-0001-0007
 >
-> - [A1 / A1 Mini / A2L / H2C / H2D / H2D Pro / H2S / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0500_0500_0001_0007.md)
+> - [A1 / A1 Mini / A2L / H2C / H2D / H2D Pro / H2S / P1P / P1S / P2S / X1 / X1C / X1E / X2D](../x1/troubleshooting/hmscode/0500_0500_0001_0007.md)
 
 > **HMS\_0500-0500-0001-000E: 激光模组固件与打印机不匹配，请到“固件”页面进行升级。**
 >
@@ -4535,6 +4541,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 1200-2000-0002-0004, 1200-2100-0002-0004, 1200-2200-0002-0004, 1200-2300-0002-0004, 1201-2000-0002-0004, 1201-2100-0002-0004, 1201-2200-0002-0004, 1201-2300-0002-0004, 1202-2000-0002-0004, 1202-2100-0002-0004, 1202-2200-0002-0004, 1202-2300-0002-0004, 1203-2000-0002-0004, 1203-2100-0002-0004, 1203-2200-0002-0004, 1203-2300-0002-0004
 >
+> - [A1 / A1 Mini](../a1/troubleshooting/hmscode/1200_2000_0002_0004.md)
+
+> **HMS\_1200-2000-0002-0004: AMS lite 槽位 1 耗材可能断在工具头。**
+>
+> **Synonyms:** 1200-2000-0002-0004, 1200-2100-0002-0004, 1200-2200-0002-0004, 1200-2300-0002-0004, 1201-2000-0002-0004, 1201-2100-0002-0004, 1201-2200-0002-0004, 1201-2300-0002-0004, 1202-2000-0002-0004, 1202-2100-0002-0004, 1202-2200-0002-0004, 1202-2300-0002-0004, 1203-2000-0002-0004, 1203-2100-0002-0004, 1203-2200-0002-0004, 1203-2300-0002-0004
+>
 > - [A2L](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/1200_2000_0002_0004)
 
 > **HMS\_1200-2000-0002-0005: AMS lite 槽位 1 耗材用完，冲刷旧料异常，请检查耗材是否卡在工具头。**
@@ -4614,6 +4626,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 1200-8000-0002-0001, 1200-8100-0002-0001, 1200-8200-0002-0001, 1200-8300-0002-0001, 1201-8000-0002-0001
 >
 > - [A1 / A1 Mini](../a1-mini/troubleshooting/hmscode/1200_8000_0002_0001.md)
+
+> **HMS\_12FF-2000-0002-0004: 请将料盘支架上的耗材拉出工具头。**
+>
+> **Synonyms:** 12FF-2000-0002-0004
+>
+> - [A1 / A1 Mini](../x1/troubleshooting/hmscode/12FF_2000_0002_0004.md)
 
 > **HMS\_12FF-2000-0002-0005: 耗材可能断在工具头里。**
 >

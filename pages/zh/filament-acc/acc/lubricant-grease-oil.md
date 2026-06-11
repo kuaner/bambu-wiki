@@ -4,7 +4,7 @@ title: "润滑脂和润滑油"
 description: "本指南将介绍润滑油和润滑脂的区别及不同机型适用条件"
 tags: ["润滑脂", "润滑油"]
 created: 2024-04-03T10:48:15.645Z
-updated: 2026-05-25T09:05:30.874Z
+updated: 2026-06-11T02:46:37.887Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/lubricant-grease-oil
 ---
 
@@ -27,7 +27,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/lubricant-grease-oil
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **X 轴** | 润滑油 | | **无需润滑** | | 润滑油 | | |
 | **Y 轴** | 润滑油 | | 润滑油 | | 润滑油 | | |
-| **Z 轴** | 丝杆润滑脂 | | 丝杆润滑脂、光杆润滑油 | | 丝杆润滑脂、光杆润滑油 | | |
+| **Z 轴** | 丝杆润滑脂 | | 丝杆润滑脂、光轴润滑油 | | 丝杆润滑脂、光轴润滑油 | | |
 | **惰轮** | 润滑油 | | 润滑油 | | 润滑油 | | 暂无 |
 
 > **注意事项：**  
