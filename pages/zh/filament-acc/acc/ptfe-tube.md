@@ -1,10 +1,10 @@
 ---
 path: zh/filament-acc/acc/ptfe-tube
 title: "拓竹铁氟龙料管介绍"
-description: "本文介绍了拓竹铁氟龙料管（PTFE 管）的基本信息，裁剪方法，及其在各机型上的安装位置与连接方式。"
+description: "本文介绍了拓竹铁氟龙料管（PTFE 管）的基本信息，裁剪方法，及其在各机型上的安装位置、连接方式及更换教程。"
 tags: []
 created: 2026-04-23T02:40:11.051Z
-updated: 2026-06-04T10:32:54.034Z
+updated: 2026-06-11T07:51:01.454Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/ptfe-tube
 ---
 
@@ -160,7 +160,9 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/ptfe-tube
 
 **步骤2.** 使用量尺测量所需长度，然后使用刮刀或剪钳垂直裁切料管。
 
-![](https://wiki.bambulab.com/general/filament-track-switch/055.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 **注意：** 裁剪后的料管横截面应是**正圆形状**，且**侧面竖直**。
 
@@ -1211,7 +1213,7 @@ AMS 中框安装到位后，锁入 2 颗螺丝 A(BT3x8) 固定。安装中框时
 
 ![ht_ptfe_tube_replacement_1.png](https://wiki.bambulab.com/ams-ht/disassembly-and-assembly/ht_ptfe_tube_replacement_1.png)
 
-**步骤 7.** 接下来，分别断开料管两段，操作时，一只手按压气动接头的黑色垫圈，同时另一只手拔出料管。
+**步骤 7.** 接下来，分别断开料管两端，操作时，一只手按压气动接头的黑色垫圈，同时另一只手拔出料管。
 
 |  |  |
 | --- | --- |

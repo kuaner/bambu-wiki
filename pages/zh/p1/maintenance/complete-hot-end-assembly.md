@@ -4,7 +4,7 @@ title: "更换 P1 热端组件及其相关组件"
 description: "本文将介绍如何更换热敏电阻、陶瓷加热器、热端风扇、硅胶套、喷嘴。"
 tags: ["热端组件", "p1"]
 created: 2022-12-01T14:58:41.461Z
-updated: 2026-06-01T03:41:52.962Z
+updated: 2026-06-11T03:15:47.391Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/complete-hot-end-assembly
 ---
 
@@ -122,9 +122,7 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/complete-hot-end-assembly
 
 若您更换了其他直径或者其他材质的热端，**请在发起打印前务必在屏幕上更新喷嘴信息**，参考下图：
 
-|  |  |
-| --- | --- |
-|  |  |
+![reset_nozzle_zh_r1.jpg](https://wiki.bambulab.com/p1/maintenance/hotend-assembly/reset_nozzle_zh_r1.jpg)
 
 ## 如何验证完成
 
@@ -132,7 +130,7 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/complete-hot-end-assembly
 
 如果通过，则说明操作成功。
 
-![](https://wiki.bambulab.com/p1/maintenance/hotend-assembly/jiaozhun.jpg)
+![calibration_zh_r1.jpg](https://wiki.bambulab.com/p1/maintenance/hotend-assembly/calibration_zh_r1.jpg)
 
 ## 结束语
 

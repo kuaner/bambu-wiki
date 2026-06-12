@@ -4,7 +4,7 @@ title: "TPU 送料助力模块组装 & 使用指南"
 description: "本文将详细为您讲述 TPU 送料助力模型的组装以及使用方法。"
 tags: []
 created: 2026-03-10T10:01:48.583Z
-updated: 2026-06-10T03:09:48.237Z
+updated: 2026-06-12T02:31:42.121Z
 source: https://wiki.bambulab.com/zh/general/manual/tpu-feed-assist-module
 ---
 
@@ -89,6 +89,8 @@ TPU 送料助力模块是一款专为**柔性耗材打印**设计的增强组件
 | 7 | 按钮 |  |  |
 
 ## 四、安装视频
+
+> 🔎 查看[其他机型](#install)安装指南。
 
 ## 五、组装指南
 

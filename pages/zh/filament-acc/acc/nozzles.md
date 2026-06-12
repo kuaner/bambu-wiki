@@ -4,7 +4,7 @@ title: "拓竹热端喷嘴介绍"
 description: "本篇指南详细介绍了拓竹各类喷嘴组件的特点、功能、尺寸、材质，以及喷嘴硅胶套的基本信息。"
 tags: []
 created: 2025-12-30T10:35:04.180Z
-updated: 2026-06-04T09:47:34.501Z
+updated: 2026-06-12T02:02:17.889Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/nozzles
 ---
 
@@ -34,6 +34,8 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/nozzles
 下图直观地展示了 0.2mm 喷嘴与 0.4mm 喷嘴在打印同等大小字体时的效果，0.2mm 喷嘴打印出来的文字更加清晰、更加精细。
 
 ![3._0.2mm_喷嘴与_0.4mm_喷嘴.png](https://wiki.bambulab.com/filament-acc/acc/nozzles/3._0.2mm_%E5%96%B7%E5%98%B4%E4%B8%8E_0.4mm_%E5%96%B7%E5%98%B4.png)
+
+💡 提示：滑动表格查看更多内容。
 
 | 喷嘴尺寸 | 表现效果 | 主要特点 | 最佳适用场景 | 推荐设置 | 不足 |
 | --- | --- | --- | --- | --- | --- |
@@ -131,8 +133,9 @@ H2C 打印机与 H2D 相似，有两个喷嘴组件。不同的是，H2C 右侧�
 
 H2D 与 P2S/X2D 标配的都是此类喷嘴的 0.4mm 硬化钢版本。
 
-高流量硬化钢喷嘴是标准硬化钢喷嘴的升级版，拥有更强大的喷嘴加热能力。其焰融区的优化将最大体积速度提高 62.5%，使挤出的耗材能够更快、更高效地熔化，同时又不损失细节，可将模型打印时间最多缩短至 30%。  
-![11._普通vs高流量.png](https://wiki.bambulab.com/filament-acc/acc/nozzles/11._%E6%99%AE%E9%80%9Avs%E9%AB%98%E6%B5%81%E9%87%8F.png)
+高流量硬化钢喷嘴是标准硬化钢喷嘴的升级版，拥有更强大的喷嘴加热能力。其焰融区的优化将最大体积速度提高 62.5%，使挤出的耗材能够更快、更高效地熔化，同时又不损失细节，可将模型打印时间最多缩短至 30%。
+
+![normal_vs_high_flow.jpg](https://wiki.bambulab.com/filament-acc/acc/nozzles/normal_vs_high_flow.jpg)
 
 > - **更换教程：**[H2D](../../h2/maintenance/replace-hotend.md)； [P2S](https://wiki.bambulab.com/zh/p2s/maintenance/replace-hotend-and-silicone-sock#%E7%83%AD%E7%AB%AF%E5%92%8C%E7%83%AD%E7%AB%AF%E7%A1%85%E8%83%B6%E5%A5%97) ；[X2D](../../x2d/maintenance/replace-hotend-and-silicone-sock.md)
 > - **冷拔维护指南：**[H2D](../../h2/maintenance/nozzl-cold-pull-maintenance-and-cleaning.md)；[H2S](../../h2s/maintenance/nozzle-cold-pull-maintenance-and-cleaning.md)；
