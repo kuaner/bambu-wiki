@@ -4,9 +4,45 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-06-09T08:10:20.818Z
+updated: 2026-06-12T09:15:01.595Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 12/06/2026
+
+### 新页面
+
+- [耗材管理](https://wiki.bambulab.com/zh/software/bambu-studio/filament-manager)
+- [A1 -显示屏异常排查](https://wiki.bambulab.com/zh/a1/troubleshooting/screen-not-working-as-expected)
+- [X2D 右霍尔检测板组件清理指南](https://wiki.bambulab.com/zh/x2d/troubleshooting/right_filament_sensor_board_cleaning_guide)
+- [AMS HT 上电异常的故障排查指南](https://wiki.bambulab.com/zh/ams-ht/troubleshooting/failure-to-power-on)
+- [P2S/X2D LED 补光灯故障排查指南](https://wiki.bambulab.com/zh/x2d/troubleshooting/led-fill-light-troubleshooting-guide)
+- [HMS\_1200-2000-0002-0004: AMS1 料槽1料线可能断在工具头。](a1/troubleshooting/hmscode/1200_2000_0002_0004.md)
+- [HMS\_0300-0100-0001-0008：热床加热过程中出现异常，加热模块可能故障。](https://wiki.bambulab.com/zh/h2/troubleshooting/hmscode/0300_0100_0001_0008)
+- [HMS\_1A00-3300-0001-0041: 热端挂架位置检测传感器短路，请重新插拔传感器连接线或更换传感器。](https://wiki.bambulab.com/zh/h2c/troubleshooting/hmscode/1A00_3300_0001_0041)
+- [HMS\_1A00-3300-0001-0040: 热端挂架位置检测传感器断路，请重新插拔传感器连接线或更换传感器。](https://wiki.bambulab.com/zh/h2c/troubleshooting/hmscode/1A00_3300_0001_0040)
+
+### 更新页面
+
+- [A1 AC 板更换指南](a1/maintenance/ac-board-replacement.md)
+- [拓竹热端喷嘴介绍](filament-acc/acc/nozzles.md)
+- [更换 H2S X/Y 皮带](h2s/maintenance/replace-xy-belt.md)
+- [P2S 挤出机堵塞清理指南](p2s/maintenance/extruder-cleaning-guide.md)
+- [耗材变轨器使用指南 - H2 系列](general/manual/filament-track-switch-h2.md)
+- [更换AMS五通组件和AMS内部五通组件马达](x1/maintenance/replace-filament-hub.md)
+- [拆分为对象/零件](software/bambu-studio/split-to-objects-parts.md)
+- [创建自定义打印机或喷嘴](software/bambu-studio/3rd-party-printer-profile.md)
+- [Bambu Studio 触碰裹头检测功能](software/bambu-studio/nozzle-clumping-detection-by-probing.md)
+- [AMS HT 模块介绍和连接配置](ams-ht/manual/intro-and-connection-guide.md)
+- [Bambu Handy 快速入门指南](studio-handy/handy/bambu-handy-quick-start.md)
+- [动态流量校准](software/bambu-studio/calibration_pa.md)
+- [更换摄像头和 LED 补光灯](p1/maintenance/chamber-camera.md)
+- [HMS\_12FF-8000-0002-0001: 外挂料盘供料阻力大，料线可能缠绕。](x1/troubleshooting/hmscode/12FF_8000_0002_0001.md)
+- [HMS\_0500-0300-0001-0002: 工具头发生故障，请重新启动设备。](x1/troubleshooting/hmscode/0500_0300_0001_0002.md)
+- [HMS\_0300-1D00-0001-0001: 挤出电机位置传感器异常，可能是传感器排线松动。](h2/troubleshooting/hmscode/0300_1D00_0001_0001.md)
+- [HMS\_12FF-2000-0002-0004: 请将料盘支架上的料线拉出工具头。](x1/troubleshooting/hmscode/12FF_2000_0002_0004.md)
+- [HMS\_0700-2000-0002-0003: AMS A 1号料槽的料线可能断裂在AMS内。](x1/troubleshooting/hmscode/0700_2000_0002_0003.md)
+- [HMS\_0300-1800-0001-0004: 挤出机涡流传感器数据异常，可能遇到传感器断路。](a1-mini/troubleshooting/hmscode/0300_1800_0001_0004.md)
 
 ## 05/06/2026
 

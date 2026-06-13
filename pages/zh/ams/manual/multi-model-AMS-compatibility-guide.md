@@ -4,7 +4,7 @@ title: "多机型 AMS 连接指南"
 description: "本文主要介绍不同代 AMS 与不同打印机机型的兼容性和最大连接数量，以及带烘干功能的 AMS 对供电的要求。"
 tags: []
 created: 2025-03-25T15:14:57.250Z
-updated: 2026-06-02T03:18:15.411Z
+updated: 2026-06-12T04:09:05.746Z
 source: https://wiki.bambulab.com/zh/ams/manual/multi-model-AMS-compatibility-guide
 ---
 
@@ -14,7 +14,12 @@ source: https://wiki.bambulab.com/zh/ams/manual/multi-model-AMS-compatibility-gu
 
 ### AMS
 
-Bambu Lab AMS 分为一代 AMS、AMS 2 Pro、AMS HT 以及 A 系列专用的 AMS lite。AMS、AMS 2 Pro 和 AMS-HT（后文统称 AMS）均为两级进料，由内部的上下料组件（#1）将耗材送入助力电机（#2）后，助力电机继续将耗材送入打印机的工具头。
+Bambu Lab AMS 分为一代 AMS、AMS 2 Pro、AMS HT 以及 A 系列专用的 AMS lite。
+
+> **注意**：AMS 自带 6-pin 线缆台阶高度为 1.1 mm，AMS 2 Pro 自带 6-pin 线缆台阶高度为 2.5 mm。  
+> ![image6.png](https://wiki.bambulab.com/ams-2-pro/troubleshooting/ams2pro-communication-anomalies/image6.png)
+
+AMS、AMS 2 Pro 和 AMS-HT（后文统称 AMS）均为两级进料，由内部的上下料组件（#1）将耗材送入助力电机（#2）后，助力电机继续将耗材送入打印机的工具头。
 
 由于工具头挤出机消耗的速度和助力电机送料的速度很难完全一致，因此 **AMS 连接打印机时必须通过缓冲器**。
 

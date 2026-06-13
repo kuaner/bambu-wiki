@@ -4,7 +4,7 @@ title: "ABS / ASA / PC 使用指南"
 description: ""
 tags: ["耗材"]
 created: 2025-10-11T00:14:18.253Z
-updated: 2026-06-03T01:49:36.288Z
+updated: 2026-06-12T09:24:05.200Z
 source: https://wiki.bambulab.com/zh/filament/abs_asa_pc
 ---
 
@@ -40,7 +40,7 @@ source: https://wiki.bambulab.com/zh/filament/abs_asa_pc
 
 | 材料 | 机型兼容性 | 喷嘴兼容性 | 打印板兼容性 | 配件兼容性 |
 | --- | --- | --- | --- | --- |
-| **ABS / ASA / PC / PC FR** | 需要封箱打印机，不适配 **P1P** 与 **A** 机型 | 兼容所有喷嘴( P2S/X2D 机型不支持 0.2mm 喷嘴) | 需涂胶打印，不适配低温增稳板 | **AMS lite 不兼容** |
+| **ABS / ASA / PC / PC FR** | 需要封箱打印机，不适配 **P1P** 与 **A** 机型 | 兼容所有喷嘴( P2S/X2D 机型不支持 0.2mm 喷嘴打印 PC/PC FR) | 需涂胶打印，不适配低温增稳板 | **AMS lite 不兼容** |
 | **ASA Aero** | 同上 | 兼容 **0.4mm 喷嘴**，不建议使用其他规格喷嘴 | 建议使用 **光面 PEI 打印板** 并涂胶打印，不适配低温增稳板 | 同上 |
 
 ## 打印准备

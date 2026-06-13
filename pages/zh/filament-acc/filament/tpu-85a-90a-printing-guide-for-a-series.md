@@ -4,7 +4,7 @@ title: "A1 系列 TPU 90A 打印指南"
 description: "使用 A1 系列打印机打印 TPU 90A 的打印指南"
 tags: []
 created: 2025-03-07T02:37:15.425Z
-updated: 2026-06-02T01:53:34.049Z
+updated: 2026-06-12T03:43:08.246Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-a-series
 ---
 
@@ -185,7 +185,7 @@ TPU 材料具有较强的吸湿性，在自然环境中容易吸收水分。若�
 
 ### 退料步骤
 
-A 系列机型都需要升温后进行手动退料，不支持用切刀自动退料。
+A1 系列机型都需要升温后进行手动退料，不支持用切刀自动退料。
 
 **步骤 1.** 将热端温度升至 250℃。
 
