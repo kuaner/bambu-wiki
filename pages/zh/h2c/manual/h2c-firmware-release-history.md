@@ -4,7 +4,7 @@ title: "H2C 固件发布记录"
 description: "本指南提供 H2C 所有固件发布记录"
 tags: []
 created: 2025-11-18T12:41:33.455Z
-updated: 2026-06-01T14:54:12.106Z
+updated: 2026-06-15T03:13:27.125Z
 source: https://wiki.bambulab.com/zh/h2c/manual/h2c-firmware-release-history
 ---
 
@@ -13,7 +13,7 @@ source: https://wiki.bambulab.com/zh/h2c/manual/h2c-firmware-release-history
 ### 新功能
 
 1. 新增对耗材变轨器的支持  
-   耗材变轨器专为双喷嘴打印机设计,配备2个进料口与2个出料口,可支持AMS与双喷嘴的任意映射。详见wiki: [https://e.bambulab.com/t?c=XniDu1KyaRFd6fQa。](https://e.bambulab.com/t?c=XniDu1KyaRFd6fQa%E3%80%82)  
+   耗材变轨器专为双喷嘴打印机设计,配备2个进料口与2个出料口,可支持AMS与双喷嘴的任意映射。详见[wiki](https://e.bambulab.com/t?c=XniDu1KyaRFd6fQa) 。  
    该功能Bambu Studio更新到V2.5.3.60或更高的版本/Bambu Handy更新到V3.18.0或更高的版本。
 
 |  |  |
