@@ -4,7 +4,7 @@ title: "A1 常见问答（FAQ）"
 description: "本文章包含了 A1 系列打印机的常见问答"
 tags: ["a1"]
 created: 2023-12-14T12:24:42.568Z
-updated: 2026-05-18T07:06:57.712Z
+updated: 2026-06-04T06:10:10.076Z
 source: https://wiki.bambulab.com/zh/a1/manual/faq
 ---
 
@@ -202,13 +202,9 @@ Bambu Studio 会自动将擦料塔摆放在靠近擦嘴区的位置，即打印�
 
 1. PLA 类，PETG 类，TPU 类，PLA、PETG 的支撑类（Support for PLA，PVA，HIPS 等）等低温料。
 
-2. ABS、ASA、PC、PA、PA-CF/GF、PET-CF/GF、PPA-CF/GF 等常规高温料。
+2. ABS、ASA、PC、PA、PA-CF/GF、PET-CF/GF 等常规高温料。
 
-> **注意**：
->
-> 1. 标配喷嘴为不锈钢喷嘴，**要打印 PLA-CF/GF、PLA 夜光（PLA Glow-in-the-dark）、PETG-CF/GF、PAHT-CF/GF 等含有硬质颗粒（CF、GF 等 ）的耗材时，需要更换为硬化钢喷嘴**，以免喷嘴过快磨损。
->
-> 2. 因为 A1 为开放式机型，腔温低，易造成高温耗材的层间强度因过度冷却而变得很低，也易造成大尺寸模型有更高的翘曲风险、更大的翘曲幅度，所以**不推荐在 A1 上用 ABS、ASA、PC、PA、PA-CF/GF、PET-CF/GF、PPA-CF/GF 等常规高温耗材来打印要对层间强度要求较高的、大尺寸和（或）高填充密度的模型。**
+> **注意**： 标配喷嘴为不锈钢喷嘴，**要打印 PLA-CF/GF、PLA 夜光、PETG-CF/GF、PAHT-CF/GF 等含有硬质颗粒（CF、GF 等）的耗材时，需要更换为硬化钢喷嘴**，以免喷嘴过快磨损。
 
 ### A1 支持的最高喷嘴和热床温度是多少？
 

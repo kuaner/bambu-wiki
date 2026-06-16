@@ -4,7 +4,7 @@ title: "更换 H2C 挤出接口板"
 description: "本文介绍了如何更换 H2C 挤出接口板"
 tags: []
 created: 2025-11-18T13:16:03.100Z
-updated: 2025-11-18T13:16:04.643Z
+updated: 2026-06-08T02:44:20.053Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-extruder-connection-board
 ---
 
@@ -127,9 +127,9 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-extruder-connection
 
 **位置示意图：**
 
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-14.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-14.png)
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-10.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-10.png)
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-9.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-9.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-14.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-10.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-9.png)
 
 ###### 螺丝规格：BT3x20
 
@@ -139,7 +139,7 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-extruder-connection
 
 **位置示意图：**
 
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-7.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-7.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-7.png)
 
 ###### 螺丝规格：BT2.6x8
 
@@ -149,8 +149,8 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-extruder-connection
 
 **位置示意图：**
 
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-8.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-8.png)
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-5.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-5.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-8.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-5.png)
 
 ###### 螺丝规格：M1.6x4
 
@@ -160,7 +160,7 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-extruder-connection
 
 **位置示意图：**
 
-[![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-6.png)](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-6.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-6.png)
 
 ## 结束语
 

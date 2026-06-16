@@ -4,7 +4,7 @@ title: "社群共创"
 description: "该页面展示了用户社群共创内容的列表以及参与共创的方法。"
 tags: ["共创", "社群"]
 created: 2024-03-20T08:29:30.313Z
-updated: 2026-03-16T07:20:50.067Z
+updated: 2026-06-15T02:40:58.776Z
 source: https://wiki.bambulab.com/zh/contribution-guide
 ---
 
@@ -27,7 +27,7 @@ source: https://wiki.bambulab.com/zh/contribution-guide
 
 不论是针对特定打印机功能的简短指南，还是关于切片技术的详尽教程，您都可以在我们的论坛[社群共创](https://forum.bambulab.com/c/international-corner/chinese/31)版块中分享。
 
-![](https://wiki.bambulab.com/admin/contribution/%E5%85%B1%E5%88%9Bcn.png)
+![共创cn.png](https://wiki.bambulab.com/general/%E5%85%B1%E5%88%9Bcn.png)
 
 我们非常感谢大家的共创参与！
 

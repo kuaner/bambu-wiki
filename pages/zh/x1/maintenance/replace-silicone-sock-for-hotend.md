@@ -1,10 +1,10 @@
 ---
 path: zh/x1/maintenance/replace-silicone-sock-for-hotend
-title: "更换热端硅胶套"
+title: "更换 X1 系列热端硅胶套"
 description: "学习如何更换 X1 系列打印机的热端硅胶套"
 tags: ["x1"]
 created: 2022-08-01T07:33:15.146Z
-updated: 2025-12-19T02:36:35.180Z
+updated: 2026-06-11T06:08:28.625Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-silicone-sock-for-hotend
 ---
 

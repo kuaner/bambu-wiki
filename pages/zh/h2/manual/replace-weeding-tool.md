@@ -4,7 +4,7 @@ title: "更换钩针"
 description: "本页提供了有关如何更换钩针的说明。"
 tags: ["钩针"]
 created: 2025-10-11T02:41:23.682Z
-updated: 2026-02-11T09:03:52.666Z
+updated: 2026-06-15T02:13:34.662Z
 source: https://wiki.bambulab.com/zh/h2/manual/replace-weeding-tool
 ---
 
@@ -22,7 +22,9 @@ source: https://wiki.bambulab.com/zh/h2/manual/replace-weeding-tool
 
 ### 步骤 2. 打开外壳
 
-如下图所示，轻轻地将钩针推向其主体，慢慢地将外壳的两半分开。小心不要伤到自己哦。
+如下图所示，轻轻地将钩针推向其主体，慢慢地将外壳的两半分开。
+
+> 注意：请小心操作，避免受伤！
 
 ![](https://wiki.bambulab.com/h2/maintenance/weeding-tool/open.png)
 
@@ -30,11 +32,11 @@ source: https://wiki.bambulab.com/zh/h2/manual/replace-weeding-tool
 
 打开外壳后，小心拉出钩针，以免造成伤害。
 
-![](https://wiki.bambulab.com/h2/maintenance/weeding-tool/disassemble.png)
+|  |  |
+| --- | --- |
+|  |  |
 
-![](https://wiki.bambulab.com/h2/maintenance/weeding-tool/tip_removed.png)
-
-### 步骤4.安装新的钩针
+### 步骤 4. 安装新的钩针
 
 安装新的钩针，确保工具上的凹槽与外壳上的凸片对齐。然后，按照步骤2和步骤1的相反顺序重新组装外壳，最后安装螺丝。
 

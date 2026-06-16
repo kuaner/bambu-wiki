@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-ptfe-tube-coupler
 title: "A2L 更换料管中继接头"
-description: ""
+description: "本文介绍了如何更换 A2L 料管中继接头"
 tags: []
 created: 2026-06-01T13:09:21.534Z
-updated: 2026-06-01T13:09:28.734Z
+updated: 2026-06-04T02:08:14.060Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-ptfe-tube-coupler
 ---
 

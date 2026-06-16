@@ -1,14 +1,12 @@
 ---
 path: zh/a2l/maintenance/replace-ptfe-tube-connector
 title: "A2L 更换外挂料架料管接头"
-description: ""
+description: "本文介绍了如何更换 A2L 外挂料架料管接头"
 tags: []
 created: 2026-06-01T13:17:51.934Z
-updated: 2026-06-01T13:17:51.934Z
+updated: 2026-06-04T02:08:30.371Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-ptfe-tube-connector
 ---
-
-## 外挂料架料管接头
 
 ## 移除外挂料架料管接头
 

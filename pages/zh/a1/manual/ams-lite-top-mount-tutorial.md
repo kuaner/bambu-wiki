@@ -1,16 +1,14 @@
 ---
 path: zh/a1/manual/ams-lite-top-mount-tutorial
-title: "AMS lite 置顶方案操作指南"
+title: "AMS lite 置顶方案操作指南 —— A1 系列"
 description: "本文介绍了如何将 AMS lite 安装在 A1 系列打印机顶部"
 tags: ["ams lite"]
 created: 2023-12-14T13:56:32.894Z
-updated: 2025-12-24T12:18:39.659Z
+updated: 2026-06-05T03:59:24.162Z
 source: https://wiki.bambulab.com/zh/a1/manual/ams-lite-top-mount-tutorial
 ---
 
-## 2024 年 4 月更新:
-
-当前市场上的机器有两种版本的立柱，它们是随机发货的，这属于正常生产变更。请以实际收到的机器包装为准。
+市场上的机器有两种版本的立柱，它们是随机发货的，这属于正常生产变更。请以实际收到的机器包装为准。
 
 版本详情：一种是带有螺丝孔的立柱，另一种是没有螺丝孔的立柱（如下图一）。
 
@@ -26,6 +24,8 @@ Maker World 上的 Z 轴稳定器模型已更新为最新版本。无论您使�
 ## 何时需要使用该指南
 
 我们专门为放置空间有限的用户设计了 AMS lite 的置顶方案，用户可自行下载并打印零件将自己的 AMS lite 安装在 A1 的顶部。
+
+若您需要 A2L 置顶方案请查看: [A2L AMS 连接指南](https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide#%E8%BE%85%E5%8A%A9%E6%A8%A1%E5%9E%8B)
 
 ## 所需材料
 

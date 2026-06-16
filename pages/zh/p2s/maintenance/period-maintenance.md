@@ -4,7 +4,7 @@ title: "P2S 定期清洁维护建议"
 description: "关于 P2S 打印机的一些日常维护和保养建议。"
 tags: []
 created: 2025-10-14T13:14:40.579Z
-updated: 2026-04-22T01:10:43.382Z
+updated: 2026-06-04T06:47:19.408Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/period-maintenance
 ---
 
@@ -24,6 +24,12 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/period-maintenance
 - 润滑脂
 - 无纺布
 - 酒精
+
+> **重要提醒 ！**
+>
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，**请关闭打印机电源并断开电源连接**，以避免发生电路短路从而引起额外的电子设备损坏和安全隐患。
+>
+> 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，**避免在高温状态下操作**，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 
 ### X 轴润滑保养
 

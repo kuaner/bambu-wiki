@@ -4,11 +4,13 @@ title: "更换 H2D 左右热端加热组件"
 description: "本文介绍如何更换 H2D 左右热端加热组件"
 tags: []
 created: 2025-03-25T08:46:41.904Z
-updated: 2026-05-09T08:00:15.560Z
+updated: 2026-06-15T10:29:03.565Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/hotend-heating-assembly
 ---
 
 ## 热端加热组件
+
+> H2C 和 H2D 左热端加热组件拆装步骤几乎一致。
 
 在 H2D 打印机上有两个热端加热组件，左右热端加热组件互不通用，如果其中一个损坏，您需要选择对应的热端加热组件进行更换。左右热端加热组件以及配件明细如下：
 

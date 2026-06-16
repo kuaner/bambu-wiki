@@ -4,7 +4,7 @@ title: "X2D 主挤出机堵塞清洁维护"
 description: "本文将为您介绍 X2D 主挤出机清洁的详细步骤。"
 tags: []
 created: 2026-04-14T13:10:43.028Z
-updated: 2026-04-14T13:51:21.317Z
+updated: 2026-06-10T10:24:12.576Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/extruder-cleaning-guide
 ---
 
@@ -169,15 +169,11 @@ source: https://wiki.bambulab.com/zh/x2d/maintenance/extruder-cleaning-guide
 
 ![](https://public-cdn.bblmw.com/wiki/new/x2d/toolheadhousing/extruder-cleaning-guide/004.jpg)
 
-若耗材较难取出，可进一步拆下出料口压块和切刀。
+若耗材较难取出，可进一步拆下出料口压块和切刀，最终取出耗材。
 
 |  |  |
 | --- | --- |
 |  |  |
-
-完成拆解后，将得到如下图所示的各零部件，请逐一核对，确保无零件遗失。
-
-![](https://public-cdn.bblmw.com/wiki/new/x2d/toolheadhousing/extruder-cleaning-guide/031.jpg)
 
 ### 7. 组装挤出机
 

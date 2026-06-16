@@ -4,7 +4,7 @@ title: "无法发送打印文件"
 description: "关于 Bambu Studio文件发送失败问题排查。"
 tags: ["bambu studio", "studio"]
 created: 2025-03-18T06:48:28.996Z
-updated: 2026-06-02T02:23:23.460Z
+updated: 2026-06-02T02:23:24.606Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/failed-to-send-print-files
 ---
 

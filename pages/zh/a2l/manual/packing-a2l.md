@@ -4,7 +4,7 @@ title: "A2L 单机装箱指南"
 description: "本文介绍 A2L 单机的装箱步骤"
 tags: []
 created: 2026-06-01T13:02:44.232Z
-updated: 2026-06-01T13:02:45.406Z
+updated: 2026-06-09T02:48:47.892Z
 source: https://wiki.bambulab.com/zh/a2l/manual/packing-a2l
 ---
 
@@ -16,6 +16,8 @@ source: https://wiki.bambulab.com/zh/a2l/manual/packing-a2l
 >
 > - **请检查所有螺丝是否拧紧**，防止元件松动。
 > - **请确认缓冲泡棉是否放置到位**，充分保护设备。
+
+> 请将拆下的螺丝和配件妥善放回包装内，避免运输过程中与其他部件发生碰撞，导致外观或结构受损，影响您的退换货权益。
 
 ## 准备工具
 

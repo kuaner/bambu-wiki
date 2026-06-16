@@ -4,7 +4,7 @@ title: "P2S 屏幕操作指南"
 description: "本指南将介绍 P2S 打印机的屏幕按键功能。"
 tags: []
 created: 2025-10-14T13:13:22.972Z
-updated: 2026-06-02T06:09:50.977Z
+updated: 2026-06-02T06:09:51.995Z
 source: https://wiki.bambulab.com/zh/p2s/manual/screen-operation
 ---
 

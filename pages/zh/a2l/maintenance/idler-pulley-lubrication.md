@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/idler-pulley-lubrication
 title: "A2L XYZ 轴惰轮维护"
-description: ""
+description: "本文介绍了如何维护 A2L XYZ 轴惰轮"
 tags: []
 created: 2026-06-01T13:15:40.441Z
-updated: 2026-06-01T13:15:40.441Z
+updated: 2026-06-04T02:12:17.687Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/idler-pulley-lubrication
 ---
 

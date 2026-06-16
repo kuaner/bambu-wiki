@@ -4,7 +4,7 @@ title: "更换 P1 热端组件及其相关组件"
 description: "本文将介绍如何更换热敏电阻、陶瓷加热器、热端风扇、硅胶套、喷嘴。"
 tags: ["热端组件", "p1"]
 created: 2022-12-01T14:58:41.461Z
-updated: 2026-06-11T03:15:47.391Z
+updated: 2026-06-11T03:15:48.392Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/complete-hot-end-assembly
 ---
 

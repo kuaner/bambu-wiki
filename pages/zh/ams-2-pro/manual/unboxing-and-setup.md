@@ -4,7 +4,7 @@ title: "AMS 2 Pro 开箱指南"
 description: ""
 tags: []
 created: 2025-03-26T07:31:43.805Z
-updated: 2026-06-02T02:26:48.570Z
+updated: 2026-06-02T02:26:49.577Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/manual/unboxing-and-setup
 ---
 

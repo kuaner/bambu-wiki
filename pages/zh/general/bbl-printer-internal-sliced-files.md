@@ -4,7 +4,7 @@ title: "拓竹打印机内置模型"
 description: ""
 tags: []
 created: 2023-03-13T04:21:53.769Z
-updated: 2026-06-03T03:57:25.511Z
+updated: 2026-06-03T03:57:26.511Z
 source: https://wiki.bambulab.com/zh/general/bbl-printer-internal-sliced-files
 ---
 
@@ -205,7 +205,7 @@ source: https://wiki.bambulab.com/zh/general/bbl-printer-internal-sliced-files
 
 ## 拓竹 A2L 打印机
 
-请参考：[A2L 配件模型介绍](https://wiki.bambulab.com/zh/a2l/manual/internal-print-files)。
+请参考：[A2L 配件模型介绍](../a2l/manual/internal-print-files.md)。
 
 ## 拓竹 A1 mini 打印机
 

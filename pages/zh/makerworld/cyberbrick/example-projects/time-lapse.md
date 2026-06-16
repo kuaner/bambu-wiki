@@ -4,7 +4,7 @@ title: "延时摄影套件 使用指南"
 description: "本页面介绍了延时摄影套件与打印机的连接、设置和相关技术参数。"
 tags: ["cyberbrick", "makerworld"]
 created: 2025-06-09T01:50:49.437Z
-updated: 2026-05-12T11:50:58.969Z
+updated: 2026-06-11T04:14:16.759Z
 source: https://wiki.bambulab.com/zh/makerworld/cyberbrick/example-projects/time-lapse
 ---
 
@@ -20,7 +20,7 @@ source: https://wiki.bambulab.com/zh/makerworld/cyberbrick/example-projects/time
 
 ### **扩展板**
 
-核心板插接安装在扩展板上，为延时摄影提供必要的IO功能。延时摄影扩展板具备：一个2.5mm通用型快门线接口、一组舵机连接端口、两个打印机连接端口（4pin和6pin）、一个功能按键、一个RGB指示灯。
+核心板插接安装在扩展板上，为延时摄影提供必要的IO功能。延时摄影扩展板具备：一个2.5mm通用型快门线接口、一组舵机连接端口、两个打印机连接端口（4-pin 和 6-pin）、一个功能按键、一个RGB指示灯。
 
 ![](https://wiki.bambulab.com/makerworld/cyberbrick/example-projects/time-lapse/image-8.png)
 
@@ -84,17 +84,24 @@ Bambu PETG Translucent - 32101（透明），多功能按钮，需要透光。
 
 ![](https://wiki.bambulab.com/makerworld/cyberbrick/example-projects/time-lapse/dscf0384.jpg)
 
-### **A系列**
+### A 系列
 
-连接方式，使用4pin线缆连接至打印机的4pin接口。对于A1机型，该接口位于打印机后部；对于A1mini机型，接口则位于打印机右侧。
+连接方式：
 
-### **X-P系列**
+- 对于 A1 机型，可使用 4-pin 线缆连接至打印机的 4-pin 接口。对于 A1 机型，该接口位于打印机后部；对于 A1 mini 机型，接口则位于打印机右侧。
+- 对于 A2L 机型，可以试用 4-pin 或 6-pin 线缆连接打印机后部的接口。
 
-连接方式，若未安装AMS，请使用 4pin 线缆连接打印机的4pin接口。若已安装AMS，则需使用6pin线缆连接AMS的6pin接口。
+### X1 系列及 P1 系列
 
-### **H2系列**
+连接方式：若未安装 AMS，请使用 4-pin 线缆连接打印机的 4-pin 接口。若已安装AMS，则需使用 6-pin 线缆连接 AMS 的 6-pin 接口。
 
-连接方式，请使用 4pin 线缆连接打印机背后的的 4pin 接口，或需使用6pin线缆连接AMS的6pin接口。
+### X2D 及 P2S
+
+连接方式：需要先安装缓冲器，然后使用 6-pin 线缆连接缓冲器的 6-pin 接口。
+
+### H2 系列
+
+连接方式：请使用 4-pin 线缆连接打印机背后的的 4-pin 接口，或需使用 6-pin 线缆连接 AMS 的 6-pin 接口。
 
 ## 三. 摄影设备连接
 

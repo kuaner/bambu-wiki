@@ -1,10 +1,10 @@
 ---
 path: zh/p2s/maintenance/replace-mc-and-ac-boards
 title: "更换 P2S AC/MC 板"
-description: ""
+description: "本文介绍了如何更换 P2S 的 MC 板 及 AC 板"
 tags: []
 created: 2025-10-14T12:50:31.109Z
-updated: 2026-04-20T13:03:51.704Z
+updated: 2026-06-11T04:00:09.213Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-mc-and-ac-boards
 ---
 

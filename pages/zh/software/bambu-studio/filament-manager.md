@@ -4,7 +4,7 @@ title: "耗材管理"
 description: "本文介绍了如何使用 Bambu Studio 的耗材管理功能，包括如何添加、编辑、删除耗材信息，查询与更新耗材剩余重量，及云端同步至 Bambu Handy 耗材库等功能。"
 tags: []
 created: 2026-06-12T04:22:07.206Z
-updated: 2026-06-12T09:30:50.939Z
+updated: 2026-06-12T09:30:52.169Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/filament-manager
 ---
 

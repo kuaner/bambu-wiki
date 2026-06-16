@@ -4,7 +4,7 @@ title: "A1 -显示屏异常排查"
 description: "使用 A1 打印机时，显示屏不亮、触摸功能失灵的排查方法。"
 tags: ["a1"]
 created: 2026-06-11T02:31:18.631Z
-updated: 2026-06-11T03:05:27.558Z
+updated: 2026-06-15T02:32:24.923Z
 source: https://wiki.bambulab.com/zh/a1/troubleshooting/screen-not-working-as-expected
 ---
 
@@ -41,7 +41,7 @@ source: https://wiki.bambulab.com/zh/a1/troubleshooting/screen-not-working-as-ex
 
 ![zh.jpg](https://wiki.bambulab.com/a1/troubleshooting/screen-not-working-as-expected/zh.jpg)
 
-- 若设备在线，则黑屏的原因可能为显示屏故障，请[检查显示屏排线](https://wiki.bambulab.com/zh/staging/a1/troubleshooting/screen-not-working-as-expected#%E6%A3%80%E6%9F%A5%E6%98%BE%E7%A4%BA%E5%B1%8F%E6%8E%92%E7%BA%BF)。
+- 若设备在线，则黑屏的原因可能为显示屏故障，请[检查显示屏排线](#replace-nozzle-step-1)。
 - 若设备离线，则黑屏的原因可能是设备存在短路，请参考[打印机电路故障排查 - A1](circuit-fault.md)进行排查。
 
 ### 检查显示屏排线

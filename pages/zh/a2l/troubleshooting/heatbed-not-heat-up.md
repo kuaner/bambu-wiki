@@ -4,7 +4,7 @@ title: "A2L 热床不升温故障排查"
 description: "本文介绍了热床不升温的故障排查步骤"
 tags: []
 created: 2026-06-01T13:13:58.839Z
-updated: 2026-06-01T13:29:31.134Z
+updated: 2026-06-10T07:53:55.711Z
 source: https://wiki.bambulab.com/zh/a2l/troubleshooting/heatbed-not-heat-up
 ---
 
@@ -25,10 +25,10 @@ source: https://wiki.bambulab.com/zh/a2l/troubleshooting/heatbed-not-heat-up
 
 | HMS Code | 故障描述 | 推荐排查路径 |
 | --- | --- | --- |
-| [HMS\_0300-0100-0001-0007](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_0007) | 热床温控异常，温度传感器可能开路 | 检查热床线缆连接 → 测量 NTC 阻值 |
-| [HMS\_0300-0100-0001-0008](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_0008) | 热床加热异常，加热模块可能故障 | 检查热床线缆连接 → 测量加热器阻值 |
-| [HMS\_0300-0100-0001-0005](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_0005) | 热床温控异常，加热模块损坏 | 检查 AC 板 → 测量热床线缆阻值 |
-| [HMS\_0300-0100-0001-000A](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0100_0001_000A) | 热床温控异常，AC 板可能故障 | 测量主板-AC 线缆阻值 → 检查 AC 板状态 |
+| [HMS\_0300-0100-0001-0007](hmscode/0300_0100_0001_0007.md) | 热床温控异常，温度传感器可能开路 | 检查热床线缆连接 → 测量 NTC 阻值 |
+| [HMS\_0300-0100-0001-0008](hmscode/0300_0100_0001_0008.md) | 热床加热异常，加热模块可能故障 | 检查热床线缆连接 → 测量加热器阻值 |
+| [HMS\_0300-0100-0001-0005](hmscode/0300_0100_0001_0005.md) | 热床温控异常，加热模块损坏 | 检查 AC 板 → 测量热床线缆阻值 |
+| [HMS\_0300-0100-0001-000A](hmscode/0300_0100_0001_000A.md) | 热床温控异常，AC 板可能故障 | 测量主板-AC 线缆阻值 → 检查 AC 板状态 |
 
 > - 如果屏幕**弹出具体 HMS 报错码**，建议直接参考上表中的"推荐排查路径"，跳转至对应步骤；
 > - 如果**只观察到现象，不知道具体报错**，请按照下方步骤 1-4 顺序排查。
@@ -56,7 +56,7 @@ source: https://wiki.bambulab.com/zh/a2l/troubleshooting/heatbed-not-heat-up
 
 ### 步骤 1：检查热床线缆连接
 
-1. 参考[更换 AC 板指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-ac-board)，露出 AC 板，重新连接以下两条线缆：
+1. 参考[更换 AC 板指南](../maintenance/replace-ac-board.md)，露出 AC 板，重新连接以下两条线缆：
    - **热床信号线（#1）**
    - **热床加热线（#2）**
 
@@ -79,7 +79,7 @@ source: https://wiki.bambulab.com/zh/a2l/troubleshooting/heatbed-not-heat-up
 
 **判断结果：**
 
-- ❌ **存在明显烧焦/损坏** → 参考[更换 AC 板指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-ac-board)更换 AC 板后复测。
+- ❌ **存在明显烧焦/损坏** → 参考[更换 AC 板指南](../maintenance/replace-ac-board.md)更换 AC 板后复测。
 - ✅ **外观无明显异常** → 进入步骤 3。
 
 ### 步骤 3：测量热床线缆阻值
@@ -104,7 +104,7 @@ source: https://wiki.bambulab.com/zh/a2l/troubleshooting/heatbed-not-heat-up
    > 注：随着温度上升，电阻会减小（NTC 特性）。
 3. 判断结果：
 
-   - ❌ **阻值明显异常**（例如开路、短路或远超表中范围） → 测温链路异常，请参考[更换热床指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-heatbed-unit)更换热床。
+   - ❌ **阻值明显异常**（例如开路、短路或远超表中范围） → 测温链路异常，请参考[更换热床指南](../maintenance/replace-heatbed-unit.md)更换热床。
    - ✅ **阻值正常** → 如仍报错，进入步骤 4。
 
 #### 测量加热器阻值
@@ -117,16 +117,14 @@ source: https://wiki.bambulab.com/zh/a2l/troubleshooting/heatbed-not-heat-up
 
    | 设备版本 | 正常阻值 |
    | --- | --- |
-   | 110V 版本 | 约 15 kΩ |
-   | 220V 版本 | 约 60 kΩ |
+   | 110V 版本 | 约 15 Ω |
+   | 220V 版本 | 约 60 Ω |
 3. 判断结果：
 
-   - ❌ **阻值明显异常**（开路、短路或显著偏离） → 加热链路异常，请参考[更换热床指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-heatbed-unit)更换热床。
+   - ❌ **阻值明显异常**（开路、短路或显著偏离） → 加热链路异常，请参考[更换热床指南](../maintenance/replace-heatbed-unit.md)更换热床。
    - ✅ **阻值正常** → AC 板或主板可能故障，进入步骤 4。
 
 ### 步骤 4：测量主板-AC 线缆阻值
-
-> **本步骤优先适用于 HMS\_000A（AC 通信异常）。**
 
 1. 小心拔下主板-AC 线缆的 AC 端接头。
 
@@ -141,10 +139,10 @@ source: https://wiki.bambulab.com/zh/a2l/troubleshooting/heatbed-not-heat-up
    > 注：随温度上升，电阻减小
 4. 判断结果：
 
-   - ❌ **阻值明显异常** → 主板-AC 线缆故障，请参考[主板-AC 线缆更换指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-cables)进行更换。
+   - ❌ **阻值明显异常** → 主板-AC 线缆故障，请参考[主板-AC 线缆更换指南](../maintenance/replace-printer-cables.md)进行更换。
    - ✅ **阻值正常** → 主板或 AC 板可能故障：
-     - 优先参考[主板更换指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-mainboard)更换主板；
-     - 若更换后仍报错，再参考[AC 板更换指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-ac-board)更换 AC 板。
+     - 优先参考[主板更换指南](../maintenance/replace-mainboard.md)更换主板；
+     - 若更换后仍报错，再参考[AC 板更换指南](../maintenance/replace-ac-board.md)更换 AC 板。
 
 ## 结束语
 

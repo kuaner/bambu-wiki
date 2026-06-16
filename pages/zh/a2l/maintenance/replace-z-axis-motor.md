@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-z-axis-motor
 title: "A2L 更换 Z 电机"
-description: ""
+description: "本文介绍了如何更换 A2L Z 电机"
 tags: []
 created: 2026-06-01T13:15:50.847Z
-updated: 2026-06-01T13:15:50.847Z
+updated: 2026-06-04T01:52:02.388Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-z-axis-motor
 ---
 
@@ -40,7 +40,7 @@ A2L Z 电机
 
 ### 1. 拆卸底座
 
-请参照下方教程拆卸底座部分（无需拆卸X轴）：[更换龙门架](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+请参照下方教程拆卸底座部分（无需拆卸X轴）：[更换龙门架](replace-printer-frame.md)
 
 ### 2. 固定X轴
 
@@ -88,7 +88,7 @@ A2L Z 电机
 
 ### 5. 安装底座
 
-请参照下方教程装回底座：[更换龙门架](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+请参照下方教程装回底座：[更换龙门架](replace-printer-frame.md)
 
 ## 结束语
 

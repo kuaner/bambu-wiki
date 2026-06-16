@@ -4,10 +4,11 @@ title: "Bambu Connect 版本说明"
 description: ""
 tags: []
 created: 2025-03-11T08:55:24.928Z
-updated: 2026-04-15T11:47:19.624Z
+updated: 2026-06-04T03:00:18.479Z
 source: https://wiki.bambulab.com/zh/software/bambu-connect/releases
 ---
 
+- [v2.5.0-beta.12](v2_5_0-beta_12.md) (2026-06-04)
 - [v2.4.0-beta.10](v2_4_0-beta_10.md) (2026-04-15)
 - [v2.3.0-beta.6](v2_3_0-beta_6.md) (2026-03-25)
 - [v2.2.1-beta.2](v2_2_1-beta_2.md) (2026-02-11)

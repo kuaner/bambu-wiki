@@ -4,7 +4,7 @@ title: "如何使用手机端CyberBrick绑定设备核心板?"
 description: "本文将详细讲述如何在CyberBrick手机端app的设备列表里，快速找到设备并准确地通过蓝牙连接设备核心板。"
 tags: []
 created: 2025-10-16T14:24:43.170Z
-updated: 2026-06-03T05:51:49.068Z
+updated: 2026-06-03T05:51:50.031Z
 source: https://wiki.bambulab.com/zh/cyberbrick/troubleshooting/mobile-board-bluetooth-pairing
 ---
 

@@ -4,7 +4,7 @@ title: "H2S 打印机上电异常排查指南"
 description: "本文将引导您完成 H2S 设备在开机后无法正常工作的故障排查流程。"
 tags: ["h2s"]
 created: 2026-02-25T03:38:15.389Z
-updated: 2026-03-11T07:09:45.310Z
+updated: 2026-06-10T07:03:10.173Z
 source: https://wiki.bambulab.com/zh/h2s/failure-to-power-on
 ---
 
@@ -176,7 +176,7 @@ T5 -- "恢复正常" --> T6
 T5 -- "依旧异常" --> T7
 
 当拔下 AP 板上的 USB-C 线缆后，AP 和 MC 板都能恢复正常，这说明 TH 板存在故障导致设备异常。  
-请参考 [更换 H2S TH 板](https://wiki.bambulab.com/e/zh/h2s/maintenance/replace-th-board) 拔下图中标记的所有插头，再次开机观察 TH、AP 和 MC 的指示灯是否恢复正常。
+请参考 [更换 H2S TH 板](maintenance/replace-th-board.md) 拔下图中标记的所有插头，再次开机观察 TH、AP 和 MC 的指示灯是否恢复正常。
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2/h2s/maintenance/replace-th-board/image-2.png)
 

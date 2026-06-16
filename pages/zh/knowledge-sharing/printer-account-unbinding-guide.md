@@ -4,7 +4,7 @@ title: "Bambu Lab 打印机账号解绑指南"
 description: "本文介绍了如何将账号从打印机上解绑。"
 tags: []
 created: 2026-03-23T09:18:01.938Z
-updated: 2026-06-02T02:19:41.633Z
+updated: 2026-06-02T02:19:43.112Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-unbinding-guide
 ---
 

@@ -4,7 +4,7 @@ title: "A2L 空打缠料检测介绍"
 description: "本文介绍了 A2L 的空打缠料检测功能"
 tags: []
 created: 2026-06-01T12:59:50.550Z
-updated: 2026-06-01T13:05:55.436Z
+updated: 2026-06-15T07:25:28.024Z
 source: https://wiki.bambulab.com/zh/a2l/manual/air-printing-and-filament-tangle-detection
 ---
 
@@ -163,9 +163,9 @@ A2L 五通组件内置弹簧、带磁铁的滑块以及进料霍尔板。
 
 请参考相关 HMS 报错 Wiki 进行处理。
 
-- [0300-0900-0002-0001](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0900_0002_0001)
-- [0300-0900-0002-0002](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0900_0002_0002)
-- [0300-0900-0002-0003](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_0900_0002_0003)
+- [0300-0900-0002-0001](../troubleshooting/hmscode/0300_0900_0002_0001.md)
+- [0300-0900-0002-0002](../troubleshooting/hmscode/0300_0900_0002_0002.md)
+- [0300-0900-0002-0003](../troubleshooting/hmscode/0300_0900_0002_0003.md)
 
 **注意事项**
 

@@ -4,7 +4,7 @@ title: "打印机无法检测到AMS"
 description: ""
 tags: []
 created: 2022-10-11T08:46:07.618Z
-updated: 2026-05-20T08:46:11.667Z
+updated: 2026-06-12T06:57:15.394Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/AMS_is_not_detected_by_the_printer
 ---
 
@@ -16,7 +16,7 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/AMS_is_not_detected_by_t
 
 ## 操作指导
 
-\*\*首先请先将打印机关机，\*\*然后按照以下步骤缩小故障范围。
+**首先请先将打印机关机，** 然后按照以下步骤缩小故障范围。
 
 ### 1. Pin 脚检查
 
@@ -35,7 +35,7 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/AMS_is_not_detected_by_t
 
 ### 3. 电阻测量
 
-如果你有万用表，确保 4Pin 和 6Pin 电缆正常地连接在机器上，然后用万用表测量 AMS、打印机以及 4Pin 和 6Pin 线电阻\*\*（打印机处于关机状态）。\*\*
+如果你有万用表，确保 4Pin 和 6Pin 电缆正常地连接在机器上，然后用万用表测量 AMS、打印机以及 4Pin 和 6Pin 线电阻 **（打印机处于关机状态）。**
 
 ![](https://wiki.bambulab.com/ams_power_on_failure/ams_cable_pin_define.drawio.svg)
 
@@ -95,7 +95,7 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/AMS_is_not_detected_by_t
 
 3. 4pin 线连接打印机：
 
-把 4Pin 线接回打印机，从缓冲器上拔掉 4Pin 线，继续测量另一端 4Pin 针脚之间的电阻\*\*（把缓冲器从打印机上取下可以更容易拔出线缆）\*\*。
+把 4Pin 线接回打印机，从缓冲器上拔掉 4Pin 线，继续测量另一端 4Pin 针脚之间的电阻 **（把缓冲器从打印机上取下可以更容易拔出线缆）**。
 
 ![](https://wiki.bambulab.com/ams_is_not_detected/%E7%BC%93%E5%86%B2%E5%99%A8%E7%AB%AF4pin%E7%BA%BF%E7%AB%AF%E5%AD%90.png)
 

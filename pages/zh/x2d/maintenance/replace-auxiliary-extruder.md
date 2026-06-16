@@ -4,7 +4,7 @@ title: "更换 X2D 辅助挤出机配件"
 description: "本文详细介绍了更换X2D辅助挤出机组件/辅助挤出机上盖/辅助挤出机齿轮组件/辅助挤出机外壳的操作步骤"
 tags: ["x2d"]
 created: 2026-04-14T13:08:45.018Z
-updated: 2026-06-03T03:17:17.149Z
+updated: 2026-06-03T03:17:18.157Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-auxiliary-extruder
 ---
 

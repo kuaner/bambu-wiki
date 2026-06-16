@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-printer-cables
 title: "A2L 线材包使用说明"
-description: ""
+description: "本文介绍了线材包中各种线缆的更换步骤"
 tags: []
 created: 2026-06-01T13:29:08.844Z
-updated: 2026-06-01T13:29:08.844Z
+updated: 2026-06-04T01:58:58.429Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-cables
 ---
 
@@ -42,7 +42,7 @@ A2L线材包
 
 ## **更换 4/6pin 接口板连接线**
 
-请参照下方独立教程更换 4/6pin 接口板连接线：[更换 4/6pin 接口板](https://wiki.bambulab.com/zh/a2l/maintenance/replace-4/6pin-connection-board)
+请参照下方独立教程更换 4/6pin 接口板连接线：[更换 4/6pin 接口板](replace-4/6pin-connection-board.md)
 
 ## **更换吐料组件霍尔转接线**
 
@@ -50,8 +50,8 @@ A2L线材包
 
 1. 移除转接板、X轴端盖
 
-- 参照独立教程完成至移除转接板：[更换工具头线缆](https://wiki.bambulab.com/zh/a2l/maintenance/replace-toolhead-cable)
-- 参照独立教程移除端盖：[更换端盖](https://wiki.bambulab.com/zh/a2l/maintenance/replace-end-cap)
+- 参照独立教程完成至移除转接板：[更换工具头线缆](replace-toolhead-cable.md)
+- 参照独立教程移除端盖：[更换端盖](replace-end-cap.md)
 
 > 拆除端盖和 X 电机盒后，X 轴导轨两侧将失去限位保护。请注意固定工具头，防止其从导轨末端滑出而导致滑块滚珠丢失。
 
@@ -70,8 +70,8 @@ A2L线材包
 
 2. 安装转接板、X轴端盖
 
-- 参照独立教程装回转接板：[更换工具头线缆](https://wiki.bambulab.com/zh/a2l/maintenance/replace-toolhead-cable)
-- 参照独立教程装回端盖：[更换端盖](https://wiki.bambulab.com/zh/a2l/maintenance/replace-end-cap)
+- 参照独立教程装回转接板：[更换工具头线缆](replace-toolhead-cable.md)
+- 参照独立教程装回端盖：[更换端盖](replace-end-cap.md)
 
 ## **更换 AP-AC 连接线**
 
@@ -79,7 +79,7 @@ A2L线材包
 
 1. 拆除前底盖
 
-参照教程拆除打印机前底盖：[更换底壳](https://wiki.bambulab.com/zh/a2l/maintenance/replace-bottom-cover)
+参照教程拆除打印机前底盖：[更换底壳](replace-bottom-cover.md)
 
 2. 拆除 AP-AC 连接线  
    按下图示位置的插头锁扣，拔出 AP-AC 连接线插头。  
@@ -100,7 +100,7 @@ A2L线材包
    ![gjtwth003.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/test/gjtwth003.jpg)
 2. 安装前底盖
 
-参照教程装回打印机前底盖：[更换底壳](https://wiki.bambulab.com/zh/a2l/maintenance/replace-bottom-cover)
+参照教程装回打印机前底盖：[更换底壳](replace-bottom-cover.md)
 
 ## **更换 Y、Z 电机转接线**
 
@@ -129,7 +129,7 @@ Y、Z电机转接线拆卸方法一致，请根据需要选择。
 ### 1. 拆除 AC-电源模块转接线
 
 1. 拆除前底盖  
-   参照教程拆除打印机前底盖：[更换底壳](https://wiki.bambulab.com/zh/a2l/maintenance/replace-bottom-cover)
+   参照教程拆除打印机前底盖：[更换底壳](replace-bottom-cover.md)
 2. 拆除 AC-电源模块转接线  
    使用十字螺丝刀拧松图示两颗螺丝，从电源端拔出转接线。  
    ![ac006.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/ac006.jpg)
@@ -146,7 +146,7 @@ Y、Z电机转接线拆卸方法一致，请根据需要选择。
 > 注意线材颜色和连接顺序需要与图片完全一致。
 
 2. 安装前底盖  
-   参照教程装回打印机前底盖：[更换底壳](https://wiki.bambulab.com/zh/a2l/maintenance/replace-bottom-cover)
+   参照教程装回打印机前底盖：[更换底壳](replace-bottom-cover.md)
 
 ## 结束语
 

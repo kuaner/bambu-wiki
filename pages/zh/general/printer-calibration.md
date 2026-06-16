@@ -4,7 +4,7 @@ title: "打印机校准指南"
 description: "本指南提供拓竹打印机如果进行校准的方法。"
 tags: ["a1", "p1", "x1"]
 created: 2025-03-11T07:16:25.235Z
-updated: 2026-06-02T02:30:39.007Z
+updated: 2026-06-02T02:30:39.968Z
 source: https://wiki.bambulab.com/zh/general/printer-calibration
 ---
 

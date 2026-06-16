@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-power-switch-assembly
 title: "A2L 更换电源开关座"
-description: ""
+description: "本文介绍了如何更换 A2L 电源开关座"
 tags: []
 created: 2026-06-01T13:14:11.044Z
-updated: 2026-06-01T13:14:11.044Z
+updated: 2026-06-04T01:57:55.453Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-power-switch-assembly
 ---
 
@@ -40,7 +40,7 @@ A2L 电源开关座
 
 ### 1. 拆除龙门架
 
-参照下方教程移分离龙门架和底座部分[更换龙门架](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+参照下方教程移分离龙门架和底座部分[更换龙门架](replace-printer-frame.md)
 
 ### 2. 移除前后底盖
 
@@ -89,7 +89,7 @@ A2L 电源开关座
 
 ### 3 安装龙门架
 
-参照下方装回龙门架部分：[更换龙门架](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+参照下方装回龙门架部分：[更换龙门架](replace-printer-frame.md)
 
 ## 功能验证
 

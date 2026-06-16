@@ -4,7 +4,7 @@ title: "ABS / ASA / PC 使用指南"
 description: ""
 tags: ["耗材"]
 created: 2025-10-11T00:14:18.253Z
-updated: 2026-06-12T09:24:05.200Z
+updated: 2026-06-12T09:24:06.216Z
 source: https://wiki.bambulab.com/zh/filament/abs_asa_pc
 ---
 

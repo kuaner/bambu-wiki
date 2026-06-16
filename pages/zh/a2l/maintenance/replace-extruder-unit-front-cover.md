@@ -4,7 +4,7 @@ title: "A2L 更换挤出机前盖"
 description: "本文介绍如何更换 A2L 挤出机前盖"
 tags: ["挤出机前盖"]
 created: 2026-06-01T13:06:22.334Z
-updated: 2026-06-01T13:06:26.340Z
+updated: 2026-06-05T07:42:16.043Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit-front-cover
 ---
 
@@ -32,6 +32,8 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit-front
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 >
 > 如果您对本指南有任何疑问，[*请联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们将及时回复并为您提供所需的帮助。
+
+## 视频指南
 
 ## 拆解教程
 

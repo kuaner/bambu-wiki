@@ -1,10 +1,10 @@
 ---
 path: zh/p1/maintenance/toolhead-housing
-title: "更换 P1S 工具头后盖和中框"
-description: "拆装 P1S 工具头外壳的操作步骤。"
+title: "更换 X1/P1 工具头后盖和中框"
+description: "拆装 X1/P1 工具头外壳的操作步骤。"
 tags: []
 created: 2022-12-01T04:31:42.324Z
-updated: 2026-02-11T08:50:06.499Z
+updated: 2026-06-08T09:04:44.260Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/toolhead-housing
 ---
 
@@ -13,13 +13,6 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/toolhead-housing
 |  |  |
 | --- | --- |
 | 工具头后盖 | 工具头中框 |
-
-工具头后盖购买链接：  
-[京东](https://mall.jd.com/view_search-2380482-25079976-99-1-24-1.html)  
-[天猫](https://detail.tmall.com/item.htm?abbucket=8&id=735791167437&rn=ebfa21803994bfbfa7622a44b70aff95&spm=a1z10.3-b-s.w4011-25177047232.30.73d01c79zOv6LY&skuId=5257110555559)
-
-工具头中框购买链接：  
-[京东](https://item.jd.com/10084131163827.html#product-detail)
 
 ## 工具
 
@@ -31,11 +24,13 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/toolhead-housing
 
 ## 拆除
 
-### **第 1 步 -** 移除工具头前壳组件
+### **第 1 步 -** 移除工具头前盖组件
 
-揭开前壳组件，断开连接器，移除前盖。
+揭开前盖组件，断开连接器，移除前盖。
 
-![](https://wiki.bambulab.com/p1/maintenance/toolhead-housing/disconnect_fan_cable.png)
+|  |  |
+| --- | --- |
+| X1 系列 | P1 系列 |
 
 ### **第 2 步 -** 拔出料管
 
@@ -105,15 +100,13 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/toolhead-housing
 
 ![](https://wiki.bambulab.com/p1/maintenance/toolhead-housing/connect_ptfe_tube.png)
 
-### **第 6 步 -** 装前壳组件
+### **第 6 步 -** 装前盖组件
 
-将前盖风扇电缆连接到接口板上，合上前壳组件。  
-对于 X1 系列用户，请参考[更换前壳组件【X1系列专用】](../../x1/maintenance/replace-front-housing-assembly.md)。  
-对于 P1 系列用户，请参考以下安装步骤图示：
+将前盖风扇电缆与接口板链接，合上前盖组件。
 
 |  |  |
 | --- | --- |
-|  |  |
+| X1 系列 | P1 系列 |
 
 ## 如何验证完成
 

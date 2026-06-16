@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-x-axis-motor-cover
 title: "A2L 更换 X 电机盒"
-description: ""
+description: "本文介绍了如何更换 A2L X 电机盒"
 tags: []
 created: 2026-06-01T13:10:29.041Z
-updated: 2026-06-01T13:10:41.541Z
+updated: 2026-06-04T01:48:43.365Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-axis-motor-cover
 ---
 

@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-filament-cutter-lever
 title: "A2L 更换切刀刀柄"
-description: ""
+description: "本文介绍了如何更换 A2L 切刀刀柄"
 tags: []
 created: 2026-06-01T13:10:50.843Z
-updated: 2026-06-01T13:11:05.743Z
+updated: 2026-06-04T01:39:29.069Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-filament-cutter-lever
 ---
 
@@ -38,7 +38,7 @@ A2L 切刀刀柄组件
 
 ### 步骤 1：移除挤出机前盖
 
-参照下方教程移除挤出机前盖：[更换挤出机前盖](https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit-front-cover)
+参照下方教程移除挤出机前盖：[更换挤出机前盖](replace-extruder-unit-front-cover.md)
 
 ### 步骤 2：移除切刀刀片
 
@@ -74,7 +74,7 @@ A2L 切刀刀柄组件
 
 ### 步骤 3：安装挤出机前盖
 
-请参照独立教程将挤出机前盖装回：[更换挤出机前盖](https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit-front-cover)
+请参照独立教程将挤出机前盖装回：[更换挤出机前盖](replace-extruder-unit-front-cover.md)
 
 ## 结束语
 

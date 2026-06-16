@@ -4,7 +4,7 @@ title: "如何使用错误代码或 HMS code"
 description: "本文将介绍如何查找、使用设备的错误代码完成故障排查。"
 tags: []
 created: 2022-08-20T13:29:55.868Z
-updated: 2026-06-02T02:28:53.268Z
+updated: 2026-06-02T02:28:54.261Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-enter-the-specific-code-page
 ---
 

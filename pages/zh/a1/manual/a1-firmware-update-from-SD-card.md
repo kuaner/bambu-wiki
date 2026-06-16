@@ -1,10 +1,10 @@
 ---
 path: zh/a1/manual/a1-firmware-update-from-SD-card
-title: "通过 microSD 卡升级固件——A1"
-description: "A1 通过 microSD 卡升级固件的步骤"
+title: "通过 microSD 卡升级固件——A1/A2L"
+description: "A1/A2L 通过 microSD 卡升级固件的步骤"
 tags: ["a1"]
 created: 2024-11-25T08:15:53.820Z
-updated: 2026-05-19T03:58:02.193Z
+updated: 2026-06-04T02:13:54.393Z
 source: https://wiki.bambulab.com/zh/a1/manual/a1-firmware-update-from-SD-card
 ---
 
@@ -29,13 +29,15 @@ source: https://wiki.bambulab.com/zh/a1/manual/a1-firmware-update-from-SD-card
 
 ### 步骤 1：下载对应版本的离线升级包。不同版本的功能请参见[此页面](a1-firmware-release-history.md)。
 
+A1:
+
 | 版本 | 下载地址 |
 | --- | --- |
 | 01.04.00.00 | [点击下载](https://bambulab.cn/zh-cn/support/firmware-download/a1) |
 
 ### 步骤 2：取出 microSD 卡。
 
-A1 **不支持热插拔卡**，因此每次取出 SD 卡时，**请务必从菜单中安全弹出**，具体步骤如下：
+A 系列 **不支持热插拔卡**，因此每次取出 SD 卡时，**请务必从菜单中安全弹出**，具体步骤如下：
 
 - 进入 **设置 → SD 卡**
 - 在 SD 卡菜单中点击**弹出**

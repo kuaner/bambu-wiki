@@ -4,7 +4,7 @@ title: "P 系列机器打印 TPU 90A & 85A 的打印指南"
 description: "使用 P 系列机器打印TPU 90A & 85A 的打印指南"
 tags: []
 created: 2025-03-07T02:37:44.822Z
-updated: 2026-04-10T06:27:47.783Z
+updated: 2026-06-11T09:35:59.241Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-p-series
 ---
 
@@ -17,6 +17,8 @@ TPU 85A 和 TPU 90A 是热塑性聚氨酯（ TPU ）材料中的两种不同硬�
 - 耐磨性：TPU 材料具有良好的耐磨性，能够在长时间的使用过程中保持稳定的性能。
 
 在应用方面，TPU 85A 和 TPU 90A 可以用于制造鞋底、运动器材部件等需要弹性和耐磨性能的产品，也可以用于制造手机保护壳、智能手表表带等电子产品配件。总的来说，这二者是两种性能优异、应用广泛的热塑性聚氨酯材料。不同硬度等级使得它们能够满足不同应用场景的需求。
+
+> 如果您有 TPU 送料助力模块，请[点击](../../general/manual/tpu-feed-assist-module.md)跳转。
 
 ## 准备工作
 

@@ -4,7 +4,7 @@ title: "拓竹铁氟龙料管介绍"
 description: "本文介绍了拓竹铁氟龙料管（PTFE 管）的基本信息，裁剪方法，及其在各机型上的安装位置、连接方式及更换教程。"
 tags: []
 created: 2026-04-23T02:40:11.051Z
-updated: 2026-06-11T07:51:01.454Z
+updated: 2026-06-11T07:51:02.572Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/ptfe-tube
 ---
 

@@ -1,16 +1,22 @@
 ---
 path: zh/a2l/maintenance/period-maintenance
 title: "A2L 定期维护建议"
-description: ""
+description: "本文提供了对 A2L 进行定期维护的相关建议"
 tags: []
 created: 2026-06-01T13:17:02.944Z
-updated: 2026-06-01T13:37:15.401Z
+updated: 2026-06-10T07:36:53.617Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/period-maintenance
 ---
 
 ## 产品维护与保养
 
 3D 打印机具有复杂的机械结构和众多的动作部件，为确保打印机的稳定运行和高质量地完成打印任务，需要对打印机进行定期的维护和保养。设备维护保养的内容主要是保持设备清洁、润滑良好和安全运行，我们将对需要进行维护保养的部件进行分类，并给出一些维护保养的建议。
+
+> **重要提醒 ！**
+>
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，**请关闭打印机电源并断开电源连接**，以避免发生电路短路从而引起额外的电子设备损坏和安全隐患。
+>
+> 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，**避免在高温状态下操作**，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 
 ### 您可能需要用到的工具：
 
@@ -29,7 +35,7 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/period-maintenance
 
 轨道是 3D 打印机中影响使用寿命和精度的最重要因素。A2L 采用了全金属的运动导轨，在 X 轴使用了高质量的直线导轨，在 Y 轴使用了双轴心导轨和全金属导轮，这套导轨系统保证了用户不需要频繁调整 A2L 的运动组件，但需要定期的润滑和清洁，以减少磨损和异音，保证打印机的精度和寿命，并能有效防止导轨生锈。
 
-对于 X 轴，我们建议每一个月维护一次；而 Y 轴需要在首次开箱装机后以及每打印 200 小时维护一次（打印机也会有相应的HMS提醒）。详情的操作步骤请参考 [A2L XYZ 轴润滑](https://wiki.bambulab.com/zh/a2l/maintenance/lubricate-x-y-z-axis)。
+对于 X 轴，我们建议每一个月维护一次；而 Y 轴需要在首次开箱装机后以及每打印 200 小时维护一次（打印机也会有相应的HMS提醒）。详情的操作步骤请参考 [A2L XYZ 轴润滑](lubricate-x-y-z-axis.md)。
 
 ![tuyou1.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/lubricate-x-y-z-axis/tuyou1.jpg)
 
@@ -37,13 +43,13 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/period-maintenance
 
 X、Y、Z同步皮带是是实现工具头沿 X 轴方向、热床沿 Y 轴方向以及 X 轴整体沿 Z 方向移动的传动部件，当皮带偏松时，设备会出现对应的报错信息提示您张紧皮带，不过我们也建议定期主动对同步带进行张紧调整。
 
-相关操作步骤请参考 [A2L 皮带张紧](https://wiki.bambulab.com/zh/a2l/maintenance/belt-tension)
+相关操作步骤请参考 [A2L 皮带张紧](belt-tension.md)
 
 如果经过长时间的使用，同步带已经出现明显的磨损并影响了打印质量，请参考相关的维修指引页面，更换同步皮带。
 
 ### 润滑惰轮
 
-定期对惰轮进行润滑和保养，可以有效减轻异响，降低移动阻力。请参考 [A2L XYZ 轴惰轮维护](https://wiki.bambulab.com/zh/a2l/maintenance/idler-pulley-lubrication) 润滑对应轴系的惰轮。
+定期对惰轮进行润滑和保养，可以有效减轻异响，降低移动阻力。请参考 [A2L XYZ 轴惰轮维护](idler-pulley-lubrication.md) 润滑对应轴系的惰轮。
 
 ![3.png](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/idler-pulley-lubrication/3.png)
 
@@ -56,7 +62,7 @@ X、Y、Z同步皮带是是实现工具头沿 X 轴方向、热床沿 Y 轴方�
 - **保养周期：** 当设备挤出不足、卡料、空打时。
 - **保养工具、材料：** 镊子、刷子、吹气球、内六角扳手
 - **保养方案：** 异物清理
-- **操作说明：** 请参考 [A2L 挤出机清理教程](https://wiki.bambulab.com/zh/a2l/maintenance/extruder-cleaning-guide)
+- **操作说明：** 请参考 [A2L 挤出机清理教程](extruder-cleaning-guide.md)
 
 正常情况下，打印 PLA、PETG 这类非碳纤耗材时，建议每打印 5 卷耗材后清洁一次挤出机齿轮；打印碳纤耗材时，每打印 2 卷耗材清洁一次挤出机齿轮。如果发现挤出机齿轮或轴承存在严重的磨损或者异常，常规清理已经无法改善挤出效果，建议更换新的挤出机齿轮组件。
 
@@ -181,7 +187,7 @@ A2L 喷嘴采用了快拆的卡扣设计，为保证喷嘴快拆功能正常，�
 **喷嘴：**
 
 - **保养周期：** 当热端无法挤出耗材或挤出异常时；喷嘴表面存在脏污时。
-- **保养方案：** 若热端没有堵塞，可参考 [热端冷拔维护](https://wiki.bambulab.com/zh/a2l/maintenance/nozzle-cold-pull-maintenance) 操作步骤；若热端堵塞了，则参考 [A2L 喷嘴堵塞清理](https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hotend) 操作；如果无法疏通，则需要更换新的热端。表面的耗材脏污可加热喷嘴到 220 度，然后取下擦拭，注意佩戴隔热手套。
+- **保养方案：** 若热端没有堵塞，可参考 [热端冷拔维护](nozzle-cold-pull-maintenance.md) 操作步骤；若热端堵塞了，则参考 [A2L 喷嘴堵塞清理](cold-pull-maintenance-hotend.md) 操作；如果无法疏通，则需要更换新的热端。表面的耗材脏污可加热喷嘴到 220 度，然后取下擦拭，注意佩戴隔热手套。
 
 ![removehotend.webp](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/period-maintenance/removehotend.webp)  
 ![clearhotend.webp](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/period-maintenance/clearhotend.webp)
@@ -194,7 +200,7 @@ A2L 喷嘴采用了快拆的卡扣设计，为保证喷嘴快拆功能正常，�
 
 如果您使用了多色打印，在打印多卷耗材后，切刀的刀片会变钝，甚至出现缺口，因此建议定期检查以确保刀片仍然锋利和完整，避免因切料阻力大导致丢步，提高打印成功率。如果发现切刀已经磨损，无法顺畅地切割耗材，请更换新的切刀。
 
-- **保养周期：** PLA\ABS\PETG 材料 3 卷检查一次刀片
+- **保养周期：** PLA\PETG 材料 3 卷检查一次刀片
 - **保养工具、材料：** 内六角扳手
 - **保养方案：** 换新
 - **操作说明：** 拆开料线压块检查刀片是否有缺刃，有异常时，释放切刀刀柄更换新切刀。
@@ -227,9 +233,9 @@ A2L 喷嘴采用了快拆的卡扣设计，为保证喷嘴快拆功能正常，�
 
 ![4.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/nozzl-cold-pull-cleaning/4.jpg)
 
-### 硅胶擦嘴
+### 热床擦嘴胶条
 
-硅胶擦嘴用于清洁喷嘴上的残余废料，如果硅胶擦嘴损坏或变形了，为确保喷嘴清洁效果，您需要进行更换。我们有赠送备用的硅胶擦嘴，自行更换即可。
+热床擦嘴胶条用于清洁喷嘴上的残余废料，如果热床擦嘴胶条损坏或变形了，为确保喷嘴清洁效果，您需要进行更换。
 
 - **保养周期：** 硅胶擦嘴有硅胶损坏
 - **保养工具、材料：** 镊子
@@ -242,7 +248,7 @@ A2L 喷嘴采用了快拆的卡扣设计，为保证喷嘴快拆功能正常，�
 
 ![wipe3.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/period-maintenance/wipe3.jpg)
 
-### 打印面板
+### 打印板
 
 A2L 标配了纹理 PEI 打印板，它由 PEI 材料喷涂在不锈钢板上而成，能够用于打印多种常用的材料，并无需使用任何的粘合剂。为保持最佳的粘附力，建议定期清洁打印板，同时应避免手指直接接触打印板表面的情况，以防止皮肤油脂附着到打印板表面，影响附着效果。PEI 打印板的清洁方式请查阅以下链接：[Bambu Textrued PEI Plate 清理指南](../../filament-acc/acc/pei-plate-clean-guide.md)。
 

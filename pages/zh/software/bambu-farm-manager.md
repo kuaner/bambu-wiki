@@ -4,7 +4,7 @@ title: "拓竹农场管家软件快速入门"
 description: "本文介绍了拓竹农场管家软件。"
 tags: ["software"]
 created: 2024-10-24T10:07:33.966Z
-updated: 2026-04-21T02:46:43.292Z
+updated: 2026-06-08T08:39:49.338Z
 source: https://wiki.bambulab.com/zh/software/bambu-farm-manager
 ---
 
@@ -30,21 +30,23 @@ source: https://wiki.bambulab.com/zh/software/bambu-farm-manager
 
 ## 适配机型及版本要求
 
-- P1P/P1S: V01.07.00.00 及以上
-- A1/A1mini: V01.04.00.00 及以上
-- X1C: V01.09.00.00 及以上
-- X1E：V01.01.03.12 及以上
+- H2C：01.02.00.00 及以上
 - H2D：V01.02.00.00 及以上
 - H2D Pro: V01.01.00.00 及以上
 - H2S: V01.02.00.00 及以上
-- P2S: V01.02.00.00 及以上
 - X2D: V01.01.00.00 及以上
+- X1C: V01.09.00.00 及以上
+- X1E：V01.01.03.12 及以上
+- P2S: V01.02.00.00 及以上
+- P1P/P1S: V01.07.00.00 及以上
+- A1/A1mini: V01.04.00.00 及以上
+- A2L：V01.00.03.00 及以上
 
 ## 下载最新版本
 
-[拓竹农场管家服务器 02.03.00.00](https://public-cdn.bblmw.cn/upgrade/farm-manager/Bambu_Farm_Manager_Server_win-v02.03.00.00-20260420101155.exe)
+[拓竹农场管家服务器 02.04.00.00](https://public-cdn.bblmw.cn/upgrade/farm-manager/Bambu_Farm_Manager_Server_win-v02.04.00.00-20260605153718.exe)
 
-[拓竹农场管家客户端 02.03.00](https://public-cdn.bblmw.cn/upgrade/farm-manager/bambu-farm-manager-client-v2.3.0-d6350584-win32-x64.exe)
+[拓竹农场管家客户端 02.04.00](https://public-cdn.bblmw.cn/upgrade/farm-manager/bambu-farm-manager-client-v2.4.0-39de6e97-win32-x64.exe)
 
 ## 安装
 

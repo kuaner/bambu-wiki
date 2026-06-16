@@ -4,7 +4,7 @@ title: "A2L FAQs"
 description: "本文列举了 A2L 的常见问答"
 tags: []
 created: 2026-06-01T13:03:05.334Z
-updated: 2026-06-01T13:51:21.418Z
+updated: 2026-06-11T03:34:32.894Z
 source: https://wiki.bambulab.com/zh/a2l/manual/a2l-faq
 ---
 
@@ -79,6 +79,11 @@ A2L 仅支持 2.4G Wi-Fi
 | --- | --- |
 | 电压 | 高压版：200-240 VAC，50/60 Hz  低压版：100-120 VAC，50/60 Hz |
 | 最大功率 | 高压版：1000 W@220 V 低压版：1000 W@110 V |
+| 待机功率 | 不连接网络待机功耗：4.7~5.2W Wifi 待机功耗：5.1~5.5W |
+
+### Q：A2L 的平均功耗是多少？
+
+0.145KW/H（按 PLA 打印测试 1h 实测）
 
 ### Q：A2L 工作时推荐的环境温度和湿度是多少？
 
@@ -109,7 +114,7 @@ A2L 支持打印 PLA、PETG、TPU 以及适用于 PLA、PETG 的支撑耗材（�
 
 ### Q：打印 TPU 时应该如何进料？
 
-详情请参考：[A2L TPU 打印指南](https://wiki.bambulab.com/zh/a2l/manual/tpu-printing-guide)
+详情请参考：[A2L TPU 打印指南](tpu-printing-guide.md)
 
 ### Q：打印含碳纤维或玻纤材料需要注意什么？
 
@@ -167,11 +172,11 @@ A2L 内置环境温度传感器。当检测到环境温度高于阈值时，打�
 
 ### Q：A2L 最多支持连接多少台 AMS，要如何连接？
 
-A2L 具备强大的扩展性，支持最多串联 **4 台 AMS 系统**与 **1 台 AMS lite 系统**，实现最高 **19 色**的复杂色彩打印（连接 AMS 系统会占用 AMS lite 的一个通道）。详情请参考：[A2L AMS 连接指南](https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide)。
+A2L 具备强大的扩展性，支持最多串联 **4 台 AMS 系统**与 **1 台 AMS lite 系统**，实现最高 **19 色**的复杂色彩打印（连接 AMS 系统会占用 AMS lite 的一个通道）。详情请参考：[A2L AMS 连接指南](a2l-ams-connection-guide.md)。
 
 ### Q：A2L 与 AMS 应如何摆放？
 
-详情请参考：[A2L AMS 连接指南](https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide)。
+详情请参考：[A2L AMS 连接指南](a2l-ams-connection-guide.md)。
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/faq/019.png)
 
@@ -230,6 +235,10 @@ A2L 具备强大的扩展性，支持最多串联 **4 台 AMS 系统**与 **1 �
 |  |  |
 | --- | --- |
 |  |  |
+
+### Q：使用外挂料盘打印时，铁氟龙料管跑到龙门架后方，是否正常？
+
+这是正常现象，并且不影响正常打印。使用外挂料盘时，建议尽量将铁氟龙料管整理到龙门架前方，以减少与其他部件干涉的可能。若打印过程中铁氟龙料管移动到龙门架后方，也无需担心；料管长度已预留余量，通常不会拉扯工具头导致丢步，影响正常打印。
 
 ## 七、2D 功能相关
 

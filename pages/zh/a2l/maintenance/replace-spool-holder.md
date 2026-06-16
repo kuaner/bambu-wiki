@@ -4,11 +4,9 @@ title: "A2L 更换料盘支架"
 description: "本文介绍 A2L 更换料盘支架方法。"
 tags: []
 created: 2026-06-01T13:18:06.752Z
-updated: 2026-06-01T13:18:06.752Z
+updated: 2026-06-04T02:08:48.578Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-spool-holder
 ---
-
-## A2L 料盘支架
 
 ## 移除 A2L 料盘支架
 

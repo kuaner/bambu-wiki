@@ -4,7 +4,7 @@ title: "更换 X2D 热端加热组件"
 description: "本文将详细为您介绍 X2D 更换左热端加热组件和右辅助热端加热组件的步骤和注意事项。"
 tags: ["x2d"]
 created: 2026-04-14T13:45:34.770Z
-updated: 2026-04-24T02:41:37.413Z
+updated: 2026-06-12T08:49:38.159Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-hotend-heating-assembly
 ---
 
@@ -44,6 +44,9 @@ X2D 工具头上安装有 2 个热端加热组件，分别是左热端加热组�
 
 > 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
+> 右切料拨杆只能在辅助热端抬升后（右图）才能进行手动切料测试，否则切料组件会错位并与切料拨杆卡住。  
+> ![切料拨杆组件.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-filament-cutter-lever/%E5%88%87%E6%96%99%E6%8B%A8%E6%9D%86%E7%BB%84%E4%BB%B6.jpg)
 
 ## 移除热端加热组件
 
@@ -116,7 +119,10 @@ X2D 工具头上安装有 2 个热端加热组件，分别是左热端加热组�
 
 ### 步骤 4：固定左热端加热组件线缆
 
-整理线缆并将线缆放入线缆卡扣内，然后将线缆插头连接到热端加热组件接口板上。  
+整理线缆并将线缆放入线缆卡扣内，然后将线缆插头连接到热端加热组件接口板上。
+
+> 请确保线缆已完全放入卡扣内。若线缆脱出，可能会因磨损或挤压导致破损，进而引发设备故障
+
 ![install_left_hotend_cable_connector_001.png](https://public-cdn.bblmw.com/wiki/new/x2d/replace-hotend-heating-assembly/install_left_hotend_cable_connector_001.png)
 
 ### 步骤 5：固定热端加热组件连接器支架

@@ -4,7 +4,7 @@ title: "X2D 耗材变轨器使用指南"
 description: "本指南涵盖耗材变轨器的详细介绍，以及 X2D 搭配耗材变轨器进行打印的具体操作步骤。"
 tags: []
 created: 2026-03-16T02:50:15.541Z
-updated: 2026-06-04T07:48:34.081Z
+updated: 2026-06-04T07:48:35.089Z
 source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch
 ---
 

@@ -4,7 +4,7 @@ title: "P2S 开箱指南"
 description: "本文介绍 P2S 套装及单机的开箱步骤。"
 tags: []
 created: 2025-10-14T13:55:05.884Z
-updated: 2026-03-10T02:28:20.460Z
+updated: 2026-06-11T11:10:41.705Z
 source: https://wiki.bambulab.com/zh/p2s/manual/unboxing-p2s
 ---
 
@@ -88,6 +88,9 @@ source: https://wiki.bambulab.com/zh/p2s/manual/unboxing-p2s
 |  |  |  |
 | --- | --- | --- |
 |  |  |  |
+
+> 包装方案更新，请按下图所示移除所有泡棉。  
+> ![p2s-top-foams-new.png](https://wiki.bambulab.com/p2s/manual/unboxing-guide/p2s-top-foams-new.png)
 
 - 用内六角扳手 H2.0 拧下 2 颗红色标记的螺丝。  
   ![19-remove-ams-screw.png](https://public-cdn.bblmw.com/wiki/new/p2s/manual/p2s-unboxing/19-remove-ams-screw.png)

@@ -4,7 +4,7 @@ title: "更换 X2D 的左霍尔检测板"
 description: "本文介绍了如何更换 X2D 的左霍尔检测板"
 tags: []
 created: 2026-04-14T13:09:16.966Z
-updated: 2026-04-24T02:58:33.943Z
+updated: 2026-06-10T09:31:35.153Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-extruder-filament-sensor-left
 ---
 
@@ -34,13 +34,21 @@ X2D
 > 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 
+## 易损提示
+
+> 移除工具头接口板布线泡棉时，请您沿左侧向玻璃前门方向轻拉，避免因拉力过大导致左霍尔检测板连接器盖板松脱或损坏。  
+> ![泡棉3.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-th-board/%E6%B3%A1%E6%A3%893.jpg)
+
 ## 视频教程
 
 ## 移除旧的左霍尔检测板
 
 ### 1. 移除工具头外壳
 
-请参考[这篇 Wiki](replace-toolhead-housing.md)  来移除工具头前壳和工具头中框。
+请参考 [更换 X2D 工具头外壳](replace-toolhead-housing.md) 移除工具头外壳并断开料管。  
+![010_remove_mid_cover.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_toolhead_cover/010_remove_mid_cover.png)
+
+> 重要提示：必须确保**移除工具头后盖**。若在未拆卸后盖的情况下强行转动拨杆，将可能会导致后盖变形或结构损坏。
 
 ### 2. 移除切料拨杆组件
 
@@ -101,7 +109,9 @@ X2D
 
 ### 3. 安装工具头外壳
 
-请参考[这篇 Wiki](replace-toolhead-housing.md)  来安装工具头前壳和工具头中框。
+请参考 [更换 X2D 工具头外壳](replace-toolhead-housing.md) 移除工具头外壳并连接料管。
+
+![017_front_cover.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_toolhead_cover/017_front_cover.png)
 
 ## 功能验证
 

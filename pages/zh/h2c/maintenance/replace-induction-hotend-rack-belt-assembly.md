@@ -1,10 +1,10 @@
 ---
 path: zh/h2c/maintenance/replace-induction-hotend-rack-belt-assembly
 title: "更换 H2C 感应热端架皮带组件"
-description: "本文将详细为您介绍 H2C 更换感应热端架架皮带组件的详细步骤和注意事项。"
+description: "本文将详细为您介绍 H2C 更换感应热端架皮带组件的详细步骤和注意事项。"
 tags: []
 created: 2025-11-18T13:15:55.843Z
-updated: 2025-12-22T11:55:47.888Z
+updated: 2026-06-10T01:32:12.095Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend-rack-belt-assembly
 ---
 

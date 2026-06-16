@@ -4,7 +4,7 @@ title: "电路故障排查-A2L"
 description: "当设备正常通电后却无法开机工作时，请参考本文进行排查。"
 tags: []
 created: 2026-06-01T13:05:14.134Z
-updated: 2026-06-01T13:14:21.434Z
+updated: 2026-06-12T08:46:46.510Z
 source: https://wiki.bambulab.com/zh/a2l/troubleshooting/circuit-fault-template
 ---
 
@@ -68,10 +68,10 @@ source: https://wiki.bambulab.com/zh/a2l/troubleshooting/circuit-fault-template
 
 ![powersupply.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/troubleshooting/circuit-fault-template/powersupply.jpg)
 
-观察电源模块指示灯是否常亮，若指示灯熄灭或闪烁，请关机后参考[更换电源模块](https://wiki.bambulab.com/zh/a2l/maintenance/replace-power-supply)断开电源模块上的 24V 输出线缆，再开机观察电源模块的指示灯。
+观察电源模块指示灯是否常亮，若指示灯熄灭或闪烁，请关机后参考[更换电源模块](../maintenance/replace-power-supply.md)断开电源模块上的 24V 输出线缆，再开机观察电源模块的指示灯。
 
 - 若指示灯恢复常亮，说明电源模块能够正常输出 24V，此时打印机无法工作的故障可能在主板或 TH 板上，请进行后续排查；
-- 若指示灯闪烁或熄灭，则需要[更换电源模块](https://wiki.bambulab.com/zh/a2l/maintenance/replace-power-supply)。
+- 若指示灯闪烁或熄灭，则需要[更换电源模块](../maintenance/replace-power-supply.md)。
 
 ![dy114.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-y-axis-linear-guide-assembly/dy114.jpg)
 
@@ -111,7 +111,7 @@ class A,C,D,E,G,I,J,K,L,N process;
 
 **主板工作指示灯正常状态**
 
-观察主板需拆卸前底盖，可参考[A2L 更换底盖](https://wiki.bambulab.com/zh/a2l/maintenance/replace-bottom-cover)预先拆除。
+观察主板需拆卸前底盖，可参考 [A2L 更换底盖](../maintenance/replace-bottom-cover.md)预先拆除。
 
 主板上的两个绿色 LED 灯分别为间隔 1s 闪烁和间隔 5s 闪烁，其中间隔 5s 闪烁的 LED 灯亮起时间很短，请仔细观察。
 
@@ -150,7 +150,7 @@ class A,C,D,E,G,I,J,K,L,N process;
 
 **TH 板指示灯正常状态**
 
-请先参考 [A2L 更换电源模块](https://wiki.bambulab.com/zh/a2l/maintenance/replace-toolhead-rear-housing) 取下工具头后盖。
+请先参考 [A2L 更换电源模块](../maintenance/replace-toolhead-rear-housing.md) 取下工具头后盖。
 
 左侧的白色和绿色 LED 灯为通信状态灯，常亮为通信正常。右侧的绿色 LED 灯为工作指示灯，闪烁代表工作正常。
 
@@ -171,20 +171,20 @@ X 轴上的转接板也承担 MC-TH 通信功能，可取下前盖观察灯语�
 情况一：2 号转接板白灯异常；  
 情况二：6 号主板绿灯异常，5 号转接板绿灯正常。
 
-请参考[A2L 更换工具头线缆](https://wiki.bambulab.com/zh/a2l/maintenance/replace-toolhead-cable)重新安装工具头线缆（底座端）。若故障依旧，可能需要更换通讯线缆或转接板。
+请参考 [A2L 更换工具头线缆](../maintenance/replace-toolhead-cable.md)重新安装工具头线缆（底座端）。若故障依旧，可能需要更换通讯线缆或转接板。
 
 #### 转接板- TH 板通讯存在异常
 
 情况三：3 号 TH 板白灯异常，2 号转接板白灯正常；  
 情况四：5 号 转接板绿灯异常，4号 TH 板灯正常。
 
-请参考[A2L 更换工具头线缆](https://wiki.bambulab.com/zh/a2l/maintenance/replace-toolhead-cable)重新安装工具头线缆（工具头端）。若故障依旧，可能需要更换通讯线缆或转接板。
+请参考 [A2L 更换工具头线缆](../maintenance/replace-toolhead-cable.md)重新安装工具头线缆（工具头端）。若故障依旧，可能需要更换通讯线缆或转接板。
 
 #### TH 板模块存在故障
 
 情况五：4 号 TH 板绿灯异常，或 TH 板**工作指示灯**异常。
 
-请参考[A2L 更换TH板](https://wiki.bambulab.com/zh/a2l/maintenance/replace-th-board)断开工具头主板上的插头，仅保留工具头线缆。
+请参考 [A2L 更换TH板](../maintenance/replace-th-board.md)断开工具头主板上的插头，仅保留工具头线缆。
 
 ![th009.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-th-board/th009.jpg)
 

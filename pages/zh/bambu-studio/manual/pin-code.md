@@ -4,7 +4,7 @@ title: "如何在 Bambu Studio 中使用 Pin 码绑定打印机"
 description: "介绍在 Bambu Studio 中使用 Pin 码绑定打印机的详细步骤"
 tags: ["bambu studio"]
 created: 2024-04-22T02:38:55.014Z
-updated: 2026-06-02T02:29:28.933Z
+updated: 2026-06-02T02:29:29.896Z
 source: https://wiki.bambulab.com/zh/bambu-studio/manual/pin-code
 ---
 

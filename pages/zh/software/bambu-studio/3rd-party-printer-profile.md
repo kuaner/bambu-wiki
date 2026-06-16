@@ -4,7 +4,7 @@ title: "创建自定义打印机或喷嘴"
 description: "本文介绍了如何在 Bambu Studio 中创建自定义打印机或喷嘴。"
 tags: ["bambu studio"]
 created: 2024-09-18T09:04:57.206Z
-updated: 2024-10-12T06:16:18.048Z
+updated: 2026-06-09T02:19:53.276Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/3rd-party-printer-profile
 ---
 
@@ -69,6 +69,36 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/3rd-party-printer-pro
 ![screenshot-20240918-194536.png](https://wiki.bambulab.com/create-printer/screenshot-20240918-194536.png)
 
 ![screenshot-20240918-194604.png](https://wiki.bambulab.com/create-printer/screenshot-20240918-194604.png)
+
+## 删除自定义设置
+
+本节介绍如何在 Bambu Studio 中删除自定义的**打印机预设**、**耗材预设**和**工艺预设**。
+
+---
+
+### 删除自定义打印机预设
+
+点击打印机栏的 **「编辑」** 按钮，点击上侧 **「删除」** 图标，确认删除。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+### 删除自定义耗材预设
+
+点击耗材右侧的 **「▪▪▪」** 图标 → **「编辑」** → 上侧的 **「删除」** 图标 → **「是」**。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+---
+
+### 删除自定义工艺预设
+
+在工艺栏，点击 **「删除」** 图标，然后点击 **「是」** 进行确认。
+
+![zh_process.png](https://wiki.bambulab.com/software/bambu-studio/delete-custom-settings/zh_process.png)
 
 ## 云用户预设限制
 

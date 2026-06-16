@@ -4,7 +4,7 @@ title: "多机型 AMS 连接指南"
 description: "本文主要介绍不同代 AMS 与不同打印机机型的兼容性和最大连接数量，以及带烘干功能的 AMS 对供电的要求。"
 tags: []
 created: 2025-03-25T15:14:57.250Z
-updated: 2026-06-12T04:09:05.746Z
+updated: 2026-06-12T04:09:06.775Z
 source: https://wiki.bambulab.com/zh/ams/manual/multi-model-AMS-compatibility-guide
 ---
 
@@ -189,7 +189,7 @@ X1 和 P1 连接方式如下，同样左边连接 AMS，右边连接打印机。
 
 ## A2L 连接指南
 
-- **最大连接数量**：最多支持同时连接 4 台 AMS 和 1 台 AMS lite，（具体请参考：[A2L AMS 连接指南](https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide)），最多可实现 19 色打印；
+- **最大连接数量**：最多支持同时连接 4 台 AMS 和 1 台 AMS lite，（具体请参考：[A2L AMS 连接指南](../../a2l/manual/a2l-ams-connection-guide.md)），最多可实现 19 色打印；
 
 ![image_(85).png](https://wiki.bambulab.com/ams/multi-model-ams-compatibility-guide/image_(85).png)
 

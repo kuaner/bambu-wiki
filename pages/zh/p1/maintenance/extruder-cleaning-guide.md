@@ -1,11 +1,11 @@
 ---
-path: zh/P1/maintenance/extruder-cleaning-guide
+path: zh/p1/maintenance/extruder-cleaning-guide
 title: "挤出机维护指南：P1系列挤出机维护"
 description: "本指南提供 P1 系列挤出机堵塞清理、挤出机拆解与组装的详细步骤。"
 tags: []
 created: 2026-04-30T04:11:28.484Z
-updated: 2026-04-30T04:11:29.507Z
-source: https://wiki.bambulab.com/zh/P1/maintenance/extruder-cleaning-guide
+updated: 2026-06-12T06:25:17.446Z
+source: https://wiki.bambulab.com/zh/p1/maintenance/extruder-cleaning-guide
 ---
 
 在本指南中，我们将提供保养挤出机相关组件的常用方法  
@@ -32,8 +32,9 @@ source: https://wiki.bambulab.com/zh/P1/maintenance/extruder-cleaning-guide
 
 ## 所需工具和材料
 
-- H2.0六角扳手
-- 润滑油或润滑脂
+- H2.0 六角扳手
+- H1.5 六角扳手
+- 润滑脂
 - 此维护预计需要15分钟时间
 
 ## 安全提示
@@ -67,8 +68,8 @@ source: https://wiki.bambulab.com/zh/P1/maintenance/extruder-cleaning-guide
 
 ![](https://wiki.bambulab.com/p1/maintenance/extruder-maintenance/release_the_lever.jpeg)
 
-松开切刀刀柄后，卸下固定挤出机的 3 颗螺丝，然后轻轻拧松标识 4 和 5 的螺丝以松开PTFE管底座。  
-然后，通过向下按压PTFE管底座以压下挤出机上的气动接头，气动接头完全压下后，您可以拔出PTFE管。
+松开切刀刀柄后，卸下固定挤出机的 3 颗螺丝，然后用 H1.5 六角扳手轻轻拧松标识 4 和 5 的螺丝以松开 PTFE 管底座。  
+然后，通过向下按压 PTFE 管底座以压下挤出机上的气动接头，气动接头完全压下后，您可以拔出 PTFE 管。
 
 ![](https://wiki.bambulab.com/p1/maintenance/extruder-maintenance/remove_the_extruder_screws.jpeg)
 

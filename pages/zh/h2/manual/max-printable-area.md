@@ -4,7 +4,7 @@ title: "H2 系列打印机最大打印/加工范围"
 description: ""
 tags: []
 created: 2025-04-09T06:15:07.305Z
-updated: 2026-06-03T09:23:26.522Z
+updated: 2026-06-03T09:23:27.504Z
 source: https://wiki.bambulab.com/zh/h2/manual/max-printable-area
 ---
 

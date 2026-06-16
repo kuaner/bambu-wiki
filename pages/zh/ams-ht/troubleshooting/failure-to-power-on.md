@@ -4,7 +4,7 @@ title: "AMS HT 上电异常的故障排查指南"
 description: "本文将介绍 AMS HT 无法通电工作时的故障排查方法。"
 tags: ["ams ht"]
 created: 2026-06-01T09:36:26.343Z
-updated: 2026-06-10T06:58:50.237Z
+updated: 2026-06-15T02:17:05.003Z
 source: https://wiki.bambulab.com/zh/ams-ht/troubleshooting/failure-to-power-on
 ---
 
@@ -64,7 +64,7 @@ source: https://wiki.bambulab.com/zh/ams-ht/troubleshooting/failure-to-power-on
 
 > 注意：测量过程中两表笔请勿相互接触。
 
-若此处能够测量到 24V 左右电压，请检查[24V 输入](https://wiki.bambulab.com/zh/staging/ams-ht/troubleshooting/failure-to-power-on#%E6%A3%80%E6%9F%A5-24v-%E8%BE%93%E5%85%A5)。
+若此处能够测量到 24V 左右电压，请检查[24V 输入](https://wiki.bambulab.com/zh/ams-ht/troubleshooting/failure-to-power-on#%E6%A3%80%E6%9F%A5-24v-%E8%BE%93%E5%85%A5)。
 
 ![1_3.jpg](https://wiki.bambulab.com/ams-ht/troubleshooting/failure-to-power-on/1_3.jpg)  
 ![1_4.jpg](https://wiki.bambulab.com/ams-ht/troubleshooting/failure-to-power-on/1_4.jpg)

@@ -4,7 +4,7 @@ title: "耗材新手入门指南"
 description: "耗材新手入门指南，帮助新手快速学会如何使用耗材。"
 tags: []
 created: 2025-09-29T09:08:23.945Z
-updated: 2026-03-24T06:32:12.532Z
+updated: 2026-06-15T06:42:05.361Z
 source: https://wiki.bambulab.com/zh/filament/beginner
 ---
 
@@ -74,7 +74,7 @@ source: https://wiki.bambulab.com/zh/filament/beginner
    > 注意：
    >
    > 1. AMS 2 Pro **最高烘干温度 65°C**；AMS HT **最高烘干温度 85°C**。
-   > 2. 打印过程中不可使用 AMS 烘干功能。
+   > 2. 打印过程中,仅部分机型可使用 AMS 烘干功能，详细信息请参考[这篇 Wiki](../ams-2-pro/manual/drying-function.md)。
    > 3. 打印机无法为 AMS HT 提供烘干所需电力，必须使用标配电源线独立供电。
 3. **确认烘干参数**：
 

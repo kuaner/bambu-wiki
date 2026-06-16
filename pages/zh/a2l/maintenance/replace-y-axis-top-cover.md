@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-y-axis-top-cover
-title: "A2L 更换Y轴上盖"
-description: ""
+title: "A2L 更换 Y 轴上盖"
+description: "本文介绍了如何更换 A2L Y 轴上盖"
 tags: []
 created: 2026-06-01T13:14:26.649Z
-updated: 2026-06-01T13:14:26.649Z
+updated: 2026-06-04T01:50:29.003Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-y-axis-top-cover
 ---
 

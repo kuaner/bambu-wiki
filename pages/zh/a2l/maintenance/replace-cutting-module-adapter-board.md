@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-cutting-module-adapter-board
 title: "A2L 更换刀切模组转接板"
-description: ""
+description: "本文介绍了如何更换 A2L 刀切模组转接板"
 tags: []
 created: 2026-06-01T13:08:04.445Z
-updated: 2026-06-01T13:08:44.236Z
+updated: 2026-06-05T07:47:05.396Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-cutting-module-adapter-board
 ---
 
@@ -32,11 +32,13 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-cutting-module-adap
 >
 > 在维护或故障排除过程中，您可能需要拆卸热端等部件，从而暴露电线和电子元件。如果它们在打印机仍处于通电状态时相互接触或与其他金属、电子元件接触，就可能发生短路。**这将损坏打印机的电子元件和造成其他问题。**
 
+## 视频指南
+
 ## **拆除刀切模组转接板**
 
 ### 1. 移除TH板
 
-请参照独立教程完成TH板的拆卸：[TH 板更换指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-th-board)
+请参照独立教程完成TH板的拆卸：[TH 板更换指南](replace-th-board.md)
 
 ### 2. 移除刀切模组转接板
 
@@ -66,7 +68,7 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-cutting-module-adap
 
 ### 3. 安装 TH 板
 
-请参照独立教程将 TH 板装回：[TH 板更换指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-th-board)
+请参照独立教程将 TH 板装回：[TH 板更换指南](replace-th-board.md)
 
 ## 功能验证
 

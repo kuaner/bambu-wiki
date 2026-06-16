@@ -4,7 +4,7 @@ title: "A1 系列打印板位置检测"
 description: "本文章介绍了 A1 系列的打印板位置检测功能。"
 tags: []
 created: 2024-01-24T11:51:43.821Z
-updated: 2026-06-02T02:38:21.531Z
+updated: 2026-06-02T02:38:22.517Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/build-plate-detection
 ---
 

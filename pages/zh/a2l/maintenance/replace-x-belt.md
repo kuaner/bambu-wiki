@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-x-belt
 title: "A2L 更换 X 同步带"
-description: ""
+description: "本文介绍了如何更换 A2L X 同步带"
 tags: []
 created: 2026-06-01T13:15:11.259Z
-updated: 2026-06-01T13:15:11.259Z
+updated: 2026-06-04T01:47:57.606Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-belt
 ---
 

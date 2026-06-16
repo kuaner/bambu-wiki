@@ -4,7 +4,7 @@ title: "A2L 更换挤出机齿轮"
 description: "本文介绍如何更换 A2L 挤出机齿轮组件"
 tags: ["挤出机齿轮"]
 created: 2026-06-01T13:07:01.446Z
-updated: 2026-06-01T13:07:06.146Z
+updated: 2026-06-05T07:43:20.117Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-gear-assembly
 ---
 
@@ -34,11 +34,13 @@ A2L 挤出机齿轮组件
 >
 > 如果您对本指南有任何疑问，[*请联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们将及时回复并为您提供所需的帮助。
 
+## 视频指南
+
 ## 移除挤出机齿轮
 
 ### 步骤 1：移除挤出机前盖
 
-参照此教程移除热端硅胶套、热端、挤出机前盖。[更换挤出机前盖](https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit-front-cover)
+参照此教程移除热端硅胶套、热端、挤出机前盖。[更换挤出机前盖](replace-extruder-unit-front-cover.md)
 
 ### 步骤 2：移除五通组件
 
@@ -75,7 +77,7 @@ A2L 挤出机齿轮组件
 
 ### 步骤 2：安装挤出机前盖
 
-参照下方教程安装挤出机前盖、热端、热端硅胶套：[更换挤出机前盖](https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit-front-cover)
+参照下方教程安装挤出机前盖、热端、热端硅胶套：[更换挤出机前盖](replace-extruder-unit-front-cover.md)
 
 ### 步骤 3：安装五通组件
 

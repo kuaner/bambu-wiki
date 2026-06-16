@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-x-axis-motor
 title: "A2L 更换 X 电机"
-description: ""
+description: "本文介绍了如何更换 A2L X 电机"
 tags: []
 created: 2026-06-01T13:11:18.434Z
-updated: 2026-06-01T13:11:31.943Z
+updated: 2026-06-04T01:49:02.562Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-axis-motor
 ---
 
@@ -41,7 +41,7 @@ X 电机
 
 ### 1. 移除 X 电机盒
 
-请先参照以下教程拆卸 X 电机盒：[更换 X 电机盒](https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-axis-motor-cover)
+请先参照以下教程拆卸 X 电机盒：[更换 X 电机盒](replace-x-axis-motor-cover.md)
 
 ### 2. 移除右侧皮带压块
 
@@ -77,7 +77,7 @@ X 电机
 
 ### 3. 安装 X 电机盒
 
-参照下方教程装回 X 电机盒：[更换 X 电机盒](https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-axis-motor-cover)
+参照下方教程装回 X 电机盒：[更换 X 电机盒](replace-x-axis-motor-cover.md)
 
 ## 结束语
 

@@ -4,7 +4,7 @@ title: "A1 热床手动调平"
 description: "介绍如何对 A1 的热床进行手动调平"
 tags: ["a1", "热床"]
 created: 2023-12-09T12:13:58.365Z
-updated: 2025-03-30T14:12:25.095Z
+updated: 2026-06-11T08:58:16.569Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/manual-bed-tramming
 ---
 
@@ -45,6 +45,7 @@ Bambu Lab A1 打印机的热床在出厂时是已调整好的，按照手册的�
 运行 Gcode 文件后，打印机将进行回中操作，然后移至热床左前方并等待 30 秒。这时，您可以用内六角扳手拧动热床调平螺丝，将喷嘴调成贴近热床的状态。
 
 ![](https://wiki.bambulab.com/a1/maintenance/bed-tramming/p1.jpg)
+
 > **温馨提示：顺时针是拧紧调平螺丝，会使热床与喷嘴的距离增加；反之，逆时针是拧松调平螺丝，会使热床更加靠近喷嘴。**
 
 |  |  |  |
@@ -84,6 +85,10 @@ Bambu Lab A1 打印机的热床在出厂时是已调整好的，按照手册的�
 ![](https://wiki.bambulab.com/a1/maintenance/bed-tramming/file.jpg)
 
 ## **设备校准**
+
+安装打印板。
+
+![a1_with_build_plate.jpg](https://wiki.bambulab.com/a1/maintenance/bed-tramming/a1_with_build_plate.jpg)
 
 在打印机屏幕中点击 **设置 > 维护 > 校准**，开始进行校准。 如果一切正常，并且校准过程中没有出现错误或警告，则调平成功。如果仍有问题，请联系服务团队寻求进一步帮助。
 

@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-purge-wiper
 title: "A2L 更换吐料组件"
-description: ""
+description: "本文介绍了如何更换 A2L 吐料组件"
 tags: []
 created: 2026-06-01T13:08:48.545Z
-updated: 2026-06-01T13:08:56.652Z
+updated: 2026-06-04T01:59:28.859Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-purge-wiper
 ---
 

@@ -4,7 +4,7 @@ title: "AMS HT 模块介绍和连接配置 "
 description: ""
 tags: []
 created: 2025-04-10T09:27:04.415Z
-updated: 2026-03-25T06:35:58.082Z
+updated: 2026-06-08T08:36:42.687Z
 source: https://wiki.bambulab.com/zh/ams-ht/manual/intro-and-connection-guide
 ---
 
@@ -98,9 +98,20 @@ AMS HT 背部的出料口用于连接 PTFE 料管，下方有一个方形释放�
 
 AMS HT 和打印机之间需要连接一个供料缓冲器，由滑块、弹簧和霍尔传感器组成。当 AMS 将耗材推入工具头挤出机时，滑块会因耗材压力向前移动，霍尔传感器检测滑块位置并将信号反馈给 AMS 和打印机。通过控制 AMS 的进给速度，确保耗材张力在合理范围内，使挤出机工作更轻松、精确。
 
-H2D 打印机内置供料缓冲器，还配备了耗材传感器，可检测耗材是否通过或断裂在内部。此外，使用外挂料盘时，缓冲器还支持缠料检测功能。
+H2 系列打印机内置供料缓冲器，还配备了耗材传感器，可检测耗材是否通过或断裂在内部。此外，使用外挂料盘时，缓冲器还支持缠料检测功能。
 
 ![](https://wiki.bambulab.com/ams-ht/manual/intro-and-connection-guide/image-17.png)
+
+X2D 和 X2D Combo 均配备一个**供料缓冲器**。
+
+![x2d_filament_buffer.png](https://wiki.bambulab.com/ams-ht/manual/intro-and-connection-guide/x2d_filament_buffer.png)
+
+如果您需要为 X2D 连接超过两个 AMS 设备，则需要购买四进一料管拓展口。
+
+> **注意：**
+>
+> - 连接 AMS 设备时，请务必使用包装内附带的**新版** 6-pin 连接线（即 AMS 2 Pro 或 AMS HT 自带 6-pin 线），若使用来自 AMS（一代）的 6-pin 连接线可能导致 AMS 与打印机之间通信不稳定。
+> - 如果 X2D 未连接外置气泵，则**供料缓冲器**上的两个 6-pin 接口均可用于连接 AMS 设备。
 
 如需将 AMS HT 连接至 X1 或 P1 系列打印机，需额外购买缓冲器（连接 1 台）或 AMS Hub（连接多台）。
 

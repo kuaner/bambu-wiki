@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/cold-pull-maintenance-hotend
 title: "A2L 喷嘴堵塞清理"
-description: ""
+description: "本文介绍了 A2L 喷嘴堵塞时应如何清理"
 tags: []
 created: 2026-06-01T13:32:08.482Z
-updated: 2026-06-01T13:32:08.482Z
+updated: 2026-06-10T01:29:15.497Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hotend
 ---
 
@@ -26,7 +26,7 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hoten
 
 - 通针
 - 钳子
-- H1.5/H2.0 内六角扳手
+- H1.5 内六角扳手
 - 隔热手套
 - 一小段耗材
 
@@ -105,7 +105,7 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hoten
 
 ### 冷拔流程
 
-在屏幕上点击“设置-维护-喷嘴冷拔维护”，开启冷拔维护。可跳转到[A2L 喷嘴冷拔维护指南](https://wiki.bambulab.com/zh/a2l/maintenance/nozzle-cold-pull-maintenance)了解详情。
+在屏幕上点击“设置-维护-喷嘴冷拔维护”，开启冷拔维护。可跳转到[A2L 喷嘴冷拔维护指南](nozzle-cold-pull-maintenance.md)了解详情。
 
 > 冷拔过程中设备会自动冲刷耗材，若冲刷过程中耗材无法从喷嘴挤出，请根据方法二使用通针将堵塞物从喷嘴口推向喷嘴内部。
 

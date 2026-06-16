@@ -1,10 +1,10 @@
 ---
 path: zh/p2s/maintenance/replace-cable-chain
-title: "更换 P2S/X2D  拖链"
+title: "更换 P2S  拖链"
 description: "本文介绍了如何更换 P2S/X2D  拖链组件"
 tags: []
 created: 2025-10-14T14:27:19.405Z
-updated: 2026-04-21T02:54:17.071Z
+updated: 2026-06-04T01:56:59.731Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-cable-chain
 ---
 

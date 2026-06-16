@@ -4,7 +4,7 @@ title: "术语表"
 description: "本页包含 Bambu Lab 硬件和软件产品中使用的各种术语。"
 tags: []
 created: 2022-08-16T04:41:56.342Z
-updated: 2026-06-02T02:38:49.925Z
+updated: 2026-06-02T02:38:51.010Z
 source: https://wiki.bambulab.com/zh/glossary
 ---
 

@@ -4,7 +4,7 @@ title: "更换 P2S 切刀顶杆组件"
 description: "本文介绍了如何更换 P2S 切刀顶杆组件"
 tags: []
 created: 2025-10-14T12:59:29.201Z
-updated: 2026-06-02T08:54:52.538Z
+updated: 2026-06-02T08:54:53.502Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-filament-cutter-stopper
 ---
 

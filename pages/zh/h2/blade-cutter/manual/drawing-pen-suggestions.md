@@ -4,7 +4,7 @@ title: "画笔使用建议"
 description: ""
 tags: []
 created: 2025-03-25T14:29:41.412Z
-updated: 2026-06-02T02:51:51.241Z
+updated: 2026-06-02T02:51:52.195Z
 source: https://wiki.bambulab.com/zh/h2/blade-cutter/manual/drawing-pen-suggestions
 ---
 

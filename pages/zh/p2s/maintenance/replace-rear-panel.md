@@ -1,10 +1,10 @@
 ---
 path: zh/p2s/maintenance/replace-rear-panel
 title: "更换 P2S 背板"
-description: ""
+description: "本文介绍了如何更换 P2S 的背板"
 tags: ["背板"]
 created: 2025-10-14T12:50:31.996Z
-updated: 2025-11-05T01:35:41.800Z
+updated: 2026-06-11T02:50:55.712Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-rear-panel
 ---
 

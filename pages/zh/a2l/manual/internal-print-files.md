@@ -4,7 +4,7 @@ title: "A2L 配件模型介绍"
 description: "本章将介绍 A2L 配件模型，及部分配件模型的安装方式。"
 tags: []
 created: 2026-06-01T13:03:35.609Z
-updated: 2026-06-02T06:42:34.546Z
+updated: 2026-06-02T06:42:35.566Z
 source: https://wiki.bambulab.com/zh/a2l/manual/internal-print-files
 ---
 
@@ -20,7 +20,7 @@ source: https://wiki.bambulab.com/zh/a2l/manual/internal-print-files
 | a2l-accessory-models-002-overview-plate-guard.jpeg | 打印板保护套  [点击下载](https://makerworld.com.cn/zh/models/2572337-a2l-re-chuang-da-yin-ban-bao-hu-jian#profileId-2959677) | 安装于打印板前方凸出部分，可在用户近距离观察热床或进行操作时提供一定保护，降低被打印板边缘戳伤或磕碰的风险。占用空间较小，可与热床保护架二选一打印并使用。 |
 | a2l-accessory-models-003-overview-ptfe-th-cable-guider.jpeg | 集线器 | 引导和固定铁氟龙料管与工具头线缆走线，减少线缆晃动或干涉，提升机器的稳定性和整洁度。适用于连接 AMS lite、连接 AMS 2 Pro 等场景。 |
 | a2l-accessory-models-004-overview-ams-lite-top-4pin-cable-organizer.png | AMS lite 置顶用 4-pin 连接线理线器 | 引导和固定 4-pin 连接线走线，减少线缆晃动或干涉。适用于 AMS lite 置顶。 |
-| a2l-accessory-models-005-overview-ptfe-positioning-guider.png | 料管定位导向件 | 防止连接不同类型 AMS 时，料管在五通入口处过度弯曲导致进料失败。详细操作请参见 [A2L AMS 连接指南](https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide)。 |
+| a2l-accessory-models-005-overview-ptfe-positioning-guider.png | 料管定位导向件 | 防止连接不同类型 AMS 时，料管在五通入口处过度弯曲导致进料失败。详细操作请参见 [A2L AMS 连接指南](a2l-ams-connection-guide.md)。 |
 | a2l-accessory-models-006-overview-scraper.png | 刮刀   [点击下载](https://makerworld.com.cn/zh/models/125813-tuo-zhu-re-chuang-gua-dao#profileId-8923) | 用于从打印板上取下模型，或从刀切垫板上移除材料。 |
 | a2l-accessory-models-007-overview-ams-lite-top-mount.png | AMS lite 置顶方案 [点击下载](https://makerworld.com.cn/zh/models/125814-ams-litezhi-ding-fang-an-gua-yong-yu-a1da-yin-ji?from=search#profileId-8903) | 用于将 AMS lite 固定在龙门架顶部，减少设备整体占地面积。 |
 

@@ -4,7 +4,7 @@ title: "X2D"
 description: ""
 tags: []
 created: 2026-04-13T03:43:10.298Z
-updated: 2026-06-11T01:34:21.265Z
+updated: 2026-06-15T06:14:39.952Z
 source: https://wiki.bambulab.com/zh/x2d
 ---
 
@@ -75,16 +75,16 @@ source: https://wiki.bambulab.com/zh/x2d
 - [X2D 堵塞排查指南](troubleshooting/clogging.md)
 - [X2D 首层打印质量改善指南](troubleshooting/first-layer-printing-optimization-guide.md)
 - [X2D 挤出机进料霍尔故障](x1/troubleshooting/filament-sensor-test.md)
-- [X2D 右霍尔检测板组件清理指南](https://wiki.bambulab.com/zh/x2d/troubleshooting/right_filament_sensor_board_cleaning_guide)
+- [X2D 右霍尔检测板组件清理指南](troubleshooting/right_filament_sensor_board_cleaning_guide.md)
 - [X2D 主挤出机堵塞清理](maintenance/extruder-cleaning-guide.md)
-- [X2D 辅助挤出机堵塞清理](https://wiki.bambulab.com/zh/x2d/maintenance/auxiliary-extruder-cleaning-guide)
+- [X2D 辅助挤出机堵塞清理](maintenance/auxiliary-extruder-cleaning-guide.md)
 - [X2D 喷嘴/热端堵塞清理指南](maintenance/cold-pull-maintenance-hotend.md)
 - [打印机电路故障排查-X2D](troubleshooting/x2d-circuit-fault-template.md)
-- [X2D 回零&调平失败故障排查](https://wiki.bambulab.com/zh/x2d/troubleshooting/homing-leveling-failure)
+- [X2D 回零&调平失败故障排查](troubleshooting/homing-leveling-failure.md)
 
 ### 远程诊断
 
-- [如何上传打印机的日志文件至现有工单](https://wiki.bambulab.com/zh/X1/troubleshooting/how-to-upload-log)
+- [如何上传打印机的日志文件至现有工单](x1/troubleshooting/how-to-upload-log.md)
 - [导出 Bambu Studio日志](x1/troubleshooting/bambu-studio-log.md)
 
 ## 🚧 维护指南

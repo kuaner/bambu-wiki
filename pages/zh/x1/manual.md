@@ -4,7 +4,7 @@ title: "用户手册"
 description: ""
 tags: []
 created: 2022-07-27T15:10:17.257Z
-updated: 2026-06-02T06:06:47.409Z
+updated: 2026-06-02T06:06:48.388Z
 source: https://wiki.bambulab.com/zh/x1/manual
 ---
 

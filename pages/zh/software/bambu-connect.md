@@ -4,7 +4,7 @@ title: "Bambu Connect (beta)"
 description: "一款能连接和发送打印到 Bambu Lab 3D 打印机的精简工具"
 tags: []
 created: 2025-01-16T07:42:12.664Z
-updated: 2026-04-15T12:02:21.215Z
+updated: 2026-06-04T09:41:40.678Z
 source: https://wiki.bambulab.com/zh/software/bambu-connect
 ---
 
@@ -15,16 +15,16 @@ Bambu Connect 是一款能连接和发送打印到 Bambu Lab 3D 打印机的精�
 当前 Bambu Connect 发布的是 Beta 版本，它具备以下功能：
 
 1. 登陆用户云端账号；
-2. 查看用户云端绑定的打印机。
+2. 查看用户云端绑定的打印机;
 3. 发现和连接局域网模式下的打印机；
 4. 导入Bambu Lab gcode 3MF，并发送到打印机执行打印；
 5. 控制打印机轴移动等控制功能（暂不支持Liveview功能）。
 
 ## 下载
 
-- Windows: [bambu-connect-v2.4.0-beta.10-win32-x64.exe](https://public-cdn.bblmw.cn/upgrade/bambu-connect/updates/versions/2.4.0-beta.10/bambu-connect-v2.4.0-beta.10-win32-x64.exe)
-- macOS arm64 (Apple silicon): [bambu-connect-v2.4.0-beta.10-darwin-arm64.dmg](https://public-cdn.bblmw.cn/upgrade/bambu-connect/updates/versions/2.4.0-beta.10/bambu-connect-v2.4.0-beta.10-darwin-arm64.dmg)
-- macOS x86\_64 (Intel): [bambu-connect-v2.4.0-beta.10-darwin-x64.dmg](https://public-cdn.bblmw.cn/upgrade/bambu-connect/updates/versions/2.4.0-beta.10/bambu-connect-v2.4.0-beta.10-darwin-x64.dmg)
+- Windows: [bambu-connect-v2.5.0-beta.12-win32-x64.exe](https://public-cdn.bblmw.cn/upgrade/bambu-connect/updates/versions/2.5.0-beta.12/bambu-connect-v2.5.0-beta.12-win32-x64.exe)
+- macOS arm64 (Apple silicon): [bambu-connect-v2.5.0-beta.12-darwin-arm64.dmg](https://public-cdn.bblmw.cn/upgrade/bambu-connect/updates/versions/2.5.0-beta.12/bambu-connect-v2.5.0-beta.12-darwin-arm64.dmg)
+- macOS x86\_64 (Intel): [bambu-connect-v2.5.0-beta.12-darwin-x64.dmg](https://public-cdn.bblmw.cn/upgrade/bambu-connect/updates/versions/2.5.0-beta.12/bambu-connect-v2.5.0-beta.12-darwin-x64.dmg)
 - Linux: 开发中
 
 ## 版本说明

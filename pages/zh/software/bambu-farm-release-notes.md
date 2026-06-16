@@ -4,7 +4,7 @@ title: "拓竹农场管家版本说明"
 description: ""
 tags: []
 created: 2025-04-14T02:50:12.073Z
-updated: 2026-04-21T02:44:51.116Z
+updated: 2026-06-08T08:23:05.389Z
 source: https://wiki.bambulab.com/zh/software/bambu-farm-release-notes
 ---
 
@@ -15,3 +15,4 @@ source: https://wiki.bambulab.com/zh/software/bambu-farm-release-notes
 - [拓竹农场管家客户端 V2.0.7 & 服务器端 V2.0.3 版本说明](207-203.md)
 - [拓竹农场管家客户端 V2.1.3 & 服务器端 V2.1.0.0 版本说明](2-1-3&V2-1-0-0.md)
 - [拓竹农场管家客户端 V2.3.0 & 服务器端 V2.3.0.0 版本说明](2-3-0&V2-3-0-0.md)
+- [拓竹农场管家客户端 V2.4.0 & 服务器端 V2.4.0.0 版本说明](2-4-0.md)

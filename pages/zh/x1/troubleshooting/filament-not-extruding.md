@@ -4,7 +4,7 @@ title: "耗材挤出失败时的故障排除步骤"
 description: "本指南介绍耗材停止挤出时，建议采用的故障排除流程。"
 tags: ["故障排查", "挤出", "挤出失败"]
 created: 2024-04-15T12:24:47.349Z
-updated: 2026-04-30T04:11:31.541Z
+updated: 2026-06-15T09:16:46.892Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/filament-not-extruding
 ---
 
@@ -26,7 +26,6 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/filament-not-extruding
 ### **工具和材料**
 
 - H2.0 六角扳手
-- 20 分钟
 
 ### **安全警告**
 

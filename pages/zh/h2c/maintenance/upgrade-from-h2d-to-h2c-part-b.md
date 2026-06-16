@@ -4,7 +4,7 @@ title: "H2D 升级 H2C 指引全流程指引 - 下篇"
 description: "本文概述了从 H2D 升级至 H2C 的完整流程，包括打印机注册、硬件更换、线缆连接及关键注意事项，帮助用户顺利完成升级并保持设备稳定运行。"
 tags: []
 created: 2025-11-24T01:36:57.383Z
-updated: 2026-02-05T04:17:55.852Z
+updated: 2026-06-09T08:02:17.550Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/upgrade-from-h2d-to-h2c-part-b
 ---
 
@@ -387,7 +387,7 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/upgrade-from-h2d-to-h2c-par
 
 #### 打印机润滑保养
 
-完成以上所有步骤后，H2D 至 H2C 的升级流程全部结束。建议参考 [H2C 定期清洁维护指南](https://wiki-test.bambulab.net/zh/h2c/maintenance/period-maintenance)，对打印机进行全面维护保养。
+完成以上所有步骤后，H2D 至 H2C 的升级流程全部结束。建议参考 [H2C 定期清洁维护指南](period-maintenance.md)，对打印机进行全面维护保养。
 
 ![](https://wiki.bambulab.com/h2c/h2d-to-h2c/volume-three/001.webp)
 

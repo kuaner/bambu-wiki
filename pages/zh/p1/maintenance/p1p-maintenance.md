@@ -1,10 +1,10 @@
 ---
 path: zh/p1/maintenance/p1p-maintenance
-title: "P1系列打印机定期维护建议"
+title: "P1 系列打印机定期维护建议"
 description: "关于 P1 系列打印机的一些日常维护和保养建议"
 tags: ["p1"]
 created: 2022-12-01T15:47:20.031Z
-updated: 2026-04-30T04:11:31.541Z
+updated: 2026-06-11T02:48:29.451Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/p1p-maintenance
 ---
 
@@ -67,6 +67,8 @@ Z 轴丝杆应**每三个月**检查并润滑一次。
 为确保运动平稳，打印机使用 LMU8 轴承和 8mm 光轴。 轴承在出厂时已润滑，为了防止锈蚀和延长使用寿命，建议定期对光轴进行清洁和防锈维护。
 
 ![](https://wiki.bambulab.com/p1/maintenance/p1p_maintenance/linear_rods.jpg)
+
+> P1 系列打印机背部光轴通常无需涂油维护，如您需要可[拆卸背板](p1s-rear-panel.md)进行操作。
 
 ### 何时维护？
 

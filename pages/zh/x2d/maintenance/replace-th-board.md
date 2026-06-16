@@ -4,7 +4,7 @@ title: "更换 X2D 工具头电路板"
 description: "本文介绍了如何更换 X2D 挤出主板（TH 板）、工具头接口板、热端加热组件接口板"
 tags: []
 created: 2026-04-14T13:08:30.420Z
-updated: 2026-05-21T02:07:36.733Z
+updated: 2026-06-11T03:09:32.169Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-th-board
 ---
 
@@ -13,8 +13,8 @@ source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-th-board
 工具头电路板指：
 
 1. TH 板（挤出主板）：实现对打印机耗材挤出关联动作（如进退料、回抽、温度调节等）的电路板。
-2. 工具头接口板：提供连接挤出机、霍尔检测板、涡流线圈及工具头前壳等部件接口的电路板；
-3. 热端加热组件接口板：提供加热组件接口的电路板。
+2. 工具头接口板：提供连接挤出机、左右进料霍尔检测板、涡流线圈及工具头前壳等部件接口的电路板；
+3. 热端加热组件接口板：提供工具头前壳脱落检测、加热组件接口的电路板。
 
 ![dlb064.png](https://public-cdn.bblmw.com/wiki/new/x2d/sku_pics/dlb064.png)![dlb066.png](https://public-cdn.bblmw.com/wiki/new/x2d/sku_pics/dlb066.png)![dlb065.png](https://public-cdn.bblmw.com/wiki/new/x2d/sku_pics/dlb065.png)
 
@@ -38,6 +38,11 @@ X2D
 
 > 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
+## 易损提示
+
+> 移除工具头接口板布线泡棉时，请您沿左侧向玻璃前门方向轻拉，避免因拉力过大导致左霍尔检测板连接器盖板松脱或损坏。  
+> ![泡棉3.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-th-board/%E6%B3%A1%E6%A3%893.jpg)
 
 ## 移除旧的工具头电路板
 

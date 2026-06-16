@@ -4,7 +4,7 @@ title: "Bambu Studio 性能测试方法"
 description: "当您使用 Bambu Studio 时发现软件运行缓慢、准备窗口或调参时卡顿，可参考本文导出软件工作文件，提供给技术团队分析。"
 tags: []
 created: 2026-05-14T08:43:03.337Z
-updated: 2026-06-10T01:42:02.895Z
+updated: 2026-06-10T01:42:03.889Z
 source: https://wiki.bambulab.com/zh/bambu-studio/troubleshoot/performance-testing-method
 ---
 

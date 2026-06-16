@@ -4,7 +4,7 @@ title: "刀切/画笔主要部件和使用流程介绍"
 description: ""
 tags: []
 created: 2025-03-25T07:57:36.879Z
-updated: 2026-06-01T14:15:16.967Z
+updated: 2026-06-01T14:15:17.998Z
 source: https://wiki.bambulab.com/zh/h2/manual/cutter-setup
 ---
 
@@ -41,7 +41,7 @@ source: https://wiki.bambulab.com/zh/h2/manual/cutter-setup
 
 ### 刀切模组安装步骤
 
-> A2L 安装刀切/画笔模组的教程请参考：[A2L 刀切/画笔使用教程](https://wiki.bambulab.com/zh/a2l/manual/cutting-module-user-guide)。
+> A2L 安装刀切/画笔模组的教程请参考：[A2L 刀切/画笔使用教程](../../a2l/manual/cutting-module-user-guide.md)。
 
 更详细的刀切模组和画笔安装步骤请参考视频：[刀切模组安装指南](cutting-module-installation-guide.md)
 

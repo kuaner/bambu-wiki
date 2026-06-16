@@ -4,7 +4,7 @@ title: "A2L 首次打印"
 description: "本文介绍了 A2L AMS 套装及单机的首次打印方法。引导您使用 AMS lite 或外挂料盘装载耗材并完成进料，通过打印机屏幕、Bambu Handy 和 Bambu Studio 软件发起打印任务。"
 tags: []
 created: 2026-06-01T13:02:09.025Z
-updated: 2026-06-02T03:55:34.439Z
+updated: 2026-06-02T03:55:35.447Z
 source: https://wiki.bambulab.com/zh/a2l/manual/first-print
 ---
 
@@ -24,13 +24,13 @@ source: https://wiki.bambulab.com/zh/a2l/manual/first-print
 
 #### A2L AMS 套装连接方式
 
-详细操作说明请参见 [A2L 套装开箱指南](https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo)。
+详细操作说明请参见 [A2L 套装开箱指南](unboxing-a2l-combo.md)。
 
 ![a2l-first-print-001-s01-setup-ams-combo-connection-v2.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/first-print/a2l-first-print-001-s01-setup-ams-combo-connection-v2.png)
 
 #### A2L 单机连接方式
 
-详细操作说明请参见 [A2L 单机开箱指南](https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l)。
+详细操作说明请参见 [A2L 单机开箱指南](unboxing-a2l.md)。
 
 ![a2l-first-print-002-s01-setup-standalone-connection-v2.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/first-print/a2l-first-print-002-s01-setup-standalone-connection-v2.png)
 
@@ -60,7 +60,7 @@ source: https://wiki.bambulab.com/zh/a2l/manual/first-print
 
 首次打印时，请根据实际连接方式选择一种进料方式。
 
-如需同时连接 AMS lite 和外挂料盘，或在打印中切换耗材来源，详细操作说明请参见 [A2L AMS 连接指南](https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide)。
+如需同时连接 AMS lite 和外挂料盘，或在打印中切换耗材来源，详细操作说明请参见 [A2L AMS 连接指南](a2l-ams-connection-guide.md)。
 
 ### 方式 1：AMS lite 进料
 
@@ -116,7 +116,7 @@ source: https://wiki.bambulab.com/zh/a2l/manual/first-print
 
 在首页点击**打印文件**，然后选择要打印的模型。以下以小船模型为例。
 
-根据机型特点，打印机内置了多款实用模型（打印板保护套、热床保护架等），您可以按需选择打印。这些内置模型的详细使用指南，请参见 [A2L 配件模型介绍](https://wiki.bambulab.com/zh/a2l/manual/internal-print-files)。
+根据机型特点，打印机内置了多款实用模型（打印板保护套、热床保护架等），您可以按需选择打印。这些内置模型的详细使用指南，请参见 [A2L 配件模型介绍](internal-print-files.md)。
 
 ![a2l-first-print-020-s06-print-select-print-files-v2.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/first-print/a2l-first-print-020-s06-print-select-print-files-v2.png)
 

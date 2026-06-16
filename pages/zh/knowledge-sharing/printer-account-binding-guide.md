@@ -4,7 +4,7 @@ title: "Bambu Lab 打印机账号绑定指南"
 description: ""
 tags: []
 created: 2025-04-16T09:20:39.869Z
-updated: 2026-06-02T03:07:59.923Z
+updated: 2026-06-02T03:08:00.951Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-binding-guide
 ---
 

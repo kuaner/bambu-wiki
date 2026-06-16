@@ -4,7 +4,7 @@ title: "A2L TPU 打印指南"
 description: "本指南介绍了如何在 A2L 上打印 TPU"
 tags: []
 created: 2026-06-01T13:02:28.530Z
-updated: 2026-06-03T02:32:49.884Z
+updated: 2026-06-03T02:32:50.879Z
 source: https://wiki.bambulab.com/zh/a2l/manual/tpu-printing-guide
 ---
 

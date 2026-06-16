@@ -4,7 +4,7 @@ title: "更换 H2D & H2C 工具头线轨组件"
 description: "本文介绍了如何更换 H2D & H2C 工具头线轨组件"
 tags: []
 created: 2025-03-31T01:44:31.417Z
-updated: 2026-06-11T01:49:30.013Z
+updated: 2026-06-11T01:49:31.032Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-x-axis-assembly
 ---
 

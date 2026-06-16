@@ -4,7 +4,7 @@ title: "更换摄像头和 LED 补光灯"
 description: "本文介绍了如何更换 P1 系列摄像头和 LED 补光灯"
 tags: ["p1"]
 created: 2022-12-05T10:37:22.263Z
-updated: 2026-06-08T02:00:37.097Z
+updated: 2026-06-08T02:00:38.385Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/chamber-camera
 ---
 

@@ -1,10 +1,10 @@
 ---
 path: zh/h2s/manual/screen-operation
-title: "H2S屏幕操作指南"
+title: "H2S 屏幕操作指南"
 description: "本指南旨在介绍 H2S 打印机屏幕按钮和操作功能。"
 tags: []
 created: 2025-08-26T13:25:14.151Z
-updated: 2025-12-22T01:56:03.796Z
+updated: 2026-06-04T09:47:42.936Z
 source: https://wiki.bambulab.com/zh/h2s/manual/screen-operation
 ---
 
@@ -22,15 +22,15 @@ source: https://wiki.bambulab.com/zh/h2s/manual/screen-operation
 
 ## 控制
 
-![extrude.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/extrude.png)
+![screenshot_20260603_155052.png](https://wiki.bambulab.com/h2s/manual/screen-operation/screenshot_20260603_155052.png)
 
 ### 1. **空调系统**
 
 可根据耗材的不同选择合适的空调系统。
 
-- **冷却模式**：适合打印 PLA/TPU 等**耐热性较低的耗材；**在此模式下，腔体加热循环风扇保持关闭状态。
+- **冷却模式**：适合打印 PLA/TPU 等**耐热性较低的耗材；**在此模式下，腔体加热循环风扇保持关闭状态。在冷却模式下，可开启自适应空气循环系统的过滤功能，该功能主要用于低温耗材打印过程中，将空气通过过滤器过滤再进行排出。
 
-![冷却模式.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/%E5%86%B7%E5%8D%B4%E6%A8%A1%E5%BC%8F.png)
+![空调系统-过滤.png](https://wiki.bambulab.com/h2s/manual/screen-operation/%E7%A9%BA%E8%B0%83%E7%B3%BB%E7%BB%9F-%E8%BF%87%E6%BB%A4.png)
 
 - **腔温保持模式**：适合打印 ABS/ASA/PC/PA 等**具备高耐热性的耗材。**腔体加热时，系统会自动切换至腔温保持模式；在此模式下，腔体加热循环风扇将自动开启，辅助部件冷却风扇将保持关闭状态。
 
@@ -76,19 +76,19 @@ source: https://wiki.bambulab.com/zh/h2s/manual/screen-operation
 
 ### 4. **喷嘴和挤出机**
 
-![pen.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/pen.png)
+![喷嘴和挤出机-h2s.png](https://wiki.bambulab.com/h2s/manual/screen-operation/%E5%96%B7%E5%98%B4%E5%92%8C%E6%8C%A4%E5%87%BA%E6%9C%BA-h2s.png)
 
-1. **喷嘴温度**：输入数值，设置喷嘴温度。
+1. **挤出机**：点击上下按钮，手动挤出或退出 1 cm 耗材。如果挤出机内显示耗材颜色，则表示挤出机的霍尔开关检测到有耗材进入。
 
-![wendu.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/wendu.png)
+![挤出机显示耗材颜色.png](https://wiki.bambulab.com/h2s/manual/screen-operation/%E6%8C%A4%E5%87%BA%E6%9C%BA%E6%98%BE%E7%A4%BA%E8%80%97%E6%9D%90%E9%A2%9C%E8%89%B2.png)
 
 2. **喷嘴类型**：可手动设置喷嘴的类型、材质及直径。
 
-![penzui类型.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/penzui%E7%B1%BB%E5%9E%8B.png)
+![喷嘴类型.png](https://wiki.bambulab.com/h2s/manual/screen-operation/%E5%96%B7%E5%98%B4%E7%B1%BB%E5%9E%8B.png)
 
-3. **挤出机**：点击上下按钮，手动挤出或退出 1 cm 耗材。如果挤出机绿灯亮起，则表示挤出机的霍尔开关检测到有耗材进入。
+3. **喷嘴温度**：输入数值，设置喷嘴温度。
 
-![绿光.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/%E7%BB%BF%E5%85%89.png)
+![喷嘴温度.png](https://wiki.bambulab.com/h2s/manual/screen-operation/%E5%96%B7%E5%98%B4%E6%B8%A9%E5%BA%A6.png)
 
 ### 5. **腔温**
 
@@ -109,19 +109,13 @@ source: https://wiki.bambulab.com/zh/h2s/manual/screen-operation
 
 ## 耗材
 
-![amshaocai.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/amshaocai.png)
+![ams-h2s.png](https://wiki.bambulab.com/h2s/manual/screen-operation/ams-h2s.png)
 
-### 1. **设备**
-
-可在此处切换不同的设备（AMS 或外挂料盘）。
-
-![dualams.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/dualams.png)
-
-### 2. **料盘**
+### 1. **料盘**
 
 点击任一料盘图标，可进行耗材编辑、进退料和 RFID 重读操作；
 
-![jinliao.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/jinliao.png)
+![screenshot_20260603_155425.png](https://wiki.bambulab.com/h2s/manual/screen-operation/screenshot_20260603_155425.png)
 
 - **编辑：**如果 AMS 已通过 RFID 识别该料盘信息，可在此处查看料盘信息，但无法修改耗材参数；如果未读取 RFID，则可在此处修改耗材信息。
 
@@ -132,7 +126,7 @@ source: https://wiki.bambulab.com/zh/h2s/manual/screen-operation
 - **进料：**点击按钮，AMS 2 Pro 会自动将耗材进料至挤出机；
 - **重读：**点击按钮，AMS 2 Pro 会重新读取该槽位的 RFID。
 
-### 3. **烘干和湿度**
+### 2. **烘干和湿度**
 
 可查看 AMS 内部的湿度和温度，也可在此处对耗材进行烘干。
 
@@ -144,13 +138,13 @@ source: https://wiki.bambulab.com/zh/h2s/manual/screen-operation
 
 ![](https://wiki.bambulab.com/h2/manual/screen-operation/image-3.png)
 
-### 4. **外挂料盘**
+### 3. **外挂料盘**
 
 点击外挂料盘图标，可进行耗材编辑和进退料操作。
 
-![waigua.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/waigua.png)
+![screenshot_20260603_155107.png](https://wiki.bambulab.com/h2s/manual/screen-operation/screenshot_20260603_155107.png)
 
-### 5. **工具**
+### 4. **工具**
 
 ![xvliaoo.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/xvliaoo.png)
 
@@ -158,7 +152,9 @@ source: https://wiki.bambulab.com/zh/h2s/manual/screen-operation
 
 ![zzidongxvliao.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/zzidongxvliao.png)
 
-### 6. **指南**
+2. **AMS 烘干：** 同“2. 烘干和湿度”
+
+### 5. **指南**
 
 对进料操作进行说明：选择特定槽位，点击料盘图标，再点击进料按钮，即可触发自动进料。
 
@@ -208,12 +204,14 @@ source: https://wiki.bambulab.com/zh/h2s/manual/screen-operation
 
 1. **打印校准**：包括电机降噪、振动补偿、高温热床调平和自动热床调平。
 
-![dayinjiaozhun.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/dayinjiaozhun.png)
+![打印校准.png](https://wiki.bambulab.com/h2s/manual/screen-operation/%E6%89%93%E5%8D%B0%E6%A0%A1%E5%87%86.png)
 
 - **电机降噪：**减少打印过程中电机产生的噪音，特别是在进行长时间或高速打印时。通过优化电机的运行算法和控制策略，不仅能降低噪音，还能提升打印表面的光滑度，从而改善最终打印效果。
 - **振动补偿：** 在打印中实时监测并检测到任何震动时，可自动调整工具头位置，以确保打印的精确度。尤其在打印复杂或细致模型时，通过此校准能够有效防止因震动引起的误差，确保每层都准确无误地完成。
 - **自动热床调平：**通过智能算法调整喷嘴与打印板之间的距离，确保每个角落的间隙一致，能够有效避免因热床不平整导致的打印缺陷，从而提高打印精度。
 - **高温热床调平：**使用 ABS/ASA/PC/PA 等高温耗材打印前，进行高温热床校准，能够确保热床在高温环境下保持稳定，有效防止首层翘曲或粘附不良，提高首层打印质量。
+
+- **触碰裹头检测校准**：用于检测裹头检测起始位置是否准确，以此保证打印过程中裹头识别的准确性。具体请参考：[Bambu Studio 触碰裹头检测功能](../../software/bambu-studio/nozzle-clumping-detection-by-probing.md)
 
 2. **实况摄像头校准：**通过识别热床上的特定标记，校准实况摄像头的位置和角度，减少因摄像头视角偏差和位置错误导致的检测误差，从而显著提升其检测精度，实现更高的图像捕捉质量。
 
@@ -239,7 +237,7 @@ source: https://wiki.bambulab.com/zh/h2s/manual/screen-operation
 
 - **喷嘴冷拔维护：**当挤出电机在常规打印流量下频繁出现过载报错，则表示喷嘴阻力过大，急需清理；同时，由于 TPU 对喷嘴阻力极为敏感，若此前喷嘴打印过其他耗材，建议在打印 TPU 前对喷嘴进行冷拔清理，以保证打印顺畅。喷嘴冷拔维护详情请参考：[H2S 喷嘴冷拔维护清理](../maintenance/nozzle-cold-pull-maintenance-and-cleaning.md)。
 
-![冷拔1.png](https://wiki.bambulab.com/h2/h2s/manual/screen-operation/%E5%86%B7%E6%8B%941.png)
+![screenshot_20260603_155503.png](https://wiki.bambulab.com/h2s/manual/screen-operation/screenshot_20260603_155503.png)
 
 - **XYZ轴清洁：** 定期对打印机的XYZ轴进行清理和维护，可以保证打印精度和设备稳定运行。
 

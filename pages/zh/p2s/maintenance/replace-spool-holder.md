@@ -4,7 +4,7 @@ title: "更换 P2S/X2D  料盘支架"
 description: "本文介绍了如何更换 P2S/X2D  料盘支架"
 tags: ["料盘支架", "料盘支架接头"]
 created: 2025-10-14T12:55:40.318Z
-updated: 2026-04-21T02:55:20.479Z
+updated: 2026-06-05T03:35:40.521Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-spool-holder
 ---
 
@@ -16,12 +16,8 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-spool-holder
 料盘支架接头：用于连接料管和耗材的接头。  
 ![ptfe_tube_connector_for_spool_holder.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/ptfe_tube_connector_for_spool_holder.jpg)
 
-注意：打印机背部有3个位置，可以安装料盘支架，可根据个人实际情况进行选择。  
-![3_locations_004.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/spool_holder/3_locations_004.png)
-
-> 额外的支架可通过下载打印模型或从内置模型里自行打印。  
-> ![spool_holder_p.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/spool_holder/spool_holder_p.png)  
-> [spool\_holder.gcode.3mf](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/spool_holder/spool_holder.gcode.3mf)
+> 注意：**P2S 打印机**背部有 3 个位置可以安装料盘支架，可根据个人实际情况进行选择。额外的支架可通过下载打印模型或从内置模型里自行打印。Gode:[spool\_holder.gcode.3mf](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/spool_holder/spool_holder.gcode.3mf) Stl: [spool\_holder.stl](https://wiki.bambulab.com/p2s/maintenance/spool_holder.stl)  
+> ![3_locations_004.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/spool_holder/3_locations_004.png)
 
 ## 何时更换
 

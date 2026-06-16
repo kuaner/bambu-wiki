@@ -4,11 +4,24 @@ title: "Bambu Studio 2.7.1 版本说明"
 description: ""
 tags: []
 created: 2026-06-01T09:07:11.054Z
-updated: 2026-06-02T01:49:49.886Z
+updated: 2026-06-06T02:42:37.577Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-7-1
 ---
 
 2.7.1 Public Release是基于2.6.1 Public Beta以及2.7.0 Public Beta的新版本。相较于V2.6.0 Public Release，该版本新增对Bambu Lab A2L的支持，并新增纹理转涂色、耗材管理器等重要功能，同时包含部分改进及 Bug 修复。
+
+> **已知问题：MacOS 26.5向后版本启动卡顿**
+>
+> 部分 MacOS26.5与26.5.1用户在启动Studio后会出现界面持续卡顿、内存上涨，个别情况下导致崩溃。该问题与内置 WebView 初始化流程相关，正在排查中（参见 [#11004](https://github.com/bambulab/BambuStudio/issues/11004) / [#10968](https://github.com/bambulab/BambuStudio/issues/10968)）。
+>
+> **临时规避方法：**
+>
+> - 使用[预发布版本](https://public-cdn.bambulab.cn/upgrade/studio/software/02.07.01.57/90d9dd7111/Bambu_Studio_mac-v02.07.01.57-20260605191744.dmg)。
+> - 启动后将 Studio 窗口**最小化，再最大化；**
+> - 或打开任意子页面（如“偏好设置 "）；
+> - 或暂时回退至 [Bambu Studio 2.6.0 Public Release](https://public-cdn.bblmw.cn/upgrade/studio/software/02.06.00.51/c20af94df3/Bambu_Studio_mac-v02.06.00.51.dmg)版本。
+>
+> 修复版本正在准备中，将尽快发布。
 
 > ⚠️2.7.0 Public Beta用户注意：因机型预设配置及部分 G-Code 占位符新增，请尽快升级至V2.7.1 Public Release版本避免部分场景下的切片报错问题。
 

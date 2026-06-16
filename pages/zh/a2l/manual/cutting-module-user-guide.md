@@ -4,7 +4,7 @@ title: "A2L 刀切/画笔使用教程"
 description: "本文介绍了如何在 A2L 上使用刀切/画笔功能完成 2D 作业"
 tags: []
 created: 2026-06-01T13:01:47.322Z
-updated: 2026-06-03T02:29:09.341Z
+updated: 2026-06-03T02:29:10.388Z
 source: https://wiki.bambulab.com/zh/a2l/manual/cutting-module-user-guide
 ---
 

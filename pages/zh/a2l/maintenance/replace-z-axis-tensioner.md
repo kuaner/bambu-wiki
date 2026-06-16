@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-z-axis-tensioner
 title: "A2L 更换 Z 轴张紧器"
-description: ""
+description: "本文介绍了如何更换 A2L Z 轴张紧器"
 tags: []
 created: 2026-06-01T13:15:55.244Z
-updated: 2026-06-01T13:15:55.244Z
+updated: 2026-06-04T01:51:30.295Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-z-axis-tensioner
 ---
 
@@ -38,7 +38,7 @@ A2L Z 轴张紧器
 
 ### 1. 拆卸底座组件
 
-请参照下方教程拆卸底座组件（无需拆卸X轴）：[更换底座组件](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+请参照下方教程拆卸底座组件（无需拆卸X轴）：[更换底座组件](replace-printer-frame.md)
 
 ### 2. 固定X轴
 
@@ -95,7 +95,7 @@ A2L Z 轴张紧器
 
 ### 5. 安装底座部分
 
-请参照下方教程装回底座部分：[更换底座组件](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+请参照下方教程装回底座部分：[更换底座组件](replace-printer-frame.md)
 
 ## 结束语
 

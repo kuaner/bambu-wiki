@@ -4,7 +4,7 @@ title: "PVA 打印指南"
 description: ""
 tags: []
 created: 2024-02-20T08:18:56.284Z
-updated: 2026-05-12T06:39:02.492Z
+updated: 2026-06-12T10:00:02.463Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/pva-printing-guide
 ---
 
@@ -61,8 +61,6 @@ PVA ，即聚乙烯醇，是一种柔软且可生物降解的聚合物。它对�
 **H2D:**  
 [bambu\_pva\_（pla\_支撑主体\_+\_pva\_支撑界面）\_h2d.3mf](https://wiki.bambulab.com/filament-acc/filament/pva-printing-guide/bambu_pva_%EF%BC%88pla_%E6%94%AF%E6%92%91%E4%B8%BB%E4%BD%93_+_pva_%E6%94%AF%E6%92%91%E7%95%8C%E9%9D%A2%EF%BC%89-_h2d.3mf)  
 [bambu\_pva\_（pva\_支撑主体\_+\_pva\_支撑界面）*h2d*.3mf](https://wiki.bambulab.com/filament-acc/filament/pva-printing-guide/bambu_pva_%EF%BC%88pva_%E6%94%AF%E6%92%91%E4%B8%BB%E4%BD%93_+_pva_%E6%94%AF%E6%92%91%E7%95%8C%E9%9D%A2%EF%BC%89_h2d_.3mf)
-
-H2D 打印 PVA 特殊的打印建议：
 
 > 🚫 **不支持使用 PVA 来支撑 PETG 耗材。**
 

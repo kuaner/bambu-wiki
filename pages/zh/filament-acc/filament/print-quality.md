@@ -4,7 +4,7 @@ title: "打印质量与解决办法"
 description: ""
 tags: ["打印质量"]
 created: 2023-12-10T06:08:49.870Z
-updated: 2026-01-21T11:31:52.108Z
+updated: 2026-06-15T06:28:36.063Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality
 ---
 
@@ -15,6 +15,10 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality
 ## 常见打印问题
 
   
+
+[![](https://wiki.bambulab.com/spg_error1.jpg)
+
+炒面](https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/spaghetti)
 
 [![](https://wiki.bambulab.com/filament-acc/filament/print-quality/dutou.png)
 

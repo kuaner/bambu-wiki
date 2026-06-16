@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/lubricate-x-y-z-axis
 title: "A2L XYZ 轴润滑"
-description: ""
+description: "本文介绍了如何对 A2L XYZ 轴进行润滑"
 tags: []
 created: 2026-06-01T13:16:35.843Z
-updated: 2026-06-01T13:16:35.843Z
+updated: 2026-06-10T08:42:00.804Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/lubricate-x-y-z-axis
 ---
 
@@ -20,6 +20,8 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/lubricate-x-y-z-axis
 - 润滑油和润滑脂（请勿混淆）
 
 ![oil.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/lubricate-x-y-z-axis/oil.jpg)
+
+## 视频指南
 
 ## XY 轴
 
@@ -62,7 +64,7 @@ X 轴建议每一个月维护一次；Y 轴在首次开箱装机后和每打印 
 
 ![cashi3.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/lubricate-x-y-z-axis/cashi3.jpg)
 
-来回推拉工具头，确保润滑油遍布 X 轴线规。
+来回推拉工具头，确保润滑油遍布 X 轴线轨。
 
 ![xtuila.webp](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/lubricate-x-y-z-axis/xtuila.webp)
 

@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-bottom-cover
 title: "A2L 更换底盖"
-description: ""
+description: "本文介绍了如何更换 A2L 底盖"
 tags: []
 created: 2026-06-01T13:12:09.337Z
-updated: 2026-06-01T13:12:34.139Z
+updated: 2026-06-12T07:39:04.820Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-bottom-cover
 ---
 
@@ -54,17 +54,22 @@ A2L 前/后底盖
 
 使用 H2.0 内六角螺丝刀拆下图示5颗螺丝，取下后底盖。
 
-![dk003.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk003.jpg)  
-![dk004.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk004.webp)
+|  |  |
+| --- | --- |
+|  |  |
 
 ### 3. 移除前底盖
 
-使用 H2.0 内六角螺丝刀拆下图示 12 颗螺丝，其中蓝色标记两颗为银色螺丝与其他 10 颗螺丝不同。  
-![dk019.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk019.jpg)  
-取下 Y 轴张紧器盖板。  
+使用 H2.0 内六角螺丝刀拆下图示 12 颗螺丝，其中蓝色标记两颗为银色螺丝与其他 10 颗螺丝不同。
+
+![dk019.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk019.jpg)
+
+取下 Y 轴张紧器盖板。
+
 ![dk006.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk006.webp)
 
-用手扣住前底盖边缘，向外解锁卡扣取下前底盖。  
+用手扣住前底盖边缘，向外解锁卡扣取下前底盖。
+
 ![dk012.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk012.webp)
 
 ## **安装底盖**
@@ -73,19 +78,26 @@ A2L 前/后底盖
 
 参照图示装回后底壳，按压四周确保安装到位，使用 H2.0 内六角螺丝刀锁入 5 颗螺丝。
 
-![dk005.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk005.webp)![dk003.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk003.jpg)
+|  |  |
+| --- | --- |
+|  |  |
 
 ### 2. 安装前底盖
 
-将前底盖装回，按压四周确保安装到位。使用 H2.0 内六角螺丝刀锁入 12 颗螺丝,其中蓝色标记两颗与其他螺丝不同，请注意区分。  
-![dk011.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk011.webp)![dk019.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk019.jpg)
+将前底盖装回，按压四周确保安装到位。使用 H2.0 内六角螺丝刀锁入 12 颗螺丝,其中蓝色标记两颗与其他螺丝不同，请注意区分。
 
-装回 Y 轴张紧器盖板  
+|  |  |
+| --- | --- |
+|  |  |
+
+装回 Y 轴张紧器盖板。
+
 ![dk007.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk007.webp)
 
 ### 3. 翻转打印机
 
-将打印机重新放正。  
+将打印机重新放正。
+
 ![dk016.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk016.jpg)
 
 ## 结束语

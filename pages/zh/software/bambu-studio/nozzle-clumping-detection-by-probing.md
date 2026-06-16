@@ -4,7 +4,7 @@ title: "Bambu Studio 触碰裹头检测功能"
 description: "本文介绍了 Bambu Studio 中的触碰裹头检测功能"
 tags: []
 created: 2025-08-04T03:16:04.272Z
-updated: 2026-05-18T08:07:39.772Z
+updated: 2026-06-09T01:32:10.350Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/nozzle-clumping-detection-by-probing
 ---
 
@@ -27,13 +27,14 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/nozzle-clumping-detec
 - **H2S：** 01.01.60.00 Public Beta 或更高版本
 - **H2C：** 全固件支持
 - **P2S：** 01.01.00.00 或更高版本
-- **A1 系列：** 裹头检测无需在 Bambu Studio 中开启，请在屏幕上点击**设置——打印选项**开启，详情请参考：[A1系列裹头检测功能介绍](../../a1-mini/manual/nozzle-warp-detection.md)
+- **X2D：** 01.01.00.00 或更高版本
+- **A 系列：** 裹头检测无需在 Bambu Studio 中开启，请在屏幕上点击**设置——打印选项**开启，详情请参考：[A1系列裹头检测功能介绍](../../a1-mini/manual/nozzle-warp-detection.md) 或 [A2L 裹头检测介绍](../../a2l/manual/nozzle-clumping-detection.md)
 
 ## 检测原理与执行方式
 
 在打印至**第 4、11、20 层**时，工具头会在当前层打印开始移动至热床后方，执行以下检测流程：
 
-1. **喷嘴下探：**热床向上移动，然后工具头向右移动，做出一个类似喷嘴下探的动作进行触碰检测；
+1. **喷嘴下探：** 热床向上移动，然后工具头向右移动，做出一个类似喷嘴下探的动作进行触碰检测；
 2. **碰撞检测：**
 
 - 若喷嘴被耗材包裹（裹头），下探时可能触碰到热床，涡流传感器会检测到碰撞，判定为裹头，打印自动暂停并提醒用户；
@@ -56,6 +57,12 @@ H2S 打印机触碰裹头检测动作如下动图所示：
 P2S 打印机触碰裹头检测位置为擦嘴片螺丝孔位置，检测动作如下动图所示：
 
 ![触碰裹头检测校准2.webp](https://wiki.bambulab.com/software/bambu-studio/nozzle-clumping-detection-by-probing/%E8%A7%A6%E7%A2%B0%E8%A3%B9%E5%A4%B4%E6%A3%80%E6%B5%8B%E6%A0%A1%E5%87%862.webp)
+
+### **X2D**
+
+X2D 打印机触碰裹头检测动作如下动图所示：
+
+![nozzle_clumping_detection_by_probing6.gif](https://wiki.bambulab.com/software/bambu-studio/nozzle-clumping-detection-by-probing/nozzle_clumping_detection_by_probing6.gif)
 
 **触碰裹头检测校准**
 

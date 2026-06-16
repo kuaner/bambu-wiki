@@ -4,7 +4,7 @@ title: "A2L 主要部件介绍"
 description: "本文介绍了 A2L 的主要部件及功能"
 tags: []
 created: 2026-06-01T13:00:35.938Z
-updated: 2026-06-02T07:10:12.155Z
+updated: 2026-06-02T07:10:13.196Z
 source: https://wiki.bambulab.com/zh/a2l/manual/a2l-intro
 ---
 
@@ -52,7 +52,7 @@ A2L 的 X、Y 和 Z 皮带均配有可调节的皮带张紧器：
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/a2l-intro/022.png)
 
-当打印件出现失圆、丢步等问题，或校准过程中系统提示“共振频率偏低”时，通常意味着皮带张力不足。此时，请参考 [A2L 皮带张紧](https://wiki.bambulab.com/zh/a2l/maintenance/belt-tension)进行维护，以确保打印精度。
+当打印件出现失圆、丢步等问题，或校准过程中系统提示“共振频率偏低”时，通常意味着皮带张力不足。此时，请参考 [A2L 皮带张紧](../maintenance/belt-tension.md)进行维护，以确保打印精度。
 
 ## 工具头
 
@@ -72,7 +72,7 @@ A2L 的 PTFE 管需连接至工具头上的五通组件。五通组件用于汇�
 | --- | --- |
 |  |  |
 
-1. **缠料检测/缓冲器：**检测送料过程中是否出现缠料、阻力异常等情况，具体请参考：[缠料检测介绍](https://wiki.bambulab.com/zh/a2l/manual/air-printing-and-filament-tangle-detection)；同时该模块兼具缓冲功能，可实现打印机直连 AMS，无需额外加装独立缓冲器；
+1. **缠料检测/缓冲器：**检测送料过程中是否出现缠料、阻力异常等情况，具体请参考：[缠料检测介绍](air-printing-and-filament-tangle-detection.md)；同时该模块兼具缓冲功能，可实现打印机直连 AMS，无需额外加装独立缓冲器；
 2. **刀切模组在位霍尔检测：**检测刀切模组是否正确滑入，避免模组未装好时发起刀切/画笔作业；
 3. **切刀检测霍尔：**检测工具头切刀是否正常工作，切断耗材后刀柄是否正常归位；
 4. **进料霍尔：**判断耗材是否进入挤出机，辅助识别进料异常；
@@ -155,7 +155,7 @@ A2L 工具头的左侧配备了一个热端散热风扇，风扇吹出的冷空�
 
 ### 刀切模组
 
-除以上工具头的主要组成部分之外，A2L 还支持安装刀切或画笔模组进行 2D 任务，其安装步骤和 H2 系列相同，具体请参考：[A2L 刀切/画笔使用教程](https://wiki.bambulab.com/zh/a2l/manual/cutting-module-user-guide)。A2L 的工具头内包含一块刀切模组转接板，用于连接刀切模组，以确保 2D 模组可正常工作。
+除以上工具头的主要组成部分之外，A2L 还支持安装刀切或画笔模组进行 2D 任务，其安装步骤和 H2 系列相同，具体请参考：[A2L 刀切/画笔使用教程](cutting-module-user-guide.md)。A2L 的工具头内包含一块刀切模组转接板，用于连接刀切模组，以确保 2D 模组可正常工作。
 
 |  |  |
 | --- | --- |
@@ -169,7 +169,7 @@ A2L 工具头的左侧配备了一个热端散热风扇，风扇吹出的冷空�
 - 耗材进料与退料
 - 多色打印时的耗材更换及冲刷
 
-A2L 吐料组件内置霍尔传感器，可实现裹头检测。当热端因模型脱落等原因出现裹头时，工具头会自动移动到吐料组件位置，传感器即可捕捉并触发相应的处理流程。详情请参考：[A2L 裹头检测功能](https://wiki.bambulab.com/zh/a2l/manual/nozzle-clumping-detection)。
+A2L 吐料组件内置霍尔传感器，可实现裹头检测。当热端因模型脱落等原因出现裹头时，工具头会自动移动到吐料组件位置，传感器即可捕捉并触发相应的处理流程。详情请参考：[A2L 裹头检测功能](nozzle-clumping-detection.md)。
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/a2l-intro/021.png)
 

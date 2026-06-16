@@ -4,13 +4,13 @@ title: "更换 AMS-HT 进/出气口组件"
 description: "本文将详细为您讲述更换 AMS HT 进/出气口组件的步骤。"
 tags: ["ams ht"]
 created: 2026-01-08T10:33:34.014Z
-updated: 2026-03-06T01:12:05.314Z
+updated: 2026-06-08T02:54:25.529Z
 source: https://wiki.bambulab.com/zh/ams-ht/maintenance/replace-air-inlet-unit
 ---
 
 ## 进/出气口组件
 
-![airinlet.jpg](https://wiki.bambulab.com/staging/replace-air-inlet-unit/airinlet.jpg)
+![airinlet.jpg](https://wiki.bambulab.com/ams-ht/disassembly-and-assembly/airinlet.jpg)
 
 ## 所需要工具和材料
 

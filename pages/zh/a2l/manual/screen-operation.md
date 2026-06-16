@@ -4,7 +4,7 @@ title: "A2L 屏幕操作指南"
 description: "本指南旨在介绍 A2L 打印机屏幕按键及操作功能。"
 tags: []
 created: 2026-06-01T13:02:16.436Z
-updated: 2026-06-01T13:18:26.742Z
+updated: 2026-06-04T10:02:13.720Z
 source: https://wiki.bambulab.com/zh/a2l/manual/screen-operation
 ---
 
@@ -76,7 +76,7 @@ source: https://wiki.bambulab.com/zh/a2l/manual/screen-operation
 
 #### 4. **切换 AMS 设备**
 
-如果连接了多台 AMS 设备，可点击翻页按钮，可查看所有连接至此打印机的 AMS 设备。每个 AMS 页面左上角均会显示该 AMS 的 ID，具体的 AMS ID 分配规则可参考：[A2L AMS 连接指南](https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide#ams-id-assignment)。
+如果连接了多台 AMS 设备，可点击翻页按钮，可查看所有连接至此打印机的 AMS 设备。每个 AMS 页面左上角均会显示该 AMS 的 ID，具体的 AMS ID 分配规则可参考：[A2L AMS 连接指南](https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide#ams-id-%E5%88%86%E9%85%8D)。
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/screen-operation/021.png)
 
@@ -187,7 +187,7 @@ source: https://wiki.bambulab.com/zh/a2l/manual/screen-operation
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/screen-operation/003.jpg)
 
-- **喷嘴冷拔维护：**当挤出电机在常规打印流量下频繁出现过载报错，则表示喷嘴阻力过大，急需清理；同时，由于 TPU 对喷嘴阻力极为敏感，若此前喷嘴打印过其他耗材，建议在打印 TPU 前对喷嘴进行冷拔清理，以保证打印顺畅。喷嘴冷拔维护详情请参考：[A2L 喷嘴冷拔维护指南](https://wiki.bambulab.com/zh/a2l/maintenance/nozzle-cold-pull-maintenance)。
+- **喷嘴冷拔维护：**当挤出电机在常规打印流量下频繁出现过载报错，则表示喷嘴阻力过大，急需清理；同时，由于 TPU 对喷嘴阻力极为敏感，若此前喷嘴打印过其他耗材，建议在打印 TPU 前对喷嘴进行冷拔清理，以保证打印顺畅。喷嘴冷拔维护详情请参考：[A2L 喷嘴冷拔维护指南](../maintenance/nozzle-cold-pull-maintenance.md)。
 
 |  |  |
 | --- | --- |
@@ -211,14 +211,14 @@ source: https://wiki.bambulab.com/zh/a2l/manual/screen-operation
 #### 打印选项
 
 - **声音**：如开启选项，打印机在开机、打印开始和打印结束时都会发出提示音。
-- **缠料检测**：主要用于防止耗材在外挂料盘或 AMS 内发生缠绕、卡料等送料故障。当检测到送料路径阻力异常增大时，系统会暂停打印并提示缠料风险。请参考 [A2L 空打缠料检测](https://wiki.bambulab.com/zh/a2l/manual/air-printing-and-filament-tangle-detection)了解更多相关信息。
+- **缠料检测**：主要用于防止耗材在外挂料盘或 AMS 内发生缠绕、卡料等送料故障。当检测到送料路径阻力异常增大时，系统会暂停打印并提示缠料风险。请参考 [A2L 空打缠料检测](air-printing-and-filament-tangle-detection.md)了解更多相关信息。
 - **丢步自动恢复**：当电机在工作过程中检测到位置偏移（即丢步）时，X、Y 和 Z 轴将会重新回中进行定位，然后回到丢步前的位置重新执行未被执行的 G code，保证打印质量。
-- **裹头检测**：当打印机检测到喷嘴被耗材包裹后，会自动暂停打印并提醒，尽可能避免裹头后继续打印对打印机造成更大的伤害。请参考 [A2L 裹头检测](https://wiki.bambulab.com/zh/a2l/manual/nozzle-clumping-detection)了解更多相关信息。
+- **裹头检测**：当打印机检测到喷嘴被耗材包裹后，会自动暂停打印并提醒，尽可能避免裹头后继续打印对打印机造成更大的伤害。请参考 [A2L 裹头检测](nozzle-clumping-detection.md)了解更多相关信息。
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/screen-operation/085.png)
 
 - **打印板位置检测**：打印机在打印开始前能检测用户是否放置了打印板，避免直接在热床上打印，导致打印失败甚至损坏热床。请参考 [A 系列打印板检测](../../a1-mini/manual/build-plate-detection.md)了解更多相关信息。
-- **空打检测：**主要用于应对因热端堵塞、耗材磨损/直径异常、温度设置不当等原因，导致喷嘴无法正常挤出耗材而进行"悬空打印"的情况。A2L 根据不同的供料方式和硬件配置，采用了多种检测方案协同工作，请参考 [A2L 空打缠料检测](https://wiki.bambulab.com/zh/a2l/manual/air-printing-and-filament-tangle-detection)了解更多相关信息。
+- **空打检测：**主要用于应对因热端堵塞、耗材磨损/直径异常、温度设置不当等原因，导致喷嘴无法正常挤出耗材而进行"悬空打印"的情况。A2L 根据不同的供料方式和硬件配置，采用了多种检测方案协同工作，请参考 [A2L 空打缠料检测](air-printing-and-filament-tangle-detection.md)了解更多相关信息。
 - **热床保温：**通过在打印前让热床充分预热并维持稳定温度，减少因热形变导致的首层翘曲，从而提升首层打印质量。
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/screen-operation/070.png)
@@ -295,7 +295,7 @@ source: https://wiki.bambulab.com/zh/a2l/manual/screen-operation
 | --- | --- |
 |  |  |
 
-> 挂载校准的具体介绍请参考：[A2L 刀切/画笔使用教程](https://wiki.bambulab.com/zh/a2l/manual/cutting-module-user-guide)。
+> 挂载校准的具体介绍请参考：[A2L 刀切/画笔使用教程](cutting-module-user-guide.md)。
 
 ## 结束语
 

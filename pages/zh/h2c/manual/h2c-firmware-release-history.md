@@ -4,7 +4,7 @@ title: "H2C 固件发布记录"
 description: "本指南提供 H2C 所有固件发布记录"
 tags: []
 created: 2025-11-18T12:41:33.455Z
-updated: 2026-06-15T03:13:27.125Z
+updated: 2026-06-15T07:01:38.859Z
 source: https://wiki.bambulab.com/zh/h2c/manual/h2c-firmware-release-history
 ---
 
@@ -13,40 +13,53 @@ source: https://wiki.bambulab.com/zh/h2c/manual/h2c-firmware-release-history
 ### 新功能
 
 1. 新增对耗材变轨器的支持  
-   耗材变轨器专为双喷嘴打印机设计,配备2个进料口与2个出料口,可支持AMS与双喷嘴的任意映射。详见[wiki](https://e.bambulab.com/t?c=XniDu1KyaRFd6fQa) 。  
-   该功能Bambu Studio更新到V2.5.3.60或更高的版本/Bambu Handy更新到V3.18.0或更高的版本。
+   耗材变轨器专为双喷嘴打印机设计,配备 2 个进料口与 2 个出料口,可支持 AMS 与双喷嘴的任意映射。详见[耗材变轨器指南 - H2 系列](../../general/manual/filament-track-switch-h2.md)。  
+   该功能 Bambu Studio 更新到 V2.5.3.60 或更高的版本/Bambu Handy 更新到 V3.18.0 或更高的版本。
 
 |  |  |
 | --- | --- |
 |  |  |
 
-2. 支持远程开启烘干功能
+2. 支持远程开启烘干功能。
 
 |  |  |
 | --- | --- |
 |  |  |
 
 3. 支持边烘边打功能，需要注意功率限制和烘干温度不能高于材料的热变形温度。
-4. 支持左喷嘴（升降端）打印TPU（支持TPU硬度等级≥90A）。
-5. 支持局域网下不插入U盘发起打印。
-6. 新增热床底部异物检测，需配合 Bambu Studio 2.5.3版本。
-7. AI检测报错弹窗中，新增显示实况图像。  
-   ![ai弹窗.png](https://wiki.bambulab.com/h2/releasenote/ai%E5%BC%B9%E7%AA%97.png)
-8. 新增认证电子标签信息页  
-   ![电子标签.png](https://wiki.bambulab.com/h2/releasenote/h2c%E7%94%B5%E5%AD%90%E6%A0%87%E7%AD%BE.png)
-9. 新增打印结束后净化空气选项。打印完成后，打印机会自动进行 3 分钟的空气净化。需配合 Bambu Studio 2.5.3 及以上版本  
-   ![打印结束后净化空气.png](https://wiki.bambulab.com/h2/releasenote/%E6%89%93%E5%8D%B0%E7%BB%93%E6%9D%9F%E5%90%8E%E5%87%80%E5%8C%96%E7%A9%BA%E6%B0%94.png)
+4. 支持左喷嘴（升降端）打印 TPU（支持 TPU 硬度等级 ≥90A）。
+5. 支持局域网下不插入 U 盘发起打印。
+6. 新增热床底部异物检测，需配合 Bambu Studio 2.5.3 版本。
+7. AI 检测报错弹窗中，新增显示实况图像。
+
+![ai弹窗.png](https://wiki.bambulab.com/h2/releasenote/ai%E5%BC%B9%E7%AA%97.png)
+
+8. 新增认证电子标签信息页。
+
+![电子标签.png](https://wiki.bambulab.com/h2/releasenote/h2c%E7%94%B5%E5%AD%90%E6%A0%87%E7%AD%BE.png)
+
+9. 新增打印结束后净化空气选项。打印完成后，打印机会自动进行 3 分钟的空气净化。需配合 Bambu Studio 2.5.3 及以上版本。
+
+![打印结束后净化空气.png](https://wiki.bambulab.com/h2/releasenote/%E6%89%93%E5%8D%B0%E7%BB%93%E6%9D%9F%E5%90%8E%E5%87%80%E5%8C%96%E7%A9%BA%E6%B0%94.png)  
 10. 调整操作响应逻辑，打印发起停止后，打印机将进入【停止中】状态。此时打印机会屏蔽操作输入直到停止动作结束，避免在停止动作进程中由于插入操作指令导致控制指令时序错乱的问题。
-11. 新增冷却模式下开启自适应空气循环系统的过滤功能。该功能主要用于低温耗材打印过程中将空气通过过滤器过滤再排出，支持在切片软件中设置该选项或通过UI开关进行操作。切片设置该选项需要使用 Bambu Studio 2.5.3 版本 。  
-    ![冷却模式下过滤.jpg](https://wiki.bambulab.com/h2/releasenote/%E5%86%B7%E5%8D%B4%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BF%87%E6%BB%A4.jpg)
+
+11. 新增冷却模式下开启自适应空气循环系统的过滤功能。该功能主要用于低温耗材打印过程中将空气通过过滤器过滤再排出，支持在切片软件中设置该选项或通过UI开关进行操作。切片设置该选项需要使用 Bambu Studio 2.5.3 版本 。
+
+![冷却模式下过滤.jpg](https://wiki.bambulab.com/h2/releasenote/%E5%86%B7%E5%8D%B4%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BF%87%E6%BB%A4.jpg)
+
 12. 新增刀切模式下的俯视摄像头初始化。
 13. 优化耗材编辑页面耗材颜色显示框，新增展示渐变或双色耗材的能力。
-14. 新增支持旋转轴加工功能，需配合 Bambu Suite 01.02.02.00 版本。  
-    新增结合旋转轴附件实现圆柱及旋转体工件的激光加工；结合无接触3D测高算法与运动规划算法，分别完成圆柱体与旋转体的加工路径生成与加工执行。整体流程简洁，将多项功能一键整合，并通过相机拍照实现所见即所得的加工效果。  
-    ![旋转轴1.png](https://wiki.bambulab.com/h2/releasenote/%E6%97%8B%E8%BD%AC%E8%BD%B41.png)  
-    新增页面可以实时查看旋转轴角度，雕刻前可以通过此页面调整旋转轴到水平，拍摄出更符合实物位置的展开图，并提升雕刻精度  
-    ![旋转轴2.jpg](https://wiki.bambulab.com/h2/releasenote/%E6%97%8B%E8%BD%AC%E8%BD%B42.jpg)  
-    ![旋转轴3.jpg](https://wiki.bambulab.com/h2/releasenote/%E6%97%8B%E8%BD%AC%E8%BD%B43.jpg)
+14. 新增支持旋转轴加工功能，需配合 Bambu Suite 01.02.02.00 版本。
+
+新增结合旋转轴附件实现圆柱及旋转体工件的激光加工；结合无接触3D测高算法与运动规划算法，分别完成圆柱体与旋转体的加工路径生成与加工执行。整体流程简洁，将多项功能一键整合，并通过相机拍照实现所见即所得的加工效果。
+
+![旋转轴1.png](https://wiki.bambulab.com/h2/releasenote/%E6%97%8B%E8%BD%AC%E8%BD%B41.png)
+
+新增页面可以实时查看旋转轴角度，雕刻前可以通过此页面调整旋转轴到水平，拍摄出更符合实物位置的展开图，并提升雕刻精度。
+
+|  |  |
+| --- | --- |
+|  |  |
 
 ### 功能优化
 
@@ -54,7 +67,7 @@ source: https://wiki.bambulab.com/zh/h2c/manual/h2c-firmware-release-history
 2. 优化废料滑梯防撞检测。
 3. 优化低速场景下电机纹表现，该优化需版本升级后重新进行电机降噪校准才能生效。注意：如从该版本回退到01.01.05.00 及其以下版本固件，需要重新进行电机降噪校准，才能确保电机降噪生效。
 4. 解决喷嘴流量校准后首次打印堵嘴片弯曲的问题。
-5. 修复AMS 2 Pro送料卡料等问题，提升耗材进退料稳定性。
+5. 修复 AMS 2 Pro 送料卡料等问题，提升耗材进退料稳定性。
 
 ### 已知问题
 

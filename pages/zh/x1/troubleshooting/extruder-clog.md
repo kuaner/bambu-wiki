@@ -4,7 +4,7 @@ title: "挤出机维护指南：X1 系列挤出机维护"
 description: "本指南提供 X1 系列挤出机堵塞清理、挤出机拆解与组装的详细步骤。"
 tags: []
 created: 2022-07-31T11:32:53.494Z
-updated: 2026-06-04T08:39:56.430Z
+updated: 2026-06-04T08:39:57.422Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/extruder-clog
 ---
 

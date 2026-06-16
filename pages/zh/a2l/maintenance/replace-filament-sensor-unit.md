@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-filament-sensor-unit
 title: "A2L 更换进料霍尔板"
-description: ""
+description: "本文介绍了如何更换 A2L 进料霍尔板"
 tags: []
 created: 2026-06-01T13:08:23.446Z
-updated: 2026-06-01T13:08:44.236Z
+updated: 2026-06-05T07:40:22.228Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-filament-sensor-unit
 ---
 
@@ -41,11 +41,13 @@ A2L 热端风扇
 >
 > 因此，**在进行任何维护前，务必关闭打印机并断开电源**，以防止短路或损坏打印机的电子元件，从而确保维护工作安全有效地进行。如果您对本指南有任何疑问，请[点击这里提交工单](https://bambulab.com/zh/my/support/tickets?from=5)，我们将及时回复并提供帮助。
 
+## 视频指南
+
 ## **拆卸步骤**
 
 ### 1. 移除TH板
 
-请参照教程完成 TH 板的拆卸：[TH 板更换指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-th-board)
+请参照教程完成 TH 板的拆卸：[TH 板更换指南](replace-th-board.md)
 
 ### 2. 移除刀切模组转接板
 
@@ -121,7 +123,7 @@ A2L 热端风扇
 
 ### 6. 安装TH板
 
-请参照下方教程完成 TH 板的重新安装：[TH 板更换指南](https://wiki.bambulab.com/zh/a2l/maintenance/replace-th-board)
+请参照下方教程完成 TH 板的重新安装：[TH 板更换指南](replace-th-board.md)
 
 ## 功能验证
 

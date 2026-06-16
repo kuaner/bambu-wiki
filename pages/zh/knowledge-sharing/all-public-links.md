@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-06-15T02:04:43.558Z
+updated: 2026-06-16T02:04:40.935Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -12,8 +12,8 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [打印体积限制，以及如何实现极限构建体积](print-volume-limitations.md)  
 [USB-C 连接线相关问题](../x1/troubleshooting/usbc-cable-connection-issue.md)  
 [Z轴回中失败错误—热床线缆被拉紧](../x1/troubleshooting/homing-Z-axis-failed_cable-tensioned.md)  
-[在 Bambu Handy 监控和控制打印](../x1/manual/ctrl-monitor-on-app.md)  
-[设置打印机](../x1/manual/change-printer-settings.md)  
+[在 Bambu Handy 监控和控制打印](https://wiki.bambulab.com/zh/x1/manual/ctrl-monitor-on-app)  
+[设置打印机](https://wiki.bambulab.com/zh/x1/manual/change-printer-settings)  
 [用Bambu Studio观看在线视频时软件崩溃](../x1/troubleshooting/bambu-studio-crashes-when-watching-online-video.md)  
 [打印机提示切刀卡住](../x1/troubleshooting/cutter-stuck.md)  
 [AMS一直进料退料循环](../x1/troubleshooting/ams_buffer_signal_lost.md)  
@@ -374,7 +374,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换 AMS HT 下盖组件](https://wiki.bambulab.com/zh/amsht/maintenance/replace-bottom-cover-unit)  
 [更换 AMS HT 中框](../amsht/maintenance/replace-main-frame.md)  
 [更换 AMS HT 烘干组件](../amsht/maintenance/replace-heating-unit.md)  
-[更换 AMS HT 主板](../amsht/maintenance/replace-mainboard.md)  
+[更换 AMS HT 主板](https://wiki.bambulab.com/zh/amsht/maintenance/replace-mainboard)  
 [更换 AMS HT 出料霍尔检测组件](../amsht/maintenance/replace-feeder-hall-sensor-assembly.md)  
 [更换 AMS HT AC 电源线](../amsht/maintenance/replace-ac-power-cord.md)  
 [更换 AMS HT 退料回卷组件](../amsht/maintenance/replace-filament-retraction-assembly.md)  
@@ -399,7 +399,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0C00\_0300\_0002\_000E: 检测到可能发生了裹头。](../h2/troubleshooting/hmscode/0C00_0300_0002_000E.md)   
 [HMS\_0C00-0300-0002-000C: 没有检测到打印板定位标记。请检查打印板是否正确放置。](../h2/troubleshooting/hmscode/0C00_0300_0002_000C.md)   
 [HMS\_0C00-0100-0001-000B: 激光雷达校准失败，请确保校准块表面干净无遮挡，然后重新运行机器校准。](../h2/troubleshooting/hmscode/0C00_0100_0001_000B.md)   
-[激光模组维护指南](../h2/maintenance/laser-10w.md)  
+[激光模组维护指南](https://wiki.bambulab.com/zh/h2/maintenance/laser-10w)  
 [辅助部件冷却风扇软胶钉脱落安装指南](../h2/troubleshooting/reinstall-rubber-screws.md)  
 [AMS 无法上电](../x1/troubleshooting/ams-power-failure.md)  
 [HMS\_0300-0100-0001-0007: 热床温控异常，温度传感器可能开路。](../x1/troubleshooting/hmscode/0300_0100_0001_0007.md)  
@@ -801,7 +801,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [P2S 打印机线材包](../p2s/maintenance/replace-printer-cable-pack.md)   
 [更换 P2S 内衬](../p2s/maintenance/replace-inner-lining.md)  
 [更换 P2S 左侧板](../p2s/maintenance/replace-left-side-panel.md)  
-[Comment test](../a1/Comment-test.md)  
+[Comment test](https://wiki.bambulab.com/zh/a1/Comment-test)  
 [更换 P2S 工具头线缆](../p2s/maintenance/replace-toolhead-cable.md)  
 [无法拉回料线](../x1/troubleshooting/cannot-pull-back-filament.md)  
 [HMS\_0300-9300-0001-0002: 腔温异常，加热器温度传感器可能开路。](../x1/troubleshooting/hmscode/0300_9300_0001_0002.md)  
@@ -1269,7 +1269,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [Z 轴丝杆套件更换指南](../x1/maintenance/replace-Z-axis-lead-screw-assembly.md)  
 [运动精度校准](../h2/manual/motion-accuracy.md)  
 [P2S 外排风扇加装指南](../p2s/manual/external-exhaust-fan-kit.md)  
-[如何关闭准备阶段的振动校准过程](how-to-turn-off-the-vibration-calibration.md)  
+[如何关闭准备阶段的振动校准过程](https://wiki.bambulab.com/zh/knowledge-sharing/how-to-turn-off-the-vibration-calibration)  
 [Bambu Studio 2.5.0.66 Hotfix 版本说明](../software/bambu-studio/release/release-note-2-5-0-hotfix.md)  
 [更换 X 轴碳杆组件](../x1/maintenance/replace-the-x-carbon-rods.md)  
 [X1E AMS 接口板拆装指引](../x1/maintenance/x1e-ams-interface-board.md)  

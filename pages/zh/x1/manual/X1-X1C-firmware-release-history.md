@@ -4,7 +4,7 @@ title: "X1/X1C 固件发布记录"
 description: "本指南提供 X1 及 X1C 所有固件发布记录"
 tags: []
 created: 2025-09-18T07:09:27.945Z
-updated: 2026-06-08T02:55:37.538Z
+updated: 2026-06-08T02:55:38.628Z
 source: https://wiki.bambulab.com/zh/x1/manual/X1-X1C-firmware-release-history
 ---
 

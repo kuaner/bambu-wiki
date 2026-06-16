@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/nozzle-cold-pull-maintenance
 title: "A2L 喷嘴冷拔维护指南"
-description: ""
+description: "本文介绍了如何对 A2L 喷嘴进行冷拔维护"
 tags: []
 created: 2026-06-01T13:17:34.834Z
-updated: 2026-06-01T13:17:34.834Z
+updated: 2026-06-04T02:10:08.697Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/nozzle-cold-pull-maintenance
 ---
 

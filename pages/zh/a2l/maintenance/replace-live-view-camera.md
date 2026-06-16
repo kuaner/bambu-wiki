@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-live-view-camera
 title: "A2L 更换摄像头组件"
-description: ""
+description: "本文介绍了如何更换 A2L 摄像头组件"
 tags: []
 created: 2026-06-01T13:10:12.346Z
-updated: 2026-06-01T13:10:22.340Z
+updated: 2026-06-04T02:07:30.788Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-live-view-camera
 ---
 

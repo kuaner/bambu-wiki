@@ -4,7 +4,7 @@ title: "Bambu Handy 快速入门指南"
 description: "这篇文章简要介绍了Bambu Handy，并提供了一份指南，帮助您快速安装、设置、并立即开始打印。"
 tags: ["bambu handy"]
 created: 2023-11-27T01:58:25.872Z
-updated: 2026-06-08T06:15:02.893Z
+updated: 2026-06-08T06:15:03.926Z
 source: https://wiki.bambulab.com/zh/studio-handy/handy/bambu-handy-quick-start
 ---
 

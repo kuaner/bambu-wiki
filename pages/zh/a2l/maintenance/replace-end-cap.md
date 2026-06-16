@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-end-cap
 title: "A2L 更换 X 轴端盖"
-description: ""
+description: "本文介绍了如何更换 A2L X 轴轨道组件"
 tags: []
 created: 2026-06-01T13:09:52.134Z
-updated: 2026-06-01T13:10:01.643Z
+updated: 2026-06-04T01:49:56.684Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-end-cap
 ---
 

@@ -4,7 +4,7 @@ title: "耗材变轨器使用指南 - H2 系列"
 description: "本指南涵盖耗材变轨器的详细介绍，以及 H2 系列打印机搭配耗材变轨器进行打印的具体操作步骤。"
 tags: []
 created: 2026-05-12T04:18:47.643Z
-updated: 2026-06-10T07:20:05.145Z
+updated: 2026-06-16T02:35:36.708Z
 source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch-h2
 ---
 
@@ -53,8 +53,8 @@ source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch-h2
 >
 > - 如需连接 AMS HT，**强烈建议按照图示把 AMS HT 摆放在右侧板旁**，减少进退料阻力；
 > - 可从 MakerWorld 官网下载合适的 AMS 支架模型。
-> - **料管拓展口只能接在变轨器和 AMS 之间，**不能接在变轨器和缓冲器之间。  
->   ![](https://wiki.bambulab.com/general/filament-track-switch-h2/009.png)
+> - **四进一料管拓展口只能接在变轨器和 AMS 之间，**不能接在变轨器和缓冲器之间。  
+>   ![4-in-1.jpg](https://wiki.bambulab.com/general/filament-track-switch-h2/4-in-1.jpg)
 
 ### 准备工作
 
@@ -120,7 +120,7 @@ source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch-h2
 
 > 注：出料口与进料口无需区分顺序，可任意连接。
 
-![](https://wiki.bambulab.com/general/filament-track-switch-h2/012.png)
+![](https://wiki.bambulab.com/general/filament-track-switch-h2/012-.png)
 
 - 将料管另一端穿过气动接头卡扣，然后插入变轨器出料口；
 

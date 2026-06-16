@@ -4,7 +4,7 @@ title: "离线升级固件"
 description: ""
 tags: []
 created: 2024-07-22T06:58:16.796Z
-updated: 2026-06-02T03:09:04.740Z
+updated: 2026-06-02T03:09:05.691Z
 source: https://wiki.bambulab.com/zh/general/update-firmware-from-sd-card
 ---
 

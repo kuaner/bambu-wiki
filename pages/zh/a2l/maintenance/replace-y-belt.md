@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-y-belt
 title: "A2L Y 轴组件拆解教程"
-description: ""
+description: "本文介绍了如何拆解 A2L Y 轴组件"
 tags: []
 created: 2026-06-01T13:16:49.843Z
-updated: 2026-06-01T13:16:49.843Z
+updated: 2026-06-04T01:50:54.312Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-y-belt
 ---
 
@@ -50,7 +50,7 @@ Y 轴组件包含：**Y 同步带、Y 轴张紧器（含 Y 轴张紧惰轮）、
 
 ### 步骤1. 分离龙门架和底座
 
-请参照独立教程分离龙门架和底座：[更换龙门架](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+请参照独立教程分离龙门架和底座：[更换龙门架](replace-printer-frame.md)
 
 ### 步骤2. 移除 Y 轴组件
 
@@ -179,7 +179,7 @@ Y 轴组件包含：**Y 同步带、Y 轴张紧器（含 Y 轴张紧惰轮）、
 
 ### 7. 装回龙门架和底座
 
-请参照独立教程装回龙门架和底座：[更换龙门架](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+请参照独立教程装回龙门架和底座：[更换龙门架](replace-printer-frame.md)
 
 ## 结束语
 

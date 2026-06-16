@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-toolhead-block
 title: "A2L 更换工具头滑车"
-description: ""
+description: "本文介绍了如何更换 A2L 工具头滑车"
 tags: []
 created: 2026-06-01T13:09:04.947Z
-updated: 2026-06-01T13:09:45.736Z
+updated: 2026-06-04T01:46:46.441Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-toolhead-block
 ---
 
@@ -42,19 +42,19 @@ A2L 工具头滑车
 
 ### 1. 移除热端
 
-参照下方教程取下热端：[更换热端](https://wiki.bambulab.com/zh/a2l/maintenance/replace-silicone-sock-for-hotend)
+参照下方教程取下热端：[更换热端](replace-silicone-sock-for-hotend.md)
 
 ### 2. 移除TH板
 
-参照下方教程移除 TH 板： [更换 TH 板](https://wiki.bambulab.com/zh/a2l/maintenance/replace-th-board)
+参照下方教程移除 TH 板： [更换 TH 板](replace-th-board.md)
 
 ### 3. 移除刀切模组转接板
 
-参照下方教程移除刀切模组转接板：[更换刀切模组转接板](https://wiki.bambulab.com/zh/a2l/maintenance/replace-cutting-module-adapter-board)
+参照下方教程移除刀切模组转接板：[更换刀切模组转接板](replace-cutting-module-adapter-board.md)
 
 ### 4. 移除挤出机组件
 
-参照下方教程移除挤出机组件：[更换挤出机组件](https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit)
+参照下方教程移除挤出机组件：[更换挤出机组件](replace-extruder-unit.md)
 
 ### 5. 移除左右线盖
 
@@ -139,19 +139,19 @@ A2L 工具头滑车
 
 检查两侧线缆是否均固定在线槽内，以免后续安装挤出机挤压到线缆。  
 ![gjthc020.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-toolhead-block/gjthc020.jpg)  
-参照下方教程安装挤出机组件。[更换挤出机组件](https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit)
+参照下方教程安装挤出机组件。[更换挤出机组件](replace-extruder-unit.md)
 
 ### 8. 安装刀切模组转接板
 
-参照下方教程安装刀切模组转接板：[更换刀切模组转接板](https://wiki.bambulab.com/zh/a2l/maintenance/replace-cutting-module-adapter-board)
+参照下方教程安装刀切模组转接板：[更换刀切模组转接板](replace-cutting-module-adapter-board.md)
 
 ### 9. 安装 TH 板
 
-参照下方教程安装 TH 板。[更换 TH 板](https://wiki.bambulab.com/zh/a2l/maintenance/replace-th-board)
+参照下方教程安装 TH 板。[更换 TH 板](replace-th-board.md)
 
 ### 10. 安装热端
 
-参照下方教程安装热端：[更换热端](https://wiki.bambulab.com/zh/a2l/maintenance/replace-silicone-sock-for-hotend)
+参照下方教程安装热端：[更换热端](replace-silicone-sock-for-hotend.md)
 
 ## 功能验证
 

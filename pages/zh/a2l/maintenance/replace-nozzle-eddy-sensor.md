@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-nozzle-eddy-sensor
 title: "A2L 更换挤出机涡流线圈"
-description: ""
+description: "本文介绍了如何更换 A2L 挤出机涡流线圈"
 tags: []
 created: 2026-06-01T13:26:55.643Z
-updated: 2026-06-01T13:26:55.643Z
+updated: 2026-06-04T01:41:55.270Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-nozzle-eddy-sensor
 ---
 
@@ -42,7 +42,7 @@ A2L 涡流线圈
 
 ### 1. 移除热端风扇
 
-参照下方教程拆下热端风扇：[更换热端风扇](https://wiki.bambulab.com/zh/a2l/maintenance/replace-cooling-fan-for-hotend)
+参照下方教程拆下热端风扇：[更换热端风扇](replace-cooling-fan-for-hotend.md)
 
 ### 2. 移除涡流线圈
 
@@ -69,7 +69,7 @@ A2L 涡流线圈
 
 ### 2. 安装热端风扇
 
-参照下方教程装回热端风扇及其他组件：[更换热端风扇](https://wiki.bambulab.com/zh/a2l/maintenance/replace-cooling-fan-for-hotend)
+参照下方教程装回热端风扇及其他组件：[更换热端风扇](replace-cooling-fan-for-hotend.md)
 
 ## 功能验证
 

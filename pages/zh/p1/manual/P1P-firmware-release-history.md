@@ -1,11 +1,11 @@
 ---
-path: zh/p1/manual/p1p-firmware-release-history
+path: zh/p1/manual/P1P-firmware-release-history
 title: "P1P/P1S 固件发布记录"
 description: "本指南提供 P1 系列打印机的所有固件发布记录。"
 tags: ["p1p", "p1s", "固件"]
 created: 2024-01-02T02:05:52.939Z
-updated: 2026-03-30T13:10:20.801Z
-source: https://wiki.bambulab.com/zh/p1/manual/p1p-firmware-release-history
+updated: 2026-06-08T02:57:58.044Z
+source: https://wiki.bambulab.com/zh/p1/manual/P1P-firmware-release-history
 ---
 
 ## P1 系列 版本 01.10.00.00 (20260330)
@@ -852,8 +852,6 @@ BT链路传输WIFI热点名称和密码到打印机，为了保证链路安全�
 以前，AMS的用户需要在给线轴支架装上耗材之前拔掉AMS的电缆，以打印一些AMS不支持的耗材丝。这对那些将设备放置在不容易接触到机器后部的用户来讲无疑恼人的问题。因此，我们的新固件提供了一个选项，从此刻起，可以在开始打印时选择启用或禁用AMS。
 
 当 "启用AMS "选项被选中时，AMS将被用于打印。如果不勾选该选项，打印机将从线轴支架上拉出装好的耗材丝。用户现在可以轻松地在AMS和线轴支架之间进行切换，而无需拔掉电缆。
-
-![](https://bambulab.feishu.cn/space/api/box/stream/download/asynccode/?code=OGU5MjJhMDlkMjZmNzhlYmM0MTkyNTk2YjViYTkyNGFfdGNxMnluak5saEFVN1NXaXlCeUV4VUIxdVBQa0xHMXZfVG9rZW46Ym94Y25BQjlBSDdKN2RtUkEzY0RPRmszMDVlXzE2NzExMDg5MDk6MTY3MTExMjUwOV9WNA)
 
 ### 屏幕新增AMS发生错误时进行重试的按钮
 

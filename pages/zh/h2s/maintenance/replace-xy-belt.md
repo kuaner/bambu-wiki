@@ -4,7 +4,7 @@ title: "更换 H2S X/Y 皮带"
 description: "本文介绍了如何更换 H2S X/Y 皮带"
 tags: []
 created: 2025-08-26T06:22:45.939Z
-updated: 2026-02-05T02:31:33.649Z
+updated: 2026-06-11T08:51:47.365Z
 source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-xy-belt
 ---
 
@@ -13,8 +13,6 @@ source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-xy-belt
 H2S 3D 打印上使用的 X/Y 皮带是节线长为 1836mm，宽 9mm 的开口皮带，一共有两条。 它们将 X/Y 电机和工具头连接起来并驱动工具头在 X/Y 方向的移动。
 
 > 本文更换皮带的方法是将新皮带与旧皮带连接在一起，在抽出旧皮带的同时，新皮带也会自动穿好。与直接用新皮带穿过惰轮和轴承的方式相比，这种方法要简单得多。
-
-本文中的部分图片使用了H2D的工具头，H2S和H2D在拆装皮带的方法上几乎相同，唯一的不同是皮带锁块的螺丝数量。因此，请忽略这个小细节，图片仅作示意用途。
 
 **X/Y 皮带的备件包含以下：**
 
@@ -35,9 +33,12 @@ H2S 3D 打印上使用的 X/Y 皮带是节线长为 1836mm，宽 9mm 的开口�
 
 **更换 H2S X/Y 皮带所涉及的螺丝规格及数量（建议妥善保管拆下的螺丝，避免丢失）：**
 
-| **螺丝规格** | **螺丝图片** | **用途** | **位置示意图** |  | **螺丝数量** |
-| --- | --- | --- | --- | --- | --- |
-| M3x8 |  | 用于固定 X/Y 皮带固定座 |  |  | 6 |
+> 皮带固定块的螺丝需要和中框匹配，请仔细检查打印机中框为**塑胶孔**或**黄铜螺母**。
+
+| 中框类型 | 中框外观 | 使用螺丝 | 螺丝外观 |
+| --- | --- | --- | --- |
+| 塑胶孔 | 4.jpg | 4 \* 自攻螺丝 | 5.jpg |
+| 黄铜螺母 | pixpin_2026-06-11_16-42-38.jpg | 4 \* 细牙螺丝 | 20260611-162527.png |
 
 ## 安全提示
 
@@ -63,11 +64,11 @@ H2S 3D 打印上使用的 X/Y 皮带是节线长为 1836mm，宽 9mm 的开口�
 
 > 注：为避免后续安装，您可以只移除一侧皮带固定块上的两个固定座，另外一侧无需移除。
 
-|  |  |
-| --- | --- |
-|  |  |
+![](https://wiki.bambulab.com/h2s/maintenance/replace-xy-belt/1.jpg)
 
-![](https://wiki.bambulab.com/h2/maintenance/replace-xy-belt/image-8.png)
+![](https://wiki.bambulab.com/h2s/maintenance/replace-xy-belt/2.jpg)
+
+![](https://wiki.bambulab.com/h2s/maintenance/replace-xy-belt/3.jpg)
 
 ### 步骤 2：粘接皮带
 

@@ -4,7 +4,7 @@ title: "开箱&装箱指南"
 description: "本文列举了所有关于拓竹 3D 打印机 及 AMS 开箱和装箱链接。"
 tags: []
 created: 2023-09-07T05:04:28.330Z
-updated: 2026-06-02T02:09:13.426Z
+updated: 2026-06-02T02:09:14.443Z
 source: https://wiki.bambulab.com/zh/general/unboxing-guide
 ---
 
@@ -12,8 +12,8 @@ source: https://wiki.bambulab.com/zh/general/unboxing-guide
 
 ### A2L 开箱指南
 
-- [A2L 单机开箱指南](https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l)
-- [A2L AMS 套装开箱指南](https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo)
+- [A2L 单机开箱指南](../a2l/manual/unboxing-a2l.md)
+- [A2L AMS 套装开箱指南](../a2l/manual/unboxing-a2l-combo.md)
 
 ### X2D 开箱指南
 
@@ -71,8 +71,8 @@ source: https://wiki.bambulab.com/zh/general/unboxing-guide
 
 ### A2L 装箱指南
 
-- [A2L 单机装箱指南](https://wiki.bambulab.com/zh/a2l/manual/packing-a2l)
-- [A2L AMS 套装装箱指南](https://wiki.bambulab.com/zh/a2l/manual/packing-a2l-combo)
+- [A2L 单机装箱指南](../a2l/manual/packing-a2l.md)
+- [A2L AMS 套装装箱指南](../a2l/manual/packing-a2l-combo.md)
 
 ### X2D 装箱指南
 

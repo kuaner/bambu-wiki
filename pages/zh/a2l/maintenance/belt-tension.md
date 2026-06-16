@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/belt-tension
 title: "A2L 皮带张紧"
-description: ""
+description: "本文介绍了如何张紧 A2L 皮带"
 tags: []
 created: 2026-06-01T13:11:28.734Z
-updated: 2026-06-01T13:11:41.134Z
+updated: 2026-06-08T03:34:21.610Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/belt-tension
 ---
 
@@ -15,6 +15,8 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/belt-tension
 ## 所需工具和材料
 
 - H2.0 内六角扳手
+
+## 视频指南
 
 ## X 同步带张紧
 

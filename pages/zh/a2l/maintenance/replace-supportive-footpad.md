@@ -1,14 +1,12 @@
 ---
 path: zh/a2l/maintenance/replace-supportive-footpad
 title: "A2L 更换脚垫"
-description: ""
+description: "本文介绍了如何更换 A2L 脚垫"
 tags: []
 created: 2026-06-01T13:12:08.340Z
-updated: 2026-06-01T13:12:30.942Z
+updated: 2026-06-04T02:07:51.033Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-supportive-footpad
 ---
-
-## A2L 脚垫
 
 ## 何时使用本指南？
 

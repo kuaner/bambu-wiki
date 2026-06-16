@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-filament-cutter
 title: "A2L 更换切刀刀片"
-description: ""
+description: "本文介绍了如何更换 A2L 切刀刀片"
 tags: []
 created: 2026-06-01T13:18:50.549Z
-updated: 2026-06-01T13:18:50.549Z
+updated: 2026-06-04T01:40:01.344Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-filament-cutter
 ---
 

@@ -4,7 +4,7 @@ title: "A 系列升级失败"
 description: "本指南介绍 A1 系列打印机固件升级失败的表现、原因和排障措施。"
 tags: ["a1", "a1 mini"]
 created: 2024-11-18T07:24:35.583Z
-updated: 2026-06-02T02:44:37.132Z
+updated: 2026-06-02T02:44:38.089Z
 source: https://wiki.bambulab.com/zh/a1/troubleshooting/upgrade-fail
 ---
 

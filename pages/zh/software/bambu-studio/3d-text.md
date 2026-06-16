@@ -4,7 +4,7 @@ title: "文本形状"
 description: "文本形状工具用于在平面或曲面上创建可定制的 3D 文本"
 tags: []
 created: 2023-08-08T09:51:08.195Z
-updated: 2026-04-21T07:46:06.878Z
+updated: 2026-06-11T07:52:34.500Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/3d-text
 ---
 
@@ -21,6 +21,8 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/3d-text
 选中需要增加文本的模型后，点击工具栏中**“文本形状”**工具即可打开用户操作界面。
 
 ![firststep.png](https://wiki.bambulab.com/software/bambu-studio/3d-text/firststep.png)
+
+> 注意：“模式”和“操作”功能仅在您**选择对象/物体后**才会在工具框中出现。
 
   
 
@@ -99,6 +101,8 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/3d-text
 - **环绕+水平**：文本紧贴模型表面，同时保持水平方向排列。
 - **按字符环绕投影**：文本紧贴模型表面，仅显示投射在模型表面上的文本部分（即与模型表面相交的部分）。
 
+> 该功能仅在您**选择对象/物体后**才会在工具框中出现。
+
 ![bambustudio_text_mode.jpg](https://wiki.bambulab.com/bambu-studio/toolbar/text-shape/bambustudio_text_mode.jpg)
 
 ![bambustudio_text_surround_character.webp](https://wiki.bambulab.com/bambu-studio/toolbar/text-shape/bambustudio_text_surround_character.webp)
@@ -108,6 +112,8 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/3d-text
 在此处可选择生成的 3D 文本的三种类型。
 
 **零件**：生成的 3D 文本会是一个实体，切片时将被视为常规模型实体。
+
+> 该功能仅在您**选择对象/物体后**才会在工具框中出现。
 
 ![bambustudio_text_part.webp](https://wiki.bambulab.com/bambu-studio/toolbar/text-shape/bambustudio_text_part.webp)
 

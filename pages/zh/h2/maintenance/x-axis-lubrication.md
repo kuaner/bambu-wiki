@@ -4,7 +4,7 @@ title: "H2 系列 XYZ 轴和挤出机升降导轨维护指南"
 description: "本章将详细为您讲述 H2 系列打印机的 X 轴线性导轨和 Y 轴光轴润滑保养教程。"
 tags: ["h2d", "x轴", "挤出机"]
 created: 2025-07-15T01:56:54.575Z
-updated: 2026-04-23T09:56:02.865Z
+updated: 2026-06-12T03:54:35.886Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication
 ---
 
@@ -15,13 +15,13 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication
 
 > ℹ️ 下表列出了步骤的主要部分。⏬ 点击章节标题可直接跳转到该部分。⏬
 
-完成以下所有维护步骤后，我们将 [重置 XYZ 清洁计划](https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication#%E9%87%8D%E7%BD%AE%E7%BB%B4%E6%8A%A4%E8%AE%A1%E5%88%92)。
+完成以下所有维护步骤后，我们将 [重置 XYZ 清洁计划](#reset)。
 
 |  |  |
 | --- | --- |
-| **[X 轴线轨](https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication#x-%E8%BD%B4%E7%BA%BF%E8%BD%A8%E6%B8%85%E6%B4%81%E5%92%8C%E6%B6%A6%E6%BB%91)** | **[Y 轴光杆](https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication#y-%E8%BD%B4%E5%85%89%E6%9D%86%E6%B8%85%E6%B4%81%E5%92%8C%E6%B6%A6%E6%BB%91)** |
+| **[X 轴线轨](https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication#x-axis)** | **[Y 轴光杆](https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication#y-axis)** |
 |  |  |
-| **[Z 轴光杆和丝杆](https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication#z-%E8%BD%B4%E5%85%89%E6%9D%86%E5%92%8C%E4%B8%9D%E6%9D%86%E7%9A%84%E6%B8%85%E6%B4%81%E5%92%8C%E6%B6%A6%E6%BB%91)** | **[挤出机升降导轨](https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication#%E6%8C%A4%E5%87%BA%E6%9C%BA%E5%8D%87%E9%99%8D%E5%AF%BC%E8%BD%A8)** |
+| **[Z 轴光杆和丝杆](https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication#z-axis)** | **[挤出机升降导轨](https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication#extruder-lifting-rail)** |
 |  |  |
 
   
@@ -41,6 +41,11 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication
 - 超细纤维布
 - 酒精
 - H2.0 内六角扳手
+
+## 安全提示
+
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
+> 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 
 ## 视频指南
 
@@ -249,13 +254,13 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication
 
 ![screw_the_front_plate_install_wiki_h2d_maintenance.jpg](https://wiki.bambulab.com/h2/maintenance/regular-cleaning-and-maintanence/xyz-and-extruder-lifting-rail-maintenance/screw_the_front_plate_install_wiki_h2d_maintenance.jpg)
 
-### 第 8 步：安装左热端
+### 第 8 步：安装左热端及硅胶套
 
 重新安装左热端，如下所示：
 
 |  |  |
 | --- | --- |
-| **将左热端放入工具头** | **关闭卡扣** |
+| **将左热端放入工具头并关闭卡扣** | **带上硅胶套** |
 |  |  |
 
 **注意**：左图中卡扣锁定错误，原因是同时按下了锁扣和卡扣，导致锁扣卡在卡扣内部。因此，请确保左锁扣与喷嘴完全对齐后，再扣合右卡扣。

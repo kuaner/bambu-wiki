@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-toolhead-rear-housing
 title: "A2L 更换工具头后盖"
-description: ""
+description: "本文介绍了如何更换 A2L 工具头后盖"
 tags: []
 created: 2026-06-01T13:07:05.644Z
-updated: 2026-06-01T13:07:10.337Z
+updated: 2026-06-04T01:43:09.506Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-toolhead-rear-housing
 ---
 

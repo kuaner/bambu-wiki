@@ -4,7 +4,7 @@ title: "X2D AMS 套装开箱指南"
 description: "本文介绍 X2D AMS 套装的开箱步骤。"
 tags: []
 created: 2026-04-14T13:19:17.891Z
-updated: 2026-05-14T09:52:11.455Z
+updated: 2026-06-11T11:03:29.766Z
 source: https://wiki.bambulab.com/zh/x2d/manual/unboxing-x2d-combo
 ---
 
@@ -78,6 +78,9 @@ source: https://wiki.bambulab.com/zh/x2d/manual/unboxing-x2d-combo
 |  |  |
 | --- | --- |
 |  |  |
+
+> 包装方案更新，请按下图所示移除所有泡棉。  
+> ![x2d-top-foams-new.png](https://wiki.bambulab.com/x2d/manual/unboxing/x2d-top-foams-new.png)
 
 > 靠近前门的泡棉块安装紧实，请按如下方式取出。  
 > ![remove-front-top-foam-block-v2.webp](https://public-cdn.bblmw.com/wiki/new/x2d/manual/x2d-combo-unboxing/remove-front-top-foam-block-v2.webp)

@@ -4,7 +4,7 @@ title: "A2L AMS 连接指南"
 description: "本文介绍了如何将 A2L 连接一台或多台 AMS 设备"
 tags: []
 created: 2026-06-01T13:02:57.208Z
-updated: 2026-06-01T13:03:12.937Z
+updated: 2026-06-08T10:27:02.563Z
 source: https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide
 ---
 
@@ -63,6 +63,8 @@ A2L 打印机支持连接**外挂料盘、AMS lite 和 AMS/AMS 2 Pro/AMS HT**（
 
 ## **A2L + 4 台 AMS + 1 台 AMS lite**
 
+### 视频指南
+
 ### 所需配件
 
 #### AMS 及线缆
@@ -100,9 +102,9 @@ A2L 打印机支持连接**外挂料盘、AMS lite 和 AMS/AMS 2 Pro/AMS HT**（
 
 | 序号 | 名称 | 数量 | 备注 |
 | --- | --- | --- | --- |
-| 1 | 料管定位导向件 | 1 | 防止连接不同类型 AMS 时，料管在五通入口处过度弯曲导致进料失败 |
-| 2 | AMS lite 置顶用 4-pin 线理线器 | 2 | 用于 AMS lite 置顶时固定 4-pin 线缆 |
-| 3 | 置顶支架（模型链接：[AMS lite 置顶方案](https://makerworld.com.cn/zh/models/125814-ams-litezhi-ding-fang-an-gua-yong-yu-a1da-yin-ji#profileId-8903)） | 1 | 置顶 AMS lite，优化摆放空间 （注：只需打印置顶支架，无需打印 Z 轴稳定器） |
+| 1 | 料管定位导向件（[模型链接](https://makerworld.com.cn/zh/models/2600661-a2l-liao-guan-ding-wei-dao-xiang-jian)） | 1 | 防止连接不同类型 AMS 时，料管在五通入口处过度弯曲导致进料失败 |
+| 2 | AMS lite 置顶用 4-pin 线理线器（[模型链接](https://makerworld.com.cn/zh/models/2600650-a2l-ams-lite-zhi-ding-yong-4-pin-lian-jie-xian-li#profileId-2995953)） | 2 | 用于 AMS lite 置顶时固定 4-pin 线缆 |
+| 3 | 置顶支架（[模型链接](https://makerworld.com.cn/zh/models/125814-ams-litezhi-ding-fang-an-gua-yong-yu-a1-a2lda-yin#profileId-2959422)） | 1 | 置顶 AMS lite，优化摆放空间 （注：只需打印置顶支架，无需打印 Z 轴稳定器） |
 
 除上述模型外，为优化多台 AMS 的摆放空间，建议您一并打印 AMS 双层支架模型（[推荐支架模型](https://makerworld.com/en/models/1358146-ams-1-2-pro-dual-rack-stack-fully-3d-printed?from=search#profileId-1453787)）。
 
@@ -229,6 +231,8 @@ A2L 打印机支持连接**外挂料盘、AMS lite 和 AMS/AMS 2 Pro/AMS HT**（
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/a2l-ams-connection-guide/032.png)
 
 - 将线缆卡入两个理线器中，然后插入打印机 4-pin 接口。
+
+> **注**: 若您只希望将 AMS lite 置顶，则到该步已经组装完成。
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/a2l-ams-connection-guide/030.png)
 

@@ -4,7 +4,7 @@ title: "烟尘净化器蜂鸣器提示音说明"
 description: ""
 tags: []
 created: 2025-10-14T13:14:23.073Z
-updated: 2026-06-02T06:25:29.222Z
+updated: 2026-06-02T06:25:30.459Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/air-filte-function
 ---
 

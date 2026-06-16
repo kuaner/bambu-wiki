@@ -4,7 +4,7 @@ title: "P2S 挤出机堵塞清理指南"
 description: "本文将为您介绍 P2S 挤出机清洁的详细步骤。"
 tags: []
 created: 2025-10-14T13:22:23.473Z
-updated: 2026-04-21T02:47:01.578Z
+updated: 2026-06-10T10:08:46.248Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/extruder-cleaning-guide
 ---
 
@@ -59,6 +59,20 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/extruder-cleaning-guide
 此时再将工具头上料管拔出，并使用剪钳剪断耗材。
 
 ![123123.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/period-maintenance/123123.jpg)
+
+### 3.1 轻度堵塞清理
+
+1. 移除喷嘴（图示①）；
+2. 拧下一颗螺丝，取下出料口压块（图示②）；
+3. 检查组件内部是否有露在外面、能直接取出的耗材（图示 ③）；
+
+|  |  |
+| --- | --- |
+| Edit preset and Edit button | Delete icon and confirmation |
+
+4. 使用钳子顺着下图所示方向，小心地抽出耗材。操作时用力要均匀、轻柔，避免耗材在抽出过程中断裂在挤出机里面。若无法抽出或抽出失败，请继续下一步。
+
+![pull_out_the_filament.png](https://wiki.bambulab.com/p2s/maintenance/extruder-cleaning-guide/pull_out_the_filament.png)
 
 ### 4. 拆卸挤出机
 
@@ -118,17 +132,9 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/extruder-cleaning-guide
 ![压块.jpg](https://wiki.bambulab.com/p2s/maintenance/extruder-cleaning-guide/%E5%8E%8B%E5%9D%97.jpg)  
 ![齿轮2.jpg](https://wiki.bambulab.com/p2s/maintenance/extruder-cleaning-guide/%E9%BD%BF%E8%BD%AE2.jpg)
 
-拆开后可以看到挤出机中间耗材膨胀变大
+拆开后取出堵塞的耗材。
 
 ![](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/extruder-cleaning-guide/007.jpg)
-
-再拆下出料口压块，就能轻松取出膨胀的耗材了。
-
-![除料盖螺丝.jpg](https://wiki.bambulab.com/p2s/maintenance/extruder-cleaning-guide/%E9%99%A4%E6%96%99%E7%9B%96%E8%9E%BA%E4%B8%9D.jpg)
-
-最后您将会拆出如下组件，请一一对应以免零件丢失。
-
-![overall.jpg](https://wiki.bambulab.com/p2s/maintenance/extruder-cleaning-guide/overall.jpg)
 
 ### 6. 安装挤出机
 

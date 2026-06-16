@@ -1,14 +1,12 @@
 ---
 path: zh/a2l/maintenance/replace-wifi-antenna
-title: "A2L 更换WIFI天线"
-description: ""
+title: "A2L 更换 WIFI 天线"
+description: "本文介绍了如何更换 A2L WIFI 天线"
 tags: []
 created: 2026-06-01T13:16:31.043Z
-updated: 2026-06-01T13:16:31.043Z
+updated: 2026-06-04T01:58:22.765Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-wifi-antenna
 ---
-
-## A2L WiFi 天线
 
 ## 何时使用本指南？
 
@@ -38,7 +36,7 @@ A2L AC 板
 
 ### 1. 移除前底盖
 
-参照此教程移除前底盖：[更换底盖](https://wiki.bambulab.com/zh/a2l/maintenance/replace-bottom-cover)
+参照此教程移除前底盖：[更换底盖](replace-bottom-cover.md)
 
 ### 2. 移除主板线缆
 
@@ -95,7 +93,7 @@ A2L AC 板
 
 ### 4. 安装前底盖
 
-参照此教程装回前底盖：[更换底盖](https://wiki.bambulab.com/zh/a2l/maintenance/replace-bottom-cover)
+参照此教程装回前底盖：[更换底盖](replace-bottom-cover.md)
 
 ## 功能验证
 

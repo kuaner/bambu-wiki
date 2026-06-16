@@ -4,7 +4,7 @@ title: "A2L Combo 套装开箱指南"
 description: "本文介绍 A2L AMS 套装的开箱步骤。"
 tags: []
 created: 2026-06-01T13:00:53.625Z
-updated: 2026-06-02T10:12:01.012Z
+updated: 2026-06-09T02:18:33.030Z
 source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
 ---
 
@@ -166,6 +166,9 @@ source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
   ![a2l-077-s13-cutter-tighten-screw.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-077-s13-cutter-tighten-screw.png)
 - 将连接线插入线缆接口。  
   ![a2l-078-s13-cutter-connect-cable.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-078-s13-cutter-connect-cable.png)
+
+> 请勿用力拉扯吐料组件上的连接线，以免损坏线缆。连接时，可适当拉出 X 轴末端的线缆，以便完成接线。
+
 - 整理线缆，将连接线卡入线槽，向左放置线缆接口。  
   ![a2l-080-s13-cutter-route-cable-into-channel.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-080-s13-cutter-route-cable-into-channel.png)
 - 确保线缆已如图放置，然后安装吐料组件后盖。  
@@ -250,7 +253,7 @@ source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
 
 ### 附录 B：安装料管中继接头连接其他型号的 AMS
 
-使用料管中继接头，A2L 可以直接连接单台 AMS、AMS 2 Pro 和 AMS HT，详细操作请参见 [A2L AMS 连接指南](https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide)。  
+使用料管中继接头，A2L 可以直接连接单台 AMS、AMS 2 Pro 和 AMS HT，详细操作请参见 [A2L AMS 连接指南](a2l-ams-connection-guide.md)。  
 ![a2l-120-apxb-relay-overview.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-120-apxb-relay-overview.png)
 
 ## 结束语

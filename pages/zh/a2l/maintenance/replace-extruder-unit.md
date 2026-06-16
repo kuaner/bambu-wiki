@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-extruder-unit
 title: "A2L 更换挤出机组件"
-description: ""
+description: "本文介绍了如何更换 A2L 挤出机组件"
 tags: []
 created: 2026-06-01T13:08:40.555Z
-updated: 2026-06-01T13:08:48.140Z
+updated: 2026-06-05T07:41:26.184Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit
 ---
 
@@ -34,12 +34,14 @@ A2L 挤出机组件
 >
 > 因此，**在进行任何维护前，务必关闭打印机并断开电源**，以防止短路或损坏打印机的电子元件，从而确保维护工作安全有效地进行。如果您对本指南有任何疑问，请[点击这里提交工单](https://bambulab.com/zh/my/support/tickets?from=5)，我们将及时回复并提供帮助。
 
+## 视频指南
+
 ## **拆除挤出机组件**
 
 ### 1.移除热端、TH板
 
-参照下方教程移除热端组件：[更换热端](https://wiki.bambulab.com/zh/a2l/maintenance/replace-silicone-sock-for-hotend)  
-参照下方教程移除TH板组件：[更换 TH 板](https://wiki.bambulab.com/zh/a2l/maintenance/replace-th-board)
+参照下方教程移除热端组件：[更换热端](replace-silicone-sock-for-hotend.md)  
+参照下方教程移除TH板组件：[更换 TH 板](replace-th-board.md)
 
 ### 2. 移除五通组件
 
@@ -47,7 +49,7 @@ A2L 挤出机组件
 
 ![jcj013.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-extruder-gear-assembly/jcj013.jpg)![gjtwt002.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-toolhead-filament-hub/gjtwt002.webp)
 
-> 注意：拔出五通时请勿将排线拉出过长。若不慎将排线完全拉出，请参照下方教程拆卸刀切模组转接板，重新穿好排线。[更换刀切模组转接板](https://wiki.bambulab.com/zh/a2l/maintenance/replace-cutting-module-adapter-board)
+> 注意：拔出五通时请勿将排线拉出过长。若不慎将排线完全拉出，请参照下方教程拆卸刀切模组转接板，重新穿好排线。[更换刀切模组转接板](replace-cutting-module-adapter-board.md)
 
 ### 3. 移除挤出机
 
@@ -74,8 +76,8 @@ A2L 挤出机组件
 
 ### 3. 安装TH板、热端
 
-参照下方教程安装热端组件：[更换热端](https://wiki.bambulab.com/zh/a2l/maintenance/replace-silicone-sock-for-hotend)  
-参照下方教程安装 TH 板组件：[更换 TH 板](https://wiki.bambulab.com/zh/a2l/maintenance/replace-th-board)
+参照下方教程安装热端组件：[更换热端](replace-silicone-sock-for-hotend.md)  
+参照下方教程安装 TH 板组件：[更换 TH 板](replace-th-board.md)
 
 ## 功能验证
 

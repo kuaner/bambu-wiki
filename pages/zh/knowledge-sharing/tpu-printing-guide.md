@@ -4,7 +4,7 @@ title: "TPU 打印指南"
 description: "本文介绍了打印 TPU 的建议"
 tags: ["tpu"]
 created: 2023-08-02T08:20:33.025Z
-updated: 2026-04-23T06:44:21.051Z
+updated: 2026-06-15T06:21:40.271Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/tpu-printing-guide
 ---
 
@@ -28,7 +28,8 @@ TPU 的硬度通常采用邵氏硬度（Shore Hardness） 表示，常见标尺�
 | --- | --- | --- | --- | --- |
 |  | TPU 85A | TPU 90A | TPU 95A HF | TPU for AMS |
 | H2，X1，P 系列 | ✅ | ✅ | ✅ | ✅ |
-| A 系列 | ❌不适配 | ✅ | ✅ | ✅ |
+| A1 系列 | ❌不适配 | ✅ | ✅ | ✅ |
+| A2L | ✅ | ✅ | ✅ | ✅ |
 
 #### 喷嘴
 
@@ -40,10 +41,10 @@ TPU 的硬度通常采用邵氏硬度（Shore Hardness） 表示，常见标尺�
 
 |  |  |
 | --- | --- |
-| **TPU 85A** | **支持：** 0.6 mm / 0.8 mm / TPU 高流量喷嘴    **不推荐：** 0.6 mm 高流量喷嘴 / 0.8 mm 高流量喷嘴    **不支持：** 0.2 mm / 0.4 mm / 高流量 0.4 mm |
-| **TPU 90A** | **支持：** 0.4 mm / 0.6 mm / 0.8 mm / TPU 高流量喷嘴    **不推荐：** 0.4 mm 高流量喷嘴 / 0.6 mm 高流量喷嘴 / 0.8 mm 高流量喷嘴    **不支持：** 0.2 mm |
-| **TPU 95A HF** | **支持：** 0.4 mm / 0.6 mm / 0.8 mm / 0.4 mm 高流量喷嘴 / 0.6 mm 高流量喷嘴 / 0.8 mm 高流量喷嘴 / TPU 高流量喷嘴    **不支持：** 0.2 mm |
-| **TPU for AMS** | **支持：** 0.4 mm / 0.6 mm / 0.8 mm / 0.4 mm 高流量喷嘴 / 0.6 mm 高流量喷嘴 / 0.8 mm 高流量喷嘴    **不支持：** 0.2 mm |
+| **TPU 85A** | **支持：** 0.6/ 0.8 mm / TPU 高流量喷嘴    **不推荐：** 0.6/ 0.8 mm 的高流量喷嘴    **不支持：** 0.2/ 0.4 mm / 高流量 0.4 mm |
+| **TPU 90A** | **支持：** 0.4/ 0.6/ 0.8 mm / TPU 高流量喷嘴    **不推荐：** 高流量喷嘴    **不支持：** 0.2 mm |
+| **TPU 95A HF** | **支持：** 0.4/ 0.6/ 0.8 mm / 高流量喷嘴 / TPU 高流量喷嘴    **不支持：** 0.2 mm |
+| **TPU for AMS** | **支持：** 0.4/ 0.6/ 0.8 mm / 高流量喷嘴    **不支持：** 0.2 mm |
 
 > 🔗 有关 TPU 高流量喷嘴的完整介绍与使用教程，请[点击此处](../h2d/manual/tpu-high-flow-hotend.md)了解详情。  
 > ![induction](https://wiki.bambulab.com/filament-acc/acc/nozzles/tpu_high-flow-nozzle.png)
@@ -167,7 +168,11 @@ P 系列](https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printin
 
 [![A1](https://wiki.bambulab.com/stock-images/new/a1.png)
   
-A 系列](https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-a-series)
+A1 系列](https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-a-series)
+
+[![A2L](https://public-cdn.bblmw.com/wiki/new/homepage/a2l-2.png)
+  
+A2L](https://wiki.bambulab.com/zh/a2l/manual/tpu-printing-guide)
 
 [![X2D](https://wiki.bambulab.com/x1/x2d-1_compressed.jpg)
   

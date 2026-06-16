@@ -4,7 +4,7 @@ title: "如何使用拓竹热床胶水"
 description: "本文介绍了如何使用拓竹热床胶水及注意事项。"
 tags: []
 created: 2023-01-06T01:41:25.060Z
-updated: 2026-02-05T08:26:34.940Z
+updated: 2026-06-10T09:55:53.169Z
 source: https://wiki.bambulab.com/zh/general/how-to-use-bbl-liquid-glue
 ---
 
@@ -29,6 +29,7 @@ source: https://wiki.bambulab.com/zh/general/how-to-use-bbl-liquid-glue
 
 ## 注意事项
 
+- 在开始打印前涂胶水。
 - 建议等待打印板冷却后，再取下打印模型，这样可以减少模型受损的风险，也有助于模型更容易从打印板上脱落。
 - 如果胶水残留较多，建议在下次打印前清洗打印板，以确保良好的粘附性能。
 

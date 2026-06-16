@@ -1,17 +1,17 @@
 ---
 path: zh/a2l/maintenance/extruder-cleaning-guide
-title: "A2L 挤出机清理教程"
-description: "本文将介绍如何清理 A2L 的挤出机。"
+title: "A2L 挤出机清理和润滑教程"
+description: "本文将介绍如何清理 A2L 的挤出机并润滑齿轮。"
 tags: []
 created: 2026-06-01T13:17:10.641Z
-updated: 2026-06-01T13:17:10.641Z
+updated: 2026-06-11T02:32:42.194Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/extruder-cleaning-guide
 ---
 
 ## 何时使用
 
 1. 长时间使用设备打印后，需要清理挤出机；
-2. 根据 [A2L 堵塞排查](https://wiki.bambulab.com/zh/a2l/troubleshooting/clogging) 确定挤出机出现堵塞。
+2. 根据 [A2L 堵塞排查](../troubleshooting/clogging.md) 确定挤出机出现堵塞。
 
 ## 所需工具和材料
 
@@ -72,6 +72,12 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/extruder-cleaning-guide
 
 手动旋转齿轮，清理另一面。  
 ![extruclear.webp](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/manual-bed-tramming/extruclear.webp)
+
+## 润滑工作
+
+清理完成后在黄色齿轮上涂抹微量润滑脂，并转动齿轮确保充分润滑。
+
+![pixpin_2026-06-10_12-03-41.jpg](https://wiki.bambulab.com/a2l/maintenance/extruder-cleaning-guide/pixpin_2026-06-10_12-03-41.jpg)
 
 ## 安装工作
 

@@ -4,7 +4,7 @@ title: "忘记设备连接 PIN 码，应该如何操作？"
 description: "本文将详细为您讲述忘记 PIN 连接 Cyberbrick 的详细步骤。"
 tags: []
 created: 2025-09-19T10:02:43.349Z
-updated: 2026-06-03T05:44:53.106Z
+updated: 2026-06-03T05:44:54.080Z
 source: https://wiki.bambulab.com/zh/cyberbrick/troubleshooting/forget-the-pin-code
 ---
 

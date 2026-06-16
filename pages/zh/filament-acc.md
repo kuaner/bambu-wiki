@@ -4,7 +4,7 @@ title: "耗材 & 配件"
 description: ""
 tags: []
 created: 2023-09-15T09:47:06.270Z
-updated: 2026-06-05T08:36:39.244Z
+updated: 2026-06-05T08:36:40.250Z
 source: https://wiki.bambulab.com/zh/filament-acc
 ---
 
@@ -98,8 +98,8 @@ source: https://wiki.bambulab.com/zh/filament-acc
 
 ## 4. 配件
 
-- [拓竹清洁湿巾介绍](https://wiki.bambulab.com/zh/filament-acc/acc/cleaning-wipes)
-- [Fleet Hub 产品介绍](https://wiki.bambulab.com/zh/acc/manual/fleet-hub)
+- [拓竹清洁湿巾介绍](acc/cleaning-wipes.md)
+- [Fleet Hub 产品介绍](acc/manual/fleet-hub.md)
 - [TPU 送料助力模块组装 & 使用指南](general/manual/tpu-feed-assist-module.md)
 - [拓竹热端喷嘴介绍](acc/nozzles.md)
 - [拓竹 3D 打印机风扇介绍](acc/fans.md)

@@ -4,7 +4,7 @@ title: "更换 H2C TH 板"
 description: "本文介绍了如何更换 H2C TH 板"
 tags: []
 created: 2025-11-18T13:15:21.116Z
-updated: 2026-06-08T02:41:29.471Z
+updated: 2026-06-08T02:41:30.480Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-th-board
 ---
 

@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-x-axis-assembly
 title: "A2L 更换 X 轴轨道组件"
-description: ""
+description: "本文介绍了如何更换 A2L X 轴轨道组件"
 tags: []
 created: 2026-06-01T13:15:15.534Z
-updated: 2026-06-01T13:15:55.178Z
+updated: 2026-06-04T01:49:32.403Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-axis-assembly
 ---
 
@@ -38,7 +38,7 @@ X 轴组件
 
 ### 1. 移除 X 轴同步带
 
-参照教程移除 X 轴同步带：[更换 X 轴皮带](https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-belt)
+参照教程移除 X 轴同步带：[更换 X 轴皮带](replace-x-belt.md)
 
 ### 2. 移除工具头线缆（底座端）
 
@@ -54,7 +54,7 @@ X 轴组件
 
 ### 4. 移除 X 电机盒
 
-参照以下教程移除 X 电机盒：[更换 X 电机盒](https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-axis-motor-cover)
+参照以下教程移除 X 电机盒：[更换 X 电机盒](replace-x-axis-motor-cover.md)
 
 ### 5. 移除工具头
 
@@ -110,7 +110,7 @@ X 轴组件
 
 ### 4. 安装 X 电机盒
 
-参照以下教程安装 X 电机盒：[更换 X 电机盒](https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-axis-motor-cover)
+参照以下教程安装 X 电机盒：[更换 X 电机盒](replace-x-axis-motor-cover.md)
 
 ### 5. 安装 X 轴
 
@@ -126,7 +126,7 @@ X 轴组件
 
 ### 7. 安装 X 轴同步带
 
-参照教程装回X轴同步带：[更换 X 轴皮带](https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-belt)
+参照教程装回X轴同步带：[更换 X 轴皮带](replace-x-belt.md)
 
 ## 结束语
 

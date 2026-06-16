@@ -4,7 +4,7 @@ title: "如何在Bambu Lab打印机上使用局域网模式"
 description: "有关在 Bambu Lab 打印机上使用局域网模式的指南"
 tags: []
 created: 2023-08-30T06:27:06.873Z
-updated: 2026-06-02T02:27:58.663Z
+updated: 2026-06-02T02:27:59.647Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/enable-lan-mode
 ---
 

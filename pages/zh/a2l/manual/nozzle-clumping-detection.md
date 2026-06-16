@@ -4,7 +4,7 @@ title: "A2L 裹头检测介绍"
 description: "本文介绍了 A2L 裹头检测功能"
 tags: []
 created: 2026-06-01T13:00:02.799Z
-updated: 2026-06-01T13:18:26.742Z
+updated: 2026-06-08T13:29:47.589Z
 source: https://wiki.bambulab.com/zh/a2l/manual/nozzle-clumping-detection
 ---
 
@@ -82,8 +82,8 @@ source: https://wiki.bambulab.com/zh/a2l/manual/nozzle-clumping-detection
 
 一旦检测到裹头，打印机将自动暂停打印并弹出提醒。由于该检测并非绝对准确，用户需自行判断是真实发生裹头，还是因霍尔传感器异常或检测弹片被意外触碰所导致。请根据实际进行处理。
 
-1. **确实发生裹头：**请参考 [A2L 喷嘴冷拔维护指南](https://wiki.bambulab.com/zh/a2l/maintenance/nozzle-cold-pull-maintenance) 进行清理；
-2. **霍尔传感器异常：**请参考[霍尔开关故障排查指南](../../x1/troubleshooting/filament-sensor-test.md)进行处理；
+1. **确实发生裹头：**请参考 [A2L 喷嘴冷拔维护指南](../maintenance/nozzle-cold-pull-maintenance.md) 进行清理；
+2. **霍尔传感器异常：**请参考[霍尔开关故障排查指南](../troubleshooting/hmscode/0300_1A00_0002_0003.md)进行处理；
 3. **弹片被意外触碰：**检查弹片位置是否有异物导致弹片歪斜；如有，请清理异物。
 
 |  |  |

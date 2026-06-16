@@ -4,7 +4,7 @@ title: "3D打印层纹问题排查与解决方案"
 description: "本文将为您详细介绍如何有效排查和解决3D打印模型出现严重层纹的问题。"
 tags: []
 created: 2025-07-04T04:33:07.421Z
-updated: 2026-06-02T01:41:59.269Z
+updated: 2026-06-02T01:42:00.264Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/severe-layer-artifacts
 ---
 

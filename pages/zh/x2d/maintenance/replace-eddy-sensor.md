@@ -4,7 +4,7 @@ title: "更换 X2D 涡流线圈"
 description: "本文介绍了如何更换 X2D 涡流线圈。"
 tags: ["x2d"]
 created: 2026-04-14T13:08:04.429Z
-updated: 2026-04-24T02:56:43.904Z
+updated: 2026-06-10T12:09:17.260Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-eddy-sensor
 ---
 
@@ -38,6 +38,14 @@ X2D 有左、右 2 个涡流线圈，分别位于左热端和右辅助热端上�
 
 > 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
+## 易损提示
+
+> 移除工具头接口板布线泡棉时，请您沿左侧向玻璃前门方向轻拉，避免因拉力过大导致左霍尔检测板连接器盖板松脱或损坏。  
+> ![泡棉3.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-th-board/%E6%B3%A1%E6%A3%893.jpg)
+
+> 右切料拨杆只能在辅助热端抬升后（右图）才能进行手动切料测试，否则切料组件会错位并与切料拨杆卡住。  
+> ![切料拨杆组件.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-filament-cutter-lever/%E5%88%87%E6%96%99%E6%8B%A8%E6%9D%86%E7%BB%84%E4%BB%B6.jpg)
 
 ## 视频教程
 

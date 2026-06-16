@@ -4,7 +4,7 @@ title: "AMS HT"
 description: ""
 tags: []
 created: 2025-03-25T02:02:04.119Z
-updated: 2026-03-17T03:28:09.775Z
+updated: 2026-06-10T06:59:50.175Z
 source: https://wiki.bambulab.com/zh/ams-ht
 ---
 
@@ -26,6 +26,7 @@ source: https://wiki.bambulab.com/zh/ams-ht
 ## 💡 故障排除
 
 - [AMS 系列电阻测量与故障判断方法](ams/troubleshooting/troubleshooting_for_AMS_motherboard.md)
+- [AMS HT 上电异常的故障排查指南](troubleshooting/failure-to-power-on.md)
 
 ## 🚧 维护指南
 

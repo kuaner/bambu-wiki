@@ -4,7 +4,7 @@ title: "A2L 首层打印质量改善指南"
 description: "本文介绍了如何改善 A2L 的首层打印质量"
 tags: []
 created: 2026-06-01T13:18:15.134Z
-updated: 2026-06-01T13:18:15.134Z
+updated: 2026-06-01T13:18:22.042Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/first-layer-quality-calibration
 ---
 

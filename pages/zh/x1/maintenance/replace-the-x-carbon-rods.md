@@ -1,10 +1,10 @@
 ---
 path: zh/x1/maintenance/replace-the-x-carbon-rods
 title: "更换 X 轴碳杆组件"
-description: "更换 X1 系列打印机 X 轴碳杆组件的操作流程"
+description: "更换 X1 / P1 系列打印机 X 轴碳杆组件的操作流程"
 tags: ["p1p", "x1", "x1c", "碳杆"]
 created: 2023-04-23T06:45:00.443Z
-updated: 2026-01-29T02:11:31.947Z
+updated: 2026-06-08T09:17:02.977Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-the-x-carbon-rods
 ---
 

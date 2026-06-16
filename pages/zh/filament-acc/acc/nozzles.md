@@ -4,7 +4,7 @@ title: "拓竹热端喷嘴介绍"
 description: "本篇指南详细介绍了拓竹各类喷嘴组件的特点、功能、尺寸、材质，以及喷嘴硅胶套的基本信息。"
 tags: []
 created: 2025-12-30T10:35:04.180Z
-updated: 2026-06-12T02:02:17.889Z
+updated: 2026-06-12T02:02:18.932Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/nozzles
 ---
 
@@ -166,8 +166,8 @@ A 系列热端喷嘴采用特殊的一体式设计，喷嘴集成到热块中，
 
 A 系列打印机标配的是 0.4mm 不锈钢喷嘴组件，也可选购升级为硬化钢喷嘴。
 
-> - **更换教程：**[更换 A1 热端](../../a1/maintenance/replace-hotend.md)；[更换 A2L 热端及热端硅胶套](https://wiki.bambulab.com/zh/a2l/maintenance/replace-silicone-sock-for-hotend)
-> - **堵塞清理教程：** [A2L 喷嘴堵塞清理指南](https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hotend)；[A1 系列喷嘴/热端堵塞清理指南](../../a1-mini/troubleshooting/nozzle-clog.md)；[热端脏污清洁维护](../../a1-mini/maintenance/clean-hotend-assembly.md)
+> - **更换教程：**[更换 A1 热端](../../a1/maintenance/replace-hotend.md)；[更换 A2L 热端及热端硅胶套](../../a2l/maintenance/replace-silicone-sock-for-hotend.md)
+> - **堵塞清理教程：** [A2L 喷嘴堵塞清理指南](../../a2l/maintenance/cold-pull-maintenance-hotend.md)；[A1 系列喷嘴/热端堵塞清理指南](../../a1-mini/troubleshooting/nozzle-clog.md)；[热端脏污清洁维护](../../a1-mini/maintenance/clean-hotend-assembly.md)
 
 #### X1 / P1 系列喷嘴
 
@@ -276,7 +276,7 @@ X2D 和 P2S 共用同一类硅胶套，但无 AI 识别功能。
 
 **适配机型：** A2L
 
-**更换指南：** [更换 A2L 热端硅胶套](https://wiki.bambulab.com/zh/a2l/maintenance/replace-silicone-sock-for-hotend)
+**更换指南：** [更换 A2L 热端硅胶套](../../a2l/maintenance/replace-silicone-sock-for-hotend.md)
 
 **购买链接：** [A2L 热端硅胶套](https://item.jd.com/10224277526854.html?pcdk=yL13HC2JBY7zg5aik8XiiJasWf9_41z6VR533M461CY=.M8AW.sbc1)
 

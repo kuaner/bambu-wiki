@@ -4,7 +4,7 @@ title: "如何上传模型和打印配置"
 description: "这篇文章介绍了如何在 MakerWorld 上传并发布模型和打印配置作品。"
 tags: []
 created: 2025-02-10T11:50:13.677Z
-updated: 2026-06-05T10:09:18.760Z
+updated: 2026-06-05T10:09:19.777Z
 source: https://wiki.bambulab.com/zh/makerworld/tutorials/how-to-upload-models
 ---
 

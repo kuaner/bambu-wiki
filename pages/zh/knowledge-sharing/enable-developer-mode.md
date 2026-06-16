@@ -4,7 +4,7 @@ title: "如何在拓竹打印机上使用开发者模式"
 description: "有关在拓竹打印机上使用开发者模式的指南"
 tags: []
 created: 2025-01-23T06:39:16.582Z
-updated: 2025-10-15T03:31:39.140Z
+updated: 2026-06-15T03:42:07.691Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/enable-developer-mode
 ---
 
@@ -78,7 +78,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/enable-developer-mode
 
 ![develop-on-cn.png](https://wiki.bambulab.com/knowledge-sharing/developer-mode/develop-on-cn.png)
 
-## P 系列打印机
+## P1 系列打印机
 
 ### 步骤1.在打印机端启用“局域网模式”
 

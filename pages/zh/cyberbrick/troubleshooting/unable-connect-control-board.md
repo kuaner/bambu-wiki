@@ -4,7 +4,7 @@ title: "CyberBrick 无法通过手机或电脑连接多功能主控板"
 description: "本页面提供 CyberBrick 无法通过手机或电脑连接多功能主控板的故障排查指南，涵盖检查蓝牙名称、避免多设备同时连接及确保稳定供电的步骤。"
 tags: []
 created: 2025-06-26T13:26:16.117Z
-updated: 2026-06-05T09:58:59.578Z
+updated: 2026-06-05T09:59:00.552Z
 source: https://wiki.bambulab.com/zh/cyberbrick/troubleshooting/unable-connect-control-board
 ---
 

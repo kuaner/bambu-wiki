@@ -4,7 +4,7 @@ title: "H2C 堵塞排查"
 description: "本文介绍如何进行 H2C 堵塞排查"
 tags: []
 created: 2025-11-18T13:15:41.343Z
-updated: 2026-02-02T11:45:31.885Z
+updated: 2026-06-12T09:04:51.997Z
 source: https://wiki.bambulab.com/zh/h2c/troubleshooting/clogging
 ---
 
@@ -27,7 +27,7 @@ source: https://wiki.bambulab.com/zh/h2c/troubleshooting/clogging
 
 ## 排障思路
 
-1. 先尝试手动上拉耗材，若过程中遇到明显阻力或无法取出，直接判定为挤出机侧堵塞，转至 [3. 挤出机堵塞排查](#sec-extruder-jam) 处理。
+1. 先尝试在室温下手动切断耗材，然后手动上拉耗材，若过程中遇到明显阻力或无法取出，直接判定为挤出机侧堵塞，转至 [3. 挤出机堵塞排查](#sec-extruder-jam) 处理。
 2. 若上拉耗材顺利，可插入一段新耗材，在打印机屏幕上点击 “挤出”：
    - 若能顺利挤出（此时喷嘴已取下），说明堵塞多发生在热端或喷嘴，转至 [2. 热端/喷嘴堵塞排查](#sec-hotend-nozzle)。
    - 若无法挤出或回抽操作失败，按挤出机堵塞处理，转至 [3. 挤出机堵塞排查](#sec-extruder-jam)。

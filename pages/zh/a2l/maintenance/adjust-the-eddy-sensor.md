@@ -4,7 +4,7 @@ title: "A2L 涡流线圈调整教程"
 description: "当设备回中或调平出现异常时，可能需要调整涡流线圈位置，本文介绍如何操作。"
 tags: []
 created: 2026-06-01T13:17:06.438Z
-updated: 2026-06-01T13:17:06.438Z
+updated: 2026-06-08T03:30:32.392Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/adjust-the-eddy-sensor
 ---
 
@@ -16,6 +16,8 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/adjust-the-eddy-sensor
 
 - H1.5 & H2.0 内六角螺丝刀
 - 镊子
+
+## 视频指南
 
 ## 安全提示
 

@@ -4,7 +4,7 @@ title: "CyberBrick 软件"
 description: ""
 tags: []
 created: 2025-05-12T03:50:44.499Z
-updated: 2026-06-03T06:03:43.204Z
+updated: 2026-06-03T06:03:44.224Z
 source: https://wiki.bambulab.com/zh/software/cyberbrick-app
 ---
 

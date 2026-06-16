@@ -4,7 +4,7 @@ title: "激光和刀切"
 description: ""
 tags: []
 created: 2026-06-01T12:53:42.258Z
-updated: 2026-06-01T13:58:03.660Z
+updated: 2026-06-01T13:58:04.655Z
 source: https://wiki.bambulab.com/zh/laser-cutting-module
 ---
 
@@ -27,7 +27,7 @@ source: https://wiki.bambulab.com/zh/laser-cutting-module
 | 激光和刀切能做什么 | [2D 工艺类型介绍](software/bambu-suite/manual/2d-processing-type-intro.md) |
 | 怎么安装激光模组 | [激光模组安装指南](h2/manual/laser-module-lnstallation-guide.md) |
 | H2 系列怎么安装刀切模组 | [刀切模组安装指南](h2/manual/cutting-module-installation-guide.md) |
-| A2L 怎么使用刀切/画笔 | [A2L 刀切/画笔使用教程](https://wiki.bambulab.com/zh/a2l/manual/cutting-module-user-guide) |
+| A2L 怎么使用刀切/画笔 | [A2L 刀切/画笔使用教程](a2l/manual/cutting-module-user-guide.md) |
 | 哪些材料可以加工 | [可加工材料清单](h2/laser/processable-materials-list.md) |
 | 选哪种垫板 | [垫板使用介绍](h2/manual/laser-platform-cutting-platform-use-intro.md) |
 | 加工质量不好 | [激光质量排查](software/bambu-suite/troubleshooting/laser-processing-quality-issues.md)  [刀切质量排查](h2/blade-cutter/troubleshooting/cutting-and-drawing-quality-troubleshooting.md) |
@@ -93,7 +93,7 @@ source: https://wiki.bambulab.com/zh/laser-cutting-module
 
 ## ✏️ 刀切模组与画笔功能
 
-> 💡 **A2L 专属教程**：[A2L 刀切/画笔使用教程](https://wiki.bambulab.com/zh/a2l/manual/cutting-module-user-guide)，未标注机型的文章 A2L 与 H2 系列均适用。
+> 💡 **A2L 专属教程**：[A2L 刀切/画笔使用教程](a2l/manual/cutting-module-user-guide.md)，未标注机型的文章 A2L 与 H2 系列均适用。
 
 ### 1. 入门与安装
 

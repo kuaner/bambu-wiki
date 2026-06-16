@@ -4,13 +4,13 @@ title: "Bambu Suite 版本说明"
 description: ""
 tags: []
 created: 2025-03-26T03:37:10.764Z
-updated: 2026-06-02T01:37:43.134Z
+updated: 2026-06-02T01:37:44.127Z
 source: https://wiki.bambulab.com/zh/software/bambu-suite/release-notes
 ---
 
 ## Bambu Suite 版本说明
 
-[Bambu Suite V1.3.0.00 版本说明](https://wiki.bambulab.com/zh/software/bambu-suite/release-notes/v01-03-00-00)
+[Bambu Suite V1.3.0.00 版本说明](v01-03-00-00.md)
 
 [Bambu Suite V1.2.2.00 版本说明](v01-02-02-00.md)
 

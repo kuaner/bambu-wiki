@@ -4,7 +4,7 @@ title: "拓竹打印机 LED 指示灯灯语解释"
 description: ""
 tags: []
 created: 2024-06-12T03:28:02.473Z
-updated: 2026-06-02T03:05:50.929Z
+updated: 2026-06-02T03:05:51.962Z
 source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 ---
 
@@ -177,13 +177,13 @@ source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 
 ### 正常状态：TH 板指示灯常亮（上 & 左下）、快速闪烁（右下）
 
-请参考[更换工具头外壳](https://wiki.bambulab.com/zh/a2l/maintenance/replace-toolhead-rear-housing)来移除工具头后盖，观察 TH 板指示灯。
+请参考[更换工具头外壳](../a2l/maintenance/replace-toolhead-rear-housing.md)来移除工具头后盖，观察 TH 板指示灯。
 
 ![th板.webp](https://wiki.bambulab.com/general/bbl-indicator-led/th%E6%9D%BF.webp)
 
 ### 正常状态：主板（集成 MC 板和 AP 板）指示灯
 
-请参考[更换底盖](https://wiki.bambulab.com/zh/a2l/maintenance/replace-bottom-cover)移除打印机底壳，观察主板指示灯。
+请参考[更换底盖](../a2l/maintenance/replace-bottom-cover.md)移除打印机底壳，观察主板指示灯。
 
 - **通信状态灯**：常亮（左绿灯 & 右白灯）
 

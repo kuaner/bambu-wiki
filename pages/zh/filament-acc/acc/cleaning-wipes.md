@@ -4,7 +4,7 @@ title: "清洁湿巾"
 description: "本文介绍了拓竹清洁湿巾的基本信息与使用方法。"
 tags: []
 created: 2026-06-03T02:21:44.699Z
-updated: 2026-06-03T02:46:16.482Z
+updated: 2026-06-03T02:46:17.476Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/cleaning-wipes
 ---
 
@@ -82,7 +82,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/cleaning-wipes
 
 - [A1 产品维护与保养](../../a1/maintenance/basic-maintenance.md)
 - [A1 mini 产品维护与保养](../../a1-mini/maintenance/period-maintenance.md)
-- [A2L 定期维护建议](https://wiki.bambulab.com/en/a2l/maintenance/period-maintenance)
+- [A2L 定期维护建议](../../../en/a2l/maintenance/period-maintenance.md)
 
 ## 结束语
 

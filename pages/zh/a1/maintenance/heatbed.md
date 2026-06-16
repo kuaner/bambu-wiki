@@ -1,10 +1,10 @@
 ---
 path: zh/a1/maintenance/heatbed
-title: "A1 热床拆装指引"
-description: "本文提供将A1热床拆装指引及注意事项。"
+title: "A1 热床更换指引"
+description: "本文提供将 A1 热床拆装指引及注意事项。"
 tags: ["热床"]
 created: 2024-03-23T10:27:23.797Z
-updated: 2026-02-11T08:50:06.499Z
+updated: 2026-06-08T09:41:09.156Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/heatbed
 ---
 

@@ -4,7 +4,7 @@ title: "A2L AMS 套装装箱指南"
 description: "本文介绍 A2L AMS 套装的装箱步骤"
 tags: []
 created: 2026-06-01T13:01:31.037Z
-updated: 2026-06-01T13:01:32.054Z
+updated: 2026-06-09T02:49:40.329Z
 source: https://wiki.bambulab.com/zh/a2l/manual/packing-a2l-combo
 ---
 
@@ -16,6 +16,8 @@ source: https://wiki.bambulab.com/zh/a2l/manual/packing-a2l-combo
 >
 > - **请检查所有螺丝是否拧紧**，防止元件松动。
 > - **请确认缓冲泡棉是否放置到位**，充分保护设备。
+
+> 请将拆下的螺丝和配件妥善放回包装内，避免运输过程中与其他部件发生碰撞，导致外观或结构受损，影响您的退换货权益。
 
 ## 准备工具
 

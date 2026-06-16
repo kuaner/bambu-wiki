@@ -4,7 +4,7 @@ title: "P2S 堵塞排查"
 description: "本文介绍如何进行 P2S 堵塞排查"
 tags: []
 created: 2025-10-14T13:14:59.368Z
-updated: 2026-03-31T03:04:45.275Z
+updated: 2026-06-12T03:08:30.576Z
 source: https://wiki.bambulab.com/zh/p2s/troubleshooting/clogging
 ---
 
@@ -20,9 +20,6 @@ source: https://wiki.bambulab.com/zh/p2s/troubleshooting/clogging
 ## 所需工具
 
 - H1.5 和 H2.0 内六角扳手
-- 镊子
-
-![](https://public-cdn.bblmw.com/wiki/new/p2s/troubleshooting/clogging/1.png)
 
 ## 排障步骤
 

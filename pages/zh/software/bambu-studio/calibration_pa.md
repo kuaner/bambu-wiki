@@ -4,7 +4,7 @@ title: "动态流量校准"
 description: "本文详细介绍动态流量校准及其具体操作方法。"
 tags: []
 created: 2023-08-01T13:28:50.468Z
-updated: 2026-06-12T03:22:09.829Z
+updated: 2026-06-12T03:22:10.849Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/calibration_pa
 ---
 

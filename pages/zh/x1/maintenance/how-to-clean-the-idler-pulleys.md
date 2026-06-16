@@ -4,7 +4,7 @@ title: "X1/P1 惰轮清洁指南"
 description: "本指南适用于X1/P1系列打印机的惰轮清洁。"
 tags: ["p1s", "x1c"]
 created: 2025-07-01T01:53:07.457Z
-updated: 2026-06-03T06:29:40.671Z
+updated: 2026-06-03T06:29:41.666Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/how-to-clean-the-idler-pulleys
 ---
 

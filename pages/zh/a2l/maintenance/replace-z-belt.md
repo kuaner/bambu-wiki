@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-z-belt
 title: "A2L 更换 Z 同步带"
-description: ""
+description: "本文介绍了如何更换 A2L Z 同步带"
 tags: []
 created: 2026-06-01T13:15:59.735Z
-updated: 2026-06-01T13:15:59.735Z
+updated: 2026-06-04T01:52:23.006Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-z-belt
 ---
 
@@ -39,7 +39,7 @@ A2L Z 同步带
 
 ### 1. 拆卸底座
 
-请参照下方教程分离龙门架和底座（无需拆卸X轴）：[更换龙门架](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+请参照下方教程分离龙门架和底座（无需拆卸X轴）：[更换龙门架](replace-printer-frame.md)
 
 ### 2. 固定X轴
 
@@ -83,7 +83,7 @@ A2L Z 同步带
 
 ### 4. 安装底座
 
-请参照下方教程装回底座：[更换龙门架](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+请参照下方教程装回底座：[更换龙门架](replace-printer-frame.md)
 
 ## 功能验证
 

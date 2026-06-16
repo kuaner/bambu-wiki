@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-heatbed-unit
 title: "A2L 更换热床组件"
-description: ""
+description: "本文介绍了如何更换 A2L 热床组件"
 tags: []
 created: 2026-06-01T13:15:06.763Z
-updated: 2026-06-01T13:15:06.763Z
+updated: 2026-06-04T01:52:48.040Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-heatbed-unit
 ---
 
@@ -40,7 +40,7 @@ A2L 热床
 
 ### 1. 拆除龙门架
 
-参照下方链接移除龙门架部分（无需移除X轴）：[更换龙门架](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+参照下方链接移除龙门架部分（无需移除X轴）：[更换龙门架](replace-printer-frame.md)
 
 将设备翻转放置在桌面上，注意屏幕部分需要悬空。
 
@@ -103,7 +103,7 @@ A2L 热床
 
 ### 4. 安装龙门架
 
-参照下方链接安装龙门架部分：[更换龙门架](https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame)
+参照下方链接安装龙门架部分：[更换龙门架](replace-printer-frame.md)
 
 ## 功能验证
 

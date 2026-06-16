@@ -4,7 +4,7 @@ title: "A1 系列 TPU 90A 打印指南"
 description: "使用 A1 系列打印机打印 TPU 90A 的打印指南"
 tags: []
 created: 2025-03-07T02:37:15.425Z
-updated: 2026-06-12T03:43:08.246Z
+updated: 2026-06-12T03:43:09.279Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-a-series
 ---
 

@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-a3508-extruder-motor
 title: "A2L 更换 A3508 挤出电机、挤出机后盖"
-description: ""
+description: "本文介绍了如何更换 A2L A3508 挤出电机、挤出机后盖"
 tags: []
 created: 2026-06-01T13:11:36.339Z
-updated: 2026-06-01T13:11:57.941Z
+updated: 2026-06-04T01:40:47.417Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-a3508-extruder-motor
 ---
 
@@ -47,7 +47,7 @@ A2L A3508 挤出电机/挤出机后盖
 
 ### 1. 拆下挤出机组件
 
-参照下方教程拆下挤出机组件：[更换挤出机组件](https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit)
+参照下方教程拆下挤出机组件：[更换挤出机组件](replace-extruder-unit.md)
 
 ### 2. 释放切刀刀柄
 
@@ -123,7 +123,7 @@ A2L A3508 挤出电机/挤出机后盖
 
 ### 6. 安装挤出机组件
 
-参照下方教程装回挤出机组件：[更换挤出机组件](https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-unit)
+参照下方教程装回挤出机组件：[更换挤出机组件](replace-extruder-unit.md)
 
 ## 功能验证
 

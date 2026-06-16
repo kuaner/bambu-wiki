@@ -4,7 +4,7 @@ title: "H2 系列的 TPU 打印准备工作"
 description: ""
 tags: []
 created: 2025-03-25T02:38:44.805Z
-updated: 2026-06-02T04:13:03.670Z
+updated: 2026-06-02T04:13:04.663Z
 source: https://wiki.bambulab.com/zh/h2/h2d-tpu-printing-guide
 ---
 

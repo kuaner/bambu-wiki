@@ -4,7 +4,7 @@ title: "堵头"
 description: ""
 tags: ["堵头", "打印质量"]
 created: 2023-12-10T05:32:58.252Z
-updated: 2026-06-02T01:33:10.999Z
+updated: 2026-06-02T01:33:12.012Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/clog
 ---
 
@@ -22,7 +22,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/clog
 | [H2C 喷嘴堵塞排查](../../../h2c/troubleshooting/clogging.md) | 介绍当 H2C 热端堵塞时如何清理 |
 | [P2S 喷嘴堵塞清理指南](../../../p2s/maintenance/cold-pull-maintenance-hotend.md) | 详细介绍 P2S 打印机喷嘴堵塞的清理方法。 |
 | [A1 系列打印机热端堵塞清理](../../../a1-mini/troubleshooting/nozzle-clog.md) | 介绍当 A1 系列打印机热端堵塞时如何清理。 |
-| [A2L 打印机热端堵塞清理](https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hotend) | 介绍当 A2L 系列打印机热端堵塞时如何清理。 |
+| [A2L 打印机热端堵塞清理](../../../a2l/maintenance/cold-pull-maintenance-hotend.md) | 介绍当 A2L 系列打印机热端堵塞时如何清理。 |
 
 打印前，请提前确认是否给打印耗材设置了正确的喷嘴和热床温度：[打印材料的兼容性和参数设置 | Bambu Lab Wiki](../../../general/filament-guide-material-table.md)。
 

@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-power-supply
 title: "A2L 更换电源模块"
-description: ""
+description: "本文介绍了如何更换 A2L 电源模块"
 tags: []
 created: 2026-06-01T13:13:01.144Z
-updated: 2026-06-01T13:13:01.144Z
+updated: 2026-06-04T01:57:35.204Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-power-supply
 ---
 

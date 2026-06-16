@@ -4,7 +4,7 @@ title: "P2S/X2D XYZ 轴清洁润滑"
 description: "本文将详细为您介绍 P2S/X2D 打印机 XYZ 清洁维护的保养步骤。"
 tags: []
 created: 2025-10-14T13:20:17.814Z
-updated: 2026-04-14T14:11:36.657Z
+updated: 2026-06-11T02:52:12.885Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/lubricate-x-y-z-axis
 ---
 
@@ -21,6 +21,8 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/lubricate-x-y-z-axis
 ## 视频指南
 
 - 本功能以P2S打印机为例进行说明，X2D同样适用
+
+> P2S/X2D 打印机背部光轴通常无需涂油维护，如您需要可拆卸背板进行操作: [P2S](replace-rear-panel.md)、[X2D](../../x2d/maintenance/replace-rear-panel.md)
 
 ## 所需材料
 
@@ -120,6 +122,8 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/lubricate-x-y-z-axis
 ![](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/lubricate-x-y-z-axis/005.webp)
 
 完成后为三根丝杆均匀涂抹润滑脂，左右两侧光轴涂抹润滑油。
+
+> P2S/X2D 打印机背部光轴通常无需涂油维护，如您需要可拆卸背板进行操作: [P2S](replace-rear-panel.md)、[X2D](../../x2d/maintenance/replace-rear-panel.md)
 
 |  |  |
 | --- | --- |

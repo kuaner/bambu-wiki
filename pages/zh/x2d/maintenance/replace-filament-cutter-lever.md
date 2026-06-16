@@ -4,7 +4,7 @@ title: "更换 X2D 切料拨杆组件"
 description: "本文介绍了如何更换 X2D 切料拨杆组件"
 tags: []
 created: 2026-04-14T13:08:14.938Z
-updated: 2026-04-24T02:50:48.146Z
+updated: 2026-06-10T12:08:08.157Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-filament-cutter-lever
 ---
 
@@ -32,7 +32,8 @@ H 1.5 内六角扳手
 >
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 
-> 右切料拨杆只能在辅助热端抬升后才能进行手动切料测试，否则会被卡住。
+> 右切料拨杆只能在辅助热端抬升后（右图）才能进行手动切料测试，否则切料组件会错位并与切料拨杆卡住。  
+> ![切料拨杆组件.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-filament-cutter-lever/%E5%88%87%E6%96%99%E6%8B%A8%E6%9D%86%E7%BB%84%E4%BB%B6.jpg)
 
 ## 视频教程
 
