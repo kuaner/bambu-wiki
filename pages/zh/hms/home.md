@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-06-16T01:35:43.790Z
+updated: 2026-06-16T08:36:02.184Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -1752,6 +1752,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 0300-2D00-0001-0006
 >
 > - [A2L](../a2l/troubleshooting/hmscode/0300_2d00_0001_0006.md)
+
+> **HMS\_0300-2D00-0003-0001: 正在等待热床温度均衡。**
+>
+> **Synonyms:** 0300-2D00-0003-0001
+>
+> - [A2L](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_2d00_0003_0001)
 
 > **HMS\_0300-2D00-0003-0009: 正在执行首次高温热床调平**
 >
