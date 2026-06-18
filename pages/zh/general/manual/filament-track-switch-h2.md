@@ -4,7 +4,7 @@ title: "耗材变轨器使用指南 - H2 系列"
 description: "本指南涵盖耗材变轨器的详细介绍，以及 H2 系列打印机搭配耗材变轨器进行打印的具体操作步骤。"
 tags: []
 created: 2026-05-12T04:18:47.643Z
-updated: 2026-06-16T02:35:36.708Z
+updated: 2026-06-16T02:35:37.800Z
 source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch-h2
 ---
 

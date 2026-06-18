@@ -4,7 +4,7 @@ title: "料管拓展口"
 description: "关于四进一料管拓展口与 H2C 专用料管拓展口的用途说明"
 tags: ["料管扩展口"]
 created: 2024-01-12T13:56:39.225Z
-updated: 2026-06-16T02:26:18.353Z
+updated: 2026-06-17T09:17:20.150Z
 source: https://wiki.bambulab.com/zh/parts-acc/ptfe_adapter
 ---
 
@@ -12,16 +12,16 @@ source: https://wiki.bambulab.com/zh/parts-acc/ptfe_adapter
 
 料管拓展口能够同时连接 4 个 AMS 到 3D 打印机。其进端有 4 个孔，通过插入四根铁氟龙料管连接至 AMS 或外挂料盘。出端为1孔，通过一根铁氟龙料管与打印机相连。
 
-料管拓展口有两种型号，普通料管拓展口和 H2C 专用料管拓展口。
+料管拓展口有两种型号，料管拓展口一代和四进一料管拓展口二代。
 
 |  |  |
 | --- | --- |
 |  |  |
-| 料管拓展口 | H2C 专用料管拓展口 |
+| 料管拓展口 | 四进一料管拓展口二代 |
 
 相较于普通料管拓展口，H2C 新版本四进一料管拓展口在出口端集成了一块**清洁刮片**，用于拦截耗材碎屑与其他表面灰尘，将碎屑阻挡在刮片外侧，防止其进入工具头，从而减少堵塞和无线通信异常的风险。
 
-> 📌**注意：** H2C 打印机需使用 [H2C 专用料管拓展口](https://detail.tmall.com/item.htm?abbucket=10&id=995777888055&pisk=gh5sj-xZ1cmsDk4TDczERA6shVAfcyPrfqTArZhZkCd9hIsF0AR4I-XBkMSXgI7Yji1XvCpcQn-wcI_cVyrza77GSIAL4uPyu9bGIQm9DIn2vpLXGFLQC8DVSIAYc2lYU7_GbjaFQqLvJyT2oFhODKnp9HYj6AIvXpnpoEAvDiIv9eLJrFKvDnQppHYsWAht6D3pSFKxBFIx9yTDvndvHiQLRExpDj3jPEw6jNaxCUKiG-8FWHGxM1FDK3OI3jlVBFp1NNKC8w5B5dtJhHvmZ1IFk15MKRM9iwW5ctI8YA-OFUsBUOZS1gsMkZTAf70Wv1_fOdXEXALW1h9R6dgzrwJAd6ON6oDl8wt9FBWUKlJ21G6kqde3xi_BbiC6pcZe0T7F6ps8YXsDhtCw91ELNgyxa3alvxgBEjTB4yaInxY0DIqFjGocadLH5pzQRcBDBeYB4yaInxv9-FtURyiOn&rn=a27d1c6d3ef887905d64d1771cba3506&spm=a1z10.3-b-s.w4011-25177047232.33.4e5a3c0eSrwttP)；P2S 和 X2D 打印机需使用[普通料管拓展口](https://detail.tmall.com/item.htm?abbucket=10&id=761478379121&pisk=gxQKjEYHpR23gAU_H2qGryDGnxVgilfUK95jrLvnVOBOeTK3aBXky3pOGHVFETj9eO69dTCzTQ95FTplxl4cT68yP-Y8orfEVNLSU9dBOCNWNQAQsHt9WpEvP-20ycc6YJY5t5ZgUGi6gdOIRH9Q6hOXwUOBdHN9CQd2F26WP5F9ZIMIdHTW1COyZUMBNHOsCBRrdXtBVFN9Zd9WPU6Wf5dyCLTWPjh4edGBE4I1cm1ZfWAEP4_99hZG9dw5bNOd9KCC54gSaBKph69TpJriBh1y2alryn1C0TRfdvwJUNC1Ri6bIDvCDQCc26aI5ebFOit5l8o5HeBJcwttNq1FOpY91ZNo0db9KT_pfS0vqF_DcesgbJxkJIB589h-Pt1Giw-Ny-H6UMA25QQzG0pJVgrhoZH91xvvZDNT60oyAC-09z8e90YC-Cp09znr4hPw6KVT60oyACR9nWF-40-a_&rn=a27d1c6d3ef887905d64d1771cba3506&skuId=5420062635266&spm=a1z10.3-b-s.w4011-25177047232.31.4e5a3c0eSrwttP)； 其他型号打印机可根据需求选购。
+> 📌**注意：** H2C 打印机需使用 [四进一料管拓展口二代](https://detail.tmall.com/item.htm?abbucket=10&id=995777888055&pisk=gh5sj-xZ1cmsDk4TDczERA6shVAfcyPrfqTArZhZkCd9hIsF0AR4I-XBkMSXgI7Yji1XvCpcQn-wcI_cVyrza77GSIAL4uPyu9bGIQm9DIn2vpLXGFLQC8DVSIAYc2lYU7_GbjaFQqLvJyT2oFhODKnp9HYj6AIvXpnpoEAvDiIv9eLJrFKvDnQppHYsWAht6D3pSFKxBFIx9yTDvndvHiQLRExpDj3jPEw6jNaxCUKiG-8FWHGxM1FDK3OI3jlVBFp1NNKC8w5B5dtJhHvmZ1IFk15MKRM9iwW5ctI8YA-OFUsBUOZS1gsMkZTAf70Wv1_fOdXEXALW1h9R6dgzrwJAd6ON6oDl8wt9FBWUKlJ21G6kqde3xi_BbiC6pcZe0T7F6ps8YXsDhtCw91ELNgyxa3alvxgBEjTB4yaInxY0DIqFjGocadLH5pzQRcBDBeYB4yaInxv9-FtURyiOn&rn=a27d1c6d3ef887905d64d1771cba3506&spm=a1z10.3-b-s.w4011-25177047232.33.4e5a3c0eSrwttP)；P2S 和 X2D 打印机需使用[四进一料管拓展口一代](https://detail.tmall.com/item.htm?abbucket=10&id=761478379121&pisk=gxQKjEYHpR23gAU_H2qGryDGnxVgilfUK95jrLvnVOBOeTK3aBXky3pOGHVFETj9eO69dTCzTQ95FTplxl4cT68yP-Y8orfEVNLSU9dBOCNWNQAQsHt9WpEvP-20ycc6YJY5t5ZgUGi6gdOIRH9Q6hOXwUOBdHN9CQd2F26WP5F9ZIMIdHTW1COyZUMBNHOsCBRrdXtBVFN9Zd9WPU6Wf5dyCLTWPjh4edGBE4I1cm1ZfWAEP4_99hZG9dw5bNOd9KCC54gSaBKph69TpJriBh1y2alryn1C0TRfdvwJUNC1Ri6bIDvCDQCc26aI5ebFOit5l8o5HeBJcwttNq1FOpY91ZNo0db9KT_pfS0vqF_DcesgbJxkJIB589h-Pt1Giw-Ny-H6UMA25QQzG0pJVgrhoZH91xvvZDNT60oyAC-09z8e90YC-Cp09znr4hPw6KVT60oyACR9nWF-40-a_&rn=a27d1c6d3ef887905d64d1771cba3506&skuId=5420062635266&spm=a1z10.3-b-s.w4011-25177047232.31.4e5a3c0eSrwttP)； 其他型号打印机可根据需求选购。
 
 有关更换清洁刮片的教程请参考: [H2C 四进一料管拓展口料线清洁刮片 | Bambu Lab Wiki](../h2c/maintenance/replace-4in1-ptfe-adapter-filament-cleaning-pad.md)
 
