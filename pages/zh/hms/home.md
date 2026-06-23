@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-06-18T10:10:02.607Z
+updated: 2026-06-22T07:05:41.157Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
