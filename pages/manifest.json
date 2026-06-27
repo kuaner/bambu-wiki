@@ -9,7 +9,7 @@
   "zh/h2/troubleshooting/hmscode/0500_0400_0002_0035": "2025-07-24T01:10:23.245Z",
   "zh/p2s/maintenance/belt-tension": "2026-01-06T03:47:31.601Z",
   "zh/x1/manual/printing-on-cool-plate": "2024-06-07T06:45:50.700Z",
-  "zh/knowledge-sharing/all-public-links": "2026-06-26T02:04:41.022Z",
+  "zh/knowledge-sharing/all-public-links": "2026-06-27T02:04:54.697Z",
   "zh/x2d/troubleshooting/hmscode/0700_8900_0002_0004": "2026-04-14T13:15:32.834Z",
   "zh/p1": "2026-06-02T11:40:26.653Z",
   "zh/x2d/troubleshooting/hmscode/0300_C000_0001_0001": "2026-04-14T13:16:37.739Z",
@@ -2479,5 +2479,10 @@
   "zh/p2s/troubleshooting/hmscode/0700_7000_0002_0003": "2026-06-16T01:32:29.528Z",
   "zh/X2D/maintenance/replace-hotend-and-silicone-sock": "2026-05-19T06:30:15.993Z",
   "zh/a2l/troubleshooting/hmscode/0300_2d00_0003_0001": "2026-06-16T08:42:53.979Z",
-  "zh/p2s/troubleshooting/hmscode/0700_2000_0002_0006": "2026-06-18T10:07:31.002Z"
+  "zh/p2s/troubleshooting/hmscode/0700_2000_0002_0006": "2026-06-18T10:07:31.002Z",
+  "zh/a2l/manual/AMS_2_Pro_Top_Mount": "2026-06-17T01:57:04.657Z",
+  "zh/cyberbrick/troubleshooting/pc-app-contact-technical-support": "2026-06-16T05:51:15.887Z",
+  "zh/software/bambu-studio/release/release-note-2-7-1-62": "2026-06-17T08:30:56.670Z",
+  "zh/software/bambu-studio/assembly-view/assemble-guide": "2026-06-26T09:24:24.905Z",
+  "zh/knowledge-sharing/replace_the_xy_belts": "2026-06-24T07:20:36.781Z"
 }
