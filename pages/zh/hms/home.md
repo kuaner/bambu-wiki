@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-06-30T01:37:38.920Z
+updated: 2026-06-30T07:19:30.874Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -354,6 +354,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 0300-0200-0001-0009
 >
 > - [H2D / H2D Pro](../h2/troubleshooting/hmscode/0300_0200_0001_0009.md)
+
+> **HMS\_0300-0200-0001-0009: 喷嘴温控异常，热端可能未安装。若需在热端未安装时也能加热，请打开维护模式。**
+>
+> **Synonyms:** 0300-0200-0001-0009
+>
+> - [P2S](https://wiki.bambulab.com/zh/p2s/troubleshooting/hmscode/0300_0200_0001_0009)
 
 > **HMS\_0300-0200-0001-0009: 喷嘴温控异常，热端可能未安装。若需在热端未安装时也能加热，请打开维护模式。**
 >
@@ -1213,7 +1219,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > - [A2L](../a2l/troubleshooting/hmscode/0300_1800_0001_0003.md)
 
-> **HMS\_0300-1800-0001-0004: 挤出机涡流传感器数据异常，可能遇到传感器断路。**
+> **HMS\_0300-1800-0001-0004: 挤出机涡流传感器信号异常，可能涡流传感器已损坏或MC-TH通信异常。**
 >
 > **Synonyms:** 0300-1800-0001-0004
 >
@@ -1753,7 +1759,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > - [A2L](../a2l/troubleshooting/hmscode/0300_2d00_0001_0006.md)
 
-> **HMS\_0300-2D00-0003-0001: 正在等待热床温度均衡。**
+> **HMS\_0300-2D00-0003-0001: 为提升首层打印质量，设备正在进行热床保温，请稍后。**
 >
 > **Synonyms:** 0300-2D00-0003-0001
 >
@@ -2455,7 +2461,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > - [H2C](../h2c/troubleshooting/hmscode/0300_E300_0001_0001.md)
 
-> **HMS\_0300-E300-0001-0002: MC与热端挂架电机驱动板通信异常，请检查连接线是否连接牢靠。**
+> **HMS\_0300-E300-0001-0002: MC与挂架控制板通信异常，请检查连接线是否连接牢靠。**
 >
 > **Synonyms:** 0300-E300-0001-0002
 >
@@ -2466,6 +2472,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 0500-0100-0002-0001
 >
 > - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0500_0100_0002_0001.md)
+
+> **HMS\_0500-0100-0002-0001: 媒体链路错误。请重启机器，如多次尝试失败请联系客服。**
+>
+> **Synonyms:** 0500-0100-0002-0001
+>
+> - [X2D](https://wiki.bambulab.com/zh/x2d/troubleshooting/hmscode/0500_0100_0002_0001)
 
 > **HMS\_0500-0100-0002-0001: 媒体链路错误。请重启机器，如多次尝试失败请联系客服。**
 >
