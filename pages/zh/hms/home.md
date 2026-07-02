@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-06-30T07:19:30.874Z
+updated: 2026-07-02T02:55:07.744Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -893,6 +893,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-0D00-0001-000B
 >
+> - [A2L](../a2l/troubleshooting/hmscode/0300_1800_0001_0005.md)
+
+> **HMS\_0300-0D00-0001-000B: Z轴电机在移动过程被卡住，请检查 Z滑块、Z同步带轮是否有异物卡住。**
+>
+> **Synonyms:** 0300-0D00-0001-000B
+>
 > - [A1 / A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0D00_0001_000B.md)
 
 > **HMS\_0300-0D00-0001-000C: 调平数据异常，请检查热床以及Z滑块附近是否有异物，如有请清理干净再重试。**
@@ -965,13 +971,19 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-1000-0002-0001
 >
-> - [A1 / A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_1000_0002_0001.md)
+> - [A1 / A1 Mini](https://wiki.bambulab.com/zh/a1/troubleshooting/hmscode/0300_1000_0002_0001)
 
 > **HMS\_0300-1000-0002-0001: X轴共振频率偏低，可能是同步带松了。**
 >
 > **Synonyms:** 0300-1000-0002-0001
 >
 > - [P2S / X2D](../p2s/troubleshooting/hmscode/0300_1000_0002_0001.md)
+
+> **HMS\_0300-1000-0002-0001: X轴共振频率偏低，可能是同步带松了。**
+>
+> **Synonyms:** 0300-1000-0002-0001
+>
+> - [P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_1000_0002_0001.md)
 
 > **HMS\_0300-1000-0002-0001: X轴共振频率偏低，可能是同步带松了。**
 >
@@ -2286,6 +2298,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 0300-AB00-0002-0003
 >
 > - [H2C](../h2c/troubleshooting/hmscode/0300_AB00_0002_0003.md)
+
+> **HMS\_0300-B800-0001-0002: 工具头通信丢失且电流异常，已自动切断工具头电源。请重启设备；若问题反复出现，请联系售后支持。**
+>
+> **Synonyms:** 0300-B800-0001-0002
+>
+> - [A2L](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_b800_0001_0002)
 
 > **HMS\_0300-C000-0001-0001: 自动排气格栅动作异常，可能卡住。**
 >
