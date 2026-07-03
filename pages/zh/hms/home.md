@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-07-02T02:55:07.744Z
+updated: 2026-07-03T01:58:40.574Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -617,13 +617,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-0800-0001-0002
 >
-> - [A2L](../a2l/troubleshooting/hmscode/0300_0800_0001_0002.md)
+> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
 
 > **HMS\_0300-0800-0001-0002: Z电机短路，可能电机故障。**
 >
 > **Synonyms:** 0300-0800-0001-0002
 >
-> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
+> - [A2L](../a2l/troubleshooting/hmscode/0300_0800_0001_0002.md)
 
 > **HMS\_0300-0800-0001-0003: Z电机电阻异常，可能是电机故障。**
 >
@@ -965,7 +965,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-0F00-0001-0001
 >
-> - [A1 / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0F00_0001_0001.md)
+> - [P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0F00_0001_0001.md)
+
+> **HMS\_0300-0F00-0001-0001: 检测到加速度计数据异常，请尝试重启机器。**
+>
+> **Synonyms:** 0300-0F00-0001-0001
+>
+> - [A1 / A1 Mini](https://wiki.bambulab.com/zh/a1mini/troubleshooting/hmscode/0300_0f00_0001_0001)
 
 > **HMS\_0300-1000-0002-0001: X轴共振频率偏低，可能是同步带松了。**
 >
@@ -1289,7 +1295,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-1800-0001-0006
 >
-> - [A2L](../a2l/troubleshooting/hmscode/0300_1800_0001_0006.md)
+> - [A1 Mini / A2L](../a2l/troubleshooting/hmscode/0300_1800_0001_0006.md)
 
 > **HMS\_0300-1800-0001-0006: 调平数据异常，请检查热床以及Z滑块附近是否有异物，如有请清理干净再重试。**
 >
@@ -1849,6 +1855,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > - [P2S](../p2s/troubleshooting/hmscode/0300_3200_0001_0001.md)
 
+> **HMS\_0300-3200-0001-0001: 辅助部件冷却风扇转速过低或停转，可能被杂物卡住或连接器未插好。**
+>
+> **Synonyms:** 0300-3200-0001-0001
+>
+> - [H2C](https://wiki.bambulab.com/zh/h2d/troubleshooting/hmscode/0300_3200_0001_0001)
+
 > **HMS\_0300-3200-0001-0002: 右侧(辅助部件冷却-过滤)风扇转速转速偏低，可能有杂物堆积导致转速偏低。**
 >
 > **Synonyms:** 0300-3200-0001-0002
@@ -1944,6 +1956,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 0300-9000-0001-0005
 >
 > - [X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_9000_0001_0005.md)
+
+> **HMS\_0300-9000-0001-0010: 腔温控制器通信异常。**
+>
+> **Synonyms:** 0300-9000-0001-0010
+>
+> - [X1E](https://wiki.bambulab.com/zh/x1e/troubleshooting/hmscode/0300_9000_0001_0010)
 
 > **HMS\_0300-9100-0001-0001: 腔温加热器1温控异常，加热器可能短路。**
 >
@@ -2616,6 +2634,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 0500-0300-0001-0001
 >
 > - [X2D](../x2d/troubleshooting/hmscode/0500_0300_0001_0001.md)
+
+> **HMS\_0500-0300-0001-0001: MC模块工作异常，请尝试重启设备。请检查排线连接。**
+>
+> **Synonyms:** 0500-0300-0001-0001
+>
+> - [P2S](https://wiki.bambulab.com/zh/p2s/troubleshooting/hmscode/0500_0300_0001_0001)
 
 > **HMS\_0500-0300-0001-0002: 工具头模块工作异常，请尝试重启设备。**
 >
