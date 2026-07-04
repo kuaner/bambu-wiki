@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-07-03T04:04:57.230Z
+updated: 2026-07-04T04:04:56.522Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -1053,7 +1053,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0300-9D00-0002-0001: 雕刻激光器的焦点XY标定失败，请将激光垫板回零台清洁干净后，重新执行激光模组挂载校准后，进行重试。](../h2/troubleshooting/hmscode/0300_9D00_0002_0001.md)  
 [HMS\_0700-9000-0002-0001: AMS A 排气风门1动作异常，可能是阻力过大。](../h2d/troubleshooting/hmscode/0700_9000_0002_0001.md)  
 [首层不粘](first-layer-not-sticking.md)  
-[H2S 激光模组安装指南](../h2s/manual/laser-module-lnstallation-guide.md)  
 [HMS\_0500-0600-0002-0002：喷嘴摄像头不在位，请检测硬件连接。](../h2/troubleshooting/hmscode/0500_0600_0002_0002.md)  
 [悬垂降速](../software/bambu-studio/slow-down-for-overhang.md)  
 [H2D 从动杆卡料处理指南](../h2/troubleshooting/dual-extruder-Idlers-clogging.md)  
@@ -1377,7 +1376,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换 H2S MC 板](../h2s/maintenance/replace-mc-board.md)  
 [更换 H2 系列框架惰轮](../h2/maintenance/replace-regular-idler-pulley.md)  
 [HMS\_0300-9100-0001-000A: 腔温加热器 1 温控异常,AC 板可能故障。](../h2/hmscode/0300-9100-0001-000.md)  
-[HMS\_0300-0F00-0001-0001: 检测到加速度计数据异常，请尝试重启机器。](../x1/troubleshooting/hmscode/0300_0F00_0001_0001.md)  
 [HMS\_0300-1B00-0001-0001: 热床加速度传感器信号弱，可能是传感器脱落或已受损。](../a1/troubleshooting/hmscode/0300_1B00_0001_0001.md)  
 [更换 H2D/H2C MC 板](../h2/maintenance/replace-mc-board.md)  
 [HMS\_0300-1100-0002-0002：Y轴共振频率与上次校准差异较大，建议完成打印后清洁Y轴光杆并执行一次自动校准。](../p2s/troubleshooting/hmscode/0300_1100_0002_0002.md)  
@@ -1586,7 +1584,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
   
   
 [A1 系列吐料异常及解决方案](../a1-mini/troubleshooting/excess-purge-abnormality.md)  
-[Bambu Studio 2.5.3 版本说明](../software/bambu-studio/release/release-note-2-5-3.md)  
 [Bambu Studio 2.6.0 版本说明（Hotfix）](../software/bambu-studio/release/release-note-2-6-0.md)  
 [HMS\_0300-9800-0001-0002: 左侧窗霍尔传感器（上）异常，请检查连接排线是否松动。](../h2/troubleshooting/hmscode/0300_9800_0001_0002.md)  
 [ABS GF / PA6 GF 玻纤耗材使用指南](../filament/absgf_pa6gf.md)  
@@ -1704,7 +1701,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
   
 [主页](../home.md)  
 [用户手册](../x1/manual.md)  
-[Bambu Lab 软件](../software.md)  
 [X1主要组件介绍](../x1/manual/intro-x1.md)  
 [X1/P1 系列皮带张紧](../x1/maintenance/belt-tension.md)  
 [从 AMS 上料切换到打印机上料](../x1/manual/switch-from-ams-to-spool-holder.md)  
@@ -1852,7 +1848,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0700\_5000\_0002\_0001: AMS1 通信异常，请检查AMS的连接线。](../x1/troubleshooting/hmscode/troubleshooting.md)  
 [如何在 Bambu Studio 中使用 Pin 码绑定打印机](../bambu-studio/manual/pin-code.md)  
 [多设备管理](../software/bambu-studio/multi-device-management.md)  
-[Wiki 新页面和内容更新](../new-and-updates.md)  
 [HMS\_0300-1800-0001-0005: Z轴电机转动受阻，请检查 Z滑块、Z同步带轮是否有异物卡住或涡流传感器是否异常。](../a1/troubleshooting/hmscode/0300_1800_0001_0005.md)  
 [HMS\_0500-0200-0002-0001: 设备连接服务器失败，请检查网络连接。](../x1/troubleshooting/hmscode/0500_0200_0002_0001.md)  
 [精选模型指南](../makerworld/tutorials/featured-model-guidelines.md)  
@@ -1922,7 +1917,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换 H2 系列 AC 板/AC 板理线盖](../h2/maintenance/replace-ac-board-for.md)  
 [H2D](../h2d.md)  
 [AMS 2 Pro](../ams-2-pro.md)  
-[AMS HT](../ams-ht.md)  
 [更换 H2 系列 Z 轴张紧器组件/Z 轴皮带/Z 轴同步轮](../h2/maintenance/replace-z-axis-tensioner.md)  
 [更换 H2 系列废料滑梯](../h2/maintenance/replace-purge-chute.md)  
 [H2 系列的 TPU 打印准备工作](../h2/h2d-tpu-printing-guide.md)  
@@ -2093,7 +2087,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换 H2C 四进一料管拓展口](../h2c/maintenance/replace-bambu-4in1-ptfe-adapter.md)  
 [H2D 升级 H2C 指引全流程指引 - 下篇](../h2c/maintenance/upgrade-from-h2d-to-h2c-part-b.md)  
 [H2S 激光升级指南](../h2s/manual/laser-upgrade-kit.md)  
-[H2S 升级 H2C 指引全流程指引 - 上篇](../h2c/maintenance/upgrade-from-h2s-to-h2c.md)  
 [急停按键故障排查指南](../h2d/troubleshooting/emergency_stop_button.md)  
 [更换 P2S X 轴组件](../p2s/maintenance/replace-x-axis-assembly.md)  
 [激光与刀切模组可加工材料清单](../h2/laser/processable-materials-list.md)  
@@ -2106,9 +2099,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [打印机无法检测到 AMS 2 Pro](../ams-2-pro/troubleshooting/ams-2-pro-communication-anomalies.md)  
 [H2 系列激光旋转轴加工指南](../h2/manual/rotary-attachment-guide.md)  
 [拓竹产品的 3D 打印配件模型](printed-tools.md)  
-[H2S 打印机上电异常排查指南](../h2s/failure-to-power-on.md)  
 [HMS\_0300-2D00-0001-0006: 热床调平失败，可能由于热床上有异物或热床倾斜。继续打印可能损坏打印板，请清理异物或手动调平热床后重试。](../h2c/troubleshooting/hmscode/0300_2D00_0001_0006.md)  
-[TPU 送料助力模块组装 & 使用指南](../general/manual/tpu-feed-assist-module.md)  
 [TPU 送料助力模块常见故障排查](../general/troubleshooting/tpu-feed-assist-module.md)  
 [X2D 耗材变轨器使用指南](../general/manual/filament-track-switch.md)  
 [CyberBrick 技术手册](../cyberbrick/components/component-list.md)  
@@ -2283,7 +2274,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0300-0800-0001-0002: Z 电机短路，可能电机故障。](../a2l/troubleshooting/hmscode/0300_0800_0001_0002.md)  
 [HMS\_0300-1000-0002-0001: X轴共振频率偏低，可能是同步带松了。](../a2l/troubleshooting/hmscode/0300_1000_0002_0001.md)  
 [HMS\_0300-2000-0001-0004: Y轴回零异常，可能是同步带松了。](../a2l/troubleshooting/hmscode/0300_2000_0001_0004.md)  
-[HMS\_0300-1100-0002-0001: Y 轴共振频率偏低，可能是同步带松了。](../a2l/troubleshooting/hmscode/0300_1100_0002_0001.md)  
 [A2L 更换擦嘴套件](../a2l/maintenance/replace-nozzle-wiper.md)  
 [A2L 更换 X 轴端盖](../a2l/maintenance/replace-end-cap.md)  
 [HMS\_0300-2000-0001-0003: X轴回零异常，可能是同步带松了。](../a2l/troubleshooting/hmscode/0300_2000_0001_0003.md)  
@@ -2471,9 +2461,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [A2L 更换底座](https://wiki.bambulab.com/zh/a2l/maintenance/replace-base-housing)  
 [如何切换打印机语言](https://wiki.bambulab.com/zh/knowledge-sharing/how-to-switch-languages-in-the-printer-screen)  
 [HMS\_0300-1000-0002-0001: X轴共振频率偏低，可能是同步带松了。](https://wiki.bambulab.com/zh/a1/troubleshooting/hmscode/0300_1000_0002_0001)  
-[HMS 主页面](../hms/home.md)  
 [模型翘边、脱落或倒塌](../filament-acc/filament/print-quality/warping-falling-off-collapsing.md)  
-[全部公开的链接](.md)  
 [更换 H2 系列打印机的辅助部件冷却风扇](../h2/maintenance/replace-auxiliary-part-cooling-fan.md)  
 [X/P 系列 Z 轴直线轴承脱出处理指南](../p1/troubleshooting/bearing-disengaged.md)  
 [开机校准过程故障排查](../h2/troubleshooting/calibrate-failed.md)  
@@ -2490,6 +2478,22 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [0300-4010：X2D](https://wiki.bambulab.com/zh/x2d/troubleshooting/nozzle-offset-calibration-failure)  
 [0300-4016: X2D](https://wiki.bambulab.com/zh/x2d/troubleshooting/nozzle-cleaning-failure)  
 [0300-4039: X2D](https://wiki.bambulab.com/zh/x2d/troubleshooting/hmscode/0300_1800_0001_000B)  
+[HMS\_0300-B800-0001-0002: 工具头通信丢失且电流异常，已自动切断工具头电源。请重启设备；若问题反复出现，请联系售后支持。](https://wiki.bambulab.com/zh/a2l/troubleshooting/hmscode/0300_b800_0001_0002)  
 [HMS\_0500-0300-0001-0001: MC 模块工作异常，请尝试重启设备。请检查排线连接。](https://wiki.bambulab.com/zh/p2s/troubleshooting/hmscode/0500_0300_0001_0001)  
 [HMS\_0300-3200-0001-0001: 辅助部件冷却风扇转速过低或停转，可能被杂物卡住或连接器未插好。](https://wiki.bambulab.com/zh/h2d/troubleshooting/hmscode/0300_3200_0001_0001)  
-[HMS\_0300-9000-0001-0010: 腔温控制器通信异常。](https://wiki.bambulab.com/zh/x1e/troubleshooting/hmscode/0300_9000_0001_0010)
+[HMS\_0300-9000-0001-0010: 腔温控制器通信异常。](https://wiki.bambulab.com/zh/x1e/troubleshooting/hmscode/0300_9000_0001_0010)  
+[Bambu Lab 软件](../software.md)  
+[HMS\_0300-0F00-0001-0001: 检测到加速度计数据异常，请尝试重启机器。](../x1/troubleshooting/hmscode/0300_0F00_0001_0001.md)  
+[HMS 主页面](../hms/home.md)  
+[Wiki 新页面和内容更新](../new-and-updates.md)  
+[全部公开的链接](.md)  
+[AMS HT](../ams-ht.md)  
+[H2S 激光模组安装指南](../h2s/manual/laser-module-lnstallation-guide.md)  
+[H2S 升级 H2C 指引全流程指引 - 上篇](../h2c/maintenance/upgrade-from-h2s-to-h2c.md)  
+[H2S 打印机上电异常排查指南](../h2s/failure-to-power-on.md)  
+[TPU 送料助力模块组装 & 使用指南](../general/manual/tpu-feed-assist-module.md)  
+[Bambu Studio 2.5.3 版本说明](../software/bambu-studio/release/release-note-2-5-3.md)  
+[HMS\_0300-1100-0002-0001: Y 轴共振频率偏低，可能是同步带松了。](../a2l/troubleshooting/hmscode/0300_1100_0002_0001.md)  
+[混色打印](https://wiki.bambulab.com/zh/bambu-studio/color-mixing)  
+[HMS\_0300-0F00-0001-0001: 检测到加速度计数据异常，请尝试重启机器。](https://wiki.bambulab.com/zh/a1mini/troubleshooting/hmscode/0300_0f00_0001_0001)  
+[HMS\_0C00-0100-0001-0001: 工具头摄像头不在线，请检查硬件连接。](https://wiki.bambulab.com/zh/h2s/troubleshooting/hmscode/0C00_0100_0001_0001)
