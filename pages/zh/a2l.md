@@ -4,7 +4,7 @@ title: "A2L"
 description: ""
 tags: []
 created: 2026-06-01T11:24:26.177Z
-updated: 2026-06-12T06:25:52.615Z
+updated: 2026-06-29T03:56:43.566Z
 source: https://wiki.bambulab.com/zh/a2l
 ---
 
@@ -12,8 +12,8 @@ source: https://wiki.bambulab.com/zh/a2l
 
 ![](https://wiki.bambulab.com/general/widgets/firmware-widget-icon.jpg)
 
-固件更新
-敬请期待！
+[固件更新](https://bambulab.cn/zh-cn/support/firmware-download/a2l)
+获取最新固件，查阅历史版本。
 
 ![](https://wiki.bambulab.com/general/widgets/replacement-parts-widget-icon_ready.jpg)
 

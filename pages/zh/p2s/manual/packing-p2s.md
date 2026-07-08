@@ -4,7 +4,7 @@ title: "P2S 装箱指南"
 description: "本文介绍 P2S 套装及单机的装箱步骤。"
 tags: []
 created: 2025-10-14T13:55:20.913Z
-updated: 2025-11-13T09:26:03.865Z
+updated: 2026-06-24T07:08:04.792Z
 source: https://wiki.bambulab.com/zh/p2s/manual/packing-p2s
 ---
 
@@ -18,6 +18,9 @@ source: https://wiki.bambulab.com/zh/p2s/manual/packing-p2s
 > - **请确认缓冲海绵是否放置到位**，充分保护设备。
 
 ## 视频指南
+
+> **注意**:: 部分渠道版本含赠送耗材，请先将耗材放置于底部，然后将三块泡沫填充平稳置于耗材顶部。  
+> ![packing_p2s_update.jpg](https://wiki.bambulab.com/p2s/manual/unboxing-guide/packing_p2s_update.jpg)
 
 ### P2S Combo
 

@@ -1,11 +1,11 @@
 ---
-path: zh/A1/screen-operation
+path: zh/a1/screen-operation
 title: "A1 系列屏幕操作指南"
 description: "本指南介绍了 A1 系列的屏幕操作"
 tags: ["a1", "a1 mini"]
 created: 2024-09-14T03:53:36.749Z
-updated: 2026-05-19T09:02:40.485Z
-source: https://wiki.bambulab.com/zh/A1/screen-operation
+updated: 2026-07-01T01:55:22.830Z
+source: https://wiki.bambulab.com/zh/a1/screen-operation
 ---
 
 ## 介绍
@@ -43,7 +43,7 @@ source: https://wiki.bambulab.com/zh/A1/screen-operation
 
 ### AMS/AMS 2 Pro/AMS HT
 
-> 请将 A1 系列打印机升级至 [01.07.00.00](https://wiki.bambulab.com/zh/a1/manual/a1-firmware-release-history#%E5%9B%BA%E4%BB%B6%E7%89%88%E6%9C%AC-0107000020251027) 及以上的固件版本，以兼容 AMS、AMS 2 Pro 和 AMS HT。请参考[此文章](../a1/manual/ams-connection-guide.md)了解可连接的 AMS 搭配、数量和具体连接步骤。
+> 请将 A1 系列打印机升级至 [01.07.00.00](https://wiki.bambulab.com/zh/a1/manual/a1-firmware-release-history#%E5%9B%BA%E4%BB%B6%E7%89%88%E6%9C%AC-0107000020251027) 及以上的固件版本，以兼容 AMS、AMS 2 Pro 和 AMS HT。请参考[此文章](manual/ams-connection-guide.md)了解可连接的 AMS 搭配、数量和具体连接步骤。
 
 ![a1_屏幕_耗材_ams耗材设置.png](https://wiki.bambulab.com/a1/screen-operation/a1_%E5%B1%8F%E5%B9%95_%E8%80%97%E6%9D%90_ams%E8%80%97%E6%9D%90%E8%AE%BE%E7%BD%AE.png)
 
@@ -206,11 +206,11 @@ source: https://wiki.bambulab.com/zh/A1/screen-operation
 | --- | --- |
 |  |  |
 
-- **AMS 类型**：选择需要连接的 AMS 类型（需升级至 01.07.00.00 及以上的固件版本），请参考[此文章](../a1/manual/ams-connection-guide.md)了解 A1 系列打印机可连接的 AMS 类型、数量和具体连接步骤。
+- **AMS 类型**：选择需要连接的 AMS 类型（需升级至 01.07.00.00 及以上的固件版本），请参考[此文章](manual/ams-connection-guide.md)了解 A1 系列打印机可连接的 AMS 类型、数量和具体连接步骤。
 
 - **开机时读取**：开机时读取耗材 RFID。
 - **AMS 自动续料**：AMS lite 上某槽耗材用尽后，可自动切换到其他槽位相同属性的耗材。请参考[此文章](https://wiki.bambulab.com/zh/ams/manual/ams-function-introduction#%E6%96%AD%E6%96%99%E6%A3%80%E6%B5%8B%E5%92%8C%E8%87%AA%E5%8A%A8%E7%BB%AD%E6%96%99%E5%8A%9F%E8%83%BD)了解更多相关信息。
-- **空打检测**：当打印机配合 AMS lite 打印时，打印机会实时监测 AMS lite 对应槽中里程轮传感器信息。当检测到挤出机无法挤出料，出现空打现象，打印机将自动切断耗材并退料，暂停打印任务并报告错误。请参考[此文章](../ams-lite/manual/air-printing-detectiong.md)了解更多相关信息。
+- **空打检测**：当打印机配合 AMS lite 打印时，打印机会实时监测 AMS lite 对应槽中里程轮传感器信息。当检测到挤出机无法挤出料，出现空打现象，打印机将自动切断耗材并退料，暂停打印任务并报告错误。请参考[此文章](../ams-lite/manual/air-printing-detection.md)了解更多相关信息。
 
 - **重新排序 AMS**：连接多个 AMS 后，可选择重新排序 AMS，自定义每台 AMS 的 ID。
 

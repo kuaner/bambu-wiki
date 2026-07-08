@@ -4,7 +4,7 @@ title: "A1 mini"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-20T13:13:46.125Z
-updated: 2026-05-25T06:37:43.115Z
+updated: 2026-07-01T01:59:57.950Z
 source: https://wiki.bambulab.com/zh/a1-mini
 ---
 
@@ -43,7 +43,7 @@ source: https://wiki.bambulab.com/zh/a1-mini
 
 - [A1 mini 简介](manual/intro-a1-mini.md)
 - [A1 mini 常见问答（FAQ）](manual/faq.md)
-- [A1 系列屏幕操作指南](https://wiki.bambulab.com/zh/A1/screen-operation)
+- [A1 系列屏幕操作指南](a1/screen-operation.md)
 - [包装清单补充说明](manual/acc-in-the-box.md)
 - 产品快速指南 ([点击此处跳转下载页面](https://bambulab.cn/zh-cn/support/documentation))
 
@@ -79,7 +79,7 @@ source: https://wiki.bambulab.com/zh/a1-mini
 - [缠料检测功能](ams-lite/manual/filament-tangle-monitoring-intro.md)
 - [裹头检测功能](manual/nozzle-warp-detection.md)
 - [打印板检测](manual/build-plate-detection.md)
-- [空打检测](ams-lite/manual/air-printing-detectiong.md)
+- [空打检测](ams-lite/manual/air-printing-detection.md)
 - [MIDI to A1 mini 使用指南](https://wiki.bambulab.com/zh/a1-mini/midi)
 
 ## 💡 故障排除和解决方案
@@ -102,7 +102,7 @@ source: https://wiki.bambulab.com/zh/a1-mini
 ## 📡 远程诊断
 
 - [如何创建新工单？](create-support-ticket.md)
-- [如何上传打印机的日志文件至现有工单](https://wiki.bambulab.com/zh/X1/troubleshooting/how-to-upload-log)
+- [如何上传打印机的日志文件至现有工单](x1/troubleshooting/how-to-upload-log.md)
 
 ## 🚧 机器维护
 

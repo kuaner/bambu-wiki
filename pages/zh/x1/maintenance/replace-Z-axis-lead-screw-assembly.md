@@ -1,10 +1,10 @@
 ---
 path: zh/x1/maintenance/replace-Z-axis-lead-screw-assembly
 title: "Z 轴丝杆套件更换指南"
-description: "X1/P1 系列打印机 Z 轴丝杆套件的更换步骤"
+description: "X1/P1 系列打印机 Z 轴丝杆套件、丝杆、丝杆螺母、法兰轴承和同步轮的更换步骤"
 tags: ["p1", "x1"]
 created: 2024-07-15T07:45:56.643Z
-updated: 2026-01-28T15:39:35.293Z
+updated: 2026-06-24T07:05:23.394Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-Z-axis-lead-screw-assembly
 ---
 

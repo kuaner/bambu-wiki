@@ -4,7 +4,7 @@ title: "Bambu Studio 触碰裹头检测功能"
 description: "本文介绍了 Bambu Studio 中的触碰裹头检测功能"
 tags: []
 created: 2025-08-04T03:16:04.272Z
-updated: 2026-06-09T01:32:10.350Z
+updated: 2026-06-23T03:17:13.042Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/nozzle-clumping-detection-by-probing
 ---
 
@@ -40,9 +40,9 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/nozzle-clumping-detec
 - 若喷嘴被耗材包裹（裹头），下探时可能触碰到热床，涡流传感器会检测到碰撞，判定为裹头，打印自动暂停并提醒用户；
 - 若未检测到碰撞，则判定为无裹头，继续正常打印。
 
-### **H2D**
+### **H2D/H2C**
 
-H2D 打印机触碰裹头检测动作如下动图所示：
+H2D 及 H2C 打印机触碰裹头检测动作如下动图所示：
 
 ![444.gif](https://wiki.bambulab.com/h2/manual/h2d-intro/444.gif)
 

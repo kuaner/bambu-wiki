@@ -4,7 +4,7 @@ title: "0300-4015：X2D"
 description: ""
 tags: []
 created: 2026-07-01T08:02:27.331Z
-updated: 2026-07-02T02:40:23.965Z
+updated: 2026-07-02T02:40:24.946Z
 source: https://wiki.bambulab.com/zh/x2d/troubleshooting/nozzle-clumping-detection
 ---
 

@@ -4,7 +4,7 @@ title: "A1 主板更换指南"
 description: "介绍更换 A1 主板的步骤。"
 tags: []
 created: 2024-08-16T06:39:18.713Z
-updated: 2026-05-25T02:11:09.007Z
+updated: 2026-06-18T02:36:38.601Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/mainboard-replacement-guide
 ---
 
@@ -113,7 +113,29 @@ A1
 
 ![screenshot-20240926-191519.png](https://wiki.bambulab.com/general/find-sn/screenshot-20240926-191519.png)
 
-### 1. 重新将主板线缆连接至电源
+### 1. 确认主板批次
+
+最新批次的主板更改了元器件布局，可能和打印机底座产生干涉，可根据下图元器件朝向判断新主板批次。
+
+| 新批次 | 旧批次 |
+| --- | --- |
+|  |  |
+
+若您收到的新批次主板，请首先检查底壳。
+
+![](https://wiki.bambulab.com/a1/maintenance/mainboard-replacement-guide/pixpin_2026-06-18_10-32-53.jpg)
+
+观察底壳上理线盒安装部分的筋位是否处理过。
+
+![pixpin_2026-06-18_10-33-11.jpg](https://wiki.bambulab.com/a1/maintenance/mainboard-replacement-guide/pixpin_2026-06-18_10-33-11.jpg)
+
+若未处理，可参考下图裁断对应位置。
+
+|  |  |
+| --- | --- |
+| pixpin_2026-06-18_10-33-47.jpg | pixpin_2026-06-18_10-33-59.jpg |
+
+### 2. 重新将主板线缆连接至电源
 
 小心地将主板上的线重新连接到电源上。
 
@@ -123,13 +145,13 @@ A1
 
 ![](https://wiki.bambulab.com/a1/manual/replace-mainboard/disconnect_the_board_wires.jpeg)
 
-### 2. 连接排线
+### 3. 连接排线
 
 先安装柔性排线电缆后再安装主板。如图所示，确保对齐连接器。
 
 ![](https://wiki.bambulab.com/a1/manual/replace-mainboard/install_ribbon_cable.jpeg)
 
-### 3. 安装新主板到打印机
+### 4. 安装新主板到打印机
 
 首先将主板与框架对齐，倾斜角度，然后轻轻按压主板以将其固定到打印机上。
 
@@ -139,7 +161,7 @@ A1
 
 ![install_new_board_with_silicone.png](https://wiki.bambulab.com/a1/manual/replace-mainboard/install_new_board_with_silicone.png)
 
-### 4. 安装主板散热片
+### 5. 安装主板散热片
 
 小心地将散热片支架滑入塑料卡扣下面，如图所示。
 
@@ -149,13 +171,13 @@ A1
 
 ![](https://wiki.bambulab.com/a1/manual/replace-mainboard/install_the_board_heatsink.jpeg)
 
-### 5. 拧入主板螺丝
+### 6. 拧入主板螺丝
 
 使用剩余的 6 颗螺丝将主板固定到位。
 
 ![](https://wiki.bambulab.com/a1/manual/replace-mainboard/install_the_remaining_board_screws.jpeg)
 
-### 6. 重连主板电线
+### 7. 重连主板电线
 
 重新连接线缆后，完成主板的安装。
 
@@ -179,7 +201,7 @@ A1
 
 <https://public-cdn.bblmw.com/wiki/video/A1-AP.mp4>
 
-### 7.  安装打印机底盖
+### 8.  安装打印机底盖
 
 **请注意红色箭头标示的电机线缆**。请务必整理好这束线缆后，才能完全按下底盖。
 
@@ -187,7 +209,7 @@ A1
 
 ![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E5%AE%89%E8%A3%85%E5%BA%95%E7%9B%96.jpg)
 
-### 8. 安装线缆支架并连接线缆
+### 9. 安装线缆支架并连接线缆
 
 对齐线缆支架后，然后向下推动，确保将 USB 数据线完全插入。
 

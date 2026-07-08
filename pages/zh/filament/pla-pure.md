@@ -4,7 +4,7 @@ title: "纯净 PLA 进阶打印指南"
 description: "本文介绍了拓竹纯净 PLA 耗材的基本信息、合规认证及进阶安全打印建议。"
 tags: []
 created: 2026-05-09T07:50:01.381Z
-updated: 2026-05-12T11:46:13.593Z
+updated: 2026-06-18T08:16:57.763Z
 source: https://wiki.bambulab.com/zh/filament/pla-pure
 ---
 
@@ -332,7 +332,7 @@ EN 71-3 属于欧盟玩具安全法规体系中的重要化学安全标准，其
 
 请参考[纹理 PEI 板清洁指南](../filament-acc/acc/pei-plate-clean-guide.md)清理打印板，确保打印板无污渍。
 
-![3.2clean_the_build_plate.png](https://wiki.bambulab.com/filament-acc/filament/pla-pure/3.2clean_the_build_plate.png)
+![how_to_clean_bambu_lab_build_plate.webp](https://wiki.bambulab.com/filament-acc/filament/filament-guide-material-table/how_to_clean_bambu_lab_build_plate.webp)
 
 **步骤2. 降低热床温度**
 

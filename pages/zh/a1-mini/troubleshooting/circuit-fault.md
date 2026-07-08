@@ -4,7 +4,7 @@ title: "打印机电路故障排查 - A1mini"
 description: "A1 mini 电路相关故障排查方法"
 tags: ["a1 mini"]
 created: 2025-09-05T04:29:07.757Z
-updated: 2026-03-05T03:48:47.135Z
+updated: 2026-06-22T02:42:23.550Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/circuit-fault
 ---
 
@@ -19,25 +19,23 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/circuit-fault
 
 在开始正式的故障排查之前首先需要了解主板、工具头、HMS 灯语状态情况。
 
-### 正常状态：TH板指示灯常亮绿灯
+### TH 板指示灯正常状态
 
-![](https://wiki.bambulab.com/a1m/replace-th-board/remove_back_cover.jpeg)
-
-如图所示，拉住后盖底部，小心撬开后盖。
+拉住后盖底部，小心撬开后盖，绿灯常亮说明工作正常。
 
 <https://public-cdn.bblmw.com/wiki/video/A1M-TH.mp4>
 
-### 正常状态：MC 板和 AP 板集成在主板上
+### 主板指示灯正常状态
 
-#### 正常状态：MC 板每 5 秒闪烁一次绿灯（该指示灯需要在特定的角度下观察）
+#### MC 板每 5 秒闪烁一次绿灯（该指示灯需要在特定的角度下观察）
 
 <https://public-cdn.bblmw.com/wiki/video/A1M-MC.mp4>
 
-#### 正常状态：AP 板每秒闪烁一次绿灯
+#### AP 板每秒闪烁一次绿灯
 
 <https://public-cdn.bblmw.com/wiki/video/A1M-AP.mp4>
 
-### 正常状态：HMS 指示灯点亮
+### HMS 指示灯正常状态
 
 当出现 HMS 错误时会快速闪烁，提示用户查看 HMS 错误信息。当没有 HMS 信息时，如果屏幕是点亮的，该指示灯是常亮的，如果屏幕没有点亮，该指示灯是缓慢的呼吸。
 

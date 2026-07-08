@@ -1,10 +1,10 @@
 ---
 path: zh/h2c/maintenance/replace-4in1-ptfe-adapter-filament-cleaning-pad
-title: "更换 H2C 四进一料管拓展口料线清洁刮片"
-description: "本文将详细为您介绍更换四进一料管拓展口料线清洁刮片的步骤。"
+title: "更换四进一料管拓展口二代料线清洁刮片"
+description: "本文将详细为您介绍更换四进一料管拓展口二代料线清洁刮片的步骤。"
 tags: []
 created: 2025-11-18T13:16:07.931Z
-updated: 2026-03-17T10:31:22.008Z
+updated: 2026-06-17T09:09:15.595Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-4in1-ptfe-adapter-filament-cleaning-pad
 ---
 
@@ -24,7 +24,7 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-4in1-ptfe-adapter-f
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2c/maintenance/replace-4in1-ptfe-adapter-filament-cleaning-pad/003.png)
 
-## 移除旧的 四进一料管拓展口料线清洁刮片
+## 移除旧的四进一料管拓展口料线清洁刮片
 
 使用镊子夹住料线清洁刮片，向上取出料线清洁刮片。
 
@@ -36,7 +36,7 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-4in1-ptfe-adapter-f
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2c/maintenance/replace-4in1-ptfe-adapter-filament-cleaning-pad/006.png)
 
-## 安装新的 四进一料管拓展口料线清洁刮片
+## 安装新的四进一料管拓展口料线清洁刮片
 
 如下图所示，将料线清洁刮片按照此方向下压，安装进四进一料管拓展口中。
 

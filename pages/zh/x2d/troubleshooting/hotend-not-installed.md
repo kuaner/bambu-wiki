@@ -4,7 +4,7 @@ title: "05FF-4094：X2D"
 description: ""
 tags: []
 created: 2026-07-01T08:14:08.200Z
-updated: 2026-07-02T02:41:26.284Z
+updated: 2026-07-02T02:41:27.269Z
 source: https://wiki.bambulab.com/zh/x2d/troubleshooting/hotend-not-installed
 ---
 

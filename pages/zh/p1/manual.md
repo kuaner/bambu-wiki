@@ -4,7 +4,7 @@ title: "用户手册"
 description: "本页面包含 P1P 和 AMS 的用户手册目录。"
 tags: ["p1p", "手册", "开箱"]
 created: 2022-12-01T16:20:57.669Z
-updated: 2024-05-28T10:38:04.908Z
+updated: 2026-06-30T02:04:12.797Z
 source: https://wiki.bambulab.com/zh/p1/manual
 ---
 

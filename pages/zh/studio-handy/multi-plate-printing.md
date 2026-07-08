@@ -4,7 +4,7 @@ title: "Bambu Studio 多盘打印指南"
 description: "介绍 Bambu Studio 中的多盘打印"
 tags: ["bambu studio"]
 created: 2024-09-05T09:09:59.655Z
-updated: 2026-02-25T07:39:37.612Z
+updated: 2026-07-01T06:59:28.747Z
 source: https://wiki.bambulab.com/zh/studio-handy/multi-plate-printing
 ---
 
@@ -18,7 +18,7 @@ source: https://wiki.bambulab.com/zh/studio-handy/multi-plate-printing
 
 ## 适用型号
 
-X 系列、P 系列、H 系列（A1 系列暂不支持）
+X 系列、P2 系列、H 系列（A1 系列暂不支持）
 
 ## 操作步骤
 

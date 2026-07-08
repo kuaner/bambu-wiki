@@ -4,7 +4,7 @@ title: "更换 H2 系列 AC 板/AC 板理线盖"
 description: "本文介绍了如何更换 H2 系列 AC 板/AC 板理线盖"
 tags: []
 created: 2025-03-25T01:57:19.202Z
-updated: 2026-03-13T03:17:03.061Z
+updated: 2026-06-23T07:16:56.387Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-ac-board-for
 ---
 
@@ -128,7 +128,7 @@ AC 板是安装在打印机左内衬中，用于给热床和腔温加热模块�
 
 ![](https://wiki.bambulab.com/ams-2-pro/maintenance/replace-ac-board-for/image-23.png)
 
-2. 当加热模块供电线移除后，可以直接使用镊子顶住热床供电线接头上的卡扣，将供电线移除。依次将三根热端供电线（蓝色，棕色，红色）移除；
+2. 当加热模块供电线移除后，可以直接使用镊子顶住热床供电线接头上的卡扣，将供电线移除。依次将三根热床供电线（蓝色，棕色，红色）移除；
 
 ![](https://wiki.bambulab.com/ams-2-pro/maintenance/replace-ac-board-for/image-22.png)
 

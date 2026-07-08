@@ -4,7 +4,7 @@ title: "A1 热床不升温故障排查"
 description: "本文简要介绍了 A1 热床不升温相关故障的排查步骤"
 tags: ["热床", "a1"]
 created: 2024-01-04T08:56:35.793Z
-updated: 2026-05-21T03:58:20.686Z
+updated: 2026-06-23T06:25:38.983Z
 source: https://wiki.bambulab.com/zh/a1/troubleshooting/heatbed-not-heat-up
 ---
 

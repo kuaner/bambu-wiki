@@ -4,7 +4,7 @@ title: "A2L Combo 套装开箱指南"
 description: "本文介绍 A2L AMS 套装的开箱步骤。"
 tags: []
 created: 2026-06-01T13:00:53.625Z
-updated: 2026-06-09T02:18:33.030Z
+updated: 2026-07-08T02:47:37.318Z
 source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
 ---
 
@@ -249,7 +249,9 @@ source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
 - 取出外挂料盘支架，将其固定到框架上。  
   ![a2l-117-apxa-spoolholder-mount-on-frame.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-117-apxa-spoolholder-mount-on-frame.png)
 - 取出铁氟龙料管，一端连接支架上的料管接头，另一端连接工具头上任意一个进料口。  
-  ![a2l-119-apxa-spoolholder-connect-ptfe-tube.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-119-apxa-spoolholder-connect-ptfe-tube.png)
+  ![a2l-119-apxa-spoolholder-connect-ptfe-tube-v2.png](https://wiki.bambulab.com/a2l/manual/unboxing/a2l-119-apxa-spoolholder-connect-ptfe-tube-v2.png)
+
+> 请将白色料管从黑色工具头线缆下方穿过，确保料管位于线缆下方，以免料管压住线缆导致线缆下垂。
 
 ### 附录 B：安装料管中继接头连接其他型号的 AMS
 

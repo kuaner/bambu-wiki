@@ -1,14 +1,14 @@
 ---
 path: zh/h2c/maintenance/replace-bambu-4in1-ptfe-adapter
-title: "更换四进一料管拓展口"
-description: "本文将为您讲述更换打印机四进一拓展口的详细步骤和注意事项。"
+title: "更换 H2C 四进一料管拓展口"
+description: "本文将为您讲述更换打印机四进一拓展口二代的详细步骤和注意事项。"
 tags: []
 created: 2025-11-18T13:19:07.901Z
-updated: 2026-04-22T03:39:30.674Z
+updated: 2026-06-17T09:11:30.856Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-bambu-4in1-ptfe-adapter
 ---
 
-## 四进一料管拓展口
+## 四进一料管拓展口二代
 
 料管拓展口能同时将 4 个进料模块连接到打印机，例如可拓展实现 7 种耗材打印: 1 个 AMS (4 色)和其他 3 种耗材。还能使打印机同时连接 AMS 及与 AMS 不兼容的耗材,如:TPU95A、拓竹 PET-CF 和其他品牌的含碳纤维/玻璃纤维耗材。
 

@@ -1,10 +1,10 @@
 ---
 path: zh/p2s/manual/screen-operation
 title: "P2S 屏幕操作指南"
-description: "本指南将介绍 P2S 打印机的屏幕按键功能。"
+description: "本指南将介绍 P2S 打印机的屏幕操作及功能。"
 tags: []
 created: 2025-10-14T13:13:22.972Z
-updated: 2026-06-02T06:09:51.995Z
+updated: 2026-06-17T04:04:04.525Z
 source: https://wiki.bambulab.com/zh/p2s/manual/screen-operation
 ---
 

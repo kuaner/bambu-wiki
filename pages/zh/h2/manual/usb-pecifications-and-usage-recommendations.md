@@ -4,7 +4,7 @@ title: "U 盘规格要求和使用建议"
 description: "本文介绍了部分机型使用 U 盘时的规格要求和使用建议。"
 tags: []
 created: 2025-04-03T01:22:04.296Z
-updated: 2026-03-27T08:30:27.381Z
+updated: 2026-06-18T06:07:37.836Z
 source: https://wiki.bambulab.com/zh/h2/manual/usb-pecifications-and-usage-recommendations
 ---
 
@@ -18,6 +18,7 @@ source: https://wiki.bambulab.com/zh/h2/manual/usb-pecifications-and-usage-recom
 
 - H 系列打印机
 - P2S 打印机
+- X2D 打印机
 
 ## U盘的规格要求
 

@@ -4,7 +4,7 @@ title: "激光安全文档"
 description: ""
 tags: []
 created: 2025-03-25T02:46:58.166Z
-updated: 2025-11-27T08:29:34.698Z
+updated: 2026-07-07T07:00:31.216Z
 source: https://wiki.bambulab.com/zh/h2/laser-safety-document
 ---
 
@@ -25,8 +25,6 @@ source: https://wiki.bambulab.com/zh/h2/laser-safety-document
 **激光产生的空气污染物**
 
 在使用激光处理材料时，可能会产生各种潜在有害的空气污染物。请遵循用户手册，确保所有废气都经过空气净化器过滤，或安全排放到户外以便安全散发。
-
-激光引燃风险： 待更新
 
 | 规格 | 激光功率 | **描述** | 应用 | **防护措施** |
 | --- | --- | --- | --- | --- |

@@ -4,7 +4,7 @@ title: "电路故障排查-A2L"
 description: "当设备正常通电后却无法开机工作时，请参考本文进行排查。"
 tags: []
 created: 2026-06-01T13:05:14.134Z
-updated: 2026-06-12T08:46:46.510Z
+updated: 2026-06-30T07:59:29.174Z
 source: https://wiki.bambulab.com/zh/a2l/troubleshooting/circuit-fault-template
 ---
 
@@ -27,7 +27,7 @@ source: https://wiki.bambulab.com/zh/a2l/troubleshooting/circuit-fault-template
 
 > 排查时需要观察打印机各部位指示灯状态。通过观察打印机状态指示灯的闪烁方式，可以快速识别打印机当前所处的工作状态，能够在无需查看屏幕的情况下，提供直观的状态反馈。排查过程中，主板是否正常的判断依据是灯语是否属于正常状态。
 
-> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路> 短路从而引起额外的电子设备损坏和安全隐患。  
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
 > 观察灯语时主板上的元器件会裸露在外，请勿直接触碰元器件或带电拔插任意接头。
 
 ## 现象一：电源开关指示灯无法亮起
@@ -81,9 +81,9 @@ source: https://wiki.bambulab.com/zh/a2l/troubleshooting/circuit-fault-template
 
 flowchart TD
 %% ==================== Nodes ====================
-A[开机] --> B{指示灯恢复正常?}
+A[拔除工具头线缆后开机] --> B{主板指示灯恢复正常?}
 B -- 恢复正常 --> C[故障在 TH 板/转接板] --> D[继续排查]
-B -- 异常 --> E[关机并拔除线缆&取出 SD 卡]
+B -- 异常 --> E[关机拔除其余线缆并取出 SD 卡]
 E --> G[重新上电] --> H{指示灯仍异常?}
 H -- 异常 --> I[更换主板] --> J[结束]
 H -- 正常 --> K[逐个装回拔下的插件 + SD 卡]
@@ -163,10 +163,10 @@ X 轴上的转接板也承担 MC-TH 通信功能，可取下前盖观察灯语�
 ![connectorboard.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/troubleshooting/circuit-fault-template/connectorboard.jpg)  
 ![connectorboard2.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/troubleshooting/circuit-fault-template/connectorboard2.jpg)
 
-> 主板和 TH 的通信中，1/2/3 白灯代表主板发射数据链路，4/5/6 绿灯代表 TH 板发射数据链路。  
+> 主板和 TH 板的通信中，1/2/3 白灯代表主板发射数据链路，4/5/6 绿灯代表 TH 板发射数据链路。  
 > ![ledstatus.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/troubleshooting/circuit-fault-template/ledstatus.jpg)
 
-#### 主板-转接板通讯存在异常
+#### 主板-转接板通信存在异常
 
 情况一：2 号转接板白灯异常；  
 情况二：6 号主板绿灯异常，5 号转接板绿灯正常。

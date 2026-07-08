@@ -4,7 +4,7 @@ title: "AMS HT"
 description: ""
 tags: []
 created: 2025-03-25T02:02:04.119Z
-updated: 2026-06-10T06:59:50.175Z
+updated: 2026-07-03T08:54:54.870Z
 source: https://wiki.bambulab.com/zh/ams-ht
 ---
 
@@ -45,6 +45,7 @@ source: https://wiki.bambulab.com/zh/ams-ht
 - [更换 AMS HT 上下料组件](amsht/maintenance/replace-feeder-unit.md)
 - [更换 AMS HT 退料回卷组件](maintenance/replace-filament-retraction-assembly.md)
 - [更换 AMS HT 出料霍尔检测组件](maintenance/replace-feeder-hall-sensor-assembly.md)
+- [更换 AMS HT 进料检测传感器磁铁](maintenance/ams-ht-feeder-unit-magnet-installation.md)
 
 ### 电路板
 
@@ -53,6 +54,7 @@ source: https://wiki.bambulab.com/zh/ams-ht
 
 ### 配件
 
+- [更换 AMS HT 内部料管](https://wiki.bambulab.com/zh/filament-acc/acc/ptfe-tube#%E6%9B%B4%E6%8D%A2-ams-ht-%E5%86%85%E9%83%A8%E7%9A%84%E6%96%99%E7%AE%A1)
 - [更换 AMS HT 电源插座](maintenance/replace-power-socket.md)
 - [更换 AMS HT 主动支撑轴组件](maintenance/replace-active-support-shaft-assembly.md)
 

@@ -4,7 +4,7 @@ title: "常见打印质量问题和解决办法"
 description: ""
 tags: ["打印质量", "翘边", "拉丝", "漏料", "首层不粘"]
 created: 2023-03-26T06:01:12.450Z
-updated: 2026-03-23T03:03:23.111Z
+updated: 2026-07-07T06:54:17.475Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/common-print-quality-problem
 ---
 
@@ -250,7 +250,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/common-print-quality-prob
 
 - 料盘转动受阻或料线缠结——排除故障后再重新打印。
 - 料管进入异物、局部弯折或磨损——清除异物，修复或更换料管。
-- 挤出机齿轮卡住或损——清洁或更换齿轮（与前述相同）。
+- 挤出机齿轮卡住或损坏——清洁或更换齿轮（与前述相同）。
 - 喷嘴内部通道阻塞，出料困难（长时间打印或打过含有纤维的料后易发生）——疏通喷嘴或更换新喷嘴（与前述相同）。
 
 **2. 挤出量偏小。**

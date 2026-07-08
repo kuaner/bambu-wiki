@@ -4,7 +4,7 @@ title: "拓竹增稳低温打印板"
 description: "本文介绍了拓竹增稳低温打印板"
 tags: ["打印板"]
 created: 2024-11-21T03:43:01.361Z
-updated: 2025-07-22T11:50:08.391Z
+updated: 2026-06-25T02:19:57.683Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/bambu-cool-plate-supertack
 ---
 
@@ -14,7 +14,24 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/bambu-cool-plate-supertack
 
 ![低温增稳打印板.webp](https://wiki.bambulab.com/filament-acc/acc/cool-plate-supertack/%E4%BD%8E%E6%B8%A9%E5%A2%9E%E7%A8%B3%E6%89%93%E5%8D%B0%E6%9D%BF.webp)
 
-购买链接：[天猫](https://detail.tmall.com/item.htm?abbucket=7&id=852308471908&pisk=ffjnppfk9w8B0Y3MIP-QzGSqTea9RvtWR_nJw3dz7CR_FJ6LP0ylw_Lr29UQE8AGNBLpYgbsqt65vJt8dH6BV3PYMoCld9tSzMbODMmZ_KWZ4L8eShA3o3PYMu0tQeNp46UzmIOZ7KOwLLRE8RYwUp-yLeJzICJkhQoFa_WaILvEaQ8e8VJw3Clr8URFQAJXhpke40yGQC9rThoyigS1bWQ04G6w-USMKFzOLClv-GJH0IXFx0orFpYHg9RgMGVQRFWWrgMSqEWFl_9VTXPkNGXNYZ5462dFoLXAr9rEbHICLZ8P07gPiHfkuM8iUmWCLBKMQiy-lCIM9_SH7-nDyhSvuH7T5WLJxKfPA6Do4sWOHMT1qScwNwpXbLj734Akzg7K7qlfp09aeGuSPeJ6IIH3GHdtQbWnlR2ilyTeCpFYIR0SueJ6LI2gIqgD8d9d7&rn=d3468279b6843fe20b990cdfaac51325&spm=a1z10.3-b-s.w4011-25177047232.19.6f533c0ePeIJLv)；[京东](https://item.jd.com/10124944821031.html)
+**购买链接**：[天猫](https://detail.tmall.com/item.htm?abbucket=7&id=852308471908&pisk=ffjnppfk9w8B0Y3MIP-QzGSqTea9RvtWR_nJw3dz7CR_FJ6LP0ylw_Lr29UQE8AGNBLpYgbsqt65vJt8dH6BV3PYMoCld9tSzMbODMmZ_KWZ4L8eShA3o3PYMu0tQeNp46UzmIOZ7KOwLLRE8RYwUp-yLeJzICJkhQoFa_WaILvEaQ8e8VJw3Clr8URFQAJXhpke40yGQC9rThoyigS1bWQ04G6w-USMKFzOLClv-GJH0IXFx0orFpYHg9RgMGVQRFWWrgMSqEWFl_9VTXPkNGXNYZ5462dFoLXAr9rEbHICLZ8P07gPiHfkuM8iUmWCLBKMQiy-lCIM9_SH7-nDyhSvuH7T5WLJxKfPA6Do4sWOHMT1qScwNwpXbLj734Akzg7K7qlfp09aeGuSPeJ6IIH3GHdtQbWnlR2ilyTeCpFYIR0SueJ6LI2gIqgD8d9d7&rn=d3468279b6843fe20b990cdfaac51325&spm=a1z10.3-b-s.w4011-25177047232.19.6f533c0ePeIJLv)；[京东](https://item.jd.com/10124944821031.html)
+
+## **适配机型**
+
+增稳低温打印板分为一代与二代（即 pro 版本）。两者主要区别之一在于**二维码标识**更新，一代打印板不支持第二代机型（P2S 及后续机型）的**打印板识别功能**。
+
+| 打印板版本 | 适配机型 |
+| --- | --- |
+| 一代 | A1 系列、X1 系列、P1 系列 |
+| 二代（即 pro 版本） | H2 系列、A1 系列、X1 系列、P1 系列 、P2S、X2D、A2L |
+
+> **说明**：
+>
+> 1.P2S、X2D 打印机可正常使用一代打印板，但无法识别其类型。如设备提示无法识别打印板类型，可在屏幕手动选择“已解决”或关闭打印板检测功能。
+>
+> 2.X1 系列打印机可正常使用二代打印板，但无法识别其类型。如设备提示无法识别打印板类型，可在屏幕手动选择“已解决”或关闭打印板检测功能。
+>
+> 3.A1 和 P1 系列打印机可正常使用二代打印板。
 
 ## 产品特点
 

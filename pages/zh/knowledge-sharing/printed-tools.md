@@ -4,7 +4,7 @@ title: "拓竹产品的 3D 打印配件模型"
 description: "本页面收集了专为拓竹产品设计的 3D 打印配件模型，这些模型可优化设备的操作便利性、易用性与日常使用体验。每个配件均附带清晰的使用指南、兼容性说明及推荐打印耗材。"
 tags: []
 created: 2026-02-04T03:33:37.304Z
-updated: 2026-05-25T01:51:12.286Z
+updated: 2026-06-16T06:14:09.596Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/printed-tools
 ---
 
@@ -17,6 +17,98 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/printed-tools
   
 
 ---
+
+## A2L
+
+### 料管定位导向件
+
+[A2L 料管定位导向件模型 MakerWorld 页面](https://makerworld.com.cn/zh/models/2600661-a2l-liao-guan-ding-wei-dao-xiang-jian#profileId-2995969)
+
+![a2l_ptfe_tube_positioning_guide.jpg](https://wiki.bambulab.com/knowledge-sharing/printed-tools/a2l_ptfe_tube_positioning_guide.jpg)
+
+#### ℹ️ 产品说明
+
+防止连接不同类型 AMS 时，料管在五通入口处过度弯曲导致进料失败。
+
+#### ✅ 推荐耗材
+
+PLA 耗材的刚性与尺寸精度表现优异，非常适合打印此模型。
+
+#### 🔨 使用方法
+
+请参考 [A2L AMS 连接指南](../a2l/manual/a2l-ams-connection-guide.md) 获取详细的使用说明。
+
+### AMS lite 置顶用 4-pin 连接线理线器
+
+[AMS lite 置顶用 4-pin 连接线理线器模型 MakerWorld 页面](https://makerworld.com.cn/zh/models/2600650-a2l-ams-lite-zhi-ding-yong-4-pin-lian-jie-xian-li#profileId-2995953)
+
+![a2l_4-pin_cable_organizer_for_ams_lite_top_mount.jpg](https://wiki.bambulab.com/knowledge-sharing/printed-tools/a2l_4-pin_cable_organizer_for_ams_lite_top_mount.jpg)
+
+#### ℹ️ 产品说明
+
+引导和固定 4-pin 连接线走线，减少线缆晃动或干涉。适用于 AMS lite 置顶。
+
+#### ✅ 推荐耗材
+
+PLA 是该模型的理想选择，其刚性与尺寸精度表现优异。
+
+#### 🔨 使用方法
+
+请参考 [A2L AMS 连接指南](../a2l/manual/a2l-ams-connection-guide.md) 获取详细的使用说明。
+
+### 热床保护架
+
+[A2L 热床保护架模型 MakerWorld 页面](https://makerworld.com.cn/zh/models/2572337-a2l-re-chuang-da-yin-ban-bao-hu-jian#profileId-2959677)
+
+![a2l_heatbed_&_plate_guard.jpg](https://wiki.bambulab.com/knowledge-sharing/printed-tools/a2l_heatbed_&_plate_guard.jpg)
+
+#### ℹ️ 产品说明
+
+安装于热床前方，用于提示用户热床的运动范围，并在用户近距离观察或操作时提供一定保护，降低与热床发生碰撞的风险。该模型占用空间较大，可根据需求与打印板保护套二选一打印并使用。
+
+#### ✅ 推荐耗材
+
+PLA 是该模型的理想选择，其刚性与尺寸精度表现优异。
+
+#### 🔨 使用方法
+
+请参考 [A2L 配件模型介绍](../a2l/manual/internal-print-files.md)。
+
+### 打印板保护套
+
+[A2L 打印板保护套模型 MakerWorld 页面](https://makerworld.com.cn/zh/models/2572337-a2l-re-chuang-da-yin-ban-bao-hu-jian#profileId-2959677)
+
+![a2l-accessory-models-002-overview-plate-guard.jpeg](https://public-cdn.bblmw.com/wiki/new/a2l/manual/model/a2l-accessory-models-002-overview-plate-guard.jpeg)
+
+#### ℹ️ 产品说明
+
+安装于打印板前方凸出部分，可在用户近距离观察热床或进行操作时提供一定保护，降低被打印板边缘戳伤或磕碰的风险。占用空间较小，可与热床保护架二选一打印并使用。
+
+#### ✅ 推荐耗材
+
+PLA 是该模型的理想选择，其刚性与尺寸精度表现优异。
+
+#### 🔨 使用方法
+
+请参考 [A2L 配件模型介绍](../a2l/manual/internal-print-files.md)。
+
+### AMS lite 置顶方案
+
+[AMS lite 置顶方案模型 MakerWorld 页面](https://makerworld.com.cn/zh/models/125814-ams-litezhi-ding-fang-an-gua-yong-yu-a1-a2lda-yin?from=search#profileId-8903)
+
+![a2l-accessory-models-007-overview-ams-lite-top-mount.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/model/a2l-accessory-models-007-overview-ams-lite-top-mount.png)
+
+#### ℹ️ 产品说明
+
+用于将 AMS lite 固定在龙门架顶部，减少设备整体占地面积。
+
+#### ✅ 推荐耗材
+
+PLA 是该模型的理想选择，其刚性与尺寸精度表现优异。
+
+#### 🔨 使用方法
+
+请参考 [A2L AMS 连接指南](../a2l/manual/a2l-ams-connection-guide.md) 获取详细的使用说明。
 
 ## X2D
 
@@ -98,6 +190,25 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/printed-tools
 ---
 
 ## H2 系列
+
+### 耗材变轨器支架
+
+[耗材变轨器支架（适配H2C/H2D）模型 MakerWorld 页面](https://makerworld.com.cn/zh/models/2500588-hao-cai-bian-gui-qi-zhi-jia-gua-pei-h2c-h2d)  
+![](https://wiki.bambulab.com/general/filament-track-switch-h2/018.png)
+
+#### ℹ️ 产品说明
+
+本模型为耗材变轨器 (Filament Track Switch) 适配 H2C/H2D 专用支架，包含耗材变轨器支架、AMS 固定支架、AMS 料管导向支架和气动接头卡扣，其中 AMS 固定支架含 AMS、AMS 2 Pro 和 AMS HT 支架，请按需打印。
+
+耗材变轨器专为双喷嘴打印机设计，配备 2 个进料口与 2 个出料口，可支持 AMS 与双喷嘴的任意映射。
+
+#### ✅ 推荐耗材
+
+PLA 是该模型的理想选择，其刚性与尺寸精度表现优异，且大尺寸打印时不易翘边。
+
+#### 🔨 使用方法
+
+请参考 [耗材变轨器使用指南 - H2 系列](../general/manual/filament-track-switch-h2.md) 获取详细的打印、组装及使用说明。
 
 ### 柔性耗材顶进料支架
 

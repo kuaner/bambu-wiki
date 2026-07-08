@@ -4,7 +4,7 @@ title: "A1系列裹头检测功能介绍"
 description: "本文章介绍了 A1 系列打印机的裹头检测功能。"
 tags: ["a1", "a1 mini"]
 created: 2024-01-18T10:03:10.040Z
-updated: 2025-12-02T02:51:56.408Z
+updated: 2026-06-23T09:29:23.907Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/nozzle-warp-detection
 ---
 
@@ -68,6 +68,8 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/nozzle-warp-detection
 3. 如果您在**特殊模式**里选择了**逐件打印**或打开**旋转花瓶**的时候，裹头检测将不会生效。
 
 ![](https://wiki.bambulab.com/n1/manual/nozzle-warp-detection/%E9%80%90%E4%BB%B6%E6%89%93%E5%8D%B0%E5%92%8C%E6%97%8B%E8%BD%AC%E8%8A%B1%E7%93%B6.png)
+
+4. 开启擦料塔时，打印机会先进行裹头检测再打印同一层的擦料塔。
 
 ## **结束语**
 

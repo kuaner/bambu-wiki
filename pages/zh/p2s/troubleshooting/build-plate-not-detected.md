@@ -1,11 +1,11 @@
 ---
-path: zh/P2S/troubleshooting/build-plate-not-detected
-title: "0500-4095： P2S"
+path: zh/p2s/troubleshooting/build-plate-not-detected
+title: "0500-4095： P2S/X2D"
 description: ""
 tags: []
 created: 2026-04-30T10:18:14.384Z
-updated: 2026-04-30T10:18:15.370Z
-source: https://wiki.bambulab.com/zh/P2S/troubleshooting/build-plate-not-detected
+updated: 2026-07-02T02:41:18.750Z
+source: https://wiki.bambulab.com/zh/p2s/troubleshooting/build-plate-not-detected
 ---
 
 ## 故障描述
@@ -18,6 +18,11 @@ source: https://wiki.bambulab.com/zh/P2S/troubleshooting/build-plate-not-detecte
 - 标记被损坏或被阻挡
 
 > 注意：若您使用的是第三方打印板，只需忽略该消息。
+
+## 安全提示
+
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
+> 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 
 ### 排故措施
 

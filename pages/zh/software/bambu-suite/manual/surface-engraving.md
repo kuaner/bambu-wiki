@@ -1,15 +1,18 @@
 ---
 path: zh/software/bambu-suite/manual/surface-engraving
-title: "Bambu H2D 曲面雕刻功能使用指南"
-description: "本文将详细为您介绍Bambu Suite 曲面激光雕刻功能和使用 H2D 进行曲面激光雕刻的详细步骤。"
+title: "H2 系列曲面雕刻功能使用指南"
+description: "本文将详细为您介绍 Bambu Suite 曲面激光雕刻功能和使用 H2D 系列打印机进行曲面激光雕刻的详细步骤。"
 tags: []
 created: 2025-09-25T11:00:02.959Z
-updated: 2026-02-25T01:31:49.903Z
+updated: 2026-06-29T09:45:27.031Z
 source: https://wiki.bambulab.com/zh/software/bambu-suite/manual/surface-engraving
 ---
 
-> **注意**：请将 H2D 或 H2C 的固件更新到最新版本，H2S 预计四月份发布相关固件支持。  
-> 本页面以 H2D 机器为例。**H2C 的操作方式相同**。
+> **注意：** 请确保您的机器已更新至最新固件。曲面加工功能从以下固件版本开始启用：
+>
+> - H2S：[01.02.00.00 (20260331)](../../../h2s/manual/h2s-firmware-release-history.md) 或更高版本。
+> - H2D：[01.02.00.00](https://wiki.bambulab.com/zh/h2d/manual/h2d-firmware-release-history#h-01020000-20250813) 或更高版本。
+> - H2C：[01.01.00.00](https://wiki.bambulab.com/zh/h2c/manual/h2c-firmware-release-history#h-01010000) 或更高版本。
 
 ## 曲面雕刻介绍
 

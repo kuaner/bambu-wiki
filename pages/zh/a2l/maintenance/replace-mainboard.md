@@ -4,7 +4,7 @@ title: "A2L 更换主板"
 description: "本文介绍了如何更换 A2L 主板"
 tags: []
 created: 2026-06-01T13:12:55.684Z
-updated: 2026-06-05T07:50:00.768Z
+updated: 2026-06-17T01:39:01.225Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-mainboard
 ---
 
@@ -142,9 +142,25 @@ A2L 主板
 小心地将打印机翻转回正常放置位置。  
 ![dk016.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk016.jpg)
 
-## 功能验证
+## 联系客户支持注册序列号
 
-放回打印板，开启打印机电源，运行校准，观察校准是否顺利完成无报错。
+> 重要提醒：  
+> 新 SN 注册成功后，旧 SN 将会作废，旧的主板也将不能再被注册或绑定。
+
+更换了主板的机器，由于新的 SN 未注册，无法进行绑定操作。因此，在更换主板后首次开机时，可跳过绑定机器的步骤，并检验更换 AP 板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录拓竹官网 <https://bambulab.com/zh/support> 申请绑定新序列号（SN），或联系拓竹科技客服注册新 SN。  
+![register_sn.jpg](https://wiki.bambulab.com/x2d/maintenance/ap-board/register_sn.jpg)
+
+## 功能校验
+
+注册新的序列号后，将打印机绑定至您的账户。
+
+为确保更换顺利，请打开打印机并使用。
+
+如果打印机如预期工作，则安装成功。
+
+## **操作后的校准步骤**
+
+建议您在更换完主板后进行一次全面校准，以确保打印机顺畅运行。
 
 ## 结束语
 

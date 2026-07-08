@@ -4,7 +4,7 @@ title: "AMS 2 Pro"
 description: ""
 tags: []
 created: 2025-03-25T02:01:46.615Z
-updated: 2026-05-21T02:36:37.407Z
+updated: 2026-06-26T06:25:24.925Z
 source: https://wiki.bambulab.com/zh/ams-2-pro
 ---
 
@@ -64,6 +64,7 @@ source: https://wiki.bambulab.com/zh/ams-2-pro
 
 ### 配件
 
+- [更换 AMS 2 Pro 料管](maintenance/replace-the-ptfe-tube.md)
 - [AMS 2 Pro 电源适配器](maintenance/replace-switching-adapter.md)
 - [更换 AMS 2 Pro 内部线材](maintenance/ams-2-pro-cable-pack.md)
 - [更换 AMS 2 Pro 进气口/出气口组件](maintenance/replace-air-inlet-unit.md)

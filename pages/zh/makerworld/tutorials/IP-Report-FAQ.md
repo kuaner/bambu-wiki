@@ -4,7 +4,7 @@ title: "知识产权投诉说明与FAQ"
 description: "该内容旨在明晰MakerWorld社区知识产权侵权投诉相关信息"
 tags: ["makerworld"]
 created: 2026-04-07T05:48:23.968Z
-updated: 2026-05-06T03:13:30.761Z
+updated: 2026-06-24T02:37:05.101Z
 source: https://wiki.bambulab.com/zh/makerworld/tutorials/IP-Report-FAQ
 ---
 
@@ -18,7 +18,7 @@ source: https://wiki.bambulab.com/zh/makerworld/tutorials/IP-Report-FAQ
 
 ### **提交知识产权举报**
 
-如果您认为MakerWorld平台上的模型内容侵犯了您的知识产权（版权、商标或专利），您可以填写我们的**知识产权投诉表**，并连同所需的证明文件一起发送至 [copyright@makerworld.com](mailto:copyright@makerworld.com) 。
+如果您认为MakerWorld平台上的模型内容侵犯了您的知识产权（版权、商标或专利），您可以填写我们的**知识产权投诉表**，并连同所需的证明文件一起发送至 [copyright@makerworld.com.cn](mailto:copyright@makerworld.com.cn) 。
 
 在我们收到您的投诉并确认其符合信息完整性要求后，被举报的模型将被暂时设置为“下架”状态。模型下架期间，用户将无法访问该内容。
 
@@ -28,7 +28,7 @@ source: https://wiki.bambulab.com/zh/makerworld/tutorials/IP-Report-FAQ
 
 当被举报模型的状态变为“下架”后，我们将通知投诉方和被举报模型的创作者。如果创作者认为知识产权举报是基于错误而提交的，他们可以在收到知识产权举报通知之日起**14个自然日内提交反通知**进行申诉。
 
-如在上述期限内未收到有效的反通知，被举报内容的状态将维持为“下架”，且创作者将被视为放弃在本次流程中提出相关异议。如因知识产权投诉系统异常，导致反通知无法正常提交，可通过 [copyright@makerworld.com](mailto:copyright@makerworld.com) 与我们联系。
+如在上述期限内未收到有效的反通知，被举报内容的状态将维持为“下架”，且创作者将被视为放弃在本次流程中提出相关异议。如因知识产权投诉系统异常，导致反通知无法正常提交，可通过 [copyright@makerworld.com.cn](mailto:copyright@makerworld.com.cn) 与我们联系。
 
 ![](https://wiki.bambulab.com/makerworld/tutorials/ip%E6%8A%95%E8%AF%89/%E5%8F%8D%E9%80%9A%E7%9F%A5.png)
 
@@ -42,7 +42,7 @@ source: https://wiki.bambulab.com/zh/makerworld/tutorials/IP-Report-FAQ
 
 收到有效的反通知后，投诉方应在**14个自然日内**作出回应。基于投诉方对反通知的回应，平台将采取以下措施：
 
-- **投诉方提起法律诉讼**：投诉方应向 [copyright@makerworld.com](mailto:copyright@makerworld.com) 提供证据，证明其就相关争议已提起诉讼，寻求法院裁决。如果在规定时间内收到此类证据，被举报的活动将被维持“下架”。法院作出判决后，投诉方需将判决书副本发送至 [copyright@makerworld.com](mailto:copyright@makerworld.com)。MakerWorld 将根据法院的裁决决定恢复模型或继续将其设置为“下架”。
+- **投诉方提起法律诉讼**：投诉方应向 [copyright@makerworld.com.cn](mailto:copyright@makerworld.com.cn) 提供证据，证明其就相关争议已提起诉讼，寻求法院裁决。如果在规定时间内收到此类证据，被举报的活动将被维持“下架”。法院作出判决后，投诉方需将判决书副本发送至 [copyright@makerworld.com.cn](mailto:copyright@makerworld.com.cn)。MakerWorld 将根据法院的裁决决定恢复模型或继续将其设置为“下架”。
 - 投诉方未在期限内作出回应：如果投诉方在 14 个自然日内未作出回应，平台将会恢复已举报的模型。
 
 ### **最终酌情审查**
@@ -105,4 +105,4 @@ MakerWorld保留拒绝、延迟处理或对存在滥用、信息不完整、虚�
 ## 结束语
 
 > 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决,可直接联系copyright@makerworld.com，相关人员将为您答疑解惑或提供支持。
+> 如果问题仍未解决,可直接联系copyright@makerworld.com.cn，相关人员将为您答疑解惑或提供支持。

@@ -4,7 +4,7 @@ title: "A1 mini 用户手册"
 description: ""
 tags: []
 created: 2023-09-18T07:09:11.649Z
-updated: 2024-08-22T06:35:19.362Z
+updated: 2026-07-06T07:13:44.216Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual
 - [缠料检测功能](../ams-lite/manual/filament-tangle-monitoring-intro.md)
 - [裹头检测功能](nozzle-warp-detection.md)
 - [打印板检测](build-plate-detection.md)
-- [空打检测](../ams-lite/manual/air-printing-detectiong.md)
+- [空打检测](../ams-lite/manual/air-printing-detection.md)
 - [MIDI to A1 mini 使用指南](https://wiki.bambulab.com/zh/a1-mini/midi)
 
 **产品快速指南(**[**点击此处跳转下载页面**](https://bambulab.cn/zh-cn/support/documentation)**)**

@@ -4,7 +4,7 @@ title: "A2L 首层打印质量改善指南"
 description: "本文介绍了如何改善 A2L 的首层打印质量"
 tags: []
 created: 2026-06-01T13:18:15.134Z
-updated: 2026-06-01T13:18:22.042Z
+updated: 2026-06-26T03:05:39.860Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/first-layer-quality-calibration
 ---
 
@@ -32,7 +32,7 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/first-layer-quality-calibra
 
 ### 校准与调平
 
-无论遇到哪种首层打印质量问题，我们都建议您在“**设置 > 校准 > 打印校准”**中运行一次**自动热床调平。**若机器经过**搬运、长时间存放或者拆装更换热床**后，也必须重新运行调平。
+无论遇到哪种首层打印质量问题，我们都建议您在“**设置 > 维护 > 校准 > 打印校准”**中运行一次**自动热床调平。**若机器经过**搬运、长时间存放或者拆装更换热床**后，也必须重新运行调平。
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/first-layer-quality-calibration/014.png)
 
@@ -179,6 +179,20 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/first-layer-quality-calibra
 - 如果**关闭热床保温选项**，则在打印准备阶段不采取任何保温等待策略，而是在对应阶段直接开始调平。
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/first-layer-quality-calibration/009.png)
+
+### 摆放位置优化建议
+
+切片时建议将**模型与擦料塔尽量摆放在靠近热床中心**的位置，以缩短热床保温时间。
+
+|  |  |
+| --- | --- |
+| 不推荐 | 推荐 |
+
+**开启延时摄影**时，生成的擦料塔较小、易被忽视，需特别留意其摆放位置，避免 A2L 保温时长延长。
+
+|  |  |
+| --- | --- |
+| 不推荐 | 推荐 |
 
 ## 结束语
 

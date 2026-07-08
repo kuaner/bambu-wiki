@@ -2,9 +2,9 @@
 path: zh/x2d/maintenance/replace-xy-belt
 title: "更换 X2D XY 皮带"
 description: "本文介绍了如何更换 X2D XY 皮带"
-tags: ["xy 皮带"]
+tags: []
 created: 2026-04-14T13:10:02.312Z
-updated: 2026-05-18T01:58:12.669Z
+updated: 2026-06-22T09:40:41.231Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-xy-belt
 ---
 

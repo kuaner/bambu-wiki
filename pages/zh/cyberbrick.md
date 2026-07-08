@@ -4,7 +4,7 @@ title: "CyberBrick"
 description: "本页面汇集了关于 CyberBrick 所有指南与信息的链接。"
 tags: []
 created: 2025-06-26T07:30:48.150Z
-updated: 2026-05-12T10:21:24.184Z
+updated: 2026-06-16T05:49:27.223Z
 source: https://wiki.bambulab.com/zh/cyberbrick
 ---
 
@@ -29,6 +29,7 @@ CyberBrick 是一款模块化智能玩具生态系统，融合了可编程硬件
 - [如何纠正舵机转向，解决小车跑偏？](troubleshooting/fix-the-drifting.md)
 - [如何开启/关闭 CyberBrick遥控器的低功耗模式?](troubleshooting/remote-control-low-power-mode.md)
 - [如何使用手机端CyberBrick绑定设备核心板?](troubleshooting/mobile-board-bluetooth-pairing.md)
+- [如何在 CyberBrick PC 端应用中联系技术支持？](troubleshooting/pc-app-contact-technical-support.md)
 
 ## 软件
 

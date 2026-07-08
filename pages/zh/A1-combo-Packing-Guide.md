@@ -4,7 +4,7 @@ title: "A1 Combo 装箱指南（一体化装箱）"
 description: "本指南介绍了如何进行 A1 combo 装箱。"
 tags: []
 created: 2024-09-19T04:11:45.980Z
-updated: 2026-02-11T08:50:06.499Z
+updated: 2026-06-24T06:12:12.808Z
 source: https://wiki.bambulab.com/zh/A1-combo-Packing-Guide
 ---
 
@@ -81,7 +81,9 @@ source: https://wiki.bambulab.com/zh/A1-combo-Packing-Guide
 | --- | --- | --- |
 |  |  |  |
 
-步骤 5. 装回配件。
+步骤 5. 装回配件盒、电源线及料盘支架等。
+
+> 注意：新版料盘支架为一体化设计，无需拆装。
 
 |  |  |
 | --- | --- |
@@ -123,9 +125,14 @@ source: https://wiki.bambulab.com/zh/A1-combo-Packing-Guide
 
 ### 装箱操作
 
+> **注意**: 部分渠道版本含赠送耗材，请先将防护泡沫置于对角线位置，然后将耗材放置于底部后盖上纸板。  
+> ![packing_a1_update.jpg](https://wiki.bambulab.com/a1-combo-packing/packing_a1_update_3.jpg)
+
 步骤 1. 将打印机放回纸箱。
 
-![60.png](https://wiki.bambulab.com/a1-combo-packing/60.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 步骤 2. 放置 AMS lite。
 
@@ -135,11 +142,15 @@ source: https://wiki.bambulab.com/zh/A1-combo-Packing-Guide
 
 ![62.png](https://wiki.bambulab.com/a1-combo-packing/62.png)
 
-步骤 4. 放入泡沫纸板和配件，并用胶带粘牢。
+步骤 4. 放入泡沫纸板和配件.
 
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
+|  |  |
+| --- | --- |
+|  |  |
+
+步骤 5. 用胶带粘牢。
+
+![](https://wiki.bambulab.com/a1-combo-packing/65.png)
 
 ## 结束语
 

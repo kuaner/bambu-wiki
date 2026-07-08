@@ -4,7 +4,7 @@ title: "知识分享"
 description: ""
 tags: []
 created: 2022-07-28T10:19:10.545Z
-updated: 2026-05-12T07:40:42.911Z
+updated: 2026-07-01T01:58:32.268Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing
 ---
 
@@ -76,7 +76,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing
 - [流量比例校准](software/bambu-studio/calibration_flow_rate.md)
 - [自动流量比例校准注意事项](flowrate-calibration-by-microlidar.md)
 - [裹头检测功能介绍](a1-mini/manual/nozzle-warp-detection.md)
-- [空打检测](ams-lite/manual/air-printing-detectiong.md)
+- [空打检测](ams-lite/manual/air-printing-detection.md)
 - [打印板检测](a1-mini/manual/build-plate-detection.md)
 
 ## 模型分享

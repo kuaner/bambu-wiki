@@ -4,7 +4,7 @@ title: "P2S/X2D 同步带更换教程"
 description: "当同步带断裂导致无法牵引旧同步带进行更换时，可参考本文手动穿装完成更换。"
 tags: ["p2s", "x2d"]
 created: 2026-06-18T08:03:35.748Z
-updated: 2026-06-24T07:20:36.781Z
+updated: 2026-06-24T07:20:37.867Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/replace_the_xy_belts
 ---
 

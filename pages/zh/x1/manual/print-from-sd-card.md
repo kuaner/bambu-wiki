@@ -1,11 +1,17 @@
 ---
 path: zh/x1/manual/print-from-sd-card
-title: "从SD卡开始打印"
-description: "在 X1 系列打印机上从 SD 卡发起打印"
+title: "使用外部存储开始打印"
+description: "本文将介绍如何使用外部存储发起打印任务。"
 tags: ["sd卡", "x1"]
 created: 2022-07-29T07:27:32.169Z
-updated: 2026-03-24T07:31:39.717Z
+updated: 2026-07-01T06:55:37.763Z
 source: https://wiki.bambulab.com/zh/x1/manual/print-from-sd-card
 ---
 
-我们为您准备了以下视频，帮助您在 X1 系列打印机上从 SD 卡发起打印。
+## SD 卡
+
+可参考视频内容，导出模型并发起打印。
+
+## U 盘
+
+可参考视频内容，导出模型并发起打印。

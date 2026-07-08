@@ -4,7 +4,7 @@ title: "A1 AC 板更换指南"
 description: "本指南详细介绍了如何卸下和安装A1的AC板。"
 tags: []
 created: 2024-05-31T02:03:16.213Z
-updated: 2026-06-01T03:53:19.742Z
+updated: 2026-07-06T08:39:31.733Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/ac-board-replacement
 ---
 
@@ -70,35 +70,35 @@ A1
 |  |  |
 
 > 注意：新版本 AC 板移除地线设计，优化电源开关结构及通流能力；此变更不影响AC板的核心功能及性能。  
-> ![new_ac_board_removed_ground_wire_design.png](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/new_ac_board_removed_ground_wire_design.png)
+> ![new_ac_board_removed_ground_wire_design.png](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-01-52.jpg)
 
 ### **步骤 5：移除热床信号线缆**
 
 移除热床 4PIN 信号线缆，可以使用工具或者捏住塑料接头进行拔出；注意不要直接拖住线缆，可能会导致接头损伤。
 
-![remove_the_signal_cable_connector.jpeg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/remove_the_signal_cable_connector.jpeg)
+![pixpin_2026-07-06_16-16-34.jpg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-16-34.jpg)
 
 ### **步骤 6：移除 AC 板排线**
 
 断开 AC 板信号排线，抬起黑色固定扣即可顺利拉出线缆。
 
-![remove_ac_board_ribbon_cable.png](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/remove_ac_board_ribbon_cable.png)
+![pixpin_2026-07-06_16-16-34.jpg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-16-17.jpg)
 
 ### **步骤 7：移除 AC 板剩余线缆**
 
-继续移除剩余线缆，首先移除 #1 #2 #3 分别是地线、火线、零线。将蓝色胶套往外拨出后，使用螺丝刀顶住卡扣的同时向外拉出线缆。 4、5 号电源模块线缆稍后拆除。
+继续移除剩余线缆，首先移除 #1 #2 #3 分别是地线、火线、零线。将蓝色胶套往外拨出后，使用螺丝刀顶住卡扣的同时向外拉出线缆。 #4、#5 电源模块线缆稍后拆除。
+
+![pixpin_2026-07-06_16-16-34.jpg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-03-28.jpg)
 
 ![](https://wiki.bambulab.com/knowledge-sharing/printer-electronic-connectors-guide/con5.png)
-
-![remove_remaining_power_wires.png](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/remove_remaining_power_wires.png)
 
 ### **步骤 8：取出旧的 AC 板**
 
 取出 AC 板中间固定螺丝，松开塑料卡扣即可取出 AC 板。
 
-![scr-20240409-juax-2.jpeg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/scr-20240409-juax-2.jpeg)
+![pixpin_2026-07-06_16-30-09.jpg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-30-09.jpg)
 
-此时继续拆卸 4，5 号电源模块线缆，该线缆无需解锁，可使用螺丝刀撬出。
+此时继续拆卸 4，5 号电源模块线缆，如果该线缆很难解锁，也可使用螺丝刀直接撬出。
 
 ![acboard.webp](https://wiki.bambulab.com/knowledge-sharing/printer-electronic-connectors-guide/acboard.webp)
 
@@ -114,22 +114,20 @@ A1
 
 将新的 AC 板对准打印机框架上的螺丝孔，然后安装固定螺丝。
 
-![install_the_new_ac_board.jpg.jpeg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/install_the_new_ac_board.jpg.jpeg)
+![pixpin_2026-07-06_16-30-09.jpg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-30-09.jpg)
 
 ### **步骤 3：插入 AC 板排线和热床信号信线**
 
 首先打开黑色卡扣，插入白色排线，需要确保蓝色标签和黑色卡扣平行，压紧黑色卡扣；  
 然后将热床 4PIN 信号线缆插入对应的 4PIN 接口座内。
 
-|  |  |
-| --- | --- |
-|  |  |
+![pixpin_2026-07-06_16-02-32.jpg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-02-32.jpg)
 
 ### **步骤 4：连接热床电源线**
 
-小心插入热床电源线，如下图 1、2 号所示（不需要区分左右）。
+小心插入热床电源线，如下图 1、2 号所示（不需要区分颜色和左右）。
 
-![re-connect_the_heatbed_power_cables.jpeg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/re-connect_the_heatbed_power_cables.jpeg)
+![pixpin_2026-07-06_16-16-48.jpg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-16-48.jpg)
 
 ### **步骤 5：连接 AC 板剩余线缆**
 
@@ -141,7 +139,7 @@ A1
 4. 火线（红色）
 5. 零线（黑色）
 
-![re-connect_the_remaining_wires.png](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/re-connect_the_remaining_wires.png)
+![pixpin_2026-07-06_16-17-09.jpg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-17-09.jpg)
 
 > 注意：完成以上安装之后，确保所有线缆安装上绝缘硅胶套。
 

@@ -4,7 +4,7 @@ title: "H2 系列激光旋转轴加工指南"
 description: "本文介绍了如何使用激光旋转轴加工功能"
 tags: []
 created: 2026-01-22T02:30:28.157Z
-updated: 2026-04-23T02:27:24.176Z
+updated: 2026-06-24T01:51:28.660Z
 source: https://wiki.bambulab.com/zh/h2/manual/rotary-attachment-guide
 ---
 
@@ -14,7 +14,12 @@ source: https://wiki.bambulab.com/zh/h2/manual/rotary-attachment-guide
 
 ![20260127-121620.jpg](https://wiki.bambulab.com/h2/manual/rotary-attachment-guide/20260127-121620.jpg)
 
-> 目前仅 H2DL 以及 H2SL 支持使用旋转轴组件，H2CL需等待后续固件更新。
+## 适配机型及版本号
+
+- H2D：01.03.00.00 及以上
+- H2S：01.02.00.00 及以上
+- H2C：01.02.00.00 及以上
+- Bambu Suite：V1.2.1.0 及以上
 
 ## 激光旋转轴加工雕刻材料要求
 
@@ -38,15 +43,15 @@ source: https://wiki.bambulab.com/zh/h2/manual/rotary-attachment-guide
 
 ## 激光旋转轴加工雕刻范围限制
 
-- **加工物体最小 & 最大直径：57mm & 105mm**
+- **加工物体最小 & 最大直径**：57mm & 105mm
 
 ![](https://wiki.bambulab.com/h2/manual/rotary-attachment-guide/image-8.png)
 
-- **最大加工长度：220mm（H2D）**
+- **最大加工长度**：H2D/H2S = 220mm；H2C ≤ 200mm
 
 ![](https://wiki.bambulab.com/h2/manual/rotary-attachment-guide/image-9.png)
 
-- **最大可调节加工角度：45°**
+- **最大可调节加工角度**：45°
 
 可通过打印机屏幕查看旋转轴角度。
 

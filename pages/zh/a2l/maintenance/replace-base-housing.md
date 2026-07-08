@@ -4,7 +4,7 @@ title: "A2L 更换底座"
 description: "本文介绍了如何更换 A2L 底座"
 tags: []
 created: 2026-06-30T09:58:03.054Z
-updated: 2026-07-01T01:56:16.639Z
+updated: 2026-07-01T01:56:17.672Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-base-housing
 ---
 

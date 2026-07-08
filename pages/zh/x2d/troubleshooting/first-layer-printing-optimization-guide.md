@@ -4,7 +4,7 @@ title: "X2D 首层打印质量改善指南"
 description: "本文将详细阐述当 X2D 首层打印出现异常时应如何处理。"
 tags: []
 created: 2026-04-14T13:15:08.104Z
-updated: 2026-04-16T08:25:19.300Z
+updated: 2026-06-23T02:34:13.422Z
 source: https://wiki.bambulab.com/zh/x2d/troubleshooting/first-layer-printing-optimization-guide
 ---
 
@@ -202,7 +202,7 @@ source: https://wiki.bambulab.com/zh/x2d/troubleshooting/first-layer-printing-op
 2. 高温打印（热床 ≥90℃）
 
    - 预热时间：30分钟
-   - 作用： 由于设备无主动腔温控制，需依赖热床温度缓慢提升腔体温度至50℃以上，保证机器充分预热，以获得更好的首层打印质量。
+   - 作用： 由于设备打印首层时不会直接触发主动腔温控制功能，需依赖热床温度缓慢提升腔体温度至 50℃ 以上，保证机器充分预热，以获得更好的首层打印质量。
 
 ## 结束语
 

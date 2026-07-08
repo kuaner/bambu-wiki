@@ -4,7 +4,7 @@ title: "更换 AMS HT 进料检测传感器磁铁"
 description: "本文介绍了如何移除和安装位于 AMS HT 上下料组件的进料检测传感器的磁铁与弹簧。"
 tags: []
 created: 2026-06-30T06:30:24.602Z
-updated: 2026-07-02T06:09:26.335Z
+updated: 2026-07-02T06:09:27.328Z
 source: https://wiki.bambulab.com/zh/ams-ht/maintenance/ams-ht-feeder-unit-magnet-installation
 ---
 

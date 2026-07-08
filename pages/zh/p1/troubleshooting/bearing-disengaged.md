@@ -4,7 +4,7 @@ title: "X/P 系列 Z 轴直线轴承脱出处理指南"
 description: ""
 tags: []
 created: 2025-05-08T12:11:12.149Z
-updated: 2026-05-07T04:00:33.040Z
+updated: 2026-07-02T02:50:40.099Z
 source: https://wiki.bambulab.com/zh/p1/troubleshooting/bearing-disengaged
 ---
 
@@ -65,6 +65,12 @@ Z 轴直线轴承脱出可能是以下问题导致：
 ![底部皮带.jpg](https://wiki.bambulab.com/x1/troubleshooting/bearing-disengaged/%E5%BA%95%E9%83%A8%E7%9A%AE%E5%B8%A6.jpg)
 
 ## 4. 复位直线轴承
+
+> 处理左右直线轴承时无需拆卸侧板，但处理后侧直线轴承时需**拆卸背板**。  
+> [更换 X1C 背板](../../x1/maintenance/replace-rear-panel.md)  
+> [更换 P1S 背板](../maintenance/p1s-rear-panel.md)  
+> [更换 X2D 背板](../../x2d/maintenance/replace-rear-panel.md)  
+> [更换 P2S 背板](../../p2s/maintenance/replace-rear-panel.md)
 
 此时凸出的轴承会抵住光轴顶部的固定平台。
 

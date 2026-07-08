@@ -4,7 +4,7 @@ title: "纹理 PEI 板清洁指南"
 description: "本指南介绍了清洁纹理 PEI 板的方法"
 tags: []
 created: 2023-09-26T07:45:32.329Z
-updated: 2026-01-23T03:30:01.802Z
+updated: 2026-06-23T11:32:55.856Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/pei-plate-clean-guide
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/pei-plate-clean-guide
 
 打印板在使用过程中，其表面可能会积累空气中的灰尘，或因取模操作而沾上手指的汗渍、油脂。这些不易察觉的附着物均可能降低打印板粘结性能，进而影响打印质量。及时清洗打印板即可使其恢复正常状态。
 
-本指南以金色PEI纹理板为例进行说明，其他类型的面板也同样需要定期清洗维护。
+本指南以金色 PEI 纹理板为例进行说明，其他类型的面板也同样需要定期清洗维护。
 
 ## 视频指南
 
@@ -45,13 +45,15 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/pei-plate-clean-guide
 
 ### 1. 用温水润湿纹理 PEI 板
 
-![](https://wiki.bambulab.com/filament-acc/pei-plate-clean-guide/01-%E6%B0%B4%E6%B6%A6%E6%B9%BFpei%E6%9D%BF.png)
+![bambu_build_plate_cleaning_wet_plate.webp](https://wiki.bambulab.com/filament-acc/pei-plate-clean-guide/bambu_build_plate_cleaning_wet_plate.webp)
 
 ### 2. 将洗洁精均匀涂抹在纹理板上，并用海绵擦洗纹理板
 
 用普通海绵擦洗纹理板，使洗洁精产生泡沫，能有效去除纹理 PEI 板上的任何残留模型和油脂。
 
-![](https://wiki.bambulab.com/filament-acc/pei-plate-clean-guide/02-%E6%B8%85%E6%B4%81%E5%89%82%E6%B8%85%E6%B4%81pei%E6%9D%BF.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 建议您使用百洁布或者塑料刷，它可以更好地进入纹理的凹槽并清除所有杂质。
 
@@ -61,7 +63,9 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/pei-plate-clean-guide
 
 ### 3. 用清水冲洗掉洗洁精，并用纸巾擦干纹理板
 
-![](https://wiki.bambulab.com/filament-acc/pei-plate-clean-guide/03-%E6%93%A6%E5%B9%B2pei%E6%9D%BF.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 > **注意**：
 >
@@ -98,13 +102,8 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/pei-plate-clean-guide
 
 可通过调整首层切片设置来增强粘合力。Bambu Studio 中的切片配置已预先设置了测试中表现最佳的参数。不过，如果出现问题，我们建议您可以尝试用 0.5 毫米的线宽和 0.25 毫米的层高开始打印，以获得更好的效果。
 
-### 寻求帮助
-
-如果您按照本文中描述的步骤操作后仍遇到粘附问题，请随时[创建工单](https://bambulab.com/en/support)，我们的支持团队将为您提供帮助。
-
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。  
-> 我们随时准备为您解答疑问并提供帮助。[*点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。

@@ -4,7 +4,7 @@ title: "0300-4016: X2D"
 description: ""
 tags: []
 created: 2026-07-02T01:34:01.858Z
-updated: 2026-07-02T02:40:59.301Z
+updated: 2026-07-02T02:41:00.285Z
 source: https://wiki.bambulab.com/zh/x2d/troubleshooting/nozzle-cleaning-failure
 ---
 

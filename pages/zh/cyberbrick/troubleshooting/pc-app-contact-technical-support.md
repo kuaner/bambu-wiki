@@ -4,7 +4,7 @@ title: "如何在 CyberBrick PC 端应用中联系技术支持？"
 description: "本文将详细讲述如何在CyberBrick PC端应用中联系技术支持。"
 tags: []
 created: 2026-06-16T05:43:34.315Z
-updated: 2026-06-16T05:51:15.887Z
+updated: 2026-06-16T05:51:16.894Z
 source: https://wiki.bambulab.com/zh/cyberbrick/troubleshooting/pc-app-contact-technical-support
 ---
 

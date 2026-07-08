@@ -1,11 +1,11 @@
 ---
-path: zh/P2S/troubleshooting/bed-leveling-failure
-title: "0300-4002：P2S"
+path: zh/p2s/troubleshooting/bed-leveling-failure
+title: "0300-4002：P2S/X2D"
 description: ""
 tags: []
 created: 2025-12-23T08:09:17.685Z
-updated: 2026-04-30T10:11:26.289Z
-source: https://wiki.bambulab.com/zh/P2S/troubleshooting/bed-leveling-failure
+updated: 2026-07-02T02:40:37.581Z
+source: https://wiki.bambulab.com/zh/p2s/troubleshooting/bed-leveling-failure
 ---
 
 ## 故障描述
@@ -18,6 +18,11 @@ source: https://wiki.bambulab.com/zh/P2S/troubleshooting/bed-leveling-failure
 - 打印版表面/底下有异物
 - 喷嘴安装是否正确
 - 擦嘴钢片变形
+
+## 安全提示
+
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
+> 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 
 ## 故障排除
 

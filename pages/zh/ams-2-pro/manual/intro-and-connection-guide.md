@@ -1,10 +1,10 @@
 ---
 path: zh/ams-2-pro/manual/intro-and-connection-guide
 title: "AMS 2 Pro 各模块介绍和连接配置"
-description: ""
+description: "本文介绍了 AMS 2 Pro 各模块的作用以及连接配置"
 tags: []
 created: 2025-03-25T12:33:50.571Z
-updated: 2026-06-02T03:00:29.113Z
+updated: 2026-06-30T08:48:05.219Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/manual/intro-and-connection-guide
 ---
 

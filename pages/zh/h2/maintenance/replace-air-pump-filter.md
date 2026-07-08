@@ -4,13 +4,15 @@ title: "更换 H2D 气泵滤芯"
 description: "本指南将帮助您安全、快速地完成 H2D 打印机气泵滤芯的更换。"
 tags: []
 created: 2025-04-03T06:31:01.034Z
-updated: 2025-11-20T08:09:36.876Z
+updated: 2026-07-07T01:32:15.656Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-air-pump-filter
 ---
 
 ## 气泵滤芯
 
 气泵滤芯安装在 H2D 激光版打印机的底部气泵进气管处。  
+若设备使用环境比干净，可每 500h 检查一次。当发现滤芯表面发黄堵塞，或者实际切割时工件表面有明显熏黄（气泵流量下降）时，可选择更换。
+
 ![fac131.png](https://wiki.bambulab.com/h2/maintenance/replace-air-pump-filter/fac131.png)
 
 **气泵滤芯的备件包含如下：**
@@ -41,7 +43,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-air-pump-filter
 
 ## 安装气泵滤芯
 
-将新的气泵滤芯底部的背胶撕下，然后将气泵滤芯贴在对应的位置，然后再将打印机放正。
+将新的气泵滤芯底部的背胶撕下，然后贴在对应的位置，注意不要压住线缆，然后再将打印机放正。
 
 > 由于打印机较重，建议两个人一起将打印机放正，避免由此造成的损伤。
 

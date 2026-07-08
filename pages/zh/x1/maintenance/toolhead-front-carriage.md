@@ -1,18 +1,18 @@
 ---
 path: zh/x1/maintenance/toolhead-front-carriage
-title: "更换工具头滑车前盖"
-description: "本指南提供了更换工具头前滑车的详细步骤"
+title: "更换工具头滑车前盖/后盖"
+description: "本指南提供了更换工具头前滑车前盖/后盖的详细步骤"
 tags: ["p1", "x1"]
 created: 2025-03-17T09:14:27.009Z
-updated: 2025-03-20T09:41:10.060Z
+updated: 2026-06-29T03:53:31.685Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/toolhead-front-carriage
 ---
 
-## 工具头滑车前盖
+## 工具头滑车前盖/后盖
 
-以下我们将展示滑车前盖件更换的详细步骤。
+以下我们将展示滑车前盖/后盖更换的详细步骤。
 
-![滑车前盖.jpg](https://wiki.bambulab.com/x1/maintenance/replace-toolhead-front-carriage/%E6%BB%91%E8%BD%A6%E5%89%8D%E7%9B%96.jpg)
+![toolhead-carriage.jpg](https://wiki.bambulab.com/x1/maintenance/replace-toolhead-front-carriage/toolhead-carriage.jpg)
 
 ## 适用打印机型号
 
@@ -26,7 +26,7 @@ X1系列
 
 ## 所需工具和材料
 
-- 新的工具头滑车前盖
+- 新的工具头滑车前盖/后盖
 - H2.0 内六角扳手
 - H1.5 内六角扳手
 - 25 分钟
@@ -38,7 +38,7 @@ X1系列
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。  
 > 如果您对本指南有任何疑问，请[点击这里提交工单](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)，我们将及时回复并为您提供所需的帮助。
 
-## 移除旧工具头滑车前盖
+## 移除旧工具头滑车前盖/后盖
 
 ### 1.移除工具头前盖
 
@@ -105,17 +105,20 @@ X1系列
 | --- | --- |
 |  |  |
 
-### 9.移除工具头滑车前盖（含挤出机）
+### 9.移除工具头滑车前盖（含挤出机）和后盖
 
-用H2.0内六角螺丝，依次移除8颗螺丝。  
-![](https://wiki.bambulab.com/x1/maintenance/replace-the-e-motor/remove_8_screws.jpg)  
-移除8颗螺丝之后，向前推动前滑车，即可移除。
+用H2.0内六角螺丝，依次移除8颗螺丝。
 
-|  |  |
-| --- | --- |
-|  |  |
+![](https://wiki.bambulab.com/x1/maintenance/replace-the-e-motor/remove_8_screws.jpg)
 
-> 注意：新版本使用的为铝套，工具头滑车后盖装有4根弹簧，要防止脱落丢失。
+移除 8 颗螺丝之后，向前推动前滑车，即可移除。
+
+![](https://wiki.bambulab.com/x1/maintenance/replace-the-e-motor/remove_the_front_part.jpg)
+
+小心向后推动滑车后盖，移除后盖。  
+![rear_carriage.jpg](https://wiki.bambulab.com/x1/maintenance/replace-toolhead-front-carriage/rear_carriage.jpg)
+
+> 注意：新版本使用的为铝套，工具头滑车后盖装有 4 根弹簧，要防止脱落丢失。
 
 |  |  |
 | --- | --- |
@@ -131,7 +134,7 @@ X1系列
 
 ![电机固定螺丝_-_副本.jpg](https://wiki.bambulab.com/x1/maintenance/replace-toolhead-front-carriage/%E7%94%B5%E6%9C%BA%E5%9B%BA%E5%AE%9A%E8%9E%BA%E4%B8%9D_-_%E5%89%AF%E6%9C%AC.jpg)
 
-## 安装新的工具头滑车前盖
+## 安装新的工具头滑车前盖/后盖
 
 ### 1.安装挤出机电机
 
@@ -147,13 +150,13 @@ X1系列
 
 ![](https://wiki.bambulab.com/x1/maintenance/replace-the-e-motor/install_the_extruder.jpg)
 
-### 3.安装滑车前盖组件
+### 3.安装滑车前盖/后盖组件
 
-安装前，先确认弹簧在位，上下铜套在滑车后盖对应的槽内，然后将装有挤出电机的滑车前盖装上，注意不要压到电机电缆。
+将工具头滑车后盖对准铜套位置进行安装，请小心弹簧。  
+![install-rear-carriage.jpg](https://wiki.bambulab.com/x1/maintenance/replace-toolhead-front-carriage/install-rear-carriage.jpg)
 
-|  |  |
-| --- | --- |
-|  |  |
+将装有挤出电机的滑车前盖装上，注意不要压到电机电缆。  
+![](https://wiki.bambulab.com/x1/maintenance/replace-the-e-motor/mount_the_front_part.jpg)
 
 如果下图所示依次交叉锁入 8 颗螺丝。
 

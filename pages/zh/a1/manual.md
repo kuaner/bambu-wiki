@@ -4,7 +4,7 @@ title: "A1用户手册"
 description: ""
 tags: ["a1", "用户手册"]
 created: 2023-12-15T01:27:23.946Z
-updated: 2025-07-08T03:01:26.287Z
+updated: 2026-07-01T01:56:18.847Z
 source: https://wiki.bambulab.com/zh/a1/manual
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/a1/manual
 - [缠料检测功能](../ams-lite/manual/filament-tangle-monitoring-intro.md)
 - [裹头检测功能](../a1-mini/manual/nozzle-warp-detection.md)
 - [打印板检测](../a1-mini/manual/build-plate-detection.md)
-- [空打检测](../ams-lite/manual/air-printing-detectiong.md)
+- [空打检测](../ams-lite/manual/air-printing-detection.md)
 
 **产品快速指南(**[**点击此处跳转下载页面**](https://bambulab.cn/zh-cn/support/documentation)**)**
 

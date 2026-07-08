@@ -4,7 +4,7 @@ title: "Bambu Studio 安装故障排查"
 description: ""
 tags: []
 created: 2023-12-20T09:22:03.305Z
-updated: 2025-12-26T06:15:08.513Z
+updated: 2026-06-30T02:47:00.272Z
 source: https://wiki.bambulab.com/zh/bambu-studio/troubleshoot/install-issue
 ---
 
@@ -56,7 +56,7 @@ Visual C++ 运行库安装包位于 Bambu Studio 软件安装路径下 plugin �
 
 比如：
 
-![](https://wiki.bambulab.com/software/bambu-studio/install-issue/blank_.jpg)
+![image.png](https://wiki.bambulab.com/software/bambu-studio/install-issue/image.png)
 
 #### 可能的原因一
 

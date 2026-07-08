@@ -4,7 +4,7 @@ title: "A1 X轴组件拆装指引"
 description: "提供A1 X轴相关联配件的拆解和组装的指引和注意事项。"
 tags: ["a1", "x轴组件"]
 created: 2023-11-22T05:56:07.595Z
-updated: 2025-01-13T09:18:52.334Z
+updated: 2026-06-25T03:08:26.913Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/x-axis
 ---
 
@@ -13,6 +13,7 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/x-axis
 本文提供 **A1 X 轴组件**拆解和组装的相关指引和注意事项，但不包括工具头部分的拆装。
 
 ![](https://wiki.bambulab.com/a1/maintenance/x-axis/x_axis_assembly.jpg)
+
 > **注意：工具头拆装的相关的操作，请参考** [**A1 系列工具头拆装指引**](../../a1-mini/maintenance/toolhead.md)**。**
 
 ### 配件清单
@@ -20,7 +21,7 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/x-axis
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | 序号 | 名称 | 实物照片 | 序号 | 名称 | 实物照片 |
-| 1 | 吐料组件 |  | 2 | X电机盒 |  |
+| 1 | 吐料组件 | 848972719217807360.png | 2 | X电机盒 |  |
 | 3 | X同步带 |  | 4 | X 电机 |  |
 | 5 | X惰轮 |  | 6 | USB摄像头 |  |
 | 7 | USB-C数据线 |  | 8 | X轴轨道组件 |  |
@@ -50,13 +51,21 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/x-axis
 
 ### 步骤 1：断开连接线
 
-向左放倒机器，注意保护好工具头，露出底部理线盒；依次断开摄像头线、X 电机线、Z 电机线；
+向左放倒机器，注意保护好工具头，露出底部理线盒；
 
-拧松 1 颗银色螺丝，滑动线盒断开 USB 线连接。
+![](https://wiki.bambulab.com/a1/maintenance/printer/side_down1.jpg)
 
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
+依次断开摄像头线、X 轴电机线、Z 轴电机线；拧松 1 颗银色螺丝，滑动线盒断开 USB 数据线；
+
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(11).jpg)
+
+使用螺丝刀撬开 Z 电机线缆盖板；
+
+![new1.jpg](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/new2.jpg)
+
+取出线缆。
+
+![new1.jpg](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/new3.jpg)
 
 ### 步骤 2：移除 X 轴组件
 
@@ -98,8 +107,6 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/x-axis
 |  |  |  |
 
 ### 步骤4：移除理线盒
-
-移除理线盒上的 1 颗银色螺丝和 1 颗黑色螺丝，打开盖子；
 
 用镊子撬开 USB 数据线的盖子，移除理线盒。
 
@@ -254,15 +261,13 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/x-axis
 
 ### 步骤 2：连接线缆
 
-向后放倒打印机，将 Z 电机线安装到理线盒上;
+向后放倒打印机，将 Z 轴电机线安装到理线盒上;
 
-将理线盒安装在底座上，沿槽位方向滑动理线盒，连接 USB 线，锁紧1颗银色螺丝;
+![new1.jpg](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/new3.jpg)
 
-根据文字提示和颜色标贴，连接 X 电机线、Z 电机线和摄像头线，整理线缆，避免线材被压到。
+将理线盒安装在底座上，沿槽位方向滑动理线盒，连接线缆并锁紧 1 颗银色螺丝;
 
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
+![new1.jpg](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/new1.jpg)
 
 ## 功能检查
 

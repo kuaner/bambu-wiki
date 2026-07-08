@@ -4,7 +4,7 @@ title: "P2S 定期清洁维护建议"
 description: "关于 P2S 打印机的一些日常维护和保养建议。"
 tags: []
 created: 2025-10-14T13:14:40.579Z
-updated: 2026-06-04T06:47:19.408Z
+updated: 2026-06-16T10:08:44.463Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/period-maintenance
 ---
 
@@ -129,7 +129,10 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/period-maintenance
 
 1. 用镊子打开挤出接口板的连接器盖子，断开进料霍尔板线缆。
 
-   ![dipsconnect_fpc_007.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/extruder_unit/dipsconnect_fpc_007.png)
+> **注意**：连接器盖子上可能有用于固定线缆连接的胶水，请用尖嘴镊子划开并小心移除胶水。断开该 FPC 排线时，请小心操作，避免因用力过猛导致排线损坏。
+
+![dipsconnect_fpc_007.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/extruder_unit/dipsconnect_fpc_007.png)
+
 2. 使用H2.0内六角扳手移除4颗螺丝，取下挤出机。
 
    |  |  |

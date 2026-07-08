@@ -4,7 +4,7 @@ title: "AMS"
 description: ""
 tags: ["ams"]
 created: 2023-09-20T02:11:27.849Z
-updated: 2026-04-13T03:50:48.081Z
+updated: 2026-06-22T10:23:27.309Z
 source: https://wiki.bambulab.com/zh/ams
 ---
 
@@ -70,7 +70,8 @@ source: https://wiki.bambulab.com/zh/ams
 
 ### 配件
 
-- [更换AMS内部线材](ams-cables.md)
+- [更换 AMS 内部料管](https://wiki.bambulab.com/zh/filament-acc/acc/ptfe-tube#%E6%9B%B4%E6%8D%A2-ams-%E5%86%85%E9%83%A8%E7%9A%84%E6%96%99%E7%AE%A1)
+- [更换 AMS 内部线材](ams-cables.md)
 - [更换 AMS 密封套件](maintenance/replace-sealing-kit.md)
 - [移除和安装AMS五通磁铁](x1/maintenance/install-the-magnets-in-filaments-hub.md)
 - [更换气动接头](filament-acc/acc/replacing-the-pneumatic-connector.md)

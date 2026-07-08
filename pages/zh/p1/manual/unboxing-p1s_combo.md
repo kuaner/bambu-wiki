@@ -2,9 +2,9 @@
 path: zh/p1/manual/unboxing-p1s_combo
 title: "开箱 P1S combo"
 description: "本指南提供开箱 P1S combo 的详细步骤。"
-tags: ["p1s", "p1s combo", "开箱", "清单", "配件", "套装"]
+tags: []
 created: 2023-07-10T04:19:01.449Z
-updated: 2026-03-10T02:54:28.529Z
+updated: 2026-06-30T02:03:23.867Z
 source: https://wiki.bambulab.com/zh/p1/manual/unboxing-p1s_combo
 ---
 

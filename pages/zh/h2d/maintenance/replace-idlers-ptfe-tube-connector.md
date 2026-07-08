@@ -4,7 +4,7 @@ title: "H2D & H2C 从动杆气动接头更换指南"
 description: "本文将详细给您解释 H2D & H2C 从动杆气动接头更换的步骤和注意事项。"
 tags: []
 created: 2025-12-26T06:07:04.132Z
-updated: 2026-03-24T08:28:24.659Z
+updated: 2026-06-26T02:56:16.785Z
 source: https://wiki.bambulab.com/zh/h2d/maintenance/replace-idlers-ptfe-tube-connector
 ---
 
@@ -94,6 +94,26 @@ H2C 机型请参考：[更换 H2C 挤出机前盖](../../h2c/maintenance/replace
 ### 1. 安装左侧气动接头及其底座
 
 安装左侧气动接头及其底座时请注意方向，气动接头平坦一侧需朝向缺口处，底座卡扣长边与缺口平齐。
+
+**气动接头零件脱落后的修复工作**
+
+新气动接头内部零件脱落后，可重新安装以下零件完成修复。
+
+![1.jpg](https://wiki.bambulab.com/h2/maintenance/replace-idlers-ptfe-tube-connector/1.jpg)
+
+先将水平垫片放入气动接头。
+
+> 水平垫片遗失不影响气动接头功能。
+
+![1.jpg](https://wiki.bambulab.com/h2/maintenance/replace-idlers-ptfe-tube-connector/2.jpg)
+
+再放入黄色齿片，注意齿形朝上。  
+![1.jpg](https://wiki.bambulab.com/h2/maintenance/replace-idlers-ptfe-tube-connector/3.jpg)  
+![1.jpg](https://wiki.bambulab.com/h2/maintenance/replace-idlers-ptfe-tube-connector/4.jpg)
+
+最后压入黑色挡块，反复按压确保固定牢靠即可。  
+![1.jpg](https://wiki.bambulab.com/h2/maintenance/replace-idlers-ptfe-tube-connector/5.jpg)  
+![1.jpg](https://wiki.bambulab.com/h2/maintenance/replace-idlers-ptfe-tube-connector/6.jpg)
 
 |  |  |
 | --- | --- |

@@ -4,7 +4,7 @@ title: "拓竹打印机 LED 指示灯灯语解释"
 description: ""
 tags: []
 created: 2024-06-12T03:28:02.473Z
-updated: 2026-06-02T03:05:51.962Z
+updated: 2026-06-25T07:40:04.599Z
 source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 ---
 
@@ -159,7 +159,7 @@ source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 
 参考[更换 P2S 背板](../p2s/maintenance/replace-rear-panel.md)，移除 P2S 背板，观察 MC 板指示灯状态。
 
-![p2s_mc.gif](https://wiki.bambulab.com/general/bbl-indicator-led/p2s_mc.gif)
+![指示灯2.webp](https://wiki.bambulab.com/p2s/%E6%8C%87%E7%A4%BA%E7%81%AF2.webp)
 
 ### 正常状态：AP 板指示灯快速闪烁（左）、常亮（右）
 

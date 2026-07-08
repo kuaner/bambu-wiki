@@ -4,7 +4,7 @@ title: "挤出机维护指南：P1系列挤出机维护"
 description: "本指南提供 P1 系列挤出机堵塞清理、挤出机拆解与组装的详细步骤。"
 tags: []
 created: 2026-04-30T04:11:28.484Z
-updated: 2026-06-12T06:25:17.446Z
+updated: 2026-06-25T08:28:38.952Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/extruder-cleaning-guide
 ---
 
@@ -157,6 +157,16 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/extruder-cleaning-guide
 **在此操作过程中，请格外小心，确保所有端子正确对齐后插入，部分端子可以在错误的状态下被按下，这会导致设备出现报错。**
 
 ![](https://wiki.bambulab.com/p1/maintenance/extruder-maintenance/p1_extruder_removal_step_1.jpeg)
+
+**正确安装方式：** 对齐后直接插入，**请勿错排安装**。
+
+![webp_(4).webp](https://wiki.bambulab.com/knowledge-sharing/printer-electronic-connectors-guide/webp_(4).webp)
+
+**常见的错误安装：**
+
+|  |  |
+| --- | --- |
+| 错误1.jpg | 错误2.jpg |
 
 将前盖风扇电缆连接到接口板上，合上前盖。
 

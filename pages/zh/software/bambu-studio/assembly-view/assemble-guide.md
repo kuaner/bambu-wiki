@@ -1,16 +1,22 @@
 ---
 path: zh/software/bambu-studio/assembly-view/assemble-guide
 title: "整体视图装配指南功能"
-description: "本文将介绍如何在整体视图下进行零件装配。"
+description: "本文将介绍如何在整体视图下制作装配指南。"
 tags: []
 created: 2026-05-22T02:28:27.892Z
-updated: 2026-06-26T09:24:24.905Z
+updated: 2026-06-30T03:19:45.813Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/assembly-view/assemble-guide
 ---
 
 ## 功能介绍
 
-该功能支持直接在 Bambu Studio 内设计并生成模型组装指南，在导入装配体后，可逆向还原整个零件拼装过程。本文将为您简要介绍其核心操作。
+随着 3D 打印作品的形式越来越丰富，许多模型不再是单个零件即可完成，而是需要通过多个打印件的组装，才能呈现出完整、有趣且美观的成品效果。对于零件较多的作品，如果创作者在分享时没有提供清晰的装配说明，普通用户，尤其是新手用户，往往会不知道从哪里开始，影响打印后的组装体验。
+
+目前，装配说明的制作通常需要借助 SolidWorks 等专业软件，或通过手动截图、排版等方式完成。这类方式不仅制作效率较低，对创作者的工具使用能力也有一定要求，同时成品说明书的格式和展示效果也不够统一规范。
+
+基于以上背景，并结合用户反馈，我们开发了装配指南功能。它既可以帮助习惯使用 STEP / STP 文件的专业创作者，更高效地制作装配说明；也支持对 MakerWorld 上已有的大量 3MF 模型进行二次装配说明制作。同时，该功能降低了使用门槛，让更多新手用户也能够轻松体验装配指南的创建过程。该功能支持直接在 Bambu Studio 内设计并生成模型组装指南，在导入装配体后，可逆向还原整个零件拼装过程。
+
+一份清晰、直观的装配指南，不仅能提升复杂 3D 打印作品的传播和复刻效率，也能让用户在组装过程中获得额外的乐趣。尤其对于小朋友来说，这种“打印 + 组装”的体验有点类似积木玩具，能够让 3D 打印作品变得更加有趣、更具互动性。
 
 示例模型来源：[Original OpenRC F1](https://makerworld.com/en/models/1080601-original-openrc-f1#profileId-2818893) by Daniel Norée
 
@@ -30,10 +36,12 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/assembly-view/assembl
 
 ![备注.jpg](https://wiki.bambulab.com/software/bambu-studio/assemble-guide/%E5%A4%87%E6%B3%A8.jpg)
 
-2.可隐藏或显示标签，显示标签时能够点击自动布局，软件将自动排列标签。  
+2.可隐藏或显示标签，显示标签时能够点击自动布局，软件将自动排列标签。
+
 ![标签.jpg](https://wiki.bambulab.com/software/bambu-studio/assemble-guide/%E6%A0%87%E7%AD%BE.jpg)
 
-3.可额外添加“起始帧”，自动爆炸当前对象，统一当前步骤视角。  
+3.可额外添加“起始帧”，自动爆炸当前对象，统一当前步骤视角。
+
 ![帧.jpg](https://wiki.bambulab.com/software/bambu-studio/assemble-guide/%E5%B8%A7.jpg)
 
 ### 预览设置

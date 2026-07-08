@@ -4,7 +4,7 @@ title: "H2S"
 description: "本文提供了所有关于 Bambu Lab H2S 的文章链接。"
 tags: []
 created: 2025-08-26T06:27:25.736Z
-updated: 2026-05-25T06:35:22.258Z
+updated: 2026-06-22T10:40:33.986Z
 source: https://wiki.bambulab.com/zh/h2s
 ---
 
@@ -183,6 +183,7 @@ source: https://wiki.bambulab.com/zh/h2s
 
 ### 其他
 
+- [更换铁氟龙料管](https://wiki.bambulab.com/zh/filament-acc/acc/ptfe-tube#%E4%B8%8D%E5%90%8C%E6%9C%BA%E5%9E%8B%E6%96%99%E7%AE%A1%E6%9B%B4%E6%8D%A2%E6%8C%87%E5%8D%97)
 - [更换 H2D 空气滤芯盖/空气滤芯](h2/maintenance/replace-air-filter.md)
 - [更换 H2D 自动排气格栅](h2/maintenance/replace-active-chamber-exhaust.md)
 - [更换 H2S 拖链组件](maintenance/replace-cable-chain.md)

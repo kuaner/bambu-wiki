@@ -4,7 +4,7 @@ title: "如何查询耗材批次号及序列号"
 description: "本文介绍了如何查询耗材的批次号及序列号"
 tags: ["耗材"]
 created: 2025-03-10T07:40:34.522Z
-updated: 2026-04-24T07:41:32.940Z
+updated: 2026-06-17T09:44:02.610Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament-serial-number
 ---
 

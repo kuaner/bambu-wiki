@@ -1,10 +1,10 @@
 ---
 path: zh/makerworld/cyberbrick/example-projects/time-lapse
-title: "延时摄影套件 使用指南"
+title: "延时摄影套件使用指南"
 description: "本页面介绍了延时摄影套件与打印机的连接、设置和相关技术参数。"
 tags: ["cyberbrick", "makerworld"]
 created: 2025-06-09T01:50:49.437Z
-updated: 2026-06-11T04:14:16.759Z
+updated: 2026-06-30T02:18:13.378Z
 source: https://wiki.bambulab.com/zh/makerworld/cyberbrick/example-projects/time-lapse
 ---
 

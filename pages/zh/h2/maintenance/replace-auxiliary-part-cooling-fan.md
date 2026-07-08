@@ -4,7 +4,7 @@ title: "更换 H2 系列打印机的辅助部件冷却风扇"
 description: "本文介绍了如何更换 H2 系列打印机的辅助部件冷却风扇"
 tags: []
 created: 2025-03-25T02:00:55.904Z
-updated: 2026-01-21T06:15:36.047Z
+updated: 2026-07-02T04:15:28.339Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-auxiliary-part-cooling-fan
 ---
 
@@ -72,7 +72,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-auxiliary-part-cooli
 
 ### **步骤 2：移除背板**
 
-您可以参考参考这篇 Wiki 来移除 H2D 背板：
+您可以参考这篇 Wiki 来移除 H2D 背板：
 
 [更换 H2D 背板](replace-rear-panel.md)
 

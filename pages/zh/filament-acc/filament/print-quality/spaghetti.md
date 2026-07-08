@@ -4,7 +4,7 @@ title: "3D 打印炒面问题排查与解决方案"
 description: "本文介绍了首层炒面与打印过程中炒面的常见原因与针对性的排查方法。"
 tags: []
 created: 2026-05-29T06:49:55.699Z
-updated: 2026-06-15T06:22:15.399Z
+updated: 2026-07-07T01:47:01.158Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/spaghetti
 ---
 
@@ -55,7 +55,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/spaghet
 
 **详细清洁方法**请参考 [纹理 PEI 板清洁指南](../../acc/pei-plate-clean-guide.md)。
 
-![](https://wiki.bambulab.com/miniwiki/hms/h2/0c00_0300_0003_0008/%E6%B8%85%E6%B4%97%E6%89%93%E5%8D%B0%E6%9D%BF.jpg)
+![how_to_clean_bambu_lab_build_plate.webp](https://wiki.bambulab.com/filament-acc/filament/filament-guide-material-table/how_to_clean_bambu_lab_build_plate.webp)
 
 ### 2. 检查打印板类型
 
@@ -109,7 +109,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/spaghet
 
 1. **清洁打印板**：使用**温水 + 洗洁精 + 全新 / 无油污的海绵**清洗打印板；清洗后避免用手指直接接触打印板表面，建议从侧面手持打印板。详细清洁方法请参考 [**纹理 PEI 板清洁指南**](../../acc/pei-plate-clean-guide.md)。
 
-![](https://wiki.bambulab.com/miniwiki/hms/h2/0c00_0300_0003_0008/%E6%B8%85%E6%B4%97%E6%89%93%E5%8D%B0%E6%9D%BF.jpg)
+![how_to_clean_bambu_lab_build_plate.webp](https://wiki.bambulab.com/filament-acc/filament/filament-guide-material-table/how_to_clean_bambu_lab_build_plate.webp)
 
 2. **检查打印板类型**：切片时选择的「打印板类型」必须与实际使用的打印板**完全一致**，错误选择往往会导致模型粘附失败。
 

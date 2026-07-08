@@ -4,23 +4,119 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-06-12T09:15:01.595Z
+updated: 2026-07-03T08:31:41.797Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 03/07/2026
+
+### 新页面
+
+- [混色打印](bambu-studio/color-mixing.md)
+- [P1S 烘干版套装开箱指南](p1s/manual/unboxing-p1s_ams_2_pro_combo.md)
+- [更换 AMS HT 进料检测传感器磁铁](ams-ht/maintenance/ams-ht-feeder-unit-magnet-installation.md)
+- [HMS\_0500-0300-0001-0001: MC 模块工作异常，请尝试重启设备。请检查排线连接。](p2s/troubleshooting/hmscode/0500_0300_0001_0001.md)
+- [HMS\_0500-0100-0002-0001：媒体链路错误。请重启机器，如多次尝试失败请联系客服。](x2d/troubleshooting/hmscode/0500_0100_0002_0001.md)
+- [HMS\_0300-0F00-0001-0001: 检测到加速度计数据异常，请尝试重启机器。](a1mini/troubleshooting/hmscode/0300_0f00_0001_0001.md)
+- [HMS\_0300-9000-0001-0010: 腔温控制器通信异常。](x1e/troubleshooting/hmscode/0300_9000_0001_0010.md)
+- [HMS\_0300-3200-0001-0001: 辅助部件冷却风扇转速过低或停转，可能被杂物卡住或连接器未插好。](h2d/troubleshooting/hmscode/0300_3200_0001_0001.md)
+
+### 更新页面
+
+- [模型翘边、脱落或倒塌](filament-acc/filament/print-quality/warping-falling-off-collapsing.md)
+- [TPU 送料助力模块组装 & 使用指南](general/manual/tpu-feed-assist-module.md)
+- [H2S 激光模组安装指南](h2s/manual/laser-module-lnstallation-guide.md)
+- [更换 X2D 挤出机配件](x2d/maintenance/replace-extruder-components.md)
+- [开机校准过程故障排查](h2/troubleshooting/calibrate-failed.md)
+- [X/P 系列 Z 轴直线轴承脱出处理指南](p1/troubleshooting/bearing-disengaged.md)
+- [更换 AMS 接口板](x1/maintenance/replace-ams-interface-board.md)
+- [如何使用拓竹热床胶水](general/how-to-use-bbl-liquid-glue.md)
+- [AMS/AMS 2 Pro A2L 置顶方案安装指南](a2l/manual/AMS_2_Pro_Top_Mount.md)
+- [Bambu Studio 安装故障排查](bambu-studio/troubleshoot/install-issue.md)
+- [H2 系列曲面雕刻功能使用指南](software/bambu-suite/manual/surface-engraving.md)
+- [如何使用拓竹热床胶水](general/how-to-use-bbl-liquid-glue.md)
+- [强度高级设置](software/bambu-studio/parameter/strength-advance-settings.md)
+- [拓竹打印板介绍](filament-acc/acc/plates.md)
+- [H2S 屏幕操作指南](h2s/manual/screen-operation.md)
+- [PLA Basic 与 PETG HF、PETG Basic 互相支撑打印指南](filament-acc/filament/h2d-pla-and-petg-mutual-support.md)
+- [打印结束后的工作（取下模型、清洁打印板、外观处理、退火、胶水粘结等）](filament-acc/acc/print-finish-adv.md)
+- [拓竹农场管家客户端 V2.4.0 & 服务器端 V2.4.0.0 版本说明](software/bambu-farm-release-notes/2-4-0.md)
+- [HMS\_07FE-2000-0002-0004：请从挤出机中拉出外部挂载的耗材。](h2/troubleshooting/hmscode/07FE_2000_0002_0004.md)
+- [HMS\_0300-1000-0002-0001: X轴共振频率偏低，可能是同步带松了。](x1/troubleshooting/hmscode/0300_1000_0002_0001.md)
+
+## 26/06/2026
+
+### 新页面
+
+- [AMS 2 Pro 进退料失败故障排查](ams-2-pro/troubleshooting/loading-unloading-failure.md)
+- [Fleet Hub 产品介绍](acc/manual/fleet-hub.md)
+
+### 更新页面
+
+- [A2L 首层打印质量改善指南](a2l/maintenance/first-layer-quality-calibration.md)
+- [P2S 装箱指南](p2s/manual/packing-p2s.md)
+- [H2D & H2C 从动杆气动接头更换指南](h2d/maintenance/replace-idlers-ptfe-tube-connector.md)
+- [挤出机维护指南：P1系列挤出机维护](p1/maintenance/extruder-cleaning-guide.md)
+- [打印机电路故障排查 - P2S](p2s/p2s-circuit-fault-template.md)
+- [拓竹增稳低温打印板](filament-acc/acc/bambu-cool-plate-supertack.md)
+- [回抽设置](software/bambu-studio/parameter/retraction.md)
+- [模型缺料](filament-acc/filament/print-quality/under-extrusion.md)
+- [局部拉丝或漏料](filament-acc/filament/print-quality/stringing-oozing.md)
+- [材料收缩与轴孔补偿](knowledge-sharing/3d-prints-shrinkage.md)
+- [更换 A1 Z 轴电机指南](a1/maintenance/z-motor-replacement-guide.md)
+- [P2S/X2D 同步带更换教程](knowledge-sharing/replace_the_xy_belts.md)
+- [如何打印模型悬垂部分](filament-acc/filament/print-quality/overhang.md)
+- [A1系列裹头检测功能介绍](a1-mini/manual/nozzle-warp-detection.md)
+- [透明/半透明 PLA/PETG 耗材打印指南](knowledge-sharing/transparent-petg.md)
+- [更换 H2C TH 板](h2c/maintenance/replace-th-board.md)
+- [更换 H2 系列 AC 板/AC 板理线盖](h2/maintenance/replace-ac-board-for.md)
+- [A1 热床不升温故障排查](a1/troubleshooting/heatbed-not-heat-up.md)
+- [X2D 首层打印质量改善指南](x2d/troubleshooting/first-layer-printing-optimization-guide.md)
+- [打印机电路故障排查 - A1mini](a1-mini/troubleshooting/circuit-fault.md)
+- [更换 P2S 缓冲器](p2s/maintenance/replace-filament-buffer.md)
+- [HMS\_0700-4000-0002-0001: AMS A 缓冲器位置信号丢失，可能连接线异常或位置传感器异常。](x2d/troubleshooting/hmscode/0700_4000_0002_0001.md)
+- [HMS\_0700-7000-0002-0004: 耗材从工具头退回AMS失败，请检查耗材或料盘是否卡住。](x1/troubleshooting/hmscode/0700_7000_0002_0004.md)
+- [HMS\_0700-1000-0002-0004: AMS有刷电机A无响应,可能是电机插头接触不良或者电机故障。](h2/troubleshooting/hmscode/0700_1000_0002_0004.md)
+
+## 18/06/2026
+
+### 新页面
+
+- [3D 打印炒面问题排查与解决方案](filament-acc/filament/print-quality/spaghetti.md)
+- [HMS\_0700-7000-0002-0003：耗材挤出异常，可能是挤出机或喷嘴堵塞。](p2s/troubleshooting/hmscode/0700_7000_0002_0003.md)
+
+### 更新页面
+
+- [AMS 2 Pro 和 AMS HT 烘干指南](ams-2-pro/manual/drying-function.md)
+- [A1 主板更换指南](a1/maintenance/mainboard-replacement-guide.md)
+- [TPU 送料助力模块常见故障排查](general/troubleshooting/tpu-feed-assist-module.md)
+- [MakerWorld 独家模型指南](makerworld/tutorials/exclusive-model-guideline.md)
+- [拓竹产品的 3D 打印配件模型](knowledge-sharing/printed-tools.md)
+- [料管拓展口](parts-acc/ptfe_adapter.md)
+- [无法获取网络插件](software/bambu-studio/failed-to-get-network-plugin.md)
+- [H2C 固件发布记录](h2c/manual/h2c-firmware-release-history.md)
+- [X2D 耗材兼容性指南](x2d/manual/filament-compatibility.md)
+- [ABS / ASA / PC 使用指南](filament/abs_asa_pc.md)
+- [TPU 打印指南](knowledge-sharing/tpu-printing-guide.md)
+- [耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水的兼容性、适配性及参数设置](general/filament-guide-material-table.md)
+- [HMS\_0700-2000-0002-0003: AMS A 1号料槽的料线可能断裂在AMS内。](x1/troubleshooting/hmscode/0700_2000_0002_0003.md)
+- [HMS\_0500-0300-0001-0004: 缓冲器模块工作异常，请重启设备。](h2/troubleshooting/hmscode/0500_0300_0001_0004.md)
+- [HMS\_07FF-2000-0002-0002: 未发现外部挂载的耗材；请装入新的耗材。](x1/troubleshooting/hmscode/07FF_2000_0002_0002.md)
+- [HMS\_0300-0200-0001-0007: 右挤出机喷嘴温控异常，温度传感器可能开路。](x2d/troubleshooting/hmscode/0300_0200_0001_0007.md)
 
 ## 12/06/2026
 
 ### 新页面
 
-- [耗材管理](https://wiki.bambulab.com/zh/software/bambu-studio/filament-manager)
-- [A1 -显示屏异常排查](https://wiki.bambulab.com/zh/a1/troubleshooting/screen-not-working-as-expected)
-- [X2D 右霍尔检测板组件清理指南](https://wiki.bambulab.com/zh/x2d/troubleshooting/right_filament_sensor_board_cleaning_guide)
-- [AMS HT 上电异常的故障排查指南](https://wiki.bambulab.com/zh/ams-ht/troubleshooting/failure-to-power-on)
-- [P2S/X2D LED 补光灯故障排查指南](https://wiki.bambulab.com/zh/x2d/troubleshooting/led-fill-light-troubleshooting-guide)
+- [耗材管理](software/bambu-studio/filament-manager.md)
+- [A1 -显示屏异常排查](a1/troubleshooting/screen-not-working-as-expected.md)
+- [X2D 右霍尔检测板组件清理指南](x2d/troubleshooting/right_filament_sensor_board_cleaning_guide.md)
+- [AMS HT 上电异常的故障排查指南](ams-ht/troubleshooting/failure-to-power-on.md)
+- [P2S/X2D LED 补光灯故障排查指南](x2d/troubleshooting/led-fill-light-troubleshooting-guide.md)
 - [HMS\_1200-2000-0002-0004: AMS1 料槽1料线可能断在工具头。](a1/troubleshooting/hmscode/1200_2000_0002_0004.md)
-- [HMS\_0300-0100-0001-0008：热床加热过程中出现异常，加热模块可能故障。](https://wiki.bambulab.com/zh/h2/troubleshooting/hmscode/0300_0100_0001_0008)
-- [HMS\_1A00-3300-0001-0041: 热端挂架位置检测传感器短路，请重新插拔传感器连接线或更换传感器。](https://wiki.bambulab.com/zh/h2c/troubleshooting/hmscode/1A00_3300_0001_0041)
-- [HMS\_1A00-3300-0001-0040: 热端挂架位置检测传感器断路，请重新插拔传感器连接线或更换传感器。](https://wiki.bambulab.com/zh/h2c/troubleshooting/hmscode/1A00_3300_0001_0040)
+- [HMS\_0300-0100-0001-0008：热床加热过程中出现异常，加热模块可能故障。](h2/troubleshooting/hmscode/0300_0100_0001_0008.md)
+- [HMS\_1A00-3300-0001-0041: 热端挂架位置检测传感器短路，请重新插拔传感器连接线或更换传感器。](h2c/troubleshooting/hmscode/1A00_3300_0001_0041.md)
+- [HMS\_1A00-3300-0001-0040: 热端挂架位置检测传感器断路，请重新插拔传感器连接线或更换传感器。](h2c/troubleshooting/hmscode/1A00_3300_0001_0040.md)
 
 ### 更新页面
 
@@ -48,8 +144,8 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 
 ### 新页面
 
-- [A2L](https://wiki.bambulab.com/zh/a2l)
-- [清洁湿巾](https://wiki.bambulab.com/zh/filament-acc/acc/cleaning-wipes)
+- [A2L](a2l.md)
+- [清洁湿巾](filament-acc/acc/cleaning-wipes.md)
 
 ### 更新页面
 
@@ -63,7 +159,7 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 - [更换 P2S 切刀顶杆组件](p2s/maintenance/replace-filament-cutter-stopper.md)
 - [H2 系列的 TPU 打印准备工作](h2/h2d-tpu-printing-guide.md)
 - [支撑耗材与支撑功能的介绍](software/bambu-studio/support.md)
-- [A2L 主要部件介绍](https://wiki.bambulab.com/zh/a2l/manual/a2l-intro)
+- [A2L 主要部件介绍](a2l/manual/a2l-intro.md)
 - [3D打印层纹问题排查与解决方案](filament-acc/filament/print-quality/severe-layer-artifacts.md)
 - [TPU 送料助力模块组装 & 使用指南](general/manual/tpu-feed-assist-module.md)
 - [A1 AC 板更换指南](a1/maintenance/ac-board-replacement.md)
@@ -72,9 +168,9 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 
 ### 新页面
 
-- [X2D 回零&调平失败故障排查](https://wiki.bambulab.com/zh/x2d/troubleshooting/homing-leveling-failure)
-- [X2D 辅助挤出机堵塞清洁维护](https://wiki.bambulab.com/zh/x2d/maintenance/auxiliary-extruder-cleaning-guide)
-- [外挂料多色打印介绍](https://wiki.bambulab.com/zh/bambu-studio/multi_color_with_external)
+- [X2D 回零&调平失败故障排查](x2d/troubleshooting/homing-leveling-failure.md)
+- [X2D 辅助挤出机堵塞清洁维护](x2d/maintenance/auxiliary-extruder-cleaning-guide.md)
+- [外挂料多色打印介绍](bambu-studio/multi_color_with_external.md)
 
 ### 更新页面
 
@@ -100,13 +196,13 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 - [拓竹产品的 3D 打印配件模型](knowledge-sharing/printed-tools.md)
 - [HMS\_0700-2000-0002-0023: AMS A 槽 1 AMS内部料管脱落，或者出料霍尔传感器异常，检测不到耗材。](h2d/troubleshooting/hmscode/0700_2000_0002_0023.md)
 - [HMS\_0700-4000-0002-0004: 缓冲区位置信号异常，可能缓冲区弹簧卡住或耗材缠绕。](h2/troubleshooting/hmscode/0700_4000_0002_0004.md)
-- [HMS\_0300-9100-0001-000A: 腔温加热器1温控异常，AC板可能故障。](https://wiki.bambulab.com/zh/x2d/troubleshooting/hmscode/0300_9100_0001_000A)
+- [HMS\_0300-9100-0001-000A: 腔温加热器1温控异常，AC板可能故障。](x2d/troubleshooting/hmscode/0300_9100_0001_000A.md)
 
 ## 22/05/2026
 
 ### 新页面
 
-- [H2C 搭配变轨器的耗材兼容性指南](https://wiki.bambulab.com/zh/h2/manual/filament-compatibility)
+- [H2C 搭配变轨器的耗材兼容性指南](h2/manual/filament-compatibility.md)
 - [更换 X2D 缓冲器气动接头](x2d/maintenance/replace-buffer-pneumatic-connector.md)
 - [HMS\_0300-2600-0001-0001：左挤出机涡流传感器信号频率过低，可能传感器安装位置过远或传感器已松脱。](x2d/troubleshooting/hmscode/0300_2600_0001_0001.md)
 - [HMS\_07FE-4500-0002-0002: 切刀刀柄行程异常，可能电机丢步或XY未回零。](x2d/troubleshooting/hmscode/07fe_4500_0002_0002.md)
@@ -621,7 +717,7 @@ Wiki 评论区已全面更新：无需登录，仅需填写昵称和邮箱即可
 - [A1 系列进料霍尔板底座更换指南](a1-mini/maintenance/filament-sensor-base-replacement.md)
 - [CyberBrick 线刷固件指南](cyberbrick/troubleshooting/wired-firmware-guide.md)
 - [AMS](ams.md)
-- [减少多色打印时的材料浪费](staging/software/bambu-studio/reduce-wasting-during-filament-change.md)
+- [减少多色打印时的材料浪费](https://wiki.bambulab.com/zh/staging/software/bambu-studio/reduce-wasting-during-filament-change)
 
 ## 24/9/2025
 

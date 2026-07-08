@@ -4,7 +4,7 @@ title: "更换 X2D 挤出机配件"
 description: "本文介绍了如何更换 X2D 的挤出机前盖、挤出机齿轮组件、左霍尔检测板及右霍尔检测板"
 tags: []
 created: 2026-04-14T13:08:52.144Z
-updated: 2026-06-10T12:06:50.292Z
+updated: 2026-07-02T13:07:01.805Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-extruder-components
 ---
 
@@ -45,11 +45,6 @@ X2D
 
 > 移除工具头接口板布线泡棉时，请您沿左侧向玻璃前门方向轻拉，避免因拉力过大导致左霍尔检测板连接器盖板松脱或损坏。  
 > ![泡棉3.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-th-board/%E6%B3%A1%E6%A3%893.jpg)
-
-> 在重新安装右霍尔检测板组件时，请您注意将右霍尔检测板组件上的凹槽准确卡入涡流线圈支架。若安装不到位，将导致辅助热端无法切换。  
-> ![右霍尔检测板组件安装限位.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-extruder/%E5%8F%B3%E9%9C%8D%E5%B0%94%E6%A3%80%E6%B5%8B%E6%9D%BF%E7%BB%84%E4%BB%B6%E5%AE%89%E8%A3%85%E9%99%90%E4%BD%8D.jpg)  
-> 正确安装的右霍尔检测板组件下方能与涡流线圈齐平（右图），若两者之间存在明显距离（左图），说明安装未到位，需重新调整。  
-> ![右霍尔检测板组件安装对比.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-extruder/%E5%8F%B3%E9%9C%8D%E5%B0%94%E6%A3%80%E6%B5%8B%E6%9D%BF%E7%BB%84%E4%BB%B6%E5%AE%89%E8%A3%85%E5%AF%B9%E6%AF%94.jpg)
 
 > 右切料拨杆只能在辅助热端抬升后（右图）才能进行手动切料测试，否则切料组件会错位并与切料拨杆卡住。  
 > ![切料拨杆组件.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-filament-cutter-lever/%E5%88%87%E6%96%99%E6%8B%A8%E6%9D%86%E7%BB%84%E4%BB%B6.jpg)
@@ -206,7 +201,13 @@ X2D
 ### 第 4 步. 安装右霍尔检测板
 
 如图示的方向，从挤出机前盖下方向上推入右霍尔检测板，并推到底。  
-![030_install_right_hall.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_extruder_unit/030_install_right_hall.png)  
+![030_install_right_hall.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_extruder_unit/030_install_right_hall.png)
+
+> 在重新安装右霍尔检测板组件时，请您注意将右霍尔检测板组件上的凹槽准确卡入涡流线圈支架。若安装不到位，将导致辅助热端无法切换。  
+> ![右霍尔检测板组件安装限位.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-extruder/%E5%8F%B3%E9%9C%8D%E5%B0%94%E6%A3%80%E6%B5%8B%E6%9D%BF%E7%BB%84%E4%BB%B6%E5%AE%89%E8%A3%85%E9%99%90%E4%BD%8D.jpg)  
+> 正确安装的右霍尔检测板组件下方能与涡流线圈齐平（右图），若两者之间存在明显距离（左图），说明安装未到位，需重新调整。  
+> ![右霍尔检测板组件安装对比.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-extruder/%E5%8F%B3%E9%9C%8D%E5%B0%94%E6%A3%80%E6%B5%8B%E6%9D%BF%E7%BB%84%E4%BB%B6%E5%AE%89%E8%A3%85%E5%AF%B9%E6%AF%94.jpg)
+
 向左拨动工具头下方堵嘴组件的拨杆，使得右霍尔检测板降下。  
 ![005_switch_flow_blocker.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_extruder_unit/005_switch_flow_blocker.png)
 

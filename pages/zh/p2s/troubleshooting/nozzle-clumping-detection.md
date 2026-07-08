@@ -1,11 +1,11 @@
 ---
-path: zh/P2S/troubleshooting/nozzle-clumping-detection
+path: zh/p2s/troubleshooting/nozzle-clumping-detection
 title: "0300-4015：P2S"
 description: ""
 tags: []
 created: 2025-12-23T08:24:18.870Z
-updated: 2026-04-30T10:23:52.196Z
-source: https://wiki.bambulab.com/zh/P2S/troubleshooting/nozzle-clumping-detection
+updated: 2026-07-01T08:03:28.546Z
+source: https://wiki.bambulab.com/zh/p2s/troubleshooting/nozzle-clumping-detection
 ---
 
 ## 故障描述
@@ -29,32 +29,26 @@ source: https://wiki.bambulab.com/zh/P2S/troubleshooting/nozzle-clumping-detecti
 
 ## 故障排除：检查零件状态
 
-### 步骤1. 检查喷嘴是否正确安装
+### 步骤1. 检查喷嘴
 
 1. 检查热端与底座是否完全的贴合，热端上的突起会嵌入至加热底座上的凹槽。
 2. 检查热端卡扣是否如图正确扣紧（先合上左侧金属板，再压紧右侧压环）。
 
 ![correct_clip_011.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/hotend-and-silicone-sock/correct_clip_011.png)
 
-3. 用手摇晃热端是否松动，若不松动则正确安装。
+3. 检查喷嘴上是否有耗材残留并及时清理。
 
-### 步骤2. 检查喷嘴尖端是否干净
-
-若如图喷嘴上有遗留耗材，请加热喷嘴并清理热端。为防止热端高温烫伤，建议使用镊子移除残留耗材。
-
-![20251231-161601.jpg](https://wiki.bambulab.com/p2s/20251231-161601.jpg)
-
-### 步骤3. 检查小钢片两侧的圆孔内无异物
+### 步骤2. 检查小钢片两侧的圆孔内无异物
 
 ![p2shole.png](https://wiki.bambulab.com/h2/troubleshooting/calibrate-failed/p2shole.png)
 
-### 步骤4. 检查小钢片状态
+### 步骤3. 检查小钢片状态
 
 观察小钢片是否有倾斜，凹陷，用手指轻按小钢片，是否存在过软易变形问题。
 
 最后使用H2.0 六角扳手拧紧小钢片两侧圆孔内的螺栓。
 
-### 步骤5. 重新校准
+### 步骤4. 重新校准
 
 完成以上排查步骤后，请在打印机屏幕上点击**重新校准**。
 

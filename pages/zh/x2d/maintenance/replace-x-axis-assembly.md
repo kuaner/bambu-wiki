@@ -4,7 +4,7 @@ title: "更换 X 轴组件"
 description: ""
 tags: []
 created: 2026-05-06T14:49:30.853Z
-updated: 2026-06-03T09:45:59.036Z
+updated: 2026-06-23T06:51:50.684Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-x-axis-assembly
 ---
 
@@ -27,7 +27,7 @@ X 轴组件是工具头载体，工具头安装在X轴上，通过电机的驱�
 
 ### 步骤 1. 移除工具头滑车组件
 
-请参考 [更换 X2D 工具头滑车组件](replace-toolhead-carriage.md) {target="\_blank"} 移除工具头滑车组件。  
+请参考 [更换 X2D 工具头滑车组件](replace-toolhead-carriage.md) 移除工具头滑车组件。  
 ![remove_the_rear_part.png](https://wiki.bambulab.com/x2d/maintenance/toolhead-carriage/remove_the_rear_part.png)  
 ![remove_the_front_part.png](https://wiki.bambulab.com/x2d/maintenance/toolhead-carriage/remove_the_front_part.png)
 
@@ -122,7 +122,7 @@ X 轴组件是工具头载体，工具头安装在X轴上，通过电机的驱�
 
 ### 步骤 4. 安装工具头滑车组件并张紧 XY 皮带
 
-请参考 [更换 X2D 工具头滑车组件](replace-toolhead-carriage.md) {target="\_blank"} 安装工具头滑车组件，并完成 XY 皮带的张紧。  
+请参考 [更换 X2D 工具头滑车组件](replace-toolhead-carriage.md) 安装工具头滑车组件，并完成 XY 皮带的张紧。  
 ![017_front_cover.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_toolhead_cover/017_front_cover.png)  
 ![tension_screws.png](https://wiki.bambulab.com/x2d/maintenance/toolhead-carriage/tension_screws.png)
 

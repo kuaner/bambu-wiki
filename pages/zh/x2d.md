@@ -4,7 +4,7 @@ title: "X2D"
 description: ""
 tags: []
 created: 2026-04-13T03:43:10.298Z
-updated: 2026-06-15T06:14:39.952Z
+updated: 2026-06-29T04:11:54.607Z
 source: https://wiki.bambulab.com/zh/x2d
 ---
 
@@ -38,10 +38,10 @@ source: https://wiki.bambulab.com/zh/x2d
 ## ⚡ 快速入门
 
 - [快速入门指南](https://bambulab.com/zh/support/documentation)
-- [X2D 主要部件介绍](manual/x2d-intro.md)
-- [X2D 辅助挤出介绍](manual/auxiliary-extruder-intro.md)
 - [X2D 首次打印](manual/first-print.md)
 - [X2D FAQ](manual/x2d-faq.md)
+- [X2D 主要部件介绍](manual/x2d-intro.md)
+- [X2D 辅助挤出介绍](manual/auxiliary-extruder-intro.md)
 - [多机型 AMS 连接指南](ams/manual/multi-model-AMS-compatibility-guide.md)
 
 ### 开箱/装箱
@@ -148,6 +148,7 @@ source: https://wiki.bambulab.com/zh/x2d
 - [更换 X2D 光面惰轮](p2s/maintenance/replace-idler-pulley.md)
 - [更换 X2D XY 电机](p2s/maintenance/replace-xy-motor.md)
 - [更换 X2D X/Y 皮带](maintenance/replace-xy-belt.md)
+- [更换 X2D X/Y 皮带 (当皮带断裂时)](knowledge-sharing/replace_the_xy_belts.md)
 - [更换 X2D Z 张紧器](p2s/maintenance/replace-z-belt-tensioner.md)
 - [更换 X2D Z 皮带](p2s/maintenance/replace-z-belt.md)
 - [更换 X2D Z 同步轮](p2s/maintenance/replace-z-belt-timing-pulley.md)

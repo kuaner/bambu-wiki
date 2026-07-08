@@ -4,7 +4,7 @@ title: "X2D 智能检测介绍"
 description: "本文介绍了 X2D 实况摄像头和工具头摄像头的智能检测功能"
 tags: []
 created: 2026-04-14T13:18:58.626Z
-updated: 2026-04-14T13:18:59.686Z
+updated: 2026-06-22T10:14:24.948Z
 source: https://wiki.bambulab.com/zh/x2d/manual/intelligent-detection
 ---
 
@@ -245,7 +245,7 @@ X2D 通过实况摄像头采集图像实现裹头检测功能。当裹头形成�
 
 ## 工具头摄像头智能检测
 
-X2D 配备支持 1080p 30fps 的工具头摄像头，可完成运动精度校准、高精度喷嘴偏移校准，并支持打印板偏移检测和工具头摄像头脏污检测。
+X2D 配备分辨率为 1600\*1200，帧率为 30 fps 的工具头摄像头，可完成运动精度校准、高精度喷嘴偏移校准，并支持打印板偏移检测和工具头摄像头脏污检测。
 
 ![](https://public-cdn.bblmw.com/wiki/new/x2d/manual/intelligent-detection/022.png)
 

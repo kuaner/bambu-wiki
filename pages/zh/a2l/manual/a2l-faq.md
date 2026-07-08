@@ -4,7 +4,7 @@ title: "A2L FAQs"
 description: "本文列举了 A2L 的常见问答"
 tags: []
 created: 2026-06-01T13:03:05.334Z
-updated: 2026-06-11T03:34:32.894Z
+updated: 2026-06-29T09:16:51.777Z
 source: https://wiki.bambulab.com/zh/a2l/manual/a2l-faq
 ---
 
@@ -92,6 +92,10 @@ A2L 仅支持 2.4G Wi-Fi
 ### Q：A2L 的皮带是什么规格的?
 
 X 轴和 Y 轴皮带规格为 1.5GT，Z 轴皮带规格为 2GT。
+
+### Q：A2L 摄像头实况画面的帧率是多少？
+
+A：A2L 摄像头实况画面的帧率为 0.5 fps，即每 2 秒刷新一次。
 
 ## 三、喷嘴、耗材与打印板
 
@@ -187,6 +191,14 @@ A2L 具备强大的扩展性，支持最多串联 **4 台 AMS 系统**与 **1 �
 ### Q：在 A2L 上使用 AMS 的烘干功能是否需要额外电源？
 
 需要。由于 A2L 的功耗分配限制，AMS 2 Pro 使用烘干功能时，需要连接外部独立电源适配器供电；AMS HT 使用烘干功能时，需要接入电源线供电。AMS 无法直接从 A2L 打印机取电进行烘干。
+
+### Q：A2L 连接多台 AMS 时，是否可以使用二代四合一 PTFE 拓展口？
+
+不可以。A2L 连接多台 AMS 时，请使用一代 PTFE 拓展口，暂不支持使用二代四合一 PTFE 拓展口。
+
+| 四进一料管拓展口一代 | 四进一料管拓展口二代 |
+| --- | --- |
+| first-generation-ptfe-adapter.png | second-generation-ptfe-adapter.png |
 
 ## 六、使用中常见现象
 

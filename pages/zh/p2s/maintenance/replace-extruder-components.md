@@ -4,7 +4,7 @@ title: "更换 P2S 挤出机配件"
 description: "挤出机相关部件的拆解和安装指引"
 tags: []
 created: 2025-10-14T12:50:05.307Z
-updated: 2025-12-08T02:57:37.672Z
+updated: 2026-06-16T10:04:31.558Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-extruder-components
 ---
 
@@ -74,10 +74,11 @@ P2S 的挤出机，设置了3个独立的配件，分别是：
 按压气动接头，拨出料管。  
 ![remove_the_tube_005.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/extruder_unit/remove_the_tube_005.png)
 
-用镊子打开挤出接口板的连接器盖子，断开进料霍尔板线缆。  
-![dipsconnect_fpc_007.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/extruder_unit/dipsconnect_fpc_007.png)
+用镊子打开挤出接口板的连接器盖子，断开进料霍尔板线缆。
 
-> 断开该 FPC 排线时，请小心操作，避免因用力过猛导致排线损坏。
+> **注意**：连接器盖子上可能有用于固定线缆连接的胶水，请用尖嘴镊子划开并小心移除胶水。断开该 FPC 排线时，请小心操作，避免因用力过猛导致排线损坏。
+
+![dipsconnect_fpc_007.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/extruder_unit/dipsconnect_fpc_007.png)
 
 用 H2.0 内六角扳手移除 4 颗螺丝(BT3-7)，取下挤出机。  
 ![4_screws_009.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/extruder_unit/4_screws_009.png)  

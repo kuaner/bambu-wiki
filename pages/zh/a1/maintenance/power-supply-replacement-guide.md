@@ -4,7 +4,7 @@ title: "A1 电源更换指南"
 description: "本指南介绍如何更换 A1 打印机电源模块"
 tags: []
 created: 2025-02-15T08:45:58.622Z
-updated: 2025-09-12T04:11:43.079Z
+updated: 2026-07-06T08:22:56.002Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/power-supply-replacement-guide
 ---
 
@@ -65,14 +65,14 @@ A1
 A1 电源模块由两颗螺丝和塑料卡扣固定。  
 首先，需要移除两颗电源模块固定螺丝，如下图两个位置。
 
-![power_supply_screws.jpeg](https://wiki.bambulab.com/a1/maintenance/power-supply/%E7%94%B5%E6%BA%90%E8%9E%BA%E4%B8%9D.png)
+![pixpin_2026-07-06_16-17-22.jpg](https://wiki.bambulab.com/a1/maintenance/power-supply/pixpin_2026-07-06_16-17-22.jpg)
 
 ### **5：移除电源模块线缆**
 
 如下图所示松开电源模块端子；  
 只需要松开即可移除线缆，不用完全移除螺丝，方便后续的收纳。
 
-![a1_power_supply_screws_.jpeg](https://wiki.bambulab.com/a1/maintenance/power-supply/%E7%94%B5%E6%BA%90%E7%AB%AF%E5%AD%90.png)
+![pixpin_2026-07-06_15-59-24.jpg](https://wiki.bambulab.com/a1/maintenance/power-supply/pixpin_2026-07-06_15-59-24.jpg)
 
 ### **6：取下电源模块**
 
@@ -97,22 +97,22 @@ A1 电源模块由两颗螺丝和塑料卡扣固定。
 4. 交流零线
 5. 交流火线
 
-![a1_power_supply_screws_.jpeg](https://wiki.bambulab.com/a1/maintenance/power-supply/%E7%94%B5%E6%BA%90%E7%AB%AF%E5%AD%90.png)
+![pixpin_2026-07-06_15-59-24.jpg](https://wiki.bambulab.com/a1/maintenance/power-supply/pixpin_2026-07-06_15-59-24.jpg)
 
 > 注意：如上图所示接好全部线缆之后，要确保线缆接头固定到位且没有松动。
 
 ### **2：安装电源模块**
 
-先沿顶部插入电源模块，当顶部的螺丝孔对齐后，轻轻推电源底部对准底部螺丝孔。
+先沿顶部插入电源模块，当顶部的螺丝孔对齐后，轻轻推电源底部对准底部卡扣。
 
-|  |  |
-| --- | --- |
-|  |  |
+![](https://wiki.bambulab.com/a1/maintenance/power-supply/6.jpg)
+
+![](https://wiki.bambulab.com/a1/maintenance/power-supply/7.jpg)
 
 接下来，安装电源模块固定螺丝。  
 如下图所示将螺丝拧入塑料支架；不要过度锁紧，否者可能会导致塑料螺纹滑丝。
 
-![power_supply_screws.jpeg](https://wiki.bambulab.com/a1/maintenance/power-supply/%E7%94%B5%E6%BA%90%E8%9E%BA%E4%B8%9D.png)
+![pixpin_2026-07-06_16-17-22.jpg](https://wiki.bambulab.com/a1/maintenance/power-supply/pixpin_2026-07-06_16-17-22.jpg)
 
 ### **3：安装打印机底壳**
 

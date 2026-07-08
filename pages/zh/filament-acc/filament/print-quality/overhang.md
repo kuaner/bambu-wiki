@@ -4,7 +4,7 @@ title: "如何打印模型悬垂部分"
 description: "本文将为您介绍什么是悬垂以及如何提升悬垂部分的打印质量。"
 tags: ["打印质量", "悬垂"]
 created: 2023-12-10T05:35:36.604Z
-updated: 2025-10-10T02:49:05.349Z
+updated: 2026-06-26T08:18:41.928Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/overhang
 ---
 
@@ -36,23 +36,26 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/overhan
 
 出现打印悬垂部分失败时，建议根据实际情况尝试以下方法来改善：
 
-首先观察或在 Bambu Studio 中测量模型的**悬空倾斜角度**，从而判断角度是否过大。可以尝试按照下面列出的具有针对性的优化参数设置，以改善悬垂质量。
+首先观察或在 Bambu Studio 中测量模型的**悬空倾斜角度**，从而判断角度是否过小。可以尝试按照下面列出的具有针对性的优化参数设置，以改善悬垂质量。
 
 ![](https://wiki.bambulab.com/filament-acc/filament/print-quality/%E6%82%AC%E5%9E%82%E5%9B%BE%E8%A7%A3-1.jpg)
 
-> **注意**：此处所指的模型悬空倾斜角度，指的是模型倾斜部分的平面与热床面之间所形成的夹角。与之相对的是，[悬垂降速](../../../software/bambu-studio/slow-down-for-overhang.md)中的**悬垂阈值**是指挤出线条中不受下层支撑部分在挤出线宽中的占比，两者并不相同。如下图展示了在 Bambu Studio 中**支撑阈值角度**分别设置为 **5°** 和 **85°** 时的支撑生成的对比效果。输入的角度数值越大，生成的支撑越多。
+> **注意**：
 >
-> ![](https://wiki.bambulab.com/filament-acc/filament/print-quality/mergedimages_(8).png)
+> - 此处所指的模型**悬空倾斜角度**，指的是模型倾斜部分的平面与热床面之间所形成的夹角。
+> - 与之相对的是，**悬垂阈值**是指挤出线条中不受下层支撑部分在挤出线宽中的占比，两者并不相同。
+> - 如下图展示了在 Bambu Studio 中**支撑阈值角度**分别设置为 **5°** 和 **85°** 时的支撑生成的对比效果。输入的角度数值越大，生成的支撑越多。  
+>   ![](https://wiki.bambulab.com/filament-acc/filament/print-quality/mergedimages_(8).png)
 
 ### 开启支撑
 
-如果模型的悬空倾斜**角度过大**，建议您在 Bambu Studio 中**开启支撑**结构以提高打印质量。更多关于支撑的设置您可以参考[支撑耗材与支撑功能的介绍](../../../software/bambu-studio/support.md)了解更多。
+如果模型的悬空倾斜**角度过小**（例如小于45°时），建议您在 Bambu Studio 中**开启支撑**结构以提高打印质量。更多关于支撑的设置您可以参考[支撑耗材与支撑功能的介绍](../../../software/bambu-studio/support.md)了解更多。
 
 ![](https://wiki.bambulab.com/filament-acc/filament/print-quality/%E6%82%AC%E5%9E%82s_1.jpg)
 
 ### 降低喷嘴温度
 
-**如果模型的悬空倾斜角度不大（例如小于45°时），建议您可以适当降低喷嘴温度。**
+**如果模型的悬空倾斜角度较大，建议您可以适当降低喷嘴温度。**
 
 当悬垂部分的打印速度较慢时，降低喷嘴温度有助于减少对冷却的需求。
 
@@ -66,7 +69,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/overhan
 
 ### **开启悬垂降速**
 
-\*\*适当降低整体打印速度，或启用悬垂降速以降低悬垂部分的打印速度。\*\*必要时，您可以进一步降低悬垂速度。悬垂速度一般设置在 10-60mm/s 之间，悬垂阈值越大，悬空部分的幅度也会增加，此时通常需要使用更低的速度以确保打印质量。关于悬垂降速的详细信息，请参考[悬垂降速指南](../../../software/bambu-studio/slow-down-for-overhang.md)以了解更多。
+**适当降低整体打印速度，或启用悬垂降速以降低悬垂部分的打印速度。** 必要时，您可以进一步降低悬垂速度。悬垂速度一般设置在 10-60mm/s 之间，悬垂阈值越大，悬空部分的幅度也会增加，此时通常需要使用更低的速度以确保打印质量。关于悬垂降速的详细信息，请参考[悬垂降速指南](../../../software/bambu-studio/slow-down-for-overhang.md)以了解更多。
 
 ![](https://wiki.bambulab.com/filament-acc/filament/print-quality/%E6%82%AC%E5%9E%82%E9%99%8D%E9%80%9Fs_3.jpg)
 

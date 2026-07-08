@@ -4,9 +4,16 @@ title: "Cyberbrick-PC 版本说明"
 description: ""
 tags: []
 created: 2025-09-02T06:51:14.667Z
-updated: 2026-05-12T08:48:13.198Z
+updated: 2026-06-16T05:29:41.579Z
 source: https://wiki.bambulab.com/zh/software/cyberbrick-apps/PC-release-notes
 ---
+
+## 0.6.0 (20260616)
+
+### **新功能**
+
+- 新增账号登录，支持用户身份验证
+- 集成用户反馈功能，支持提交产品建议与问题反馈
 
 ## 0.5.0 (20260512)
 

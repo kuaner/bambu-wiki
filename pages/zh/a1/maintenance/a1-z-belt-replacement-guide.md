@@ -4,7 +4,7 @@ title: "A1 Z 皮带更换指南"
 description: "更换 A1 打印机 Z 皮带的操作步骤"
 tags: []
 created: 2024-08-16T03:38:00.220Z
-updated: 2026-05-12T06:39:02.492Z
+updated: 2026-06-25T02:07:44.434Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/a1-z-belt-replacement-guide
 ---
 
@@ -45,15 +45,14 @@ Bambu Lab A1
 
 步骤 1：关闭打印机。
 
-步骤 2：正放打印机，将 X 轴移动到顶部。
+步骤 2：正放打印机，将 X 轴上移到顶部；
 
-![](https://wiki.bambulab.com/a1/maintenance/printer/raise_x_axis.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(7).jpg)
 
-步骤 3：将热床移动到屏幕的一端，然后移除 Y 轴上盖。
+步骤 3：热床前移到底，移除 Y 轴上盖。
 
-|  |  |
-| --- | --- |
-|  |  |
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(8).jpg)  
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(9).jpg)
 
 ### 移除 Z 轴底板
 
@@ -129,7 +128,15 @@ Bambu Lab A1
 
 步骤 3：装回 Y 轴上盖。
 
-![install_y_cover.jpg](https://wiki.bambulab.com/a1/maintenance/lead-screw-kit-replacement/install_y_cover.jpg)
+将热床前移到底，将 Y 轴上盖从热床底下穿过，并向前推到底，对齐卡扣，将 Y 轴上盖安装到位。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+特别说明：如果热床没有前移到底，Y 轴上盖可能卡不对位置，这时可以手动扶正 Y 轴上盖，协助 Y 轴上盖的安装。
+
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(6).jpg)
 
 ### 张紧 Z 皮带
 

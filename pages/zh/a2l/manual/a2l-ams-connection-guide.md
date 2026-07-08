@@ -4,7 +4,7 @@ title: "A2L AMS 连接指南"
 description: "本文介绍了如何将 A2L 连接一台或多台 AMS 设备"
 tags: []
 created: 2026-06-01T13:02:57.208Z
-updated: 2026-06-08T10:27:02.563Z
+updated: 2026-06-17T02:16:03.403Z
 source: https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide
 ---
 
@@ -30,6 +30,8 @@ A2L 打印机支持连接**外挂料盘、AMS lite 和 AMS/AMS 2 Pro/AMS HT**（
 - **A2L + 4 台 AMS + 1 台 AMS lite**（最高 19 色配置）**：**适用于连接 2-4 台 AMS 系列设备，并同时组合使用 AMS lite。（[点击此处快速跳转](https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide#a2l-4-%E5%8F%B0-ams-1-%E5%8F%B0-ams-lite)）
 
 ## **A2L + 1 台 AMS**
+
+> 连接单台 AMS / AMS 2 Pro 时，如需进一步优化摆放、节省空间，可参考 [AMS/AMS 2 Pro A2L 置顶方案安装指南](AMS_2_Pro_Top_Mount.md) **将 AMS 置顶安装**。
 
 ### 所需配件
 
@@ -102,7 +104,7 @@ A2L 打印机支持连接**外挂料盘、AMS lite 和 AMS/AMS 2 Pro/AMS HT**（
 
 | 序号 | 名称 | 数量 | 备注 |
 | --- | --- | --- | --- |
-| 1 | 料管定位导向件（[模型链接](https://makerworld.com.cn/zh/models/2600661-a2l-liao-guan-ding-wei-dao-xiang-jian)） | 1 | 防止连接不同类型 AMS 时，料管在五通入口处过度弯曲导致进料失败 |
+| 1 | 料管定位导向件（图示为旧版，可点击[此链接](https://makerworld.com.cn/zh/models/2600661-a2l-liao-guan-ding-wei-dao-xiang-jian)下载新版） | 1 | 防止连接不同类型 AMS 时，料管在五通入口处过度弯曲导致进料失败 |
 | 2 | AMS lite 置顶用 4-pin 线理线器（[模型链接](https://makerworld.com.cn/zh/models/2600650-a2l-ams-lite-zhi-ding-yong-4-pin-lian-jie-xian-li#profileId-2995953)） | 2 | 用于 AMS lite 置顶时固定 4-pin 线缆 |
 | 3 | 置顶支架（[模型链接](https://makerworld.com.cn/zh/models/125814-ams-litezhi-ding-fang-an-gua-yong-yu-a1-a2lda-yin#profileId-2959422)） | 1 | 置顶 AMS lite，优化摆放空间 （注：只需打印置顶支架，无需打印 Z 轴稳定器） |
 

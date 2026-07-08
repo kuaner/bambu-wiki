@@ -4,7 +4,7 @@ title: "0300-4010：X2D"
 description: ""
 tags: []
 created: 2026-07-01T09:02:14.322Z
-updated: 2026-07-02T02:40:43.377Z
+updated: 2026-07-02T02:40:44.365Z
 source: https://wiki.bambulab.com/zh/x2d/troubleshooting/nozzle-offset-calibration-failure
 ---
 

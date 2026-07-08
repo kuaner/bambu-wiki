@@ -2,15 +2,17 @@
 path: zh/software/bambu-studio/multi-device-management
 title: "多设备管理"
 description: ""
-tags: ["bambu studio", "studio"]
+tags: []
 created: 2024-04-23T08:19:25.057Z
-updated: 2025-01-13T07:50:21.844Z
+updated: 2026-06-26T02:42:38.877Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/multi-device-management
 ---
 
 # 使用 Bambu Studio 进行多设备管理
 
 本文介绍了如何使用Bambu Studio 进行管理多设备。它解释了如何激活多设备管理功能，向多个设备分派任务，以及监控不同设备和任务的状态的过程。
+
+> 该功能在配合打印设备使用时，可能会出现部分兼容性差异。如遇异常，建议您优先使用[拓竹农场管家](../bambu-farm-features.md)。
 
 ## 开启多设备管理
 

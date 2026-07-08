@@ -4,7 +4,7 @@ title: "MakerWorld 独家模型版权支持 FAQ（中国站）"
 description: "本文列举了有关 MakerWorld 独家模型版权支持的常见问答"
 tags: []
 created: 2025-12-18T07:27:57.191Z
-updated: 2026-02-26T01:59:25.751Z
+updated: 2026-06-30T07:36:22.085Z
 source: https://wiki.bambulab.com/zh/makerworld/exclusive-model-copyright-support-faq
 ---
 
@@ -30,7 +30,7 @@ MakerWorld 会尽全力保护每一位认真原创、为社区做出贡献的创
 - MakerWorld 全球站：粉丝量 300 以上
 
 获得内测资格的创作者，当您的独家原创模型在站外被未经授权使用时，可通过以下路径发起版权保护申请：  
-【个人中心】→【创作者中心】→ 【版权保护】→【发起申请】
+【个人中心】→【创作者中心】→【版权服务】→ 【版权保护】
 
 此外，您所申请版权保护的模型须为独家模型，并承诺模型完全为个人原创，不涉及任何第三方 IP，否则我们可能无法受理您的申请。
 

@@ -4,7 +4,7 @@ title: "拆解和清洁 AMS 2 Pro 五通组件"
 description: "五通组件内部清洁"
 tags: []
 created: 2025-06-16T08:07:12.974Z
-updated: 2025-07-24T09:51:34.700Z
+updated: 2026-06-25T06:19:07.551Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/troubleshooting/clean-the-filaments-hub
 ---
 
@@ -21,7 +21,7 @@ source: https://wiki.bambulab.com/zh/ams-2-pro/troubleshooting/clean-the-filamen
 
 ### 第 1 步 - 拆下五通组件
 
-请参考 [AMS 2 Pro 拆装指南](../maintenance/disassembly-and-assembly.md)将五通组件（含3520电机）从 AMS 2 Pro 上拆下，并分离电机。
+请参考 [AMS 2 Pro 更换指南](../maintenance/replace-internal-hub-unit.md)将五通组件（含3520电机）从 AMS 2 Pro 上拆下，并分离电机。
 
 ### 第 2 步 - （当部件损坏时可以选择）拆下3520电机
 
@@ -35,7 +35,7 @@ source: https://wiki.bambulab.com/zh/ams-2-pro/troubleshooting/clean-the-filamen
 
 3. 移除螺丝后可施加一定的外力移除电机，具体操作可以参考下面的动图。
 
-> **注意**：移除电机时会有两个轴承掉落，请注意保管，后续安装需要使用。
+> **注意**：移除电机时轴承和滚花轮可能掉落，请注意保管，后续安装需要使用。
 
 ![32_拆下电机.gif](https://wiki.bambulab.com/ams-2-pro/maintenance/clean-the-filaments-hub/32_%E6%8B%86%E4%B8%8B%E7%94%B5%E6%9C%BA.gif)
 
@@ -148,11 +148,11 @@ source: https://wiki.bambulab.com/zh/ams-2-pro/troubleshooting/clean-the-filamen
 
 ### 第 6 步 - 安装3520电机
 
-在电机安装之前，您首先需要确认两颗轴承的对应位置，具体可以参考下图。
+在电机安装之前，您首先需要确认轴承和滚花轮的对应位置，具体可以参考下图。
 
 ![40_安装电机_两螺丝位置.jpg](https://wiki.bambulab.com/ams-2-pro/maintenance/clean-the-filaments-hub/40_%E5%AE%89%E8%A3%85%E7%94%B5%E6%9C%BA_%E4%B8%A4%E8%9E%BA%E4%B8%9D%E4%BD%8D%E7%BD%AE.jpg)
 
-分别把大轴承安装到电机上，小轴承安装到五通组件中；
+分别把滚花轮安装到电机上，小轴承安装到五通组件中；
 
 ![41_螺丝位置确认.jpg](https://wiki.bambulab.com/ams-2-pro/maintenance/clean-the-filaments-hub/41_%E8%9E%BA%E4%B8%9D%E4%BD%8D%E7%BD%AE%E7%A1%AE%E8%AE%A4.jpg)
 

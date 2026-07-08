@@ -4,7 +4,7 @@ title: "MakerWorld 独家模型指南"
 description: "本指南将帮助您了解维持我们独家模型质量和完整性所需的标准、期望和程序。"
 tags: ["独家模型", "makerworld", "x1"]
 created: 2024-10-10T08:44:44.348Z
-updated: 2026-04-30T01:21:46.677Z
+updated: 2026-06-17T01:43:54.873Z
 source: https://wiki.bambulab.com/zh/makerworld/tutorials/exclusive-model-guideline
 ---
 
@@ -91,17 +91,22 @@ source: https://wiki.bambulab.com/zh/makerworld/tutorials/exclusive-model-guidel
 2. 使用现存图片、标志或者标识作为主要素材的各类模型；通过浮雕和灯箱生成工具制作的此类模型也不符合本计划的要求。
 3. 使用部分 MakerLab 工具生成的模型
 
+- Map2Model
+- ParamaCraft lite
+- Parametric Bento Tray Generator
+- 印你
+- 彩色版画生成器
+- 圣诞挂饰定制器
+- 图片生成3D模型
+- 铰链玩具生成器
+- 浮雕生成器
+- 雕像生成器
 - 精灵生成器
 - 透光浮雕生成器
 - 图像钥匙扣生成器
-- 灯箱生成器
-- 雕像生成器
 - 像素拼图生成器
 - 标牌定制器
-- 铰链玩具生成器
-- 浮雕生成器
-- AI 扫描仪
-- 图片生成 3D 模型
+- AI扫描仪
 - AI 灯罩生成器
 
 4. 基于已有模型的优化。例如，设计原理近似的耗材夹或橙色削皮器。如果是全新的设计，请将其重新命名为一个新的模型，不要使用相同的名称并添加 V2。相同模型的不同版本将因不符合原创性要求而被移除计划。

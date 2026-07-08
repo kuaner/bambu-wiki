@@ -4,7 +4,7 @@ title: "更换 A1 Z 轴电机指南"
 description: "更换 A1 打印机 Z 轴电机的操作步骤"
 tags: ["a1"]
 created: 2024-09-11T11:28:25.563Z
-updated: 2026-03-03T02:40:19.099Z
+updated: 2026-06-25T03:02:17.567Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/z-motor-replacement-guide
 ---
 
@@ -43,13 +43,12 @@ Z 轴电机是安装在打印机底部，用于驱动工具头在 Z 轴方向上
 
 正放打印机，将 X 轴上移到顶部；
 
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(7).jpg)
+
 热床前移到底，移除 Y 轴上盖。
 
-![](https://wiki.bambulab.com/a1/maintenance/printer/raise_x_axis.jpg)
-
-|  |  |
-| --- | --- |
-|  |  |
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(8).jpg)  
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(9).jpg)
 
 ### 步骤 2：拧松 Z 轴皮带张紧螺丝
 
@@ -57,33 +56,45 @@ Z 轴电机是安装在打印机底部，用于驱动工具头在 Z 轴方向上
 
 > Z 轴皮带的张紧螺丝位于底座靠右侧立柱的位置，将热床前移后可以看到。
 
-|  |  |
-| --- | --- |
-|  |  |
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(10).jpg)
 
 ### **步骤 3：断开连接线**
 
-向左放倒机器，注意保护好工具头，露出底部理线盒；依次断开摄像头线、X 轴电机线、Z 轴电机线；
+向左放倒机器，注意保护好工具头，露出底部理线盒；
 
-拧松 1 颗银色螺丝，滑动线盒断开 USB 数据线；打开理线盒的 Z 轴电机线盖，移除 Z 轴电机线。
+![](https://wiki.bambulab.com/a1/maintenance/printer/side_down1.jpg)
 
-|  |  |
-| --- | --- |
-|  |  |
+依次断开摄像头线、X 轴电机线、Z 轴电机线；拧松 1 颗银色螺丝，滑动线盒断开 USB 数据线；
+
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(11).jpg)
+
+使用螺丝刀撬开 Z 电机线缆盖板；
+
+![new1.jpg](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/new2.jpg)
+
+取出线缆。
+
+![new1.jpg](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/new3.jpg)
 
 ### **步骤 4：移除底座**
 
-将热床前移，用 H2.0 内六角扳手移除 10 颗螺丝； 然后将热床向后推到底，用 H2.0 内六角扳手移除 2 颗螺丝；最后将底座的一侧抬起，然后移除整个底座。
+将热床前移，用 H2.0 内六角扳手移除 10 颗螺丝；
 
-|  |  |
-| --- | --- |
-|  |  |
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(12).jpg)
+
+然后将热床向后推到底，用 H2.0 内六角扳手移除 2 颗螺丝；
+
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(13).jpg)
+
+最后将底座的一侧抬起，然后移除整个底座。
+
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(14).jpg)
 
 ### **步骤 5：移除 Z 轴底板**
 
-用 H2.0 内六角扳手移除 8 颗锁立柱螺丝（左右各 4 颗），移除 4 颗锁底板螺丝（中部），移除金属底板。
+用 H2.0 内六角扳手移除 8 颗锁立柱螺丝（左右各 4 颗），移除 7 颗锁底板螺丝（中部），移除金属底板。
 
-![](https://wiki.bambulab.com/a1/maintenance/z-axis/8_and_4_screws.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(15).jpg)
 
 > 底板内部突出的螺丝头较为尖锐，部分金属框架上可能存在毛刺。在拆装过程请小心操作，注意规避，或佩戴防割手套进行操作。
 
@@ -93,13 +104,23 @@ Z 轴电机是安装在打印机底部，用于驱动工具头在 Z 轴方向上
 
 ### 步骤 6：移除 Z 轴电机
 
-移除线材固定胶布，用 H2.0 内六角扳手移除 4 颗螺丝，取下 Z 轴电机，移除 Z 轴皮带，并将主动轮拧下。
+移除线材固定胶布；
 
 > 建议将胶带的一角贴在桌上，后续安装可重复使用。
 
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
+![](https://wiki.bambulab.com/a1/maintenance/z-axis/tapes_2.jpg)
+
+使用刮刀撬除主动轮上的黑色胶水。
+
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(18).jpg)
+
+> 如果主动轮顶部由螺丝限位，只需拧下该螺丝。  
+> ![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(16).jpg)
+
+用 H2.0 内六角扳手移除 4 颗螺丝，取下主动轮和 Z 轴电机；
+
+![](https://wiki.bambulab.com/a1/maintenance/z-axis/z_motor_screws.jpg)  
+![](https://wiki.bambulab.com/a1/maintenance/z-axis/remove_z_motor.jpg)
 
 ## 安装 Z 轴电机
 
@@ -107,15 +128,17 @@ Z 轴电机是安装在打印机底部，用于驱动工具头在 Z 轴方向上
 
 将 X 轴提升到顶部位置，并将左右两侧都推到顶部，避免 X 轴偏斜。
 
-![](https://wiki.bambulab.com/a1/maintenance/lead-screw-kit-replacement/pic11.png)
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(7).jpg)
 
 ### **步骤 2：安装 Z 轴电机**
 
-将主动轮安装至新的 Z 轴电机上，然后根据 Z 轴电机电缆位置确认电机安装方向，将主动轮绕过 Z 轴皮带，并安装到位；
+将主动轮安装至新的 Z 轴电机上并绕过 Z 轴皮带，确保安装到位；
 
-|  |  |  |
-| --- | --- | --- |
-| 20240912-164730.jpg |  |  |
+> 主动轮顶部可涂抹一些**铸工胶**限位。
+
+|  |  |
+| --- | --- |
+|  |  |
 
 锁入 4 颗螺丝，整理好电缆，用胶带贴附固定。
 
@@ -125,35 +148,31 @@ Z 轴电机是安装在打印机底部，用于驱动工具头在 Z 轴方向上
 
 ### **步骤 3：安装 Z 轴底板**
 
-安装底板，根据螺丝位置确认安装方向 ；
+安装底板螺丝。
 
-两端各锁入 4 颗锁立柱螺丝（红框内），中间段锁入 4 颗底板固定螺丝（橘框内）。
-
-![20240912-181507.jpg](https://wiki.bambulab.com/a1-z/20240912-181507.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(15).jpg)
 
 ### 步骤 4：安装底座
 
 保持龙门架正立状态，将打印机底座安装到龙门架上，注意避让 Z 轴电机线缆；
 
-![](https://wiki.bambulab.com/a1/maintenance/printer/remove_the_bottom_base.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(22).jpg)  
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(23).jpg)
 
 将热床前移到底，锁入 10 颗螺丝；将热床向后移到底，锁入 2 颗螺丝。
 
-|  |
-| --- |
-|  |
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(4).jpg)  
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(13).jpg)
 
 ### 步骤 5：连接线缆
 
 向后放倒打印机，将 Z 轴电机线安装到理线盒上;
 
-将理线盒安装在底座上，沿槽位方向滑动理线盒，连接 USB-C 数据线，锁紧 1 颗银色螺丝;
+![new1.jpg](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/new3.jpg)
 
-根据文字提示和颜色标贴，连接 X 轴电机线、Z 轴电机线和摄像头线，整理线缆，避免线材被压到。
+将理线盒安装在底座上，沿槽位方向滑动理线盒，连接线缆并锁紧 1 颗银色螺丝;
 
-|  |  |
-| --- | --- |
-|  |  |
+![new1.jpg](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/new1.jpg)
 
 ### 步骤 6：安装 Y 轴上盖
 
@@ -165,7 +184,7 @@ Z 轴电机是安装在打印机底部，用于驱动工具头在 Z 轴方向上
 
 特别说明：如果热床没有前移到底，Y 轴上盖可能卡不对位置，这时可以手动扶正 Y 轴上盖，协助 Y 轴上盖的安装。
 
-![](https://wiki.bambulab.com/a1/maintenance/printer/not_standard.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(6).jpg)
 
 ### 步骤 7：张紧 Z 皮带
 
@@ -181,9 +200,7 @@ Z 轴电机是安装在打印机底部，用于驱动工具头在 Z 轴方向上
 
 3：用 H2.0 内六角扳手拧紧 2 颗张紧螺丝。
 
-|  |  |
-| --- | --- |
-|  | screenshot-20240912-171706.png |
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(10).jpg)
 
 ## 设备校准
 

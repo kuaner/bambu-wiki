@@ -4,7 +4,7 @@ title: "0300-4010：H2D/H2D Pro/H2C"
 description: ""
 tags: []
 created: 2025-12-23T08:20:28.404Z
-updated: 2025-12-31T11:15:59.557Z
+updated: 2026-07-01T08:40:33.985Z
 source: https://wiki.bambulab.com/zh/h2/troubleshooting/nozzle-offset-calibration-failure
 ---
 
@@ -43,10 +43,9 @@ source: https://wiki.bambulab.com/zh/h2/troubleshooting/nozzle-offset-calibratio
 
 ### 步骤2. 检查偏移校准传感器上是否粘有耗材
 
-喷嘴的XY方向的偏移校准，是利用喷嘴和热床后面的**喷嘴偏移校准传感器**进行的。在热床内侧凸起的部分，右边的黑色小块就是XY偏移校准传感器（如下图红框中所示）。请检查此处是否粘有耗材，若有耗材残留，请清理后重新执行喷嘴偏移校准。  
-![calibrationsensor.png](https://wiki.bambulab.com/h2/troubleshooting/calibrate-failed/calibrationsensor.png)
-
 喷嘴的XY方向的偏移校准，是利用喷嘴和热床后面的**喷嘴偏移校准传感器**进行的。在热床内侧凸起的部分，右边的黑色小块就是XY偏移校准传感器（如下图红框中所示）。请检查此处是否粘有耗材，若有耗材残留，请清理后重新执行喷嘴偏移校准。
+
+![calibrationsensor.png](https://wiki.bambulab.com/h2/troubleshooting/calibrate-failed/calibrationsensor.png)
 
 ### 步骤3. 检查喷嘴状态
 

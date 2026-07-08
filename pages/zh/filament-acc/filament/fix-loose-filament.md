@@ -4,7 +4,7 @@ title: "耗材散开（炸盘）修复指南"
 description: "固定散开的耗材的操作步骤"
 tags: []
 created: 2024-10-14T08:37:16.073Z
-updated: 2024-11-01T02:06:20.053Z
+updated: 2026-06-17T02:55:21.579Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/fix-loose-filament
 ---
 
@@ -24,8 +24,8 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/fix-loose-filament
 
 ## 所需工具和材料
 
-- [固定工具](https://makerworld.com/zh/models/558401?from=search#profileId-477528)
-- [耗材支架](https://makerworld.com/en/models/17838#profileId-22162)
+- [固定工具](https://makerworld.com.cn/zh/models/409390-liao-pan-wei-xiu-tao-jian-spule-wei-xiu-tao-jian?from=search#profileId-319794)
+- [耗材支架](https://makerworld.com.cn/zh/models/126722-bambu-lab-xian-zhou-rao-xian-ji-jian-hua-ban#profileId-12567)
 
 ## 使用固定工具固定耗材
 
@@ -33,7 +33,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/fix-loose-filament
 
 ### 步骤 1：打印固定工具
 
-您可以先打印[固定工具](https://makerworld.com/zh/models/558401?from=search#profileId-477528)。
+您可以先打印[固定工具](https://makerworld.com.cn/zh/models/409390-liao-pan-wei-xiu-tao-jian-spule-wei-xiu-tao-jian?from=search#profileId-319794)。
 
 ![料盘固定工具.jpg](https://wiki.bambulab.com/filament-acc/filament/fix-loose-filament/%E6%96%99%E7%9B%98%E5%9B%BA%E5%AE%9A%E5%B7%A5%E5%85%B7.jpg)
 
@@ -55,7 +55,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/fix-loose-filament
 
 ### 步骤 1：打印耗材支架
 
-您可以先打印[耗材支架](https://makerworld.com/en/models/17838#profileId-22162)。
+您可以先打印[耗材支架](https://makerworld.com.cn/zh/models/126722-bambu-lab-xian-zhou-rao-xian-ji-jian-hua-ban#profileId-12567)。
 
 ![耗材支架图.jpg](https://wiki.bambulab.com/filament-acc/filament/fix-loose-filament/%E8%80%97%E6%9D%90%E6%94%AF%E6%9E%B6%E5%9B%BE.jpg)
 

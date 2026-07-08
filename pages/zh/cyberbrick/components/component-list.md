@@ -4,7 +4,7 @@ title: "CyberBrick 技术手册"
 description: ""
 tags: []
 created: 2026-03-17T02:57:56.616Z
-updated: 2026-05-28T01:56:21.789Z
+updated: 2026-06-23T05:52:04.248Z
 source: https://wiki.bambulab.com/zh/cyberbrick/components/component-list
 ---
 
@@ -83,30 +83,35 @@ Type-C接口输入电压：5V
 
 ### 发射底板-XA005
 
-![filename-5.png](https://wiki.bambulab.com/makerworld/cyberbrick/component-list/filename-13.png)  
-遥控器发射板的左右分别有3个模拟量输入通道、下方有4个开关输入通道,背面灰色插槽同样为核心板插槽。可以通过XH2.54电源接口供电，通电时，电源接口旁白灯亮起。
+![发射底板xa005-1-cn.png](https://wiki.bambulab.com/cyberbrick/component_list/%E5%8F%91%E5%B0%84%E5%BA%95%E6%9D%BFxa005-1-cn.png)
 
-- 4模拟量输入通道L1~L3, R1~L3:3pin SH1.0母座。可连接单/双通道摇杆模块、船型开关模块等。
-- 开关输入通道K1~K4:2pinSH1.0母座。可连接开关模块,按键模块等。
-- XH2.54电源接口:2pin XH2.54母座。可连接4.5V~12.6V锂电或干电池盒子。
+遥控器发射板的左右分别有3个模拟量输入通道、下方有4个数字量输入通道，灰色插槽为核心板插槽。可以通过XH2.54 电池接口供电。通电时，电源接口旁白灯亮起。
 
-输入电压：4.5V-12.6V  
+- 模拟量输入通道 L1~L3 和 R1~R3: 3-Pin SH1.0 母座。可连接单/双通道摇杆模块、船型开关模块等。
+- 数字量输入通道 K1~K4: 2-Pin SH1.0母座。可连接开关模块、按键模块等。
+- XH2.54 电池接口: 2-Pin XH2.54母座。可连接官方锂电池或官方 3x AAA电池盒。
+
+输入电压：4.5V - 12.6V  
 工作电流：65mA  
 通道数：6x模拟量通道（SH1.0 3P）、4x数字量通道（SH1.0 2P）
 
 ### 接收底板-XA004
 
-![filename-5.png](https://wiki.bambulab.com/makerworld/cyberbrick/component-list/filename-10.png)  
-遥控器接收板的左右分别有1个直流电机接口、1个LED灯接口,中央有4个舵机接口。可以通过XH2.54电源接口供电。同电池电源接口旁白灯亮起。
+![接收底板xa004-1-cn.png](https://wiki.bambulab.com/cyberbrick/component_list/%E6%8E%A5%E6%94%B6%E5%BA%95%E6%9D%BFxa004-1-cn.png)
 
-- 直流电机接口M1、M2:2pinSH1.0母座。可以连接直流有刷电机,支持电机正反转和PWM调速。
-- 灯珠转接板接口D1、D2:3pin SH1.0母座。可以连接灯珠转接板或其他使用WS2812协议的灯带。
-- 舵机接口S1~S4:3pin插针。可以连接常见的5V舵机。
-- 核心板插槽:双排灰色插槽,用于连接核心板。
-- XH2.54电源接口:2pin XH2.54母座。可连接7.4V~12.6V锂电或干电池盒。  
-  输入电压：7.4V-12.6V  
-  最大工作电流：3A  
-  通道数：2x直流电机口（SH1.0 2P）、4x舵机接口、2xLED接口（SH1.0 3P）
+![接收底板xa004-细节-cn.png](https://wiki.bambulab.com/cyberbrick/component_list/%E6%8E%A5%E6%94%B6%E5%BA%95%E6%9D%BFxa004-%E7%BB%86%E8%8A%82-cn.png)
+
+遥控器接收板的左右分别有1个有刷电机接口、1个LED灯接口、中央4个舵机接口。可以通过XH2.54电池接口供电。通电时，电源接口旁白灯亮起。
+
+- 有刷电机接口 M1、M2：2-Pin SH1.0母座。可以连接直流有刷电机，支持电机正反转和PWM调速。
+- LED灯接口 D1、D2：3-Pin SH1.0母座。可以连接灯珠转接板或其他使用WS2812协议的灯带。
+- 舵机接口 S1 ~ S4：3-Pin 插针。针脚定义：1 为 PWM 信号，2 为 5V 电源输入，3 为接地 (GND)。可以连接常见的5V 舵机。
+- 核心板插槽：双排灰色插槽，用于连接核心板。
+- XH 2.54电池接口：2-Pin XH2.54母座。可连接官方锂电池或官方 3x AAA电池盒。
+
+输入电压：7.4V - 12.6V  
+最大工作电流：3A  
+通道数：2x有刷电机接口（SH1.0 2P）、4x舵机接口、2xLED接口（SH1.0 3P）
 
 ## 输入模块
 

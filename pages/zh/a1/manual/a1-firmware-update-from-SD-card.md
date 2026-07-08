@@ -4,13 +4,13 @@ title: "通过 microSD 卡升级固件——A1/A2L"
 description: "A1/A2L 通过 microSD 卡升级固件的步骤"
 tags: ["a1"]
 created: 2024-11-25T08:15:53.820Z
-updated: 2026-06-04T02:13:54.393Z
+updated: 2026-07-06T10:29:45.393Z
 source: https://wiki.bambulab.com/zh/a1/manual/a1-firmware-update-from-SD-card
 ---
 
 ## 何时使用
 
-- 当 A1 不联网、无法访问拓竹云服务时，可通过 microSD 卡和离线升级包升级打印机的固件。
+- 当 A1/A2L 不联网、无法访问拓竹云服务时，可通过 microSD 卡和离线升级包升级打印机的固件。
 - 需要回退至历史固件版本。
 - 如果您在将打印机升级到最新版本时未使用 AMS Hub，那么在后续接入 AMS Hub 后，也需要通过 microSD 卡和离线升级包**将 AMS Hub 升级至最新版本**。
 
@@ -29,11 +29,8 @@ source: https://wiki.bambulab.com/zh/a1/manual/a1-firmware-update-from-SD-card
 
 ### 步骤 1：下载对应版本的离线升级包。不同版本的功能请参见[此页面](a1-firmware-release-history.md)。
 
-A1:
-
-| 版本 | 下载地址 |
-| --- | --- |
-| 01.04.00.00 | [点击下载](https://bambulab.cn/zh-cn/support/firmware-download/a1) |
+- A1： [点击下载](https://bambulab.cn/zh-cn/support/firmware-download/a1)
+- A2L：[点击下载](https://bambulab.cn/zh-cn/support/firmware-download/a2l)
 
 ### 步骤 2：取出 microSD 卡。
 
@@ -62,14 +59,20 @@ A 系列 **不支持热插拔卡**，因此每次取出 SD 卡时，**请务必�
 
 ### 步骤 5：在打印机屏幕，选择 “设置 > 固件 > 离线更新”。
 
-![](https://wiki.bambulab.com/a1-mini/manual/update-firmware-from-sd-card/setting-firmware.png)
+|  |  |
+| --- | --- |
+|  |  |
+| A1 | A2L |
 
 ### 步骤 6：选择需要升级的固件版本进行升级，大约需要 5-10 分钟，升级过程中请勿断电。
 
 > **重要提醒！**  
 > 固件升级时请勿断电，请耐心等待 10-20 分钟。
 
-![](https://wiki.bambulab.com/a1-mini/manual/update-firmware-from-sd-card/firmware-list.png)
+|  |  |
+| --- | --- |
+|  |  |
+| A1 | A2L |
 
 ### 步骤 7：升级完成后，打印机将自动重启。
 
@@ -77,7 +80,6 @@ A 系列 **不支持热插拔卡**，因此每次取出 SD 卡时，**请务必�
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。  
-> 我们随时准备为您解答疑问并提供帮助。[*点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。

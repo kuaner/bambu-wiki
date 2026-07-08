@@ -1,10 +1,10 @@
 ---
 path: zh/a1-mini/maintenance/hotend_blob
-title: "A1 系列打印机热端裹头处理指引"
-description: "介绍如何处理A1系列打印机热端被打印材料完全附着导致不能正常使用的处理方法。"
+title: "A 系列打印机热端裹头处理指引"
+description: "介绍如何处理A系列打印机热端被打印材料完全附着导致不能正常使用的处理方法。"
 tags: ["a1", "喷嘴", "热端"]
 created: 2023-11-25T06:24:05.061Z
-updated: 2025-02-20T12:55:04.990Z
+updated: 2026-06-24T02:11:08.500Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/hotend_blob
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/hotend_blob
 
 ![裹头.webp](https://wiki.bambulab.com/n1/maintenance/hotend_blob/%E8%A3%B9%E5%A4%B4.webp)
 
-热端裹头是 3D 打印中较为灾难性的打印问题之一，但需要清理它也不是完全不可能，A1 系列工具头设计的比较紧凑，在一定程度上也增加了清理裹头材料的难度。为了帮助和引导用户完成清理的操作，我们准备了这篇文章，希望能帮助大家确认损坏情况并减少配件的二次损坏。
+热端裹头是 3D 打印中较为灾难性的打印问题之一，但需要清理它也不是完全不可能，A 系列工具头设计的比较紧凑，在一定程度上也增加了清理裹头材料的难度。为了帮助和引导用户完成清理的操作，我们准备了这篇文章，希望能帮助大家确认损坏情况并减少配件的二次损坏。
 
 |  |  |
 | --- | --- |

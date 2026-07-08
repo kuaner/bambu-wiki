@@ -4,7 +4,7 @@ title: "更换 H2C TH 板"
 description: "本文介绍了如何更换 H2C TH 板"
 tags: []
 created: 2025-11-18T13:15:21.116Z
-updated: 2026-06-08T02:41:30.480Z
+updated: 2026-06-23T09:06:49.277Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-th-board
 ---
 
@@ -28,6 +28,15 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 - BT2.6x8 螺丝 - 用于固定 TH 板 \* 4
 - M1.6x4 螺丝 - 用于固定挤出接口板 \* 2
 
+ℹ️ **说明**：**TH 板，目前有两个版本，请以您收到的版本为准。配件明细如下：**
+
+|  |  |
+| --- | --- |
+| **版本一：** 1. TH 板 × 1 2. BT2.6x8 螺丝 - 用于固定 TH 板 × 4 | **版本二：** 1. TH 板 × 1 2. BT2.6x8 螺丝 - 用于固定 TH 板 × 4  3. MC-TH 电源通讯转接线 × 1 \* |
+|  |  |
+
+> 🔺 **注意：** 若您收到版本二的TH板，请检查设备原装转接线是否匹配，若版本不同需要**先更换 MC-TH 电源通讯转接线**，请参考[这篇指南](../../h2/maintenance/replace-toolhead-to-mc-board-cable.md)更换。
+
 ## 所需的工具和材料
 
 1. 新的 TH 板/ FPC 排线/挤出接口板（请根据实际情况来选择更换对应的配件）
@@ -35,6 +44,8 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 3. H1.5 内六角扳手
 
 ## 移除挤出接口板/ TH 板/ FPC 排线
+
+> 🔺 **注意：** 若您收到[版本二](#my-anchor)的TH板，请检查设备原装转接线是否匹配，若版本不同需要**先更换 MC-TH 电源通讯转接线**，请参考[这篇指南](../../h2/maintenance/replace-toolhead-to-mc-board-cable.md)更换。
 
 ### 步骤 1：移除部件冷却风扇风道和风扇
 
@@ -169,6 +180,16 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 
 然后按下 MC-TH 线缆的卡扣，与 MC-TH 转接线断开连接，抽出拖链中的线缆，移除 TH 板。
 
+> 📌 温馨提示：MC-TH 电源通讯转接线有两种版本，请根据您收到的实际版本参考下方示意图断开连接。
+
+版本一：
+
+|  |  |
+| --- | --- |
+|  |  |
+
+版本二：
+
 |  |  |
 | --- | --- |
 |  |  |
@@ -184,6 +205,15 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 ### 步骤 1：安装 TH 板
 
 1. 将新的 TH 板与 MC-TH 转接线连接，并将线缆扣入拖链中，然后将拖链与上盖连接；
+
+![install-cable-chain.webp](https://public-cdn.bblmw.com/wiki/new/aether/h2s/replace-usb-c-cable/install-cable-chain.webp)
+
+> 📌 温馨提示：MC-TH 电源通讯转接线有两种版本，请根据您收到的实际版本参考下方示意图进行连接。
+
+版本一：  
+![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/img_v3_02ip_3afebc0f-035d-40fc-8f89-bf4285875c0g.jpg)
+
+版本二：
 
 |  |  |
 | --- | --- |

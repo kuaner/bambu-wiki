@@ -4,7 +4,7 @@ title: "TPU 送料助力模块常见故障排查"
 description: "本文将详细介绍 TPU 助力模块在使用过程中可能遇到的各类故障现象及对应的解决方案。"
 tags: []
 created: 2026-03-11T02:33:41.236Z
-updated: 2026-05-28T12:15:11.043Z
+updated: 2026-06-17T03:15:33.009Z
 source: https://wiki.bambulab.com/zh/general/troubleshooting/tpu-feed-assist-module
 ---
 
@@ -69,11 +69,89 @@ source: https://wiki.bambulab.com/zh/general/troubleshooting/tpu-feed-assist-mod
 
 检查 TPU 耗材线径，若线径出现明显偏细，会导致助力挤出机齿轮无法正常咬合料线，出现持续打滑，触发超时逻辑。
 
-### c.确认耗材的转动方向如下图所示
+### c. 确认耗材的转动方向如下图所示
 
 确认耗材的转动方向和出口方向一致，避免产生额外的阻力。
 
 ![](https://wiki.bambulab.com/filament-acc/tpu/image11.png)
+
+### d. 挤出机内存在碎屑或异物
+
+**拆卸教程**
+
+拧松外壳上 8 颗固定螺丝。
+
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/1_compressed.jpg)  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/2_compressed.jpg)  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/3_compressed.jpg)
+
+取下外壳。
+
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/4_compressed.jpg)
+
+拧松电路板的 2 颗固定螺丝。
+
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/5_compressed.jpg)
+
+断开电机线缆。
+
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/6_compressed.jpg)  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/7_compressed.jpg)
+
+拧松挤出机固定块的 2 颗螺丝。
+
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/8_compressed.jpg)
+
+再按压插头顶部防松扣，断开霍尔传感器线缆。
+
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/9_compressed.jpg)
+
+取下挤出机组件。
+
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/24_compressed.jpg)
+
+**清理教程**
+
+拧松出料口的 2 颗固定螺丝。
+
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/10_compressed.jpg)
+
+取下出料口。
+
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/11.1_compressed.jpg)
+
+拧松挤出机的 3 颗固定螺丝后，取下挤出机。  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/12_compressed.jpg)
+
+拧松背后挤出机后盖的 4 颗固定螺丝，再拧松几圈侧面压紧螺丝。  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/13_compressed.jpg)  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/14_compressed.jpg)
+
+取下挤出机后盖后，清理齿轮上存在的碎屑或异物。
+
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/15_compressed.jpg)  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/16_compressed.jpg)  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/17_compressed.jpg)
+
+**安装教程**
+
+调整垫片、弹簧的位置，若安装错误会导致模块无法正常送料。  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/18_compressed.jpg)
+
+装入挤出机被动齿轮。  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/19_compressed.jpg)
+
+再装入挤出机主动齿轮和后盖，并拧紧 4 颗固定螺丝。  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/20_compressed.jpg)
+
+将挤出机放入挤出机支架中，拧紧 3 颗固定螺丝。  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/21_compressed.jpg)  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/22_compressed.jpg)
+
+最后安装出料口。  
+![](https://wiki.bambulab.com/general/troubleshooting/tpu-feed-assist-module/23_compressed.jpg)
+
+后续步骤请参考[TPU 送料助力模块组装 & 使用指南](../manual/tpu-feed-assist-module.md)安装打印外壳。
 
 ## 3. 已进入耗材后，开启进料模式，助力模块无正常出料
 

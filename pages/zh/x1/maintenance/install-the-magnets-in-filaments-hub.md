@@ -4,7 +4,7 @@ title: "移除和安装 AMS 五通磁铁"
 description: "清洁五通组件时候，如果内部磁铁松出，可参考此文进行安装"
 tags: ["ams"]
 created: 2022-10-13T11:07:04.496Z
-updated: 2024-12-14T03:18:43.513Z
+updated: 2026-06-30T04:10:12.353Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/install-the-magnets-in-filaments-hub
 ---
 

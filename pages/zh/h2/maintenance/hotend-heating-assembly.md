@@ -1,10 +1,10 @@
 ---
 path: zh/h2/maintenance/hotend-heating-assembly
-title: "更换 H2D 左右热端加热组件"
-description: "本文介绍如何更换 H2D 左右热端加热组件"
+title: "更换 H2D/H2C 左右热端加热组件"
+description: "本文介绍如何更换 H2D/H2C 左右热端加热组件"
 tags: []
 created: 2025-03-25T08:46:41.904Z
-updated: 2026-06-15T10:29:03.565Z
+updated: 2026-06-23T08:11:16.153Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/hotend-heating-assembly
 ---
 

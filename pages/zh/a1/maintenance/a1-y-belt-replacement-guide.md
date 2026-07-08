@@ -4,7 +4,7 @@ title: "Y 皮带更换指南 - A1"
 description: "介绍 A1 的 Y 皮带的详细更换步骤"
 tags: ["y 轴", "y 皮带"]
 created: 2024-08-26T04:04:59.763Z
-updated: 2025-03-13T02:21:33.623Z
+updated: 2026-06-25T02:04:56.732Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/a1-y-belt-replacement-guide
 ---
 
@@ -33,14 +33,12 @@ Y 皮带是安装在 Y 轴上，将工具头与 Y 电机连接起来并驱动工
 
 ## 所需工具和材料
 
-用无序列表列出需要的工具，包括需要更换的配件。如果配件可以购买，超链接其至天猫/京东页面，参考下方例子。
-
 - 新的 Y 皮带（购买链接：请联系售后）
 - H2.0 内六角扳手
 - 镊子
 - 20 分钟
 
-> 注：当您收到新的 Y 皮带后，请先记录新皮带的长度，然后与旧皮带的长度进行对比，如果新皮带的长度长于旧皮带，那么您需要从齿数较多的一侧数 6 个齿剪短皮带，如下图所示：
+> 注：当您收到新的 Y 皮带后，请先记录新皮带的长度，若新皮带长度明显超过 771 mm，那么您需要从齿数较多的一侧数 6 个齿剪短皮带，如下图所示：
 >
 > ![剪短皮带.jpg](https://wiki.bambulab.com/a1/maintenance/a1-y-belt-replacement-guide/%E5%89%AA%E7%9F%AD%E7%9A%AE%E5%B8%A6.jpg)
 
@@ -82,7 +80,7 @@ Y 皮带是安装在 Y 轴上，将工具头与 Y 电机连接起来并驱动工
 
 断开相机、X 轴电机和 Z 轴电机的线缆,然后拧松下图所示的螺丝（拧松即可，请勿完全拧出！）。
 
-![](https://wiki.bambulab.com/a1/maintenance/printer/disconnect_cables_1_.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/replace-z-motor/a1zmotor_(11).jpg)
 
 然后，向上推动线缆支架来断开 USB 数据线。
 

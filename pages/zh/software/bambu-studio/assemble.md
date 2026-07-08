@@ -1,10 +1,10 @@
 ---
 path: zh/software/bambu-studio/assemble
-title: "装配指南"
+title: "装配工具"
 description: "介绍装配工具和使用方法"
 tags: ["bambu studio"]
 created: 2024-06-19T07:06:06.310Z
-updated: 2025-05-30T09:07:43.596Z
+updated: 2026-06-26T01:40:33.167Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/assemble
 ---
 

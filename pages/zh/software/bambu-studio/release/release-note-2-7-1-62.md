@@ -4,7 +4,7 @@ title: "Bambu Studio 2.7.1.62版本说明"
 description: ""
 tags: []
 created: 2026-06-16T14:08:49.311Z
-updated: 2026-06-17T08:30:56.670Z
+updated: 2026-06-17T08:30:57.692Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-7-1-62
 ---
 

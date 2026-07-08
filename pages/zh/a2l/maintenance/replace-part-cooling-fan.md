@@ -4,7 +4,7 @@ title: "A2L 更换部件冷却风扇"
 description: "本文介绍了如何更换 A2L 部件冷却风扇"
 tags: []
 created: 2026-06-01T13:07:47.542Z
-updated: 2026-06-05T07:47:47.133Z
+updated: 2026-06-22T07:18:59.361Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-part-cooling-fan
 ---
 
@@ -72,7 +72,7 @@ A2L 部件风扇
 
 ### 4. 断开连接线
 
-使用镊子等工具将插头向上撬开，断开部件风扇与 TH 板的插头连接。  
+初次拆卸时，插头上有胶水防松，必须先使用镊子等工具**清理胶水或胶布后再操作拔出**。使用镊子等工具将插头向上撬开，断开部件风扇与 TH 板的插头连接。  
 ![bjlqfs005.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-part-cooling-fan/bjlqfs005.jpg)![插头.jpg](https://wiki.bambulab.com/h2/maintenance/laser-module-40w/%E6%8F%92%E5%A4%B4.jpg)
 
 > 注意：热端风扇、部件风扇和涡流线圈插头采用这种小型插头设计。**拔出插头时，请用手握住插头根部，垂直于 PCB 面方向用力抬起以解锁插头**。切勿在水平方向用力，以免损坏插头。

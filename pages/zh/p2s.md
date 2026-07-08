@@ -4,7 +4,7 @@ title: "P2S"
 description: ""
 tags: []
 created: 2025-10-14T13:07:42.724Z
-updated: 2026-06-08T07:13:53.887Z
+updated: 2026-06-24T06:39:34.711Z
 source: https://wiki.bambulab.com/zh/p2s
 ---
 
@@ -129,6 +129,7 @@ source: https://wiki.bambulab.com/zh/p2s
 - [更换 P2S 光面惰轮](maintenance/replace-idler-pulley.md)
 - [更换 P2S X 轴组件/工具头滑车组件](maintenance/replace-x-axis-assembly-and-toolhead-carriage.md)
 - [更换 P2S X/Y 皮带](maintenance/replace-xy-belt.md)
+- [更换 P2S X/Y 皮带 (皮带断裂时)](knowledge-sharing/replace_the_xy_belts.md)
 - [更换 P2S XY 电机](maintenance/replace-xy-motor.md)
 - [更换 P2S Z 张紧器](maintenance/replace-z-belt-tensioner.md)
 - [更换 P2S Z 皮带](maintenance/replace-z-belt.md)
@@ -143,6 +144,7 @@ source: https://wiki.bambulab.com/zh/p2s
 
 ### 配件
 
+- [更换 P2S 铁氟龙料管](https://wiki.bambulab.com/zh/filament-acc/acc/ptfe-tube#%E4%B8%8D%E5%90%8C%E6%9C%BA%E5%9E%8B%E6%96%99%E7%AE%A1%E6%9B%B4%E6%8D%A2%E6%8C%87%E5%8D%97)
 - [更换 P2S 实况摄像头](maintenance/replace-live-view-camera.md)
 - [更换 P2S 自适应风道切换组件](maintenance/replace-adaptive-airflow-switching-unit.md)
 - [加装 P2S 辅助部件冷却风扇](maintenance/install-auxiliary-part-cooling-fan-left.md)

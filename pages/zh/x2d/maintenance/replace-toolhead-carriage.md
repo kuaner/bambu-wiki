@@ -4,7 +4,7 @@ title: "更换 X2D 工具头滑车组件"
 description: ""
 tags: []
 created: 2026-05-20T08:32:10.522Z
-updated: 2026-05-26T10:35:05.566Z
+updated: 2026-06-23T06:53:24.546Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-toolhead-carriage
 ---
 
@@ -42,10 +42,6 @@ source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-toolhead-carriage
 ![010_remove_mid_cover.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_toolhead_cover/010_remove_mid_cover.png)
 
 ### 步骤 2. 移除皮带固定座
-
-使用 H2.0 内六角扳手拧松（拧松 2 圈即可，不需要完全卸下螺丝）四颗张紧螺丝，放松 XY 皮带。
-
-![tension_screws.png](https://wiki.bambulab.com/x2d/maintenance/toolhead-carriage/tension_screws.png)
 
 使用 H2.0 内六角扳手移除 6 颗工具头上皮带固定座的螺丝，将两侧的皮带固定块从工具头上移除。
 

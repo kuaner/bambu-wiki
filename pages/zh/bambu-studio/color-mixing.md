@@ -4,7 +4,7 @@ title: "混色打印"
 description: "学习如何使用 Bambu Studio 的颜色混合功能，在单次打印中通过双色混合或三色混合，实现自定义的色调和渐变效果。"
 tags: []
 created: 2026-07-02T09:02:15.300Z
-updated: 2026-07-03T04:32:57.368Z
+updated: 2026-07-03T04:32:58.382Z
 source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 ---
 

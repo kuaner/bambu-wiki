@@ -4,7 +4,7 @@ title: "Bambu Studio 2.5.3 版本说明"
 description: ""
 tags: []
 created: 2026-04-14T10:45:07.999Z
-updated: 2026-04-17T02:39:30.439Z
+updated: 2026-07-03T04:27:21.613Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-5-3
 ---
 
@@ -17,6 +17,8 @@ V2.5.3版本新增对Bambu Lab X2D的支持，同时包含了若干新功能、�
 ### 混色打印（实验性功能）
 
 混色打印功能现已上线。在耗材项目列表中底部点击“添加混色耗材”后，可在弹窗中配置混色耗材。
+
+了解更详细的使用方法，请参阅这篇 wiki：[**混色打印**](../../../bambu-studio/color-mixing.md)。
 
 ![小船.jpeg](https://wiki.bambulab.com/software/bambu-studio/release-note/v2_5_3/%E5%B0%8F%E8%88%B9.jpeg)
 

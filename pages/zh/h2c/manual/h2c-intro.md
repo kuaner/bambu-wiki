@@ -4,7 +4,7 @@ title: "H2C 组件介绍"
 description: "本文介绍了 H2C 的主要组件及主要功能"
 tags: []
 created: 2025-11-18T13:14:01.721Z
-updated: 2026-05-18T06:45:56.949Z
+updated: 2026-07-02T03:42:43.873Z
 source: https://wiki.bambulab.com/zh/h2c/manual/h2c-intro
 ---
 

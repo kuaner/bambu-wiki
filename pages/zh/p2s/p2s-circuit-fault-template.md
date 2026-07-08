@@ -4,7 +4,7 @@ title: "打印机电路故障排查 - P2S"
 description: "P2S 打印机开机后设备无法通电的故障排查方法"
 tags: ["p2s"]
 created: 2026-02-25T08:13:36.437Z
-updated: 2026-04-07T08:07:05.545Z
+updated: 2026-07-02T09:06:03.013Z
 source: https://wiki.bambulab.com/zh/p2s/p2s-circuit-fault-template
 ---
 
@@ -71,7 +71,7 @@ AP 板指示灯快速闪烁（左）、常亮（右）
 
 MC 板指示灯常亮（上）、慢速闪烁（下）
 
-![p2s_mc.gif](https://wiki.bambulab.com/general/bbl-indicator-led/p2s_mc.gif)
+![指示灯2.webp](https://wiki.bambulab.com/p2s/%E6%8C%87%E7%A4%BA%E7%81%AF2.webp)
 
 ### 1. 排查电源模块
 
@@ -94,10 +94,10 @@ flowchart TD
 classDef proc fill:#dae8fc,stroke:#6c8ebf,color:#000;
 classDef decision fill:#fff2cc,stroke:#d6b656,color:#000;
 A{MC 板指示灯是否正常?}:::decision -- 是 --> B[进一步检查 AP 板和 TH 板工作状态]:::proc
-A -- 否 --> C[关机后断开 MC-AP 和 MC-TH 线缆<br/>开机观察 MC 板指示灯是否依然异常]:::proc
+A -- 否 --> C[关机后断开 2/3/10 线缆<br/>开机观察 MC 板指示灯是否依然异常]:::proc
 C --> D{MC 板是否恢复正常?}:::decision
 D -- 是 --> E[故障原因在 AP 板或 TH 板<br/>关机后逐个安装 MC-AP / MC-TH 线缆<br/>逐次开机确认与 AP 或 TH 相关<br/>再进行后续排查]:::proc
-D -- 否 --> F[可能为 MC 板本身故障或连接模块故障<br/>关机后拔下 MC 板所有插头<br/>开机观察 MC 板是否恢复正常]:::proc
+D -- 否 --> F[可能为 MC 板本身故障或连接模块故障<br/>关机后拔下 MC 板所有插头<br/>仅保留 9 电源线<br/>开机观察 MC 板是否恢复正常]:::proc
 F --> G{MC 板是否恢复正常?}:::decision
 G -- 否 --> H[更换 MC 板]:::proc
 G -- 是 --> I[关机后逐个安装拔下的插头<br/>逐次开机定位引发故障的组件]:::proc

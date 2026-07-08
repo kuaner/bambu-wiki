@@ -4,7 +4,7 @@ title: "更换 P2S 缓冲器"
 description: "本文介绍了如何更换 P2S 缓冲器"
 tags: ["缓冲器"]
 created: 2025-10-14T12:50:21.570Z
-updated: 2026-01-20T06:07:04.319Z
+updated: 2026-06-22T09:59:27.384Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-filament-buffer
 ---
 
@@ -43,6 +43,12 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-filament-buffer
 ![filament_buffer_cable_006.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/filament_buffer/filament_buffer_cable_006.png)
 
 ## 安装缓冲器
+
+> ℹ️ 若缓冲器安装的位置有硅胶塞，请先移除硅胶塞，可使用内六角扳手辅助操作。
+>
+> |  |  |
+> | --- | --- |
+> |  |  |
 
 ### 第1步：安装缓冲器
 

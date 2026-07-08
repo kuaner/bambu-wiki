@@ -4,7 +4,7 @@ title: "H2S 激光模组安装指南"
 description: "本章节将详细为您介绍 H2S 激光模组安装的详细步骤以及注意事项。"
 tags: []
 created: 2025-08-26T06:18:40.003Z
-updated: 2026-01-22T08:12:49.021Z
+updated: 2026-07-03T06:57:31.787Z
 source: https://wiki.bambulab.com/zh/h2s/manual/laser-module-lnstallation-guide
 ---
 
@@ -91,6 +91,10 @@ source: https://wiki.bambulab.com/zh/h2s/manual/laser-module-lnstallation-guide
 对准对应的槽位，将激光模组沿槽滑入，并按下锁紧扣固定。
 
 ![anzhaung.webp](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/installation-laser/anzhaung.webp)
+
+将线缆连接至工具头顶部连接器。
+
+![](https://public-cdn.bblmw.com/wiki/new/h2/h2d-pro/maintenance/replace-toolhead-enhanced-cooling-fan/image-8_019.png)
 
 > 注意：打印前务必撕下激光保护膜，并确认机舱内无异物或打印碎屑，避免激光点燃造成安全隐患。
 

@@ -4,7 +4,7 @@ title: "耗材变轨器进料失败排查指南 "
 description: "本文介绍了如何解决 耗材变轨器进料失败的问题"
 tags: []
 created: 2026-05-08T03:40:45.655Z
-updated: 2026-05-28T04:10:21.496Z
+updated: 2026-06-25T02:20:48.927Z
 source: https://wiki.bambulab.com/zh/x2d/troubleshooting/filament-track-switch-loading-failure
 ---
 
@@ -43,7 +43,7 @@ source: https://wiki.bambulab.com/zh/x2d/troubleshooting/filament-track-switch-l
 | --- | --- |
 | 横截面正面示意图 | 横截面侧面示意图 |
 
-> 更多耗材变轨器详细介绍以及 X2D 打印机加装耗材变轨器的具体步骤请参考：[耗材变轨器使用指南](../../general/manual/filament-track-switch.md)、[耗材变轨器使用指南 - H2 系列](../../general/manual/filament-track-switch-h2.md)。
+> 更多耗材变轨器详细介绍以及 X2D 打印机加装耗材变轨器的具体步骤请参考：[耗材变轨器使用指南 -X2D](../../general/manual/filament-track-switch.md)、[耗材变轨器使用指南 - H2 系列](../../general/manual/filament-track-switch-h2.md)。
 
 > 如果您在参考以上措施后问题仍未解决，建议您提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)，并附上近期的打印机日志；如果您已经提交过服务工单，也可以直接在原工单中[补充更新日志](../../x1/troubleshooting/how-to-upload-log.md)。
 >

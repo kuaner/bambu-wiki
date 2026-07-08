@@ -4,7 +4,7 @@ title: "打印机电路故障排查 - A1"
 description: "A1 电路相关故障排查方法"
 tags: []
 created: 2025-02-09T02:51:40.456Z
-updated: 2026-05-27T09:02:14.615Z
+updated: 2026-07-06T08:42:04.326Z
 source: https://wiki.bambulab.com/zh/a1/troubleshooting/circuit-fault
 ---
 

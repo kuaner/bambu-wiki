@@ -4,7 +4,7 @@ title: "AMS/AMS 2 Pro A2L 置顶方案安装指南"
 description: "介绍 AMS/AMS 2 Pro A2L 置顶方案模型的安装方法"
 tags: []
 created: 2026-06-16T02:46:30.410Z
-updated: 2026-06-17T01:57:04.657Z
+updated: 2026-06-30T07:23:04.246Z
 source: https://wiki.bambulab.com/zh/a2l/manual/AMS_2_Pro_Top_Mount
 ---
 
@@ -115,6 +115,16 @@ source: https://wiki.bambulab.com/zh/a2l/manual/AMS_2_Pro_Top_Mount
 将线缆卡入理线器。安装完成后，效果如下图所示。
 
 ![31-final-installed-cable-organizer.jpeg](https://wiki.bambulab.com/a2l/manual/ams-2/31-final-installed-cable-organizer.jpeg)
+
+## 附录：安装料管定位导向件
+
+料管定位导向件用于防止连接不同类型 AMS 时，料管在五通入口处过度弯曲导致进料失败。如需安装，请参考下方步骤。
+
+- 将料管定位导向件对准工具头五通组件，向下压紧，确保安装到位
+
+|  |  |
+| --- | --- |
+|  |  |
 
 ## 结束语
 

@@ -4,7 +4,7 @@ title: "主页"
 description: ""
 tags: []
 created: 2022-07-27T15:03:58.612Z
-updated: 2026-06-09T08:09:29.511Z
+updated: 2026-07-07T03:44:39.703Z
 source: https://wiki.bambulab.com/zh/home
 ---
 
@@ -141,7 +141,7 @@ MakerWorld](https://makerworld.com.cn)
 
 在 wiki 各页面底部的评论区，您可以留下页面反馈、提问、补充信息，或者纠正页面内容中的错误。
 
-**请注意，我们无法在评论中提供技术支持。** 如需解决具体技术问题或请求帮助，请参考[此页面](https://wiki.bambulab.com/zh/X1/troubleshooting/how-to-upload-log)，了解如何联系支持团队以获取帮助。
+**请注意，我们无法在评论中提供技术支持。** 如需解决具体技术问题或请求帮助，请参考[此页面](x1/troubleshooting/how-to-upload-log.md)，了解如何联系支持团队以获取帮助。
 
 ## 您对本网站的使用
 

@@ -4,7 +4,7 @@ title: "Bambu Lab 软件"
 description: ""
 tags: []
 created: 2022-07-28T09:52:39.762Z
-updated: 2026-06-12T09:19:12.143Z
+updated: 2026-07-03T04:22:46.880Z
 source: https://wiki.bambulab.com/zh/software
 ---
 
@@ -106,6 +106,7 @@ CyberBrick 是一款模块化智能玩具生态系统，结合了可编程硬件
 - [查看切片信息](bambu-studio/view-slicing-information.md)
 - [在 Bambu Studio 中使用 AMS](bambu-studio/use-ams-on-bambu-studio.md)
 - [耗材管理](bambu-studio/filament-manager.md)
+- [混色打印](bambu-studio/color-mixing.md)
 - [打印选项](studio-handy/print-options.md)
 - [Bambu Studio 多盘打印指南](studio-handy/multi-plate-printing.md)
 - [Bambu Studio MacOS 常用操作](studio-handy/mac-frequent-operations.md)
@@ -118,6 +119,7 @@ CyberBrick 是一款模块化智能玩具生态系统，结合了可编程硬件
 #### 多色打印
 
 - [多色打印指南](bambu-studio/multi-color-printing.md)
+- [混色打印](bambu-studio/color-mixing.md)
 - [涂色工具使用指南](bambu-studio/color-painting-tool.md)
 - [减少多色打印时的材料浪费](bambu-studio/reduce-wasting-during-filament-change.md)
 

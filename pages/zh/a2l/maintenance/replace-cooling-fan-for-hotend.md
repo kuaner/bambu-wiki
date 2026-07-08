@@ -4,7 +4,7 @@ title: "A2L 更换热端风扇"
 description: "本文介绍了如何更换 A2L 热端风扇"
 tags: []
 created: 2026-06-01T13:07:17.334Z
-updated: 2026-06-05T07:38:30.551Z
+updated: 2026-06-22T07:21:52.230Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-cooling-fan-for-hotend
 ---
 
@@ -65,7 +65,7 @@ A2L 热端风扇
 
 ### 4 . 断开连热端风扇接线
 
-用手握住插头根部，**垂直于 PCB 面方向用力抬起以解锁插头断开热端风扇插头**。初次拆卸时，插头上有胶水防松，可以使用镊子等工具辅助抬起插头。  
+用手握住插头根部，**垂直于 PCB 面方向用力抬起以解锁插头断开热端风扇插头**。初次拆卸时，插头上有胶水防松，必须先使用镊子等工具**清理胶水或胶布后再操作拔出**。  
 ![rdfs002.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-cooling-fan-for-hotend/rdfs002.webp)![插头.jpg](https://wiki.bambulab.com/h2/maintenance/laser-module-40w/%E6%8F%92%E5%A4%B4.jpg)
 
 > 注意：热端风扇插头拆卸方式为从线材根部向上抬起取下，请勿直接拉拽线材。

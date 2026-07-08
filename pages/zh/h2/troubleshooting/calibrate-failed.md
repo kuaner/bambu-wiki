@@ -4,7 +4,7 @@ title: "开机校准过程故障排查"
 description: ""
 tags: ["h2d"]
 created: 2025-10-17T02:26:46.652Z
-updated: 2026-05-12T08:12:52.869Z
+updated: 2026-07-02T03:02:34.783Z
 source: https://wiki.bambulab.com/zh/h2/troubleshooting/calibrate-failed
 ---
 
@@ -20,15 +20,15 @@ source: https://wiki.bambulab.com/zh/h2/troubleshooting/calibrate-failed
 
 | 故障代码 | 故障提示 | 解决方案 |
 | --- | --- | --- |
-| 0300-4030 | Z轴回零失败，请确认热床滑块固定螺丝已取出且热床升降无异物阻挡。 | [X1](https://wiki.bambulab.com/zh/X1/troubleshooting/z-axis-homing-failure)  |  [P2S](https://wiki.bambulab.com/zh/P2S/troubleshooting/z-axis-homing-failure)  |  [H2 系列](z-axis-homing-failure.md) |
-| 0300-4002 \ 0300-4038 | 热床调平失败。 | [X1](https://wiki.bambulab.com/zh/X1/troubleshooting/bed-leveling-failure)  |  [P2S](https://wiki.bambulab.com/zh/P2S/troubleshooting/bed-leveling-failure)  |  [H2 系列](bed-leveling-failure.md) |
+| 0300-4030 | Z轴回零失败，请确认热床滑块固定螺丝已取出且热床升降无异物阻挡。 | [X1](https://wiki.bambulab.com/zh/X1/troubleshooting/z-axis-homing-failure)  |  [P2S/X2D](https://wiki.bambulab.com/zh/P2S/troubleshooting/z-axis-homing-failure)  |  [H2 系列](z-axis-homing-failure.md)  |  [A2L](../../a2l/troubleshooting/hmscode/0300_1800_0001_0005.md) |
+| 0300-4002 \ 0300-4038 | 热床调平失败。 | [X1](https://wiki.bambulab.com/zh/X1/troubleshooting/bed-leveling-failure)  |  [P2S/X2D](https://wiki.bambulab.com/zh/P2S/troubleshooting/bed-leveling-failure)  |  [H2 系列](bed-leveling-failure.md)  |  [A2L](../../a2l/troubleshooting/hmscode/0300_2d00_0001_0006.md) |
 | 0300-4032 | XY回零失败。 | [通用指南](xy-axis-homing-failure.md) |
-| 0300-4036 | 喷嘴偏移校准失败。 | [H2D\H2C](nozzle-offset-calibration-failure.md) |
-| 0300-4015 \ 0300-4037 | 喷嘴裹头位置检测失败。 | [P2S](https://wiki.bambulab.com/zh/P2S/troubleshooting/nozzle-clumping-detection) |
-| 0300-4035 | 喷嘴清理失败。 | [P2S](https://wiki.bambulab.com/zh/P2S/troubleshooting/nozzle-cleaning-failure) |  [H2 系列](nozzle-cleaning-failure.md) |
-| 0500-4095 | 未检测到打印板。 | [P2S](https://wiki.bambulab.com/zh/P2S/troubleshooting/build-plate-not-detected)  |  [H2 系列](build-plate-not-detected.md) |
-| 05FF-4031 \ 0300-4031 | 热端未安装，请安装后重新校准。（H2D\H2C 请检查左右热端是否未安装） | [P2S](https://wiki.bambulab.com/zh/P2S/troubleshooting/hotend-not-installed)  |  [H2S](https://wiki.bambulab.com/zh/H2S/troubleshooting/hotend-not-installed)  |  [H2D\H2C](hotend-not-installed.md) |
-| 0300-4039 | 喷嘴在位检测失败。 | [H2 系列](nozzle-detection-failed.md)  |  [P2S](../../p2s/troubleshooting/hmscode/0300_1800_0001_000B.md) |
+| 0300-4036 | 喷嘴偏移校准失败。 | [H2D\H2C](nozzle-offset-calibration-failure.md) |  [X2D](../../x2d/troubleshooting/nozzle-offset-calibration-failure.md) |
+| 0300-4015 \ 0300-4037 | 喷嘴裹头位置检测失败。 | [P2S](https://wiki.bambulab.com/zh/P2S/troubleshooting/nozzle-clumping-detection) |  [X2D](../../x2d/troubleshooting/nozzle-clumping-detection.md) |
+| 0300-4035 | 喷嘴清理失败。 | [P2S](https://wiki.bambulab.com/zh/P2S/troubleshooting/nozzle-cleaning-failure) |  [H2 系列](nozzle-cleaning-failure.md) |  [X2D](../../x2d/troubleshooting/nozzle-cleaning-failure.md) |
+| 0500-4095 | 未检测到打印板。 | [P2S/X2D](https://wiki.bambulab.com/zh/P2S/troubleshooting/build-plate-not-detected)  |  [H2 系列](build-plate-not-detected.md)  |  [A2L](../../x1/troubleshooting/hmscode/0300_0D00_0001_0003.md) |
+| 05FF-4031 \ 0300-4031 | 热端未安装，请安装后重新校准。（H2D\H2C 请检查左右热端是否未安装） | [P2S](https://wiki.bambulab.com/zh/P2S/troubleshooting/hotend-not-installed)  |  [X2D](../../x2d/troubleshooting/hotend-not-installed.md)  |  [H2S](https://wiki.bambulab.com/zh/H2S/troubleshooting/hotend-not-installed)  |  [H2D\H2C](hotend-not-installed.md)  |  [A2L](../../a2l/troubleshooting/hmscode/0300_0200_0001_0009.md) |
+| 0300-4039 | 喷嘴在位检测失败。 | [H2 系列](nozzle-detection-failed.md)  |  [P2S](../../p2s/troubleshooting/hmscode/0300_1800_0001_000B.md)  |  [X2D](https://wiki.bambulab.com/zh/x2d/troubleshooting/hmscode/0300_1800_0001_000B ) |
 
 请参考以上列出的排查故障指引，在问题解决后请在屏幕上点击**重新校准。**
 

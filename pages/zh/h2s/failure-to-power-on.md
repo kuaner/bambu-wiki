@@ -4,7 +4,7 @@ title: "H2S 打印机上电异常排查指南"
 description: "本文将引导您完成 H2S 设备在开机后无法正常工作的故障排查流程。"
 tags: ["h2s"]
 created: 2026-02-25T03:38:15.389Z
-updated: 2026-06-10T07:03:10.173Z
+updated: 2026-07-03T02:34:58.301Z
 source: https://wiki.bambulab.com/zh/h2s/failure-to-power-on
 ---
 
@@ -85,7 +85,7 @@ M3["关机<br/>拔下 AP 板 XT30 接头 + Type-C 接头（TH 线缆）<br/>再�
 M4{"MC 板是否依旧异常？"}:::decision
 TO\_AP["转 ：AP 板及其部件排查"]:::proc
 TO\_TH["转 ：TH 板及其部件排查"]:::proc
-M5["关机<br/>拔下 MC 板所有插头<br/>开机观察 MC 板指示灯"]:::proc
+M5["关机<br/>拔下 MC 板正面的所有插头<br/>开机观察 MC 板指示灯"]:::proc
 M6{"MC 板是否恢复正常？"}:::decision
 M7["关机后逐个装回组件插头<br/>逐次开机定位异常组件"]:::proc
 M8["更换 MC 板"]:::proc

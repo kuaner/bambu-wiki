@@ -4,7 +4,7 @@ title: "打印机校准指南"
 description: "本指南提供拓竹打印机如果进行校准的方法。"
 tags: ["a1", "p1", "x1"]
 created: 2025-03-11T07:16:25.235Z
-updated: 2026-06-02T02:30:39.968Z
+updated: 2026-07-08T02:29:30.170Z
 source: https://wiki.bambulab.com/zh/general/printer-calibration
 ---
 
@@ -43,7 +43,7 @@ source: https://wiki.bambulab.com/zh/general/printer-calibration
 
 ### P1 系列
 
-点击屏幕右侧“设置”按钮，向下翻页找到“校准”按钮，点击确认之后您可以选择是否执行校准。  
+点击屏幕左侧“设置”按钮，向下翻页找到“校准”按钮，点击确认之后您可以选择是否执行校准。  
 校准项目包括振动补偿、电机降噪、自动热床调平。  
 ![20250309-200209.jpg](https://wiki.bambulab.com/screen-operation/calibration/11/20250309-200209.jpg)  
 ![20250309-200203.jpg](https://wiki.bambulab.com/screen-operation/calibration/11/20250309-200203.jpg)
@@ -68,9 +68,9 @@ source: https://wiki.bambulab.com/zh/general/printer-calibration
 | --- | --- |
 |  |  |
 
-### P2S/X2D
+### P2S
 
-在 P2S/X2D 屏幕点击 **“设置” > “校准”** 进入校准界面，您可以根据需要，选择校准任务，比如 **“打印校准”**。
+在 P2S 屏幕点击 **“设置” > “校准”** 进入校准界面，您可以根据需要，选择校准任务，比如 **“打印校准”**。
 
 |  |  |
 | --- | --- |
@@ -79,6 +79,18 @@ source: https://wiki.bambulab.com/zh/general/printer-calibration
 点击“打印校准”将会出现四个校准选择，您可以根据需要进行勾选。
 
 ![p2s-print-calibration-cn.png](https://wiki.bambulab.com/screen-operation/calibration/p2s-print-calibration-cn.png)
+
+### X2D
+
+在 X2D 屏幕点击 **“设置” > “校准”** 进入校准界面，您可以根据需要，选择校准任务，比如 **“打印校准”**。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+点击“打印校准”将会出现五个校准选择，您可以根据需要进行勾选。
+
+![x2d_print_calibration.png](https://wiki.bambulab.com/screen-operation/calibration/x2d_print_calibration.png)
 
 ## 通过 Bambu Studio 执行校准
 
@@ -96,7 +108,6 @@ source: https://wiki.bambulab.com/zh/general/printer-calibration
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
-> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
