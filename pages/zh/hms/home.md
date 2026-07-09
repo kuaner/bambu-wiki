@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-07-08T01:39:28.227Z
+updated: 2026-07-08T12:55:53.629Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -491,13 +491,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-0600-0001-0002
 >
-> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
+> - [A2L](../a2l/troubleshooting/hmscode/0300_0600_0001_0002.md)
 
 > **HMS\_0300-0600-0001-0002: A电机短路，可能电机故障。**
 >
 > **Synonyms:** 0300-0600-0001-0002
 >
-> - [A2L](../a2l/troubleshooting/hmscode/0300_0600_0001_0002.md)
+> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
 
 > **HMS\_0300-0600-0001-0002: A电机短路，可能电机故障。**
 >
@@ -1895,7 +1895,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-3500-0002-0002
 >
-> - [H2D](../h2d/troubleshooting/hmscode/0300_3500_0001_0001.md)
+> - [H2C / H2D / H2D Pro / H2S](../h2d/troubleshooting/hmscode/0300_3500_0001_0001.md)
 
 > **HMS\_0300-3600-0001-0001: 腔温加热循环风扇转速过低或停转，可能被杂物卡住或连接器未插好。**
 >
@@ -3929,7 +3929,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0700-9700-0003-0001, 0701-9700-0003-0001, 0702-9700-0003-0001, 0703-9700-0003-0001, 1800-9700-0003-0001, 1801-9700-0003-0001, 1802-9700-0003-0001, 1803-9700-0003-0001, 1804-9700-0003-0001, 1805-9700-0003-0001, 1806-9700-0003-0001, 1807-9700-0003-0001
 >
-> - [A1 / A1 Mini / H2C / H2D / H2D Pro / H2S / P1P / P1S / P2S / X1 / X1C / X1E](../h2d/troubleshooting/hmscode/0700_9700_0003_0001.md)
+> - [A1 / A1 Mini / A2L / H2C / H2D / H2D Pro / H2S / P1P / P1S / P2S / X1 / X1C / X1E](../h2d/troubleshooting/hmscode/0700_9700_0003_0001.md)
 
 > **HMS\_0700-9800-0002-0001: AMS A 电源适配器电压过低，可能导致烘干温度偏低，请更换电源适配器。**
 >
