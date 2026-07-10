@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-07-08T12:55:53.629Z
+updated: 2026-07-10T02:59:48.420Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -5040,6 +5040,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 1A00-2100-0002-0002, 1A00-2200-0002-0002, 1A00-2300-0002-0002, 1A00-2400-0002-0002, 1A00-2500-0002-0002, 1A00-2600-0002-0002
 >
 > - [H2C](../h2c/troubleshooting/hmscode/1A00_2100_0002_0002.md)
+
+> **HMS\_1A00-3000-0001-0041: 工具头感应热端在位检测传感器短路，请重新插拔传感器连接线或更换传感器。**
+>
+> **Synonyms:** 1A00-3000-0001-0041
+>
+> - [H2C](https://wiki.bambulab.com/zh/h2c/troubleshooting/hmscode/1A00_3000_0001_0041)
 
 > **HMS\_1A00-E000-0001-0005: 感应热端挂架回中过程中被异物阻挡，请清理挂架运动路径上异物。**
 >

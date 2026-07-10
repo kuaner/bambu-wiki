@@ -4,7 +4,7 @@ title: "AMS 2 Pro 和 AMS HT 烘干指南"
 description: "本文将介绍 AMS 2 Pro 和 AMS HT 的烘干工作流程。"
 tags: ["ams 2 pro", "ams ht"]
 created: 2025-05-27T11:28:24.077Z
-updated: 2026-07-08T01:45:53.690Z
+updated: 2026-07-09T10:14:29.305Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/manual/drying-function
 ---
 
@@ -163,7 +163,7 @@ AMS 具备主动控制的进气口与出气口。在烘干过程中，系统会�
 
 ### 电源要求说明
 
-> 请勿使用第三方电源适配器，非官方配件可能导致设备损坏。
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 不同机型与供电方式
 

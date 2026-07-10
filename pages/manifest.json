@@ -9,7 +9,7 @@
   "zh/h2/troubleshooting/hmscode/0500_0400_0002_0035": "2025-07-24T01:10:23.245Z",
   "zh/p2s/maintenance/belt-tension": "2026-01-06T03:47:31.601Z",
   "zh/x1/manual/printing-on-cool-plate": "2024-06-07T06:45:50.700Z",
-  "zh/knowledge-sharing/all-public-links": "2026-07-09T04:05:05.662Z",
+  "zh/knowledge-sharing/all-public-links": "2026-07-10T04:05:05.385Z",
   "zh/x2d/troubleshooting/hmscode/0700_8900_0002_0004": "2026-04-14T13:15:32.834Z",
   "zh/p1": "2026-06-30T07:35:48.745Z",
   "zh/x2d/troubleshooting/hmscode/0300_C000_0001_0001": "2026-04-14T13:16:37.739Z",
@@ -1900,7 +1900,7 @@
   "zh/miniwiki/hms/h2/troubleshooting/1800_7000_0002_0002": "2026-04-15T07:56:39.572Z",
   "zh/a1/maintenance/replace-x-belt": "2026-05-12T06:39:02.492Z",
   "zh/p2s/maintenance/replace-screen": "2026-04-14T15:25:47.308Z",
-  "zh/hms/home": "2026-07-08T12:55:53.629Z",
+  "zh/hms/home": "2026-07-10T02:59:48.420Z",
   "zh/p2s/maintenance/replace-mc-and-ac-boards": "2026-06-11T04:00:09.213Z",
   "zh/software/bambu-studio/release/release-note-2-5-3": "2026-07-03T04:27:21.613Z",
   "zh/h2/maintenance/replace-side-glass": "2026-03-11T03:48:22.075Z",
@@ -2013,7 +2013,7 @@
   "zh/a1/maintenance/supportive-footpad": "2024-11-06T07:34:07.333Z",
   "zh/filament-acc/filament/slice-param": "2026-05-12T06:39:02.487Z",
   "zh/p1/manual/screen-operation": "2025-12-22T02:46:23.624Z",
-  "zh/ams-2-pro/manual/drying-function": "2026-07-08T01:45:53.690Z",
+  "zh/ams-2-pro/manual/drying-function": "2026-07-09T10:14:29.305Z",
   "zh/x2d/maintenance/replace-filament-cutter-lever": "2026-06-10T12:08:08.157Z",
   "zh/x2d/maintenance/replace-mc-board-and-the-cooling-fan": "2026-04-24T03:02:41.939Z",
   "zh/p2s/maintenance/replace-filament-cutter-stopper": "2026-06-02T08:54:53.502Z",
@@ -2515,5 +2515,6 @@
   "zh/miniwiki/hms/x1/troubleshooting/0700_4000_0002_0001": "2026-06-18T07:07:17.016Z",
   "zh/miniwiki/hms/a2l/troubleshooting/0300_1a00_0002_0001": "2026-06-25T02:54:35.437Z",
   "zh/h2d/troubleshooting/hmscode/0500_0300_0001_000b": "2026-07-07T08:53:55.035Z",
-  "zh/p2s/troubleshooting/hmscode/0500_0300_0001_000b": "2026-07-07T09:14:20.351Z"
+  "zh/p2s/troubleshooting/hmscode/0500_0300_0001_000b": "2026-07-07T09:14:20.351Z",
+  "zh/h2c/troubleshooting/hmscode/1A00_3000_0001_0041": "2026-07-10T02:53:45.002Z"
 }
