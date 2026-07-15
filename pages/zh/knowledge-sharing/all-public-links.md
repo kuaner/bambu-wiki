@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-07-14T04:05:05.611Z
+updated: 2026-07-15T04:05:06.017Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -1558,7 +1558,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [Bambu Studio 2.6.0 版本说明（Hotfix）](../software/bambu-studio/release/release-note-2-6-0.md)  
 [HMS\_0300-9800-0001-0002: 左侧窗霍尔传感器（上）异常，请检查连接排线是否松动。](../h2/troubleshooting/hmscode/0300_9800_0001_0002.md)  
 [ABS GF / PA6 GF 玻纤耗材使用指南](../filament/absgf_pa6gf.md)  
-[ASA CF / PAHT CF 使用指南](../filament/asacf_pahtcf.md)  
 [PET-CF / PPA-CF / PPS-CF / PA6-CF 使用指南](../filament/petcf_ppacf.md)  
   
 [HMS\_0300-2500-0001-0001: 右挤出机的涡流传感器频率过低，可能喷嘴未安装或喷嘴散热片距离传感器过远。](../x2d/troubleshooting/hmscode/0300_2500_0001_0001.md)  
@@ -1732,7 +1731,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [P1S 套装配件清单的补充说明](../p1/manual/p1s-combo-acc-in-the-box.md)  
 [如何把无盘耗材装到可重复使用料盘上](../general/swaping-new-filament-with-bambu-reusable-spool.md)  
 [HMS\_07FF-2000-0002-0002: 未发现外部挂载的耗材；请装入新的耗材。](../x1/troubleshooting/hmscode/07FF_2000_0002_0002.md)  
-[如何查找序列号及注册新序列号](../general/find-sn.md)  
 [简化模型](../software/bambu-studio/simplify-model.md)  
 [Bambu Studio 版本说明](../software/bambu-studio/release.md)  
 [动态流量校准](../software/bambu-studio/calibration_pa.md)  
@@ -1790,7 +1788,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [AMS 供料缓冲板更换指南](../ams/filament-buffer-connection-board-replacement-guide.md)  
 [P1P/P1S 固件发布记录](../p1/manual/P1P-firmware-release-history.md)  
 [HMS\_0300-0200-0001-0009: 喷嘴温控异常，热端可能未安装](../a1-mini/troubleshooting/hmscode/0300_0200_0001_0009.md)  
-[A1 热床不升温故障排查](../a1/troubleshooting/heatbed-not-heat-up.md)  
 [降低打印件漏液风险的指南](../filament/reduce-vase-leaking-guide.md)  
 [A1系列裹头检测功能介绍](../a1-mini/manual/nozzle-warp-detection.md)  
 [打印相同材料时关闭退料与冲刷以节省耗材](../ams/manual/ams-not-unloading-to-save-filament.md)  
@@ -1910,7 +1907,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [U 盘规格要求和使用建议](../h2/manual/usb-pecifications-and-usage-recommendations.md)  
 [AMS 2 Pro 拆装指南](../ams-2-pro/maintenance/disassembly-and-assembly.md)  
 [H2 系列打印机最大打印/加工范围](../h2/manual/max-printable-area.md)  
-[HMS\_0300-C000-0001-0003: 顶部自动风门动作异常，可能卡住。](../h2/troubleshooting/hmscode/0300_C000_0001_0003.md)  
 [HMS\_0300-C100-0001-0001: 自适应风道系统无法进入冷却模式，请检查风门状态。](../h2/troubleshooting/hmscode/0300_C100_0001_0001.md)   
 [AMS HT 模块介绍和连接配置](../ams-ht/manual/intro-and-connection-guide.md)   
 [HMS\_0500-0400-0002-0041: 当前激光模组使用时间较长，请及时清理烟尘，避免影响激光加工。](../h2/troubleshooting/hmscode/0500_0400_0002_0041.md)  
@@ -2093,7 +2089,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [拓竹铁氟龙料管介绍](../filament-acc/acc/ptfe-tube.md)  
 [更换 X2D 内衬](../x2d/maintenance/replace-inner-lining.md)  
 [A1mini 同步带张紧](../a1-mini/maintenance/belt_tension.md)  
-[挤出机维护指南：P1系列挤出机维护](../p1/maintenance/extruder-cleaning-guide.md)  
 [更换 X 轴组件](../x2d/maintenance/replace-x-axis-assembly.md)  
 [HMS\_0300-2700-0001-0004: 喷嘴偏移校准传感器信号异常，可能传感器已损坏或接线松动。](../x2d/troubleshooting/hmscode/0300_2700_0001_0004.md)  
 [P2S/X2D 挤出电机测试方法](../p2s/troubleshooting/extruder_motor_test.md)  
@@ -2492,11 +2487,17 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [多设备管理](../software/bambu-studio/multi-device-management.md)  
 [PLA Basic 与 PETG HF、PETG Basic 互相支撑打印指南](../filament-acc/filament/h2d-pla-and-petg-mutual-support.md)  
 [打印错层](layer-shifts.md)  
-[全部公开的链接](.md)  
 [运动精度校准](../h2/manual/motion-accuracy.md)  
 [PETG 使用指南](../filament/petg.md)  
 [X2D](../x2d.md)  
 [更换 X2D 堵嘴片](../x2d/maintenance/replace-flow-blocker.md)  
 [更换 X2D 的左霍尔检测板](../x2d/maintenance/replace-extruder-filament-sensor-left.md)  
 [X2D 单机开箱指南](../x2d/manual/unboxing-x2d.md)  
-[A2L 包装清单](../a2l/manual/acc-in-the-box.md)
+[A2L 包装清单](../a2l/manual/acc-in-the-box.md)  
+[X2D 安装外排气管指南](https://wiki.bambulab.com/zh/x2d/filament-acc/install-external-exhaust-pipe)  
+[如何查找序列号及注册新序列号](../general/find-sn.md)  
+[A1 热床不升温故障排查](../a1/troubleshooting/heatbed-not-heat-up.md)  
+[全部公开的链接](.md)  
+[HMS\_0300-C000-0001-0003: 顶部自动风门动作异常，可能卡住。](../h2/troubleshooting/hmscode/0300_C000_0001_0003.md)  
+[ASA CF / PAHT CF 使用指南](../filament/asacf_pahtcf.md)  
+[挤出机维护指南：P1系列挤出机维护](../p1/maintenance/extruder-cleaning-guide.md)
