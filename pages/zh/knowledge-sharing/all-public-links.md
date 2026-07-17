@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-07-16T04:05:04.925Z
+updated: 2026-07-17T04:05:08.436Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -1746,7 +1746,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0300-1800-0001-0004: 挤出机涡流传感器数据异常，可能遇到传感器断路。](../a1-mini/troubleshooting/hmscode/0300_1800_0001_0004.md)  
 [HMS\_0300-1A00-0002-0001: 喷嘴被耗材包裹或打印板放歪。](../a1-mini/troubleshooting/hmscode/0300_1A00_0002_0001.md)  
 [A1 mini 主要组件介绍](../a1-mini/manual/intro-a1-mini.md)  
-[开箱 A1 mini 套装/单机](../a1-mini/manual/unboxing-a1-mini-combo.md)  
 [AMS](../ams.md)  
 [AMS lite](../ams-lite.md)  
 [纹理 PEI 板清洁指南](../filament-acc/acc/pei-plate-clean-guide.md)  
@@ -1770,10 +1769,8 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [局部拉丝或漏料](../filament-acc/filament/print-quality/stringing-oozing.md)  
 [打印质量与解决办法](../filament-acc/filament/print-quality.md)  
 [更换气动接头](../filament-acc/acc/replacing-the-pneumatic-connector.md)  
-[A1 combo 开箱指南（旧）](../a1/manual/unboxing-a1-combo.md)  
 [A1 产品维护与保养](../a1/maintenance/basic-maintenance.md)  
 [A1 常见问答（FAQ）](../a1/manual/faq.md)  
-[AMS lite 置顶方案操作指南 —— A1 系列](../a1/manual/ams-lite-top-mount-tutorial.md)  
 [A1 主要组件介绍](../a1/manual/intro-a1.md)  
 [包装清单补充说明](../a1/manual/acc-in-the-box.md)  
 [桥接设置](../software/bambu-studio/parameter/bridge.md)  
@@ -1938,7 +1935,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换 H2D Pro AP 板](../h2d-pro/maintenance/replace-ap-board.md)  
 [H2D Pro 常见问题解答（FAQ）](../h2/manual/h2d-pro-faq.md)  
 [H2D 安装工具头散热增强风扇](../h2d/maintenance/enhanced-cooling-fan-installation.md)  
-[H2D Pro](../h2d-pro.md)  
 [H2D Pro 固件发布记录](../h2d-pro/manual/firmware-release-history.md)  
 [AMS 湿度检测功能](../ams/manual/humidity-detection-function.md)  
 [冷拔的概念及其操作（X1系列）](../x1/maintenance/what-is-cold-pull-and-how-to-perform-it.md)  
@@ -2325,7 +2321,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换 AMS 2 Pro 的料管](../ams-2-pro/maintenance/replace-the-ptfe-tube.md)  
   
 [耗材 & 配件](../filament-acc.md)  
-[X1 系列](../x1.md)  
 [更换工具头滑车前盖/后盖](../x1/maintenance/toolhead-front-carriage.md)  
 [H2 系列曲面雕刻功能使用指南](../software/bambu-suite/manual/surface-engraving.md)  
 [如何关闭准备阶段的振动校准过程](how-to-turn-off-the-vibration-calibration.md)  
@@ -2496,8 +2491,14 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换切刀刀柄](../x1/maintenance/replace-cutter-lever.md)  
 [拓竹打印板介绍](../filament-acc/acc/plates.md)  
 [绒毛表面](../software/bambu-studio/parameter/fuzzy-skin.md)  
-[全部公开的链接](.md)  
 [如何查询耗材批次号及序列号](../filament-acc/filament-serial-number.md)  
 [更换 H2 系列打印机线缆](../h2/maintenance/replace-the-H2D-printer-cable-package.md)  
 [更换 H2S 霍尔开关板组件](../h2s/maintenance/replace-extruder-filament-sensor.md)  
-[更换 H2S 霍尔开关板组件线缆](../h2s/maintenance/extruder-filament-sensor-cable.md)
+[更换 H2S 霍尔开关板组件线缆](../h2s/maintenance/extruder-filament-sensor-cable.md)  
+[开箱 A1 mini 套装/单机](../a1-mini/manual/unboxing-a1-mini-combo.md)  
+[X1 系列](../x1.md)  
+[A1 combo 开箱指南（旧）](../a1/manual/unboxing-a1-combo.md)  
+[AMS lite 置顶方案操作指南 —— A1 系列](../a1/manual/ams-lite-top-mount-tutorial.md)  
+[全部公开的链接](.md)  
+[H2D Pro](../h2d-pro.md)  
+[如何使用网线接口连接打印机](https://wiki.bambulab.com/zh/x1e/maintenance/how-to-use-internet-cable)
