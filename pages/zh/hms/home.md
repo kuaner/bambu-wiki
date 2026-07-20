@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-07-10T02:59:48.420Z
+updated: 2026-07-20T02:10:47.290Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -491,13 +491,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-0600-0001-0002
 >
-> - [A2L](../a2l/troubleshooting/hmscode/0300_0600_0001_0002.md)
+> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
 
 > **HMS\_0300-0600-0001-0002: A电机短路，可能电机故障。**
 >
 > **Synonyms:** 0300-0600-0001-0002
 >
-> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
+> - [A2L](../a2l/troubleshooting/hmscode/0300_0600_0001_0002.md)
 
 > **HMS\_0300-0600-0001-0002: A电机短路，可能电机故障。**
 >
@@ -5040,6 +5040,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 1A00-2100-0002-0002, 1A00-2200-0002-0002, 1A00-2300-0002-0002, 1A00-2400-0002-0002, 1A00-2500-0002-0002, 1A00-2600-0002-0002
 >
 > - [H2C](../h2c/troubleshooting/hmscode/1A00_2100_0002_0002.md)
+
+> **HMS\_1A00-3000-0001-0040: 工具头感应热端在位检测传感器断路，请重新插拔传感器连接线或更换传感器。**
+>
+> **Synonyms:** 1A00-3000-0001-0040
+>
+> - [H2C](https://wiki.bambulab.com/zh/h2c/troubleshooting/hmscode/1A00_3000_0001_0040)
 
 > **HMS\_1A00-3000-0001-0041: 工具头感应热端在位检测传感器短路，请重新插拔传感器连接线或更换传感器。**
 >
