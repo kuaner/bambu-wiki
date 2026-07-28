@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-07-20T02:10:47.290Z
+updated: 2026-07-27T06:19:53.355Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -617,13 +617,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-0800-0001-0002
 >
-> - [A2L](../a2l/troubleshooting/hmscode/0300_0800_0001_0002.md)
+> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
 
 > **HMS\_0300-0800-0001-0002: Z电机短路，可能电机故障。**
 >
 > **Synonyms:** 0300-0800-0001-0002
 >
-> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
+> - [A2L](../a2l/troubleshooting/hmscode/0300_0800_0001_0002.md)
 
 > **HMS\_0300-0800-0001-0003: Z电机电阻异常，可能是电机故障。**
 >
@@ -4608,6 +4608,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 0C00-0400-0002-0017
 >
 > - [H2C / H2D / H2D Pro / H2S](../h2d/troubleshooting/hmscode/0C00_0400_0002_0017.md)
+
+> **HMS\_0C00-0400-0002-0018: 打印后切割偏移校准失败，本次切割可能存在误差。请先尝试执行工具箱中的刀切模组偏移校准，再进行打印后切割；若仍失败，请检查切割刀尖是否磨损。**
+>
+> **Synonyms:** 0C00-0400-0002-0018
+>
+> - [H2C / H2D / H2D Pro / H2S](https://wiki.bambulab.com/zh/h2d/troubleshooting/hmscode/0C00_0400_0002_0018)
 
 > **HMS\_0C00-0400-0002-0019: 俯视摄像头安装偏移，请参照Wiki重新进行安装**
 >
