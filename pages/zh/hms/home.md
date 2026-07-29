@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-07-27T06:19:53.355Z
+updated: 2026-07-28T07:33:32.434Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -557,13 +557,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-0700-0001-0002
 >
-> - [A2L](../a2l/troubleshooting/hmscode/0300_0700_0001_0002.md)
+> - [P2S](../p2s/troubleshooting/hmscode/0300_0700_0001_0002.md)
 
 > **HMS\_0300-0700-0001-0002: B电机短路，可能电机故障。**
 >
 > **Synonyms:** 0300-0700-0001-0002
 >
-> - [P2S](../p2s/troubleshooting/hmscode/0300_0700_0001_0002.md)
+> - [A2L](../a2l/troubleshooting/hmscode/0300_0700_0001_0002.md)
 
 > **HMS\_0300-0700-0001-0003: B电机电阻异常，可能是电机故障。**
 >
@@ -617,13 +617,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0300-0800-0001-0002
 >
-> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
+> - [A2L](../a2l/troubleshooting/hmscode/0300_0800_0001_0002.md)
 
 > **HMS\_0300-0800-0001-0002: Z电机短路，可能电机故障。**
 >
 > **Synonyms:** 0300-0800-0001-0002
 >
-> - [A2L](../a2l/troubleshooting/hmscode/0300_0800_0001_0002.md)
+> - [A1 Mini / P1P / P1S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0300_0600_0001_0002.md)
 
 > **HMS\_0300-0800-0001-0003: Z电机电阻异常，可能是电机故障。**
 >
@@ -3725,7 +3725,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0700-7000-0002-0008, 0701-7000-0002-0008, 0702-7000-0002-0008, 0703-7000-0002-0008, 0704-7000-0002-0008, 0705-7000-0002-0008, 0706-7000-0002-0008, 0707-7000-0002-0008, 07FE-7000-0002-0008, 07FF-7000-0002-0008, 1800-7000-0002-0008, 1801-7000-0002-0008, 1802-7000-0002-0008, 1803-7000-0002-0008, 1804-7000-0002-0008, 1805-7000-0002-0008, 1806-7000-0002-0008, 1807-7000-0002-0008, 18FE-7000-0002-0008, 18FF-7000-0002-0008
 >
-> - [H2C / H2D / H2D Pro / H2S / P1P / P1S / P2S / X1 / X1C / X1E](../x1/troubleshooting/hmscode/0700_7000_0002_0008.md)
+> - [H2C / H2D / H2D Pro / H2S / P1P / P1S / P2S / X1 / X1C / X1E / X2D](../x1/troubleshooting/hmscode/0700_7000_0002_0008.md)
 
 > **HMS\_0700-7000-0002-000A: 获取切片文件中耗材与热端的匹配关系失败。**
 >
@@ -4710,6 +4710,12 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 > **Synonyms:** 1200-4500-0002-0001
 >
 > - [A2L](../a2l/troubleshooting/hmscode/1200_4500_0002_0001.md)
+
+> **HMS\_1200-4500-0002-0001: 切料传感器异常，请检查连接器是否插好。**
+>
+> **Synonyms:** 1200-4500-0002-0001
+>
+> - [A1 / A1 Mini](https://wiki.bambulab.com/zh/a1/troubleshooting/hmscode/1200_4500_0002_0001)
 
 > **HMS\_1200-4500-0002-0003: 切刀刀柄未松开，刀柄或刀片可能被卡住，或耗材霍尔接线异常。**
 >

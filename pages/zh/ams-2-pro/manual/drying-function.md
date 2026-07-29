@@ -4,7 +4,7 @@ title: "AMS 2 Pro 和 AMS HT 烘干指南"
 description: "本文将介绍 AMS 2 Pro 和 AMS HT 的烘干工作流程。"
 tags: ["ams 2 pro", "ams ht"]
 created: 2025-05-27T11:28:24.077Z
-updated: 2026-07-09T10:14:29.305Z
+updated: 2026-07-29T03:46:13.006Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/manual/drying-function
 ---
 
@@ -165,25 +165,26 @@ AMS 具备主动控制的进气口与出气口。在烘干过程中，系统会�
 
 > **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
-不同机型与供电方式
+#### 不同机型的供电方式
 
-1. H2 系列 / P2S（ **1 台 AMS 2 Pro 烘干**）
+1. H2 系列 / P2S / X2D（ **1 台 AMS 2 Pro 烘干**）
+
    - AMS 2 Pro 可通过 6-pin 线直接从打印机取电
    - 无需额外电源适配器
-   - ⚠️ 若未接适配器直接开启烘干时，P2S 打印机将无法执行对热床热端升温、XYZ移动和其他 AMS 进退料等操作（功率优先分配给 AMS）
-2. H2 系列 / P2S（**多台 AMS 2 Pro 同时烘干**）
+   > **说明**：若未接电源适配器直接开启烘干时，P2S / X2D 打印机将无法执行热床热端升温、XYZ 移动和 AMS 进退料等操作（功率优先分配给 AMS）
+2. H2 系列 / P2S / X2D（**多台 AMS 2 Pro 同时烘干**）
+
    - 仅 1 台 AMS 2 Pro 可通过 6-pin 线供电
-   - 其余 AMS 2 Pro 需使用 电源适配器（需单独购买）
+   - 其余 AMS 2 Pro 需使用 电源适配器（需单独购买）  
+     ![adapter.png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/adapter.png)
+3. X1 / P1 / A2L 系列打印机
 
-![adapter.png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/adapter.png)
-
-3. X1 / P1 /A2L 系列打印机
    - 每台 AMS 2 Pro 都 **必须使用电源适配器**才能开启烘干功能
 4. AMS HT
-   - 烘干功能**必须连接自带电源线**
-   - 不支持通过 6-pin 线供电烘干
 
-![cable.png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/cable.png)
+   - 烘干功能**必须连接自带电源线**
+   - 不支持通过 6-pin 线供电烘干  
+     ![cable.png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/cable.png)
 
 ---
 
