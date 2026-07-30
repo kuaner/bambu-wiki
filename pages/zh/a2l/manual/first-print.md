@@ -4,7 +4,7 @@ title: "A2L 首次打印"
 description: "本文介绍了 A2L AMS 套装及单机的首次打印方法。引导您使用 AMS lite 或外挂料盘装载耗材并完成进料，通过打印机屏幕、Bambu Handy 和 Bambu Studio 软件发起打印任务。"
 tags: []
 created: 2026-06-01T13:02:09.025Z
-updated: 2026-06-02T03:55:35.447Z
+updated: 2026-07-08T02:10:47.088Z
 source: https://wiki.bambulab.com/zh/a2l/manual/first-print
 ---
 
@@ -13,8 +13,8 @@ source: https://wiki.bambulab.com/zh/a2l/manual/first-print
 ## 打印流程概览
 
 - 根据您所购买的版本（[AMS 套装](#a2l-ams-%E5%A5%97%E8%A3%85%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F)/[单机](#a2l-%E5%8D%95%E6%9C%BA%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F)），将 AMS lite 或外挂料盘连接至打印机，装载耗材并完成进料。
-- 打印前，先[检查热床](#%E6%A3%80%E6%9F%A5%E7%83%AD%E5%BA%8A)和[清洁打印板](#%E6%B8%85%E6%B4%81%E6%89%93%E5%8D%B0%E6%9D%BF)的状态，再[发起打印](#%E4%B8%89%E3%80%81%E5%BC%80%E5%A7%8B%E6%89%93%E5%8D%B0)任务。
-- 打印结束后，等待模型冷却至室温后再[取下模型](#%E5%9B%9B%E3%80%81%E5%8F%96%E4%B8%8B%E6%A8%A1%E5%9E%8B)。如需更换耗材或长期不使用，请将[耗材退出](#%E4%BA%94%E3%80%81%E9%80%80%E6%96%99)打印机。
+- 打印前，先[检查热床](#heatbed)和[清洁打印板](#build-plate)的状态，再[发起打印](#start)任务。
+- 打印结束后，等待模型冷却至室温后再[取下模型](#remove)。如需更换耗材或长期不使用，请将[耗材退出](#unloading)打印机。
 
 ## 一、打印前准备
 

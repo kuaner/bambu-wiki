@@ -4,7 +4,7 @@ title: "A1 系列 AMS 连接教程"
 description: "本文介绍了 A1 系列通过料线选通器与 AMS 的连接指南"
 tags: []
 created: 2025-09-25T03:20:15.508Z
-updated: 2026-05-21T10:07:24.528Z
+updated: 2026-07-09T10:37:02.370Z
 source: https://wiki.bambulab.com/zh/a1/manual/ams-connection-guide
 ---
 
@@ -205,6 +205,8 @@ A1 系列打印机此前适配的是 AMS lite，在使用 AMS lite 进行打印�
 - 如需烘干耗材，则需要将电源适配器插入需要烘干的 AMS 中；否则，屏幕会显示功率不足；
 
 > **注意**：如果想使用 AMS HT 进行烘干，则需插入电源线。
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 ![](https://wiki.bambulab.com/a1/ams-connection-guide/image-41.png)
 

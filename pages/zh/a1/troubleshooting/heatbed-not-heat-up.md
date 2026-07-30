@@ -4,7 +4,7 @@ title: "A1 热床不升温故障排查"
 description: "本文简要介绍了 A1 热床不升温相关故障的排查步骤"
 tags: ["热床", "a1"]
 created: 2024-01-04T08:56:35.793Z
-updated: 2026-06-23T06:25:38.983Z
+updated: 2026-07-14T03:55:43.175Z
 source: https://wiki.bambulab.com/zh/a1/troubleshooting/heatbed-not-heat-up
 ---
 
@@ -45,6 +45,10 @@ source: https://wiki.bambulab.com/zh/a1/troubleshooting/heatbed-not-heat-up
 通电开机，观察屏幕上是否能够正常显示热床温度并控制热床加热。
 
 ![](https://wiki.bambulab.com/a1/maintenance/new-heatbed/3_connectors.png)
+
+部分热床的温度传感器存在转接口，请检查此处是否松脱，可使用镊子按压，确保连接紧密。
+
+![pixpin_2026-07-14_11-54-44.jpg](https://wiki.bambulab.com/a1/troubleshooting/heatbed-not-heat-up/pixpin_2026-07-14_11-54-44.jpg)
 
 ### 第 2 步：检查 AC 板状态
 

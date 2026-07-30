@@ -4,7 +4,7 @@ title: "开箱 A1 mini 套装/单机"
 description: "A1 mini 套装/单机的开箱步骤和注意事项"
 tags: []
 created: 2023-09-17T16:02:52.101Z
-updated: 2026-05-26T01:37:42.706Z
+updated: 2026-07-16T01:54:43.951Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/unboxing-a1-mini-combo
 ---
 
@@ -191,6 +191,8 @@ A1 mini 的 Y 轴采用了全金属导轮，这套导轨系统确保用户不需
 ## 安装集线器
 
 如图所示安装集线器。将黑色线缆卡进集线器的小孔中，将特氟龙管卡入其他四个大孔中。请注意，集线器需要靠近打印机的工具头而非 AMS lite。
+
+> 未安装集线器可能导致线缆与热床剐蹭。
 
 |  |  |
 | --- | --- |

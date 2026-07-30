@@ -4,7 +4,7 @@ title: "P2S 定期清洁维护建议"
 description: "关于 P2S 打印机的一些日常维护和保养建议。"
 tags: []
 created: 2025-10-14T13:14:40.579Z
-updated: 2026-06-16T10:08:44.463Z
+updated: 2026-07-28T03:22:43.808Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/period-maintenance
 ---
 
@@ -126,6 +126,8 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/period-maintenance
 > 若滤芯盖脏污严重且常规清洁无效，可将其置于水龙头下冲洗，同时用刷子清理。**注意**：水洗后必须彻底擦干滤芯盖，因其周围存在电子器件，残留水分可能影响器件正常功能。
 
 ## 挤出机清洁
+
+> 详细操作指南请参考：[挤出机堵塞清理指南](extruder-cleaning-guide.md)
 
 1. 用镊子打开挤出接口板的连接器盖子，断开进料霍尔板线缆。
 

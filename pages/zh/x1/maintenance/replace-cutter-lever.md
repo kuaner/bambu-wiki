@@ -4,7 +4,7 @@ title: "更换切刀刀柄"
 description: "介绍如何更换切刀杆的操作指引。"
 tags: []
 created: 2023-04-18T08:29:14.419Z
-updated: 2026-01-28T12:43:18.321Z
+updated: 2026-07-15T02:28:18.407Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-cutter-lever
 ---
 
@@ -26,6 +26,7 @@ source: https://wiki.bambulab.com/zh/x1/maintenance/replace-cutter-lever
 
 - 切刀刀柄
 - H1.5 内六角扳手
+- H2.0 内六角扳手
 - 镊子
 
 螺丝清单：
@@ -63,7 +64,7 @@ source: https://wiki.bambulab.com/zh/x1/maintenance/replace-cutter-lever
 
 |  |  |
 | --- | --- |
-| 用H1.5内六角扳手拧松切刀杆固定螺丝A，直到螺丝完全从挤出机上松出。 | 移除切刀刀柄。 |
+| 用内六角扳手拧松切刀杆固定螺丝A，直到螺丝完全从挤出机上松出。 | 移除切刀刀柄。 |
 
 ## 安装新切刀刀柄
 

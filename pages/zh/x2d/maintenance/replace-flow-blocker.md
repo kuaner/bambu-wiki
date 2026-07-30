@@ -4,7 +4,7 @@ title: "更换 X2D 堵嘴片"
 description: "本文介绍了如何更换 X2D 堵嘴片。"
 tags: ["x2d"]
 created: 2026-04-14T13:07:56.300Z
-updated: 2026-04-24T02:33:55.940Z
+updated: 2026-07-13T02:13:26.630Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-flow-blocker
 ---
 
@@ -14,8 +14,12 @@ source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-flow-blocker
 堵嘴片配件包装内包含：
 
 1. 堵嘴片
-2. 螺丝  
-   ![fac207.png](https://public-cdn.bblmw.com/wiki/new/x2d/sku_pics/fac207.png)
+2. 螺丝
+
+![fac207.png](https://public-cdn.bblmw.com/wiki/new/x2d/sku_pics/fac207.png)
+
+> 您可以在备件盒中找到附带的堵嘴片。  
+> ![x2d工具盒.jpg](https://wiki.bambulab.com/x2d/manual/unboxing/x2d%E5%B7%A5%E5%85%B7%E7%9B%92.jpg)
 
 ## 何时更换
 

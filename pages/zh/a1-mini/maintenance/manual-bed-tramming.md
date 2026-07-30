@@ -4,7 +4,7 @@ title: "A1 mini 热床手动调平"
 description: "介绍如何对A1 mini的热床进行手动调平"
 tags: ["调平", "手动调平", "热床调平"]
 created: 2023-10-10T01:03:52.174Z
-updated: 2025-10-09T04:29:32.206Z
+updated: 2026-07-08T07:56:00.598Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/manual-bed-tramming
 ---
 
@@ -34,11 +34,13 @@ Bambu Lab A1 mini 打印机的热床在出厂时是已调整好的，按照手�
 
 ## 开始调平
 
-首先，请将调平Gcode下载到SD卡中，将装有调平Gcode的SD卡插入打印机，然后开启打印机电源。
+首先，请将调平Gcode下载到SD卡中，将装有调平 G-code 的 SD 卡插入打印机，然后开启打印机电源。
 
 [a1mini\_manual\_bed\_screws\_adjust\_assist.gcode](https://wiki.bambulab.com/n1/bed-leveling/a1mini_manual_bed_screws_adjust_assist.gcode)
 
-待机器完成启动并能成功识别文件后，选中上述Gcode文件，点击开始打印。
+待机器完成启动并能成功识别文件后，选中上述 G-code 文件，点击开始打印。
+
+> 注意：该 G-code 文件**仅支持使用 SD 卡运行**，不适用于 Bambu Studio。
 
 请注意，A1 mini不支持热插拔SD卡，请关闭电源后再插拔SD卡。
 
@@ -46,7 +48,7 @@ Bambu Lab A1 mini 打印机的热床在出厂时是已调整好的，按照手�
 | --- | --- |
 |  |  |
 
-运行 Gcode 文件后，打印机将进行回中操作，然后移至热床左前方并等待 30 秒。这时，您可以用内六角扳手拧动热床调平螺丝，将喷嘴调成贴近热床的状态。
+运行 G-code 文件后，打印机将进行回中操作，然后移至热床左前方并等待 30 秒。这时，您可以用内六角扳手拧动热床调平螺丝，将喷嘴调成贴近热床的状态。
 
 |  |  |
 | --- | --- |

@@ -4,7 +4,7 @@ title: "X2D"
 description: ""
 tags: []
 created: 2026-04-13T03:43:10.298Z
-updated: 2026-06-29T04:11:54.607Z
+updated: 2026-07-13T02:18:53.612Z
 source: https://wiki.bambulab.com/zh/x2d
 ---
 
@@ -163,6 +163,7 @@ source: https://wiki.bambulab.com/zh/x2d
 
 ### 配件
 
+- [X2D 安装外排气管指南](filament-acc/install-external-exhaust-pipe.md)
 - [更换 X2D 实况摄像头](maintenance/replace-live-view-camera.md)
 - [更换 X2D 自适应风道切换组件](p2s/maintenance/replace-adaptive-airflow-switching-unit.md)
 - [更换 X2D 腔温加热组件](maintenance/replace-chamber-heater-unit.md)

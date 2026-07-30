@@ -4,7 +4,7 @@ title: "AMS 2 Pro 定期清洁维护建议"
 description: "本文档介绍 AMS 2 Pro 的维护周期和保养方法。"
 tags: ["ams 2 pro"]
 created: 2025-11-26T07:46:53.919Z
-updated: 2025-12-24T12:18:39.725Z
+updated: 2026-07-09T10:36:52.695Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/maintenance/basic-maintenance
 ---
 
@@ -164,6 +164,8 @@ AMS 2 Pro 的正常运行要求关键部件清洁和完好，包括 PTFE 管、�
 单个 AMS 2 Pro 只有在 6pin 线缆正确连接至 H2S 的情况下，才能正常进行耗材干燥。
 
 如果您正在使用多个 AMS 2 Pro，则每一个 AMS 2 Pro 还需要分别连接各自的电源适配器，才能确保干燥功能正常运行。
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 ![AMS2 Pro PTFE tube wear](https://wiki.bambulab.com/h2/manual/ams2pro/en1/image-19.png)
 

@@ -4,9 +4,15 @@ title: "打印质量与解决办法"
 description: ""
 tags: ["打印质量"]
 created: 2023-12-10T06:08:49.870Z
-updated: 2026-06-15T06:28:36.063Z
+updated: 2026-07-22T10:15:21.512Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality
 ---
+
+### [🩺 打印路上遇到“疑难杂症”别慌！来 #打印义诊 会诊](https://makerworld.com.cn/zh/community/tag?name=%E6%89%93%E5%8D%B0%E4%B9%89%E8%AF%8A)
+
+欢迎前往 MakerWorld 社区
+ [#打印义诊](https://makerworld.com.cn/zh/community/tag?name=%E6%89%93%E5%8D%B0%E4%B9%89%E8%AF%8A)
+发帖求助，把打印“症状”说清楚，热心玩家一起帮你找原因、排故障。
 
 ## 汇总
 

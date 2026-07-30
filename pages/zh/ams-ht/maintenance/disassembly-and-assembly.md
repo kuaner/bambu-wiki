@@ -4,7 +4,7 @@ title: "AMS HT 拆装指南"
 description: ""
 tags: []
 created: 2025-04-24T15:17:33.463Z
-updated: 2025-11-28T08:28:04.411Z
+updated: 2026-07-21T03:07:23.656Z
 source: https://wiki.bambulab.com/zh/ams-ht/maintenance/disassembly-and-assembly
 ---
 
@@ -219,7 +219,7 @@ source: https://wiki.bambulab.com/zh/ams-ht/maintenance/disassembly-and-assembly
 | --- | --- |
 |  |  |
 
-### 12. 移除 进/出气口组件
+### 12. 移除进/出气口组件
 
 移除进/出气口组件 4 颗固定螺丝（BT2\*4），即可取出**进气口组件**（左图）及**出气口组件**（右图）。
 
@@ -269,7 +269,7 @@ source: https://wiki.bambulab.com/zh/ams-ht/maintenance/disassembly-and-assembly
 | --- | --- |
 |  |  |
 
-### 3. 安装 进/出气口组件
+### 3. 安装进/出气口组件
 
 **进/出气口组件**安装时，请注意区分线缆长度与安装位置。**进气口组件**（长线缆）安装于底部（左图），**出气口组件**（短线缆）安装于 AMS HT 尾部（右图）。分别锁紧进/出气口组件两颗固定螺丝（BT2\*4）。
 
@@ -277,9 +277,13 @@ source: https://wiki.bambulab.com/zh/ams-ht/maintenance/disassembly-and-assembly
 | --- | --- |
 |  |  |
 
-### 4. 安装AMS HT电源板
+### 4. 安装 AMS HT 电源板
 
-安装电源板时，把有三个接头的那端靠近底壳放好，锁紧电源板的 4 颗固定螺丝（BT2×5）。电源板固定后，即可连接进/出气口组件线缆。注意区分，底部**进气口组件**的线缆接 **#1 接口**，电源板上方**出气口组件**的线缆接 **#2 接口**。
+安装电源板时，把有三个接头的那端靠近底壳放好，锁紧电源板的 4 颗固定螺丝（BT2×5）。  
+电源板固定后，即可连接进/出气口组件线缆，**注意区分**：
+
+- 底部**进气口组件**的线缆连 #1 接口
+- 后侧**出气口组件**的线缆连 #2 接口
 
 |  |  |
 | --- | --- |
@@ -295,7 +299,7 @@ source: https://wiki.bambulab.com/zh/ams-ht/maintenance/disassembly-and-assembly
 
 ![](https://wiki.bambulab.com/ams-ht/disassembly-and-assembly/81%E5%AE%89%E8%A3%85%E5%BC%80%E5%85%B3.jpg)
 
-### 6. 安装 AMS HT烘干组件
+### 6. 安装 AMS HT 烘干组件
 
 将烘干组件安装至中框组件上。首先需要归置烘干组件线缆。
 
@@ -454,7 +458,7 @@ source: https://wiki.bambulab.com/zh/ams-ht/maintenance/disassembly-and-assembly
 | --- | --- |
 |  |  |
 
-### 13. 安装AMS HT中框
+### 13. 安装 AMS HT 中框
 
 在此步骤我们需要连接上下料器至出料组件的特氟龙管。
 
@@ -499,7 +503,7 @@ source: https://wiki.bambulab.com/zh/ams-ht/maintenance/disassembly-and-assembly
 
 > 注意：安装完成后可以手动转动**主动支撑轴和从动支撑轴**，需要确保旋转顺滑。
 
-### 15. 插入AMS HT背面特氟龙料管
+### 15. 插入AMS HT 背面特氟龙料管
 
 最后将特氟龙管从 AMS HT 尾部推入。装完后，拉动特氟龙管，确认特氟龙管已固定。
 

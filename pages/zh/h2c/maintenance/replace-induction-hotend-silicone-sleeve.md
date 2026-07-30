@@ -1,10 +1,10 @@
 ---
 path: zh/h2c/maintenance/replace-induction-hotend-silicone-sleeve
-title: "更换 H2C 感应热端硅胶套"
-description: "本文将详细为您介绍 H2C 感应热端更换硅胶套的详细步骤和注意事项。"
+title: "更换 H2C 感应热端硅胶套及感应加热组件硅胶套"
+description: "本文将详细为您介绍 H2C 感应热端及感应加热组件底座更换硅胶套的详细步骤和注意事项。"
 tags: []
 created: 2025-11-18T13:16:10.272Z
-updated: 2025-11-18T13:16:11.328Z
+updated: 2026-07-09T07:14:50.537Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend-silicone-sleeve
 ---
 
@@ -14,9 +14,15 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend-si
 
 ![1.jpg](https://public-cdn.bblmw.com/wiki/new/h2c/maintenance/replace-induction-hotend-silicone-sleeve/1.jpg)
 
+## 感应加热组件底座硅胶套
+
+该硅胶套安装于感应热端加热组件的底座上，作用是防止耗材粘附，避免产生裹头。
+
+![silicone_sleeve_for_h2c_induction_heating_assembly_base.png](https://wiki.bambulab.com/h2c/maintenance/replace-induction-hotend-silicone-sleeve/silicone_sleeve_for_h2c_induction_heating_assembly_base.png)
+
 ## 何时更换
 
-感应热端硅胶套出现破损、开裂或老化变形
+硅胶套出现破损、开裂或老化变形
 
 ## 安全提示
 
@@ -56,6 +62,45 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend-si
 安装完成后效果如下。
 
 ![1.jpg](https://public-cdn.bblmw.com/wiki/new/h2c/maintenance/replace-induction-hotend-silicone-sleeve/7.jpg)
+
+## 移除旧的感应加热组件底座硅胶套
+
+1. 在屏幕上依次点击 “**热端 & 挂架**”→ 左侧面板的感应热端→“**放置**”，等待设备将感应热端停放到位。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+2. 将工具头移动到便于操作的位置。
+
+![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/29.png)
+
+3. 参考下图将硅胶套移除。
+
+|  |  |
+| --- | --- |
+|  |  |
+| 平视视角 | 仰视视角 |
+
+## 安装新的感应加热组件底座硅胶套
+
+参考下图，对齐方向，将硅胶套安装到位。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+下方展示了安装不到位的错误示例，请参考右侧动图调整，确保将硅胶套安装到位。
+
+|  |  |
+| --- | --- |
+| incorrect_installation_1.png | adjust_to_fully_install_2.webp |
+| ❌两侧未套好 | ✅调整方法 |
+
+|  |  |
+| --- | --- |
+| incorrect_installation_2.png | adjust_to_fully_install_1.webp |
+| ❌中间未卡到位 | ✅调整方法 |
 
 ## 结束语
 

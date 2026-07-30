@@ -4,7 +4,7 @@ title: "A1 系列进料霍尔板更换指南"
 description: "本指南演示如何更换 A1 系列进料霍尔板。"
 tags: []
 created: 2024-05-11T02:13:59.044Z
-updated: 2026-01-20T09:10:09.019Z
+updated: 2026-07-28T06:40:17.695Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/filament-sensor-replacement
 ---
 

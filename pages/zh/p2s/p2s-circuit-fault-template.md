@@ -4,7 +4,7 @@ title: "打印机电路故障排查 - P2S"
 description: "P2S 打印机开机后设备无法通电的故障排查方法"
 tags: ["p2s"]
 created: 2026-02-25T08:13:36.437Z
-updated: 2026-07-02T09:06:03.013Z
+updated: 2026-07-28T03:55:45.225Z
 source: https://wiki.bambulab.com/zh/p2s/p2s-circuit-fault-template
 ---
 
@@ -123,8 +123,8 @@ G -- 是 --> I[关机后逐个安装拔下的插头<br/>逐次开机定位引发
 flowchart TD
 A["检查 AP 板指示灯状态"] --> B{"AP 板指示灯是否正常？"}
 B -->|正常| C["进一步检查 TH 板工作状态"]
-B -->|异常| D["关机后断开 AP 板上的所有插头<br/>再开机观察 AP 和 MC 板指示灯"]
-D --> E{"AP 和 MC 板指示灯是否恢复正常？"}
+B -->|异常| D["关机后断开 AP 板上的所有插头<br/>再开机观察 MC 板指示灯"]
+D --> E{"MC 板指示灯是否正常？"}
 E -->|恢复正常| F["先重新连接 8 号和 9 号线缆<br/>开机观察灯语"]
 F --> G{"此时灯语是否依然正常？"}
 G -->|正常| H["AP 主板正常<br/>关机后逐个安装其他组件插头<br/>每装一个就开机观察灯语"]
@@ -132,7 +132,7 @@ H --> I{"灯语是否再次异常？"}
 I -->|是| J["定位到具体故障组件<br/>更换该组件"]
 I -->|否| K["全部组件连接完成<br/>状态正常"]
 G -->|异常| L["AP 主板异常<br/>需要更换新的 AP 板"]
-E -->|依旧异常| M["判定 MC-AP 线缆故障<br/>更换新的 MC-AP 线缆"]
+E -->|MC 板出现异常| M["判定 MC-AP 线缆故障<br/>更换新的 MC-AP 线缆"]
 %% 样式
 classDef process fill:#D6ECFF,stroke:#4A90E2,stroke-width:1px,color:#000;
 classDef decision fill:#fff2cc,stroke:#d6b656,color:#000;
@@ -150,7 +150,7 @@ class B,E,G,I decision;
 ![ap_connectors_007.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-ap-board/ap_connectors_007.png)
 
 - AP 和 MC 板恢复正常：说明故障原因在 AP 板或其他拔下的某个插头中。**先重新连接 8 号和 9 号线缆**，若灯语异常，则 AP 主板存在故障，需要 [更换 AP 主板](maintenance/replace-ap-board.md)。若此时开机后灯语依然正常，则 AP 主板正常，再关机逐个安装其他组件的插头，并开机**观察灯语是否再次异常**，找到具体故障组件后更换该组件。
-- AP 和 MC 板依旧异常：说明 MC-AP 线缆存在故障，需要[更换 MC-AP 线缆](https://wiki.bambulab.com/zh/p2s/maintenance/replace-mc-ap-cable-pack-(2-in-1))。
+- MC 板出现异常：说明 MC-AP 线缆存在故障，需要[更换 MC-AP 线缆](https://wiki.bambulab.com/zh/p2s/maintenance/replace-mc-ap-cable-pack-(2-in-1))。
 
 ### 4. 排查 TH 板模块
 

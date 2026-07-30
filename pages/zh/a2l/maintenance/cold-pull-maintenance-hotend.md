@@ -4,7 +4,7 @@ title: "A2L 喷嘴堵塞清理"
 description: "本文介绍了 A2L 喷嘴堵塞时应如何清理"
 tags: []
 created: 2026-06-01T13:32:08.482Z
-updated: 2026-06-10T01:29:15.497Z
+updated: 2026-07-08T02:06:35.164Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hotend
 ---
 
@@ -48,7 +48,7 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hoten
 
 ![250zh1.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/cold-pull-maintenance-hotend/250zh1.jpg)
 
-#### 步骤 2 ：控制挤出
+### 步骤 2 ：控制挤出
 
 点击屏幕上的“挤出”按钮挤出耗材。  
 **若使用 TPU 材料，“进料”按钮最多只能点击三次。同时避免快速连续点击“退料”按钮，以防出现卡料或缠料。**

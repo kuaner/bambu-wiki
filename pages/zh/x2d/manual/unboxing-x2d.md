@@ -4,7 +4,7 @@ title: "X2D 单机开箱指南"
 description: "本文介绍 X2D 单机的开箱步骤及注意事项"
 tags: []
 created: 2026-04-14T13:19:34.458Z
-updated: 2026-05-14T10:02:53.322Z
+updated: 2026-07-13T02:10:00.961Z
 source: https://wiki.bambulab.com/zh/x2d/manual/unboxing-x2d
 ---
 
@@ -34,8 +34,10 @@ source: https://wiki.bambulab.com/zh/x2d/manual/unboxing-x2d
 | --- | --- |
 |  |  |
 
-- 内部的物品可取出等待使用。（开口扳手有银色和黑色，请以实际收到为准）  
-  ![img_v3_0211m_9ac7c6de-5a2c-42c7-bd51-45eceb044a5g.png](https://wiki.bambulab.com/x2d/manual/unboxing/img_v3_0211m_9ac7c6de-5a2c-42c7-bd51-45eceb044a5g.png)
+- 内部的物品可取出等待使用。（开口扳手有银色和黑色，请以实际收到为准）
+
+![x2d工具盒.jpg](https://wiki.bambulab.com/x2d/manual/unboxing/x2d%E5%B7%A5%E5%85%B7%E7%9B%92.jpg)
+
 - 移除纸卡和顶部泡棉。
 
 |  |  |

@@ -4,7 +4,7 @@ title: "AMS 2 Pro 各模块介绍和连接配置"
 description: "本文介绍了 AMS 2 Pro 各模块的作用以及连接配置"
 tags: []
 created: 2025-03-25T12:33:50.571Z
-updated: 2026-06-30T08:48:05.219Z
+updated: 2026-07-09T10:15:35.709Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/manual/intro-and-connection-guide
 ---
 
@@ -95,7 +95,10 @@ AMS 2 Pro出厂配备变色硅胶干燥剂，位于后方的从动支撑轴下�
 
 ### 电源适配器
 
-使用6-pin连接线连接H2系列打印机和单台AMS 2 Pro，即可使用AMS 2 Pro的烘干功能**。如果需要同时烘干多台AMS 2 Pro内的耗材，则需要使用拓竹官方电源适配器来给其余的AMS 2 Pro供电。**  
+使用6-pin连接线连接H2系列打印机和单台AMS 2 Pro，即可使用AMS 2 Pro的烘干功能**。如果需要同时烘干多台AMS 2 Pro内的耗材，则需要使用拓竹官方电源适配器来给其余的AMS 2 Pro供电。**
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
+
 如果X1或P1系列打印机配合AMS 2 Pro一起使用并启用AMS 2 Pro的烘干功能，则每台AMS 2 Pro都需要使用拓竹官方电源适配器来为其供电。电源适配器的使用方式如下图所示：
 
 ![](https://wiki.bambulab.com/ams-2-pro/manual/part-intro-and-connection-guide/image-15.png)

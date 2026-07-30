@@ -4,7 +4,7 @@ title: "切片时的参数选择和设置"
 description: ""
 tags: []
 created: 2023-09-07T07:28:02.332Z
-updated: 2026-05-12T06:39:02.487Z
+updated: 2026-07-07T09:45:07.466Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/slice-param
 ---
 
@@ -32,28 +32,26 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/slice-param
 
 图 1 常规摆盘方式
 
-按图 1 方式摆盘，模型与热床的接触面积过大，即在 X、Y 方向的占比很大，优点是强度最高，但缺点是易翘曲**——不推荐**。
+按图 1 方式摆盘，模型与热床的接触面积过大，即在 X、Y 方向的占比很大，优点是强度最高，但缺点是易翘曲\*\*——不推荐\*\*。
 
-![](https://wiki.bambulab.com/filament-acc/slice-param/独立摆盘方式.png)
+![](https://wiki.bambulab.com/filament-acc/slice-param/%E7%8B%AC%E7%AB%8B%E6%91%86%E7%9B%98%E6%96%B9%E5%BC%8F.png)
 
 图 2 直立摆盘方式
 
-按图 2 方式摆盘，模型与热床的接触面积很小，即在 X、Y 方向的占比很小，优点是能避免翘曲，但缺点是层间（Z 向）的占比过大，模型的强度较低，且模型过高时，有打印过程发生晃动的风险**——不推荐**。
+按图 2 方式摆盘，模型与热床的接触面积很小，即在 X、Y 方向的占比很小，优点是能避免翘曲，但缺点是层间（Z 向）的占比过大，模型的强度较低，且模型过高时，有打印过程发生晃动的风险\*\*——不推荐\*\*。
 
-![](https://wiki.bambulab.com/filament-acc/slice-param/倾斜摆盘方式.png)
+![](https://wiki.bambulab.com/filament-acc/slice-param/%E5%80%BE%E6%96%9C%E6%91%86%E7%9B%98%E6%96%B9%E5%BC%8F.png)
 
 图 3 倾斜摆盘方式
 
 按图 3 方式摆盘，模型在 X、Y 方向的占比和在 Y 方向的占比接近，既能避免翘曲，又能避免强度过低。注意，此时模型会有较多的悬垂区域，需要适当给模型添加支撑：根据模型特点，选择自动支撑或[手绘支撑](../../software/bambu-studio/support-painting.md)。
 
-- **B. 耗材选择：**ABS、ASA、PC、PA、PA-CF 等高温耗材较易翘曲，应尽量避免，可优先考虑 PLA、PLA-CF、PETG、PETG-CF、PET-CF 等不易翘曲的耗材。
-- **C. 调整打印参数等：**使用较低的填充率以减少收缩趋势，选择相对较高的热床温度，并关闭前门和上盖以提高腔内温度（但 PLA、PETG、TPU 类耗材不可用高腔温，热床温度较高时需要打开前门、上盖散热，以免腔温过高而造成堵头）。详情请查阅：[常见打印质量问题和解决办法](../../knowledge-sharing/common-print-quality-problem.md)
-
-![](https://wiki.bambulab.com/filament-acc/slice-param/参考.png)
+- **B. 耗材选择：** ABS、ASA、PC、PA、PA-CF 等高温耗材较易翘曲，应尽量避免，可优先考虑 PLA、PLA-CF、PETG、PETG-CF、PET-CF 等不易翘曲的耗材。
+- **C. 调整打印参数等：** 使用较低的填充率以减少收缩趋势，选择相对较高的热床温度，并关闭前门和上盖以提高腔内温度（但 PLA、PETG、TPU 类耗材不可用高腔温，热床温度较高时需要打开前门、上盖散热，以免腔温过高而造成堵头）。详情请查阅：[模型翘边、脱落或倒塌](print-quality/warping-falling-off-collapsing.md)。
 
 # 默认工艺参数（标准工艺参数）
 
-![](https://wiki.bambulab.com/filament-acc/slice-param/标准工艺参数.png)
+![](https://wiki.bambulab.com/filament-acc/slice-param/%E6%A0%87%E5%87%86%E5%B7%A5%E8%89%BA%E5%8F%82%E6%95%B0.png)
 
 优点：打印质量较高、打印时间较短，可满足大部分常规打印场景。
 
@@ -63,13 +61,13 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/slice-param
 
 **高质量工艺参数是指工艺参数中带有 High Quality 的参数**。与常规工艺参数（标准工艺参数）相比，其具有**更低的加速度和速度**（还可根据实际需要适当调整这些参数），以赋予打印件更高的打印质量。
 
-![](https://wiki.bambulab.com/filament-acc/slice-param/01-高质量工艺参数选择.png)
+![](https://wiki.bambulab.com/filament-acc/slice-param/01-%E9%AB%98%E8%B4%A8%E9%87%8F%E5%B7%A5%E8%89%BA%E5%8F%82%E6%95%B0%E9%80%89%E6%8B%A9.png)
 
 |  |  |
 | --- | --- |
-| **常规工艺参数下的速度、加速度** | |
+| **常规工艺参数下的速度、加速度** |  |
 |  |  |
-| **高质量工艺参数下的速度、加速度** | |
+| **高质量工艺参数下的速度、加速度** |  |
 |  |  |
 
 **与默认工艺参数（标准工艺参数）的主要区别：更低的层高、加速度和速度**（还可根据实际需要适当调整这些参数）。

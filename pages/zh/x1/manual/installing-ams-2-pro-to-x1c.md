@@ -4,7 +4,7 @@ title: "如何在X1C上安装AMS 2 Pro"
 description: ""
 tags: []
 created: 2025-07-18T01:44:06.572Z
-updated: 2026-02-27T06:58:42.891Z
+updated: 2026-07-09T10:01:02.217Z
 source: https://wiki.bambulab.com/zh/x1/manual/installing-ams-2-pro-to-x1c
 ---
 
@@ -40,6 +40,8 @@ X1C AMS 2 Pro combo已包含 X1C 打印机、AMS 2 Pro，以及上述所需的�
 - 电源适配器
 - 供料缓冲器
 - PTFE 接头
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 ## 如何连接 AMS 2 Pro 与 X1C
 

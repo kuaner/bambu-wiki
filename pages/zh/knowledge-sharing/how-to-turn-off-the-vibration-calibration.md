@@ -4,7 +4,7 @@ title: "如何关闭准备阶段的振动校准过程"
 description: "本文将介绍如何关闭打印机的准备阶段的振动校准"
 tags: []
 created: 2026-01-21T07:13:07.371Z
-updated: 2026-06-29T09:31:17.944Z
+updated: 2026-07-28T03:42:07.392Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/how-to-turn-off-the-vibration-calibration
 ---
 
@@ -53,7 +53,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/how-to-turn-off-the-vibra
 将修改后的 G-code，重新复制并粘贴到 Bambu studio。
 
 > 特别说明：A1mini 请参考下图删除。  
-> ![a1mini.jpg](https://wiki.bambulab.com/knowledge-sharing/how-to-turn-off-the-vibration-calibration/a1mini.jpg)
+> ![a1mini1.jpg](https://wiki.bambulab.com/knowledge-sharing/how-to-turn-off-the-vibration-calibration/a1mini1.jpg)
 
 ### 4. 保存预设
 

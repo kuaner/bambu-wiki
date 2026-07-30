@@ -4,7 +4,7 @@ title: "更换 H2D & H2C 堵嘴磁铁支架"
 description: "本文介绍如何更换 H2D & H2C 堵嘴磁铁支架"
 tags: []
 created: 2025-03-25T09:02:49.510Z
-updated: 2026-04-08T01:52:59.465Z
+updated: 2026-07-17T06:56:18.019Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-nozzle-blocker-magnet-bracket
 ---
 
@@ -47,9 +47,11 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-nozzle-blocker-magne
 
 使用 H2.0 内六角扳手移除两颗堵嘴磁铁支架固定螺丝，然后将堵嘴磁铁支架取下即可。
 
-![](https://wiki.bambulab.com/h2/maintenance/replace-nozzle-blocker-magnet-bracket/image-3.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-nozzle-eddy-sensor/flow_blocker_magnet_bracket.png)
 
-![](https://wiki.bambulab.com/h2/maintenance/replace-nozzle-blocker-magnet-bracket/img_v3_02ip_3c073569-347c-4b09-9818-a0a8ce37a5fg-3.jpg)
+|  |  |
+| --- | --- |
+|  |  |
 
 ### 安装堵嘴磁铁支架
 
@@ -65,9 +67,11 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-nozzle-blocker-magne
 
 使用 H2.0 内六角扳手移除两颗堵嘴磁铁支架固定螺丝，然后将堵嘴磁铁支架取下即可。
 
-![](https://wiki.bambulab.com/h2/maintenance/replace-nozzle-blocker-magnet-bracket/image-3.png)
+![](https://wiki.bambulab.com/h2/maintenance/replace-nozzle-eddy-sensor/flow_blocker_magnet_bracket.png)
 
-![](https://wiki.bambulab.com/h2/maintenance/replace-nozzle-blocker-magnet-bracket/img_v3_02ip_3c073569-347c-4b09-9818-a0a8ce37a5fg-3.jpg)
+|  |  |
+| --- | --- |
+|  |  |
 
 ### 安装堵嘴磁铁支架
 

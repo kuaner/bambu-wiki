@@ -4,7 +4,7 @@ title: "A1 USB-C 数据线更换指南"
 description: "更换 A1 USB-C 数据线的操作步骤"
 tags: ["a1", "usb-c 数据线"]
 created: 2024-08-27T03:21:12.601Z
-updated: 2026-05-08T06:42:05.417Z
+updated: 2026-07-22T01:31:01.761Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/usb-c-cable-replacement-guide
 ---
 
@@ -45,7 +45,7 @@ A1 系列
 
 ### 步骤 1. 断开 USB-C 线
 
-将工具头上固定 USB-C 线的 4 颗螺丝（BT2\*6）拧下，然后向上拉动 USB-C 线即可将其取下。
+将工具头上固定 USB-C 线的 4 颗螺丝（BT1.6\*6）拧下，然后向上拉动 USB-C 线即可将其取下。
 
 ![](https://wiki.bambulab.com/a1m/replace-usb-c-cable/remove_usb_c_cable_from_a1_print_head.jpeg)
 

@@ -4,7 +4,7 @@ title: "多机型 AMS 连接指南"
 description: "本文主要介绍不同代 AMS 与不同打印机机型的兼容性和最大连接数量，以及带烘干功能的 AMS 对供电的要求。"
 tags: []
 created: 2025-03-25T15:14:57.250Z
-updated: 2026-06-12T04:09:06.775Z
+updated: 2026-07-29T10:19:54.242Z
 source: https://wiki.bambulab.com/zh/ams/manual/multi-model-AMS-compatibility-guide
 ---
 
@@ -132,16 +132,25 @@ AMS、AMS 2 Pro 和 AMS-HT（后文统称 AMS）均为两级进料，由内部�
 > 注意：**打印机和每台 AMS 之间必须有缓冲器**。因此使用多台 AMS 时，料管拓展口需要连接在 AMS 与 缓冲器之间，请勿接反。  
 > ![4-in-1-x2d.jpg](https://wiki.bambulab.com/ams/multi-model-ams-compatibility-guide/4-in-1-x2d.jpg)
 
-## X1 /P 系列连接指南
+## X1 /P1 系列打印机连接指南
 
-> X1/P1 的连接方式和 P2S 相似，此处以 P2S 为例。
+- **最大连接数量**：X1/P1 最多支持同时连接4台 AMS 2 Pro **或** 4 台 AMS HT，一共4台。
+- **配件需求**：
 
-- **最大连接数量**：P2S 最多支持同时连接 4 台 AMS 2 Pro **和** 4 台 AMS HT，一共 8 台，合计 20 个槽位。X1/P1 最多支持同时连接4台 AMS 2 Pro **或** 4 台 AMS HT，一共4台。
+  - X1/P1 连接 1 台 AMS 时，需自行购买 [供料缓冲器，进料管接头，4-pin线](https://detail.tmall.com/item.htm?id=906162436922&pisk=ga-ocFAhwU77MNPqjWSSkanhEi0v2gsCtBEd9MCEus5XvUCKPDDhid7-FBdpo6A2i_JR9YtHoQ9NyBvIF95eTBfpyqn9FLsCYfInXcpWrL6MMQfUztkFLT4EHazRYdDNYfhtXreVPbIeexJlJEJVG9qPL9RUusWRg9WUYB5VuOWTaMSeTxjVKOazazrF0ZW1g85FLazVuO6Q887F8xvVG9XPYMRF0xXCg6SFYbsbY1xecnlNATRo96ZJ0Tbl_L5yeLK43aUWEsxBvnWkEwJzdkremTbkmLeAcgQJ8d_62do3cgpMuiWHAAzhtNYe2i-rgc7f8nRV3QHLRtYHLhs5jJoyngfl7n7Sxvdwnp8OonHZfgjPaeIWpRcJn3AJFnvLLrSl2EbMqGo_a6LvIHXHAXiDspJ68Zx3ZgWUuP7L_k6qpnzQRaWfn13Oq2A5ibg3bxD054_PhThtnx4QRaWfn1HmnPN5zt6-6&skuId=5766287773398&spm=pc_detail.30350276.guessitem.d1)。
+  - X1/P1 连接多台 AMS 时，需要购买 [料线选通器](https://detail.tmall.com/item.htm?id=693987695729&pisk=gzhiYqi0XAy1dnSeZiP6pRd0SWvK-5NbmmCYDSE2LkrIMAEvCIY0x4y95mnxKomExluTDFGmKcgzBm0X5rrq0mqxBpd-5VNbg3FDwQ3sIVaovcXauy84oPXwJRWTg4Yzg3KJw9QUChFqWeu0jXuUArfauroVLkzTYrWagmrULzzRbSPq0eVUoz6NbO54TJz7Yt7abO7FYz4GQGyVQe0UArP40myw-2rQuSrqgg54qjlIT3Pb7cxYSMl8SRqr7lutWX7UpOgUxHxEtAca43Ehgsl3SqrJfiCkHuk7X8EmYBCgi2zmx8HMq1mmu4M4KjjwW0oEnmzIdnX0qxutFxyH7Cu3sl2q9D7fB5Dqfj2sIZTS85oIFuwwdHan6be0VJjeb233b8DmXH14XY0Ex8hdv_FrFDc0U7Sy49WzHg5b8EhFhtwaRyqJe5vmfkx6n_8H-T9_Qya92eYhhtwaRyqJ-eX5fRzQW3C..&spm=pc_detail.30350276.guessitem.d3&skuId=4927627985197)，[进料管接头](https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-25177047232.29.22ee3c0eBzRKFx&id=707575712100&rn=badc7578a26628b4999a1abad3488a03&abbucket=10&pisk=gRYx0x_cHYDDo0uSprmkSmjWLGhoq0A4yKRQSOX0fLpJBdIm_svGWGBJOic2IdxRBL9Rhrcq0G693TvgSIY94Pde_EcVSj72gN7sKv0HBIRV73rXT5YYP81DNr1150b7re2lNv0n-QdV7NMnKnmW0a1ltP_1ctO5NT5gh191cQO5U15_hN6jwQ6PFr11hO_5N11dGNaf58a5O6efGGsXNQ6P1N66CNGRPT515O915jnZBTNfIPKWY9AlnDfz5PTRMgikGTg6aU1vD9dXyPa__sIAdI6-HxouegONXFPaWMOXYd5Bh-MOQUdWlH9IEoXXv1dHXIgbPZY2GHs6RAr6pZpOAEs81yO2GtbRNeGgYTYRndTAVX4djaThAZto4xjGk6p6uKFT5pOktESyWve5QnfFP1LZOlBOfg5H-eeRNJXdsoG-wlrNc_SnMV7VMlbXo_BnMVEabglPw9c-wlrNc_5RKjhTblSra)，[4-pin线](https://detail.tmall.com/item.htm?id=694052067560&pisk=g7IZYIfHklEZVTPlUTx48xl27sK9GnP7QiOXntXDCCAgMRpD011Hom6_W-y2Tsd65hb6nm5BOsifCi7K0TBAfRKbBhB9DnV7Nu1VBOKxTjgGAGlnxd6HnjvgRHqchSc3NuZ5BPv9c9V55ybOxp9DmdAMo22eUKHMmEvGKJJDhf0mjsX3LBp2nfvijkDHhKiDmK0MK9vWhI0mjd0hKBpDmIfDmJ-H9KxDisxmgPBGnDJWSR5X3q7Iz7YJZOAEm0kJQF0Vpqir49JM7gAwTeTCYd8wZERpk2jGOtj1XeUZSnBCzs7cZWg6saJPTU_aac5P6KX2n1r-UBjN3M8ORf0MUhRwrGYZF8BBowSefGVxy96esU-CRyF6lh5NyQLgJWCVLC1cbecaOI_5dGYFZWiFME7cfHjgtuSr2jpHevSA7j02SppeNJyUxtA7eh2Xux3xkexJLQw6Cq3vSppeNJyEkqLHepR7Cd1..&spm=pc_detail.30350276.guessitem.d2&skuId=4926397845849)。
+  - 部分场景需要购买 [料管拓展口](https://wiki.bambulab.com/zh/ams/manual/multi-model-AMS-compatibility-guide#%E6%96%99%E7%AE%A1%E6%8B%93%E5%B1%95%E5%8F%A3)。
+
+### 连接 1 台 AMS
+
+### 连接多台 AMS
+
+## P2S 打印机连接指南
+
+- **最大连接数量**：P2S 最多支持同时连接 4 台 AMS 2 Pro **和** 4 台 AMS HT，一共 8 台，合计 20 个槽位。
 - **配件需求**：
   - P2S-Combo 自带缓冲器，**无需额外购买**；
   - P2S 单机 + AMS 单机时，还需要购买 [P2S 供料缓冲器](https://wiki.bambulab.com/zh/ams/manual/multi-model-AMS-compatibility-guide#%E7%BC%93%E5%86%B2%E5%99%A8)。
-  - X1/P1 连接 1 台 AMS 时，需自行购买 [供料缓冲器，进料管接头，4-pin线](https://detail.tmall.com/item.htm?id=906162436922&pisk=ga-ocFAhwU77MNPqjWSSkanhEi0v2gsCtBEd9MCEus5XvUCKPDDhid7-FBdpo6A2i_JR9YtHoQ9NyBvIF95eTBfpyqn9FLsCYfInXcpWrL6MMQfUztkFLT4EHazRYdDNYfhtXreVPbIeexJlJEJVG9qPL9RUusWRg9WUYB5VuOWTaMSeTxjVKOazazrF0ZW1g85FLazVuO6Q887F8xvVG9XPYMRF0xXCg6SFYbsbY1xecnlNATRo96ZJ0Tbl_L5yeLK43aUWEsxBvnWkEwJzdkremTbkmLeAcgQJ8d_62do3cgpMuiWHAAzhtNYe2i-rgc7f8nRV3QHLRtYHLhs5jJoyngfl7n7Sxvdwnp8OonHZfgjPaeIWpRcJn3AJFnvLLrSl2EbMqGo_a6LvIHXHAXiDspJ68Zx3ZgWUuP7L_k6qpnzQRaWfn13Oq2A5ibg3bxD054_PhThtnx4QRaWfn1HmnPN5zt6-6&skuId=5766287773398&spm=pc_detail.30350276.guessitem.d1)。
-  - X1/P1 连接多台 AMS 时，需要购买 [料线选通器](https://detail.tmall.com/item.htm?id=693987695729&pisk=gzhiYqi0XAy1dnSeZiP6pRd0SWvK-5NbmmCYDSE2LkrIMAEvCIY0x4y95mnxKomExluTDFGmKcgzBm0X5rrq0mqxBpd-5VNbg3FDwQ3sIVaovcXauy84oPXwJRWTg4Yzg3KJw9QUChFqWeu0jXuUArfauroVLkzTYrWagmrULzzRbSPq0eVUoz6NbO54TJz7Yt7abO7FYz4GQGyVQe0UArP40myw-2rQuSrqgg54qjlIT3Pb7cxYSMl8SRqr7lutWX7UpOgUxHxEtAca43Ehgsl3SqrJfiCkHuk7X8EmYBCgi2zmx8HMq1mmu4M4KjjwW0oEnmzIdnX0qxutFxyH7Cu3sl2q9D7fB5Dqfj2sIZTS85oIFuwwdHan6be0VJjeb233b8DmXH14XY0Ex8hdv_FrFDc0U7Sy49WzHg5b8EhFhtwaRyqJe5vmfkx6n_8H-T9_Qya92eYhhtwaRyqJ-eX5fRzQW3C..&spm=pc_detail.30350276.guessitem.d3&skuId=4927627985197)，[进料管接头](https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-25177047232.29.22ee3c0eBzRKFx&id=707575712100&rn=badc7578a26628b4999a1abad3488a03&abbucket=10&pisk=gRYx0x_cHYDDo0uSprmkSmjWLGhoq0A4yKRQSOX0fLpJBdIm_svGWGBJOic2IdxRBL9Rhrcq0G693TvgSIY94Pde_EcVSj72gN7sKv0HBIRV73rXT5YYP81DNr1150b7re2lNv0n-QdV7NMnKnmW0a1ltP_1ctO5NT5gh191cQO5U15_hN6jwQ6PFr11hO_5N11dGNaf58a5O6efGGsXNQ6P1N66CNGRPT515O915jnZBTNfIPKWY9AlnDfz5PTRMgikGTg6aU1vD9dXyPa__sIAdI6-HxouegONXFPaWMOXYd5Bh-MOQUdWlH9IEoXXv1dHXIgbPZY2GHs6RAr6pZpOAEs81yO2GtbRNeGgYTYRndTAVX4djaThAZto4xjGk6p6uKFT5pOktESyWve5QnfFP1LZOlBOfg5H-eeRNJXdsoG-wlrNc_SnMV7VMlbXo_BnMVEabglPw9c-wlrNc_5RKjhTblSra)，[4-pin线](https://detail.tmall.com/item.htm?id=694052067560&pisk=g7IZYIfHklEZVTPlUTx48xl27sK9GnP7QiOXntXDCCAgMRpD011Hom6_W-y2Tsd65hb6nm5BOsifCi7K0TBAfRKbBhB9DnV7Nu1VBOKxTjgGAGlnxd6HnjvgRHqchSc3NuZ5BPv9c9V55ybOxp9DmdAMo22eUKHMmEvGKJJDhf0mjsX3LBp2nfvijkDHhKiDmK0MK9vWhI0mjd0hKBpDmIfDmJ-H9KxDisxmgPBGnDJWSR5X3q7Iz7YJZOAEm0kJQF0Vpqir49JM7gAwTeTCYd8wZERpk2jGOtj1XeUZSnBCzs7cZWg6saJPTU_aac5P6KX2n1r-UBjN3M8ORf0MUhRwrGYZF8BBowSefGVxy96esU-CRyF6lh5NyQLgJWCVLC1cbecaOI_5dGYFZWiFME7cfHjgtuSr2jpHevSA7j02SppeNJyUxtA7eh2Xux3xkexJLQw6Cq3vSppeNJyEkqLHepR7Cd1..&spm=pc_detail.30350276.guessitem.d2&skuId=4926397845849)。
   - 部分场景需要购买 [料管拓展口](https://wiki.bambulab.com/zh/ams/manual/multi-model-AMS-compatibility-guide#%E6%96%99%E7%AE%A1%E6%8B%93%E5%B1%95%E5%8F%A3)。
 
 ### 线缆连接
@@ -168,10 +177,6 @@ AMS、AMS 2 Pro 和 AMS-HT（后文统称 AMS）均为两级进料，由内部�
 |  |  |
 | --- | --- |
 |  |  |
-
-X1 和 P1 连接方式如下，同样左边连接 AMS，右边连接打印机。
-
-![](https://wiki.bambulab.com/ams/multi-model-ams-compatibility-guide/image-5.png)
 
 ## A1 系列连接指南
 
@@ -220,6 +225,8 @@ X1 和 P1 连接方式如下，同样左边连接 AMS，右边连接打印机。
 - X1/P1/A 系列使用 AMS 2 Pro 烘干,**每台** AMS 2 Pro 都**必须通过电源适配器**供电才能使用烘干功能。
 
 > 注意：如果**打印机正在进料或者打印，且同时使用打印机供电给 AMS 2 Pro 进行烘干，为了优先确保打印功率，烘干功率自动会降低**，建议外接电源适配器以获得更好的烘干效果。
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 |  |  |
 | --- | --- |

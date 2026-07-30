@@ -4,7 +4,7 @@ title: "AMS 2 Pro 和 AMS HT 烘干指南"
 description: "本文将介绍 AMS 2 Pro 和 AMS HT 的烘干工作流程。"
 tags: ["ams 2 pro", "ams ht"]
 created: 2025-05-27T11:28:24.077Z
-updated: 2026-07-29T03:46:13.006Z
+updated: 2026-07-29T03:46:14.005Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/manual/drying-function
 ---
 

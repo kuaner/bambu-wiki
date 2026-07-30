@@ -4,7 +4,7 @@ title: "PLA Basic 与 PETG HF、PETG Basic 互相支撑打印指南"
 description: "本文介绍了如何使用拓竹耗材 PLA Basic 与 PETG HF / PETG Basic 互相支撑打印，并提供了在 Bambu Studio 中设置参数的教程及预设参数文件的下载链接。"
 tags: ["petg hf"]
 created: 2024-08-02T02:11:38.792Z
-updated: 2026-05-20T06:49:56.431Z
+updated: 2026-07-21T09:37:11.555Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/h2d-pla-and-petg-mutual-support
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/h2d-pla-and-petg-mutu
 
 1. 本指南仅适用于拓竹 PLA Basic 和 拓竹 PETG HF、拓竹 PETG Basic 这三款耗材，**不适用**下列其他类型的 PLA 和 PETG：
    - PLA Matte、PLA Silk、PLA-CF 等其他类型的 PLA
-   - PETG Translucent、PETG-CF 等其他类型的 PETG
+   - PETG Translucent、PETG-CF、PETG Matte 等其他类型的 PETG
    - 其他品牌的 PLA 或 PETG
 2. 请务必按照本指南提供的参数和配置进行打印。否则，无法保证打印效果或打印成功率。
 

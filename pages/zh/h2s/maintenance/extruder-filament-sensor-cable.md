@@ -4,7 +4,7 @@ title: "更换 H2S 霍尔开关板组件线缆"
 description: "更换 H2S 霍尔开关板组件线缆"
 tags: []
 created: 2025-09-15T02:23:22.958Z
-updated: 2026-01-19T04:20:07.077Z
+updated: 2026-07-15T06:51:04.311Z
 source: https://wiki.bambulab.com/zh/h2s/maintenance/extruder-filament-sensor-cable
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/h2s/maintenance/extruder-filament-sensor-ca
 
 ## 何时更换
 
-当**霍尔开关板组件出现故障**时，需要进行更换。
+当**霍尔开关板组件线缆出现故障**时，需要进行更换。
 
 ## 工具和材料
 

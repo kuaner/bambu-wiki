@@ -4,7 +4,7 @@ title: "更换 H2D/H2C MC 板"
 description: "本文介绍了如何更换 H2D 与 H2C 打印机的 MC 板"
 tags: []
 created: 2025-03-28T10:46:57.558Z
-updated: 2026-03-25T02:45:48.415Z
+updated: 2026-07-10T09:00:01.851Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-mc-board
 ---
 
@@ -73,7 +73,7 @@ MC 板的备件包含如下：
 
 ![](https://wiki.bambulab.com/h2/maintenance/replace-mc-board/image-4.png)
 
-3. 使用 H1.5 内六角扳手移除 6 颗固定螺丝，将 MC 板从内衬中取出。请注意，MC板的背面还有一个为拔掉的MC板电源输入插头，请勿用力拉扯
+3. 使用 H1.5 内六角扳手移除 6 颗固定螺丝，将 MC 板从内衬中取出。请注意，MC板的背面还有一个未拔掉的MC板电源输入插头，请勿用力拉扯。
 4. 拔掉MC背面的电源插头。
 
 |  |  |

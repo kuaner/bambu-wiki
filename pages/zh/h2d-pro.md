@@ -4,7 +4,7 @@ title: "H2D Pro"
 description: "本文提供了所有关于 Bambu Lab H2D Pro 的文章链接。"
 tags: []
 created: 2025-08-11T11:36:18.419Z
-updated: 2026-05-12T09:01:42.956Z
+updated: 2026-07-16T02:54:06.971Z
 source: https://wiki.bambulab.com/zh/h2d-pro
 ---
 
@@ -48,6 +48,7 @@ source: https://wiki.bambulab.com/zh/h2d-pro
 ## 打印机功能
 
 - [H2D Pro 网络连接指南](h2/manual/h2d-pro-network-connection-guide.md)
+- [如何使用网线接口连接打印机](x1e/maintenance/how-to-use-internet-cable.md)
 
 ## 部件更换指南
 

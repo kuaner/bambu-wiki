@@ -4,7 +4,7 @@ title: "挤出机维护指南：P1系列挤出机维护"
 description: "本指南提供 P1 系列挤出机堵塞清理、挤出机拆解与组装的详细步骤。"
 tags: []
 created: 2026-04-30T04:11:28.484Z
-updated: 2026-06-25T08:28:38.952Z
+updated: 2026-07-14T02:15:33.541Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/extruder-cleaning-guide
 ---
 
@@ -104,18 +104,22 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/extruder-cleaning-guide
 ### 4. 挤出机润滑
 
 在重新组装挤出机之前，可以对齿轮进行一些润滑。  
-在挤出机齿轮的侧面和转轴上滴加少量润滑油，如下图所示。
+在挤出机齿轮的侧面和转轴上涂抹少量润滑脂，如下图所示。
 
 ![](https://wiki.bambulab.com/p1/maintenance/extruder-maintenance/add_lubricant_on_extruder.jpeg)
 
-接下来，您还可以在挤出机齿轮上涂上一点润滑脂或润滑油，如下图所示，润滑脂的润滑效果会更加持久。  
-确保涂抹均匀润滑剂，在齿轮安装回挤出机之前需要擦去多余的部分。
+接下来，在挤出机齿轮上涂上一点润滑脂。
+
+确保涂抹均匀，在齿轮安装回挤出机之前需要擦去多余的部分。
 
 ![](https://wiki.bambulab.com/p1/maintenance/extruder-maintenance/apply_oil_to_extruder_gear.jpg)
 
-最后，可以参照下图在齿轮轴部分周围涂上少量的润滑油。
+最后，可以参照下图在齿轮轴部分周围涂上少量的润滑脂。
 
-![](https://wiki.bambulab.com/p1/maintenance/extruder-maintenance/apply_oil_to_extruder_gear_hub.jpg)
+![apply_lubricant_grease.jpg](https://wiki.bambulab.com/p1/maintenance/extruder-maintenance/apply_lubricant_grease.jpg)
+
+> **包装说明**：拓竹润滑脂目前存在以下 2 种包装版本，仅包装外观不同，产品本身没有区别，均可使用。  
+> ![lubricant_grease.jpg](https://wiki.bambulab.com/filament-acc/lubricant_grease_and_oil/official_grease_update.jpg)
 
 ### 5. 组装挤出机
 

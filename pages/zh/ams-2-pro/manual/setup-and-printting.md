@@ -4,7 +4,7 @@ title: "AMS 2 Pro 工作流程和功能介绍"
 description: ""
 tags: []
 created: 2025-03-25T08:25:02.694Z
-updated: 2026-03-13T09:10:23.020Z
+updated: 2026-07-09T10:36:58.308Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/manual/setup-and-printting
 ---
 
@@ -157,6 +157,8 @@ AMS 2 Pro 的2号槽和3号槽中间有个传感器，可以用于检测AMS内�
 #### **注意事项**
 
 - **电源要求**：H2D 打印机支持1台 AMS 2 Pro 从打印机取电烘干，如果需要同时烘干多台 AMS 2 Pro 内的耗材，其余的AMS需要从AMS电源适配器供电烘干。如果 AMS 2 Pro 连接了 X/P 系列打印机（P2S 除外），则每台都必须通过电源适配器供电才能使用烘干功能。
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 ![连接电源适配器](https://wiki.bambulab.com/h2/manual/ams2pro/image-20.png)
 

@@ -1,18 +1,18 @@
 ---
 path: zh/h2/maintenance/replace-the-H2D-printer-cable-package
-title: "更换 H2D 打印机线缆"
-description: "包括 MC-AC 线、急停按钮检测霍尔板连接线、左侧板霍尔连接线、右侧板霍尔连接线、MC 板供电线、4pin 接口板连接线和缓冲器连接线"
+title: "更换 H2 系列打印机线缆"
+description: "包括 MC-AC 线、急停按钮检测霍尔板连接线、左侧板霍尔连接线、右侧板霍尔连接线、MC 板供电线、4pin 接口板连接线、缓冲器连接线、和 TH 板供电线。"
 tags: []
 created: 2025-03-27T11:50:29.589Z
-updated: 2025-05-30T03:27:33.509Z
+updated: 2026-07-15T06:40:37.525Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cable-package
 ---
 
-## 打印机线材包（7 合 1）
+## 打印机线材包
 
-打印机的线材包中包含了 7 种线缆，当您收到线包的时候，您不需要更换全部的线缆，只需更换损坏的线缆即可。如您的左侧板霍尔板连接线断裂，您可以仅更换左侧板霍尔连接线，其他的线缆留作备用即可。
+打印机的线材包中包含了 8 种线缆，当您收到线包的时候，您不需要更换全部的线缆，只需更换损坏的线缆即可。如您的左侧板霍尔板连接线断裂，您可以仅更换左侧板霍尔连接线，其他的线缆留作备用即可。
 
-![](https://wiki.bambulab.com/h2/maintenance/replace-the-h2d-printer-cable-package/image_(4).png)
+![h2_cables.png](https://wiki.bambulab.com/h2/maintenance/replace-the-h2d-printer-cable-package/h2_cables.png)
 
 **打印机线材包的明细如下：**
 
@@ -23,14 +23,13 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 5. MC 板供电线
 6. 4pin 接口板连接线
 7. 缓冲器连接线
+8. TH 板供电线（适用于 H2S）
 
 ## 所需的工具和材料
 
-- 新的打印机线材包（7 合 1）
+- 新的打印机线材包
 - H2.0 内六角扳手
 - H1.5 内六角扳手
-
-**更换 H2D 打印机线材包所涉及的螺丝规格及数量（建议妥善保管拆下的螺丝，避免丢失）：**
 
 ## 安全提示
 
@@ -39,15 +38,13 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。  
 > 如果您对本指南有任何疑问，请[点击这里提交工单](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)，我们将及时回复并为您提供所需的帮助。
 
-## 更换 MC-AC 线缆
+## 1. 更换 MC-AC 线缆
 
 ### 移除 MC-AC 线缆
 
 #### 步骤 1：移除背板
 
-您可以参考这篇 Wiki 来移除 H2D 的背板：
-
-[更换 H2D 背板](replace-rear-panel.md)
+参考这篇 Wiki 移除打印机的背板： [更换 H2 系列打印机背板](replace-rear-panel.md)
 
 #### 步骤 2：移除废料滑梯
 
@@ -63,7 +60,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 #### 步骤 3：移除 AC 板理线盖
 
-[更换 AC 板/理线盖](replace-ac-board-for.md)
+参考这篇 Wiki 移除 AC 板理线盖：[更换 AC 板/理线盖](replace-ac-board-for.md)
 
 #### 步骤 4：移除 MC-AC 线缆
 
@@ -85,7 +82,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 #### 步骤 2：安装 AC 板理线盖
 
-[更换 AC 板/理线盖](replace-ac-board-for.md)
+参考这篇 Wiki 安装 AC 板理线盖：[更换 AC 板/理线盖](replace-ac-board-for.md)
 
 #### 步骤 3：安装废料滑梯
 
@@ -111,19 +108,15 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 #### 步骤 4：安装背板
 
-您可以参考这篇 Wiki 来安装 H2D 的背板：
+参考这篇 Wiki 安装背板： [更换 H2D 背板](replace-rear-panel.md)
 
-[更换 H2D 背板](replace-rear-panel.md)
-
-## 更换急停按钮检测霍尔板连接线
+## 2. 更换急停按钮检测霍尔板连接线
 
 ### 移除 急停按钮检测霍尔板连接线
 
 #### 步骤 1：移除背板
 
-您可以参考这篇 Wiki 来移除 H2D 的背板：
-
-[更换 H2D 背板](replace-rear-panel.md)
+参考这篇 Wiki 来移除背板：[更换 H2 系列打印机背板](replace-rear-panel.md)
 
 #### 步骤 2：移除废料滑梯
 
@@ -199,17 +192,15 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 #### 步骤 3：安装背板
 
-您可以参考这篇 Wiki 来安装 H2D 的背板：
+参考这篇 Wiki 安装背板：[更换 H2D 背板](replace-rear-panel.md)
 
-[更换 H2D 背板](replace-rear-panel.md)
-
-## 更换左侧板霍尔连接线
+## 3. 更换左侧板霍尔连接线
 
 ### 移除左侧板霍尔连接线
 
 #### 步骤 1：移除背板和左侧板
 
-在更换左侧板霍尔连接线时，您需要先移除背板和左侧板，您可以参阅这篇 Wiki 来将背板和左侧板移除： [更换 H2D 左侧板](replace-side-panel-with-glass-window.md)
+在更换左侧板霍尔连接线时，您需要先移除背板和左侧板，您可以参阅这篇 Wiki 来将背板和左侧板移除： [更换 H2 系列左侧板](replace-side-panel-with-glass-window.md)
 
 ![](https://wiki.bambulab.com/h2/maintenance/replace-the-h2d-printer-cable-package/image-33.png)
 
@@ -239,17 +230,17 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 您可以参阅这篇 Wiki 来安装左侧板和背板：
 
-[更换 H2D 左侧板](replace-side-panel-with-glass-window.md)
+[更换 H2 系列左侧板](replace-side-panel-with-glass-window.md)
 
-[更换 H2D 背板](replace-rear-panel.md)
+[更换 H2 系列背板](replace-rear-panel.md)
 
-## 更换右侧板霍尔连接线
+## 4. 更换右侧板霍尔连接线
 
 ### 移除右侧板霍尔连接线
 
 #### 步骤 1：移除背板和右侧板
 
-在更换右侧板霍尔连接线时，您需要先移除背板和右侧板，您可以参阅这篇 Wiki 来将背板和右侧板移除： [更换 H2D 右侧板](replace-side-panel-with-glass-window.md)
+在更换右侧板霍尔连接线时，您需要先移除背板和右侧板，您可以参阅这篇 Wiki 来将背板和右侧板移除： [更换 H2 系列右侧板](replace-side-panel-with-glass-window.md)
 
 ![](https://wiki.bambulab.com/h2/maintenance/replace-the-h2d-printer-cable-package/image-37.png)
 
@@ -281,19 +272,17 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 您可以参阅这篇 Wiki 来安装右侧板和背板：
 
-[更换 H2D 右侧板](replace-side-panel-with-glass-window.md)
+[更换 H2 系列右侧板](replace-side-panel-with-glass-window.md)
 
-[更换 H2D 背板](replace-rear-panel.md)
+[更换 H2 系列背板](replace-rear-panel.md)
 
-## 更换 MC 板供电线
+## 5. 更换 MC 板供电线
 
 ### 移除 MC 板供电线
 
 #### 步骤 1：移除背板
 
-您可以参考这篇 Wiki 来移除 H2D 的背板：
-
-[更换 H2D 背板](replace-rear-panel.md)
+参考这篇 Wiki 来移除背板： [更换 H2 系列背板](replace-rear-panel.md)
 
 #### 步骤 2：移除废料滑梯
 
@@ -379,19 +368,17 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 #### 步骤 4：安装背板
 
-您可以参考这篇 Wiki 来安装 H2D 的背板：
+您可以参考这篇 Wiki 来安装背板： [更换 H2 系列背板](replace-rear-panel.md)
 
-[更换 H2D 背板](replace-rear-panel.md)
-
-## 更换 4pin 接口板连接线
+## 6. 更换 4pin 接口板连接线
 
 ### 移除 4pin 接口板连接线
 
 #### 步骤 1：移除背板
 
-您可以参考这篇 Wiki 来移除 H2D 的背板：
+您可以参考这篇 Wiki 来移除背板：
 
-[更换 H2D 背板](replace-rear-panel.md)
+[更换 H2 系列背板](replace-rear-panel.md)
 
 #### 步骤 2：移除废料滑梯
 
@@ -451,11 +438,9 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 #### 步骤 3：安装背板
 
-您可以参考这篇 Wiki 来安装 H2D 的背板：
+您可以参考这篇 Wiki 来安装背板： [更换 H2 系列背板](replace-rear-panel.md)
 
-[更换 H2D 背板](replace-rear-panel.md)
-
-## 更换缓冲器连接线
+## 7. 更换缓冲器连接线
 
 ### 移除缓冲器连接线
 
@@ -477,9 +462,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 #### 步骤 2：移除背板
 
-您可以参考这篇 Wiki 来移除 H2D 的背板：
-
-[更换 H2D 背板](replace-rear-panel.md)
+您可以参考这篇 Wiki 来移除背板： [更换 H2 系列背板](replace-rear-panel.md)
 
 #### 步骤 3：移除废料滑梯
 
@@ -553,7 +536,104 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 您可以参考这篇 Wiki 来安装打印机背板：
 
-[更换 H2D 背板](replace-rear-panel.md)
+[更换 H2 系列背板](replace-rear-panel.md)
+
+## 8. 更换 TH 板供电线（仅 H2S）
+
+> 说明：本线缆**仅适用于 H2S**。H2D / H2C 请跳过本章节。
+
+### 移除 TH 板供电线
+
+#### 步骤 1：移除 AP 板盖和护线盖
+
+1. 关闭打印机电源后拔下电源线，并取下上盖玻璃。
+2. 使用 H2.0 内六角扳手拧下 1 颗固定螺丝（BT2.6x8）。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+3. 从靠近前门的一侧取下 AP 板盖。
+
+![](https://wiki.bambulab.com/h2s/maintenance/image-7.png)
+
+4. 护线盖由卡扣固定，您可以将护线盖向外拔出。
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-mc-ap-cable/image-3.png)
+
+#### 步骤 2：在 AP 板上断开 TH 供电线缆
+
+1. 在 AP 板上找到并断开接头为黄色的 **#7号 TH供电线缆**。
+
+![](https://wiki.bambulab.com/h2s/maintenance/image-8.png)
+
+2. 剪断护线盖下方线缆的束线带。
+
+![zip_tie.png](https://wiki.bambulab.com/h2/maintenance/replace-the-h2d-printer-cable-package/zip_tie.png)
+
+#### 步骤 3：移除背板
+
+您可以参考这篇 Wiki 来移除背板：[更换 H2 系列打印机背板](replace-rear-panel.md)
+
+#### 步骤 4：移除废料滑梯
+
+使用 H2.0 内六角扳手移除 1 颗固定螺丝（BT3x8），然后向下拉动废料滑梯，直到可以看见废料滑梯的两个卡扣，然后向外取出废料滑梯。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+#### 步骤 5：在 MC 板上断开并抽出线缆
+
+1. 在 MC 板上断开下图所示 TH 板供电线。
+
+![h2s_th_power_cable_removing.png](https://wiki.bambulab.com/h2/maintenance/replace-the-h2d-printer-cable-package/h2s_th_power_cable_removing.png)
+
+2. 将 TH 供电线缆从打印机左内衬的走线通道中抽出。
+
+![](https://wiki.bambulab.com/h2c/maintenance/upgrade-from-h2s-to-h2c/pixpin_2025-12-01_10-18-45.webp)
+
+---
+
+### 安装 TH 板供电线
+
+#### 步骤 1：穿线并连接 MC 板
+
+1. 将新的 TH 供电线缆沿原路径从内衬走线孔中穿入。
+
+![](https://wiki.bambulab.com/h2c/maintenance/upgrade-from-h2s-to-h2c/pixpin_2025-12-01_10-21-22.webp)
+
+2. 将线缆插入到 MC 板对应接口中。
+
+![h2s_th_power_cable_removing.png](https://wiki.bambulab.com/h2/maintenance/replace-the-h2d-printer-cable-package/h2s_th_power_cable_removing.png)
+
+3. 整理线缆并使用包装袋内附赠的束线带将线缆固定。若束线带遗失，可忽略此步。
+
+![zip_tie.png](https://wiki.bambulab.com/h2/maintenance/replace-the-h2d-printer-cable-package/zip_tie.png)
+
+#### 步骤 2：连接 AP 板插头
+
+将 TH 供电线缆插头插入 AP 板上对应的 **#7** 号接口中，确认插头连接到位。
+
+![](https://wiki.bambulab.com/h2s/maintenance/image-8.png)
+
+![](https://wiki.bambulab.com/h2s/maintenance/insert-th-power.webp)
+
+#### 步骤 4：安装废料滑梯
+
+您可以参考这篇 Wiki 来安装废料滑梯：[更换 H2 系列废料滑梯](https://wiki.bambulab.com/zh/h2/maintenance/replace-purge-chute#%E5%AE%89%E8%A3%85%E5%BA%9F%E6%96%99%E6%BB%91%E6%A2%AF)
+
+#### 步骤 5：安装背板
+
+您可以参考这篇 Wiki 来安装背板：[更换 H2 系列打印机背板](replace-rear-panel.md)
+
+#### 步骤 6：安装护线盖和 AP 板盖
+
+先从靠近打印机背面的一侧扣回 AP 板盖，将箭头所示的两处均按压到位，右侧与缓冲器齐平，底部与护线盖齐平，然后使用 H2.0 内六角扳手拧紧一颗固定螺丝（BT2.6x8）。
+
+|  |  |
+| --- | --- |
+|  |  |
 
 ## 如何验证成功
 
@@ -561,6 +641,6 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-the-H2D-printer-cabl
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请在开始操作前联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。

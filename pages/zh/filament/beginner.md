@@ -4,7 +4,7 @@ title: "耗材新手入门指南"
 description: "耗材新手入门指南，帮助新手快速学会如何使用耗材。"
 tags: []
 created: 2025-09-29T09:08:23.945Z
-updated: 2026-06-15T06:42:05.361Z
+updated: 2026-07-28T03:11:50.013Z
 source: https://wiki.bambulab.com/zh/filament/beginner
 ---
 
@@ -67,8 +67,8 @@ source: https://wiki.bambulab.com/zh/filament/beginner
 2. **选择设备**：常见方法包括：
 
    - 使用鼓风烤箱
-   - 使用拓竹 \*\*P2S / P1S / X1 / H2 系列打印机
-   > 注意：**P1P / A1 / A1 mini** 为开放式打印机，**无法**进行耗材烘干。
+   - 使用拓竹 P2S / P1S / X 系列 / H2 系列打印机热床烘干
+   > 注意：**P1P / A1 / A2L /A1 mini** 为开放式打印机，不适用于该方法。
 
    - 使用 AMS 2 Pro / AMS HT
    > 注意：
@@ -77,6 +77,8 @@ source: https://wiki.bambulab.com/zh/filament/beginner
    > 2. 打印过程中,仅部分机型可使用 AMS 烘干功能，详细信息请参考[这篇 Wiki](../ams-2-pro/manual/drying-function.md)。
    > 3. 打印机无法为 AMS HT 提供烘干所需电力，必须使用标配电源线独立供电。
 3. **确认烘干参数**：
+
+💡 提示：滑动表格查看更多内容
 
 | 耗材 | 使用前的烘干要求 | 使用时的干燥剂保护要求 | 鼓风型烤箱 温度(℃) | 鼓风型烤箱 时间(h) | 打印机 热床温度(℃) | 打印机 时间(h) | 翻面时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -92,7 +94,7 @@ source: https://wiki.bambulab.com/zh/filament/beginner
 | ASA Aero | 推荐 | 不需要但推荐 | 80 | 8 | 90 - 100 | 12 | 6 |
 | TPU | 必须 | 必须 | 65 - 75 | 8 | 80 - 90 | 12 | 6 |
 | PC | 必须 | 必须 | 75 - 85 | 8 | 90 - 100 | 12 | 6 |
-| PVA、BVOH | 必须 | 必须 | 75 - 85 | 75 - 85 | 90 - 100 | 12 | 6 |
+| PVA | 必须 | 必须 | 80 | 8 - 12 | 90 - 100 | 12 | 6 |
 | Support for PA/PET | 必须 | 必须 | 75 - 85 | 8 - 12 | 90 - 100 | 12 | 6 |
 | PA、PA-CF/GF、PAHT-CF/GF、PET-CF 等 | 必须 | 必须 | 75 - 85 | 8 - 12 | 90 - 100 | 12 | 6 |
 | PPA-CF/GF | 必须 | 必须 | 100 - 130 | 8 - 12 | 110 - 120（最高值）效果不及鼓风型烤箱 | 12 | 6 |
@@ -125,7 +127,7 @@ source: https://wiki.bambulab.com/zh/filament/beginner
 >
 > - 带有料盘的耗材在放入 AMS 前建议您先**不要**把四根胶带移除，以免导致耗材松散，产生“炸盘”等后果。
 > - 请勿撕下 RFID 识别芯片。
-> - 注意安装**无盘耗材**时需要**孔对孔卡到位**，即耗材纸筒缺口务必对准料盘**内侧凹起**处（如下图所示），否则耗材将无法顺利安装！！！  
+> - 注意安装**无盘耗材**时需要**孔对孔卡到位**，即耗材纸筒缺口务必对准料盘**内侧凸起**处（如下图所示），否则耗材将无法顺利安装！！！  
 >   ![](https://wiki.bambulab.com/filament-acc/beginner/image-4.png)
 
 安装无盘耗材请参考下面的视频：
@@ -170,17 +172,17 @@ source: https://wiki.bambulab.com/zh/filament/beginner
 
 - 外挂料盘
 - AMS
-- AMS Lite
+- AMS lite
 
 ![12.png](https://wiki.bambulab.com/filament-acc/beginner/12.png)
 
-- AMS Lite 耗材进料动态图
+- AMS lite 耗材进料动态图
 
 ![送料.gif](https://wiki.bambulab.com/filament-acc/beginner/%E9%80%81%E6%96%99.gif)
 
-### AMS Lite
+### AMS lite
 
-下面是**新料盘初次放进 AMS Lite** 的详细教程，具体详细操作可以参考下面的视频。
+下面是**新料盘初次放进 AMS lite** 的详细教程，具体详细操作可以参考下面的视频。
 
 [
 
@@ -209,6 +211,8 @@ source: https://wiki.bambulab.com/zh/filament/beginner
 - [X1 系列装载打印耗材](../x1/manual/loading-filament.md)
 - [P2S 装载打印耗材](../p2s/manual/first-print.md)
 - [H2 系列装载打印耗材](../h2s/manual/h2s-first-print.md)
+- [A2L 首次打印](../a2l/manual/first-print.md)
+- [X2D 首次打印](../x2d/manual/first-print.md)
 
 ## 打印前的检查
 

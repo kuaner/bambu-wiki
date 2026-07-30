@@ -4,7 +4,7 @@ title: "拓竹打印板介绍"
 description: "本指南详细介绍 Bambu Lab 3D 打印板，包括打印板的种类、规格尺寸、适配机型、耗材兼容性与清洁维护方法，助您选对打印板、提升打印成功率。"
 tags: []
 created: 2023-09-05T11:48:56.484Z
-updated: 2026-07-06T09:06:05.428Z
+updated: 2026-07-15T10:12:19.167Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/plates
 ---
 
@@ -45,9 +45,9 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/plates
 
 👇*点击标签了解详情*
 
-- 🔽 纹理 PEI 打印板
-- 🔽 光面 PEI 打印板
-- 🔽 纹理 + 光面 PEI 打印板
-- 🔽 工程材料打印板
-- 🔽 增稳低温打印板
-- 🔽 转印膜
+- 纹理 PEI 打印板
+- 光面 PEI 打印板
+- 纹理 + 光面 PEI 打印板
+- 工程材料打印板
+- 增稳低温打印板
+- 转印膜

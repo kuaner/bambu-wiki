@@ -4,7 +4,7 @@ title: "使用 Bambu Studio 拆分和打印大尺寸模型指南"
 description: "以A1机型为例，学习如何拆分较大模型、调整设置，并运用技巧确保多部件打印顺利完成。 "
 tags: []
 created: 2025-07-21T09:04:40.241Z
-updated: 2026-02-11T08:50:06.611Z
+updated: 2026-07-07T09:27:37.637Z
 source: https://wiki.bambulab.com/zh/bambu-studio/manual/3d-print-large-files
 ---
 
@@ -245,7 +245,7 @@ source: https://wiki.bambulab.com/zh/bambu-studio/manual/3d-print-large-files
 
 零件粘合后可能脱落，通常是胶水不匹配或表面未清洁。应根据材料选择合适的胶水，如 PLA 专用胶水，并在粘合前对拼接口进行打磨和清洁。
 
-更多多部件模型切片及打印的细节，可参考 [常见打印质量问题和解决办法](../../knowledge-sharing/common-print-quality-problem.md)
+更多多部件模型切片及打印的细节，可参考 [常见打印质量问题和解决办法](../../filament-acc/filament/print-quality.md)
 
 ## 结束语
 

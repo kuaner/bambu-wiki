@@ -4,7 +4,7 @@ title: "连接 AMS 2 Pro 到 P1S"
 description: "学习如何连接 AMS 2 Pro 到 P1S"
 tags: ["ams 2 pro", "p1s"]
 created: 2025-08-26T08:30:38.272Z
-updated: 2025-12-24T12:18:39.725Z
+updated: 2026-07-09T10:13:43.599Z
 source: https://wiki.bambulab.com/zh/p1/manual/installing-ams-2-pro-to-p1s
 ---
 
@@ -27,6 +27,8 @@ source: https://wiki.bambulab.com/zh/p1/manual/installing-ams-2-pro-to-p1s
 #### 方案二：您购买的是P1S AMS 2 Pro Combo
 
 如果您购买的是 P1S AMS 2 Pro Combo，那么其中已经包含 P1S 打印机、AMS 2 Pro 组件、以及上述所有配件。不同之处在于 Combo 配备的是 AMS 集线器，而非耗材缓冲器。
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 ## 连接 AMS 2 Pro 到 P1S
 

@@ -4,7 +4,7 @@ title: "A2L 主要部件介绍"
 description: "本文介绍了 A2L 的主要部件及功能"
 tags: []
 created: 2026-06-01T13:00:35.938Z
-updated: 2026-06-02T07:10:13.196Z
+updated: 2026-07-28T11:34:28.898Z
 source: https://wiki.bambulab.com/zh/a2l/manual/a2l-intro
 ---
 

@@ -4,7 +4,7 @@ title: "H2 系列的 TPU 打印准备工作"
 description: ""
 tags: []
 created: 2025-03-25T02:38:44.805Z
-updated: 2026-06-02T04:13:04.663Z
+updated: 2026-07-28T02:42:29.760Z
 source: https://wiki.bambulab.com/zh/h2/h2d-tpu-printing-guide
 ---
 
@@ -12,9 +12,17 @@ source: https://wiki.bambulab.com/zh/h2/h2d-tpu-printing-guide
 
 ## 前言
 
-TPU 耗材根据软硬程度可以分为 TPU For AMS、TPU 95A、 TPU 90A、TPU 85A。其中 TPU For AMS 硬度较高，进退料要求较低，能够直接放入 AMS 中使用；而 95A 及以下的耗材，其进料要求偏高，需避免进料阻力过大影响打印质量。
+TPU 耗材根据软硬程度可以分为 TPU For AMS、TPU 95A、 TPU 90A、TPU 85A。其中 TPU For AMS 硬度较高，进退料要求较低，能够直接放入 AMS 系列中使用；而 95A 及以下的耗材，其进料要求偏高，需避免进料阻力过大影响打印质量。
 
 关于 TPU 耗材的详细介绍，请跳转至《[TPU 介绍](../knowledge-sharing/tpu-printing-guide.md)》。
+
+> 📌 **耗材使用注意事项**：
+>
+> 1. 请在**阴凉、避光、干燥**环境中存放耗材，避免阳光直射或高温环境。
+> 2. 请将耗材及折断的碎屑放在**婴幼儿及宠物无法触及的地方**，避免吞咽和窒息的风险。
+> 3. TPU 属于**吸水性较强**的材料，未使用完的耗材应立即放入含有有效干燥剂的**密封容器**内，并且在打印前按照指南中推荐的温度和时间进行**充分烘干**。
+> 4. 建议在**通风良好**的区域使用打印机，或安装有效的空气过滤、外排风系统。
+> 5. 本耗材**不属于**食品接触级耗材，请避免将打印成品用于存放或接触食品。
 
 ## TPU 进料视频指南
 
@@ -32,7 +40,7 @@ TPU 具有较强的吸湿性，在自然环境中容易吸收水分。含有水�
 
 | 项目 | TPU 85A | TPU 90A | TPU 95A HF | TPU for AMS |
 | --- | --- | --- | --- | --- |
-| **打印机适配性** | H2 系列（H2D / H2C 仅能从右进料口进料） | H2 系列（H2C 仅能从右进料口进料） | H2 系列（H2C 仅能从右进料口进料） | H2 全系列 |
+| **打印机适配性** | H2 系列（H2D / H2C 仅能右热端进料） | H2 系列（H2C 仅能从右热端进料） | H2 系列（H2C 仅能从右热端进料） | H2 全系列 |
 | **喷嘴兼容性** | **推荐：** 0.6 mm / 0.8 mm / TPU 高流量喷嘴  **不推荐：** 高流量喷嘴  **不支持：** 0.2 mm / 0.4 mm | **推荐：** 0.4 mm / 0.6 mm / 0.8 mm / TPU 高流量喷嘴  **不推荐：** 高流量喷嘴  **不支持：** 0.2 mm | **推荐：** 0.4 mm / 0.6 mm / 0.8 mm / TPU 高流量喷嘴  **不支持：** 0.2 mm / 高流量喷嘴 | **推荐：** 0.4 mm / 0.6 mm / 0.8 mm / TPU 高流量喷嘴  **不支持：** 0.2 mm / 高流量喷嘴 |
 | **配件兼容性（打印板 / 胶水 / AMS 等）** | - 打印板：光面 PEI、纹理 PEI  - 胶水：无需涂胶  - AMS / AMS lite / AMS 2 Pro：**不兼容**  - AMS HT：兼容 | - 打印板：光面 PEI 板、纹理 PEI 板   - 胶水：无需涂胶   - AMS / AMS lite / AMS 2 Pro：**不兼容**  - AMS HT：兼容 | - 打印板：光面 PEI 板、纹理 PEI 板   - 胶水：Bambu 液体胶 / 固体胶棒   - AMS / AMS lite / AMS 2 Pro：**不兼容**  - AMS HT：兼容 | - 打印板：光面 PEI、纹理 PEI  - 胶水：Bambu 液体胶 / 固体胶棒   - AMS / AMS lite / AMS 2 Pro / AMS HT：**兼容** |
 | **耗材混合适配性** | - H2D / H2C ：**支持**与其他耗材混合打印 | - H2D / H2C ：**支持**与 PLA/PETG 多材料混合打印 | - H2D / H2C ：**支持**与 PLA/PETG 多材料混合打印 | - H2D / H2C ：**支持**与 PLA/PETG 多材料混合打印 |
@@ -124,7 +132,7 @@ TPU 具有较强的吸湿性，在自然环境中容易吸收水分。含有水�
 
 ![](https://wiki.bambulab.com/h2/manual/h2d-tpu-printing-guide/image-9.png)
 
-- 当 TPU 耗材被顺利咬合并挤出后（热端处看见料线被连续挤出），再将 PTFE 管插回工具头(**85A 无需该插回 PTFE管**)，开始打印任务。
+- 当 TPU 耗材被顺利咬合并挤出后（热端处看见料线被连续挤出），再将 PTFE 管插回工具头(**85A 无需插回 PTFE 管**)，开始打印任务。
 
 ![](https://wiki.bambulab.com/h2/manual/h2d-tpu-printing-guide/image-8.png)
 

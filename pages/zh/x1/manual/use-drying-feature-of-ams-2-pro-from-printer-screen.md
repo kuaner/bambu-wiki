@@ -4,7 +4,7 @@ title: "如何在 X1C 打印机屏幕上使用 AMS 2 Pro 烘干功能 "
 description: "学习如何通过 X1C 打印机屏幕使用 AMS 2 Pro 的烘干功能。 "
 tags: []
 created: 2025-08-27T08:14:23.061Z
-updated: 2026-03-04T03:13:17.884Z
+updated: 2026-07-09T10:13:16.659Z
 source: https://wiki.bambulab.com/zh/x1/manual/use-drying-feature-of-ams-2-pro-from-printer-screen
 ---
 
@@ -38,6 +38,8 @@ source: https://wiki.bambulab.com/zh/x1/manual/use-drying-feature-of-ams-2-pro-f
 - PTFE 接头
 
 ---
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 ## 操作步骤
 

@@ -4,7 +4,7 @@ title: "AMS lite 置顶方案操作指南 —— A1 系列"
 description: "本文介绍了如何将 AMS lite 安装在 A1 系列打印机顶部"
 tags: ["ams lite"]
 created: 2023-12-14T13:56:32.894Z
-updated: 2026-06-05T03:59:24.162Z
+updated: 2026-07-16T01:36:59.151Z
 source: https://wiki.bambulab.com/zh/a1/manual/ams-lite-top-mount-tutorial
 ---
 
@@ -36,6 +36,8 @@ Maker World 上的 Z 轴稳定器模型已更新为最新版本。无论您使�
 [点击此处跳转Makerworld下载模型](https://makerworld.com.cn/zh/models/125814#profileId-8903)
 
 ### 2. 2 颗 BT3-23 螺丝
+
+> 如果您直接购买的 combo 套装，将自带所需螺丝。
 
 您可自备 2 颗 BT3-23 螺丝，或从我们的电商平台购买 AMS lite 置顶螺丝包（[天猫](https://detail.tmall.com/item.htm?abbucket=7&id=755721814709&pisk=fDwZKuanMOBZZgBXhckq43TigPDtnAb5Q-gjmoqmfV0GM1eqguahXiEml-k4Jyc0CAZ_8heUzK91W1ED3xMcPa65FlItHxb7SFEdVFnSqFXjoqDnhqTXaa65Fk5iXxZhPRNMkFm-VKDmsj0hK2nXII4mskvnJmnDSx0GYMox-dYDsjc3x0iJnC4DIpvnqmiMof0D-kms-qDmnX7gjovEVfj5hbOj-_0i_4qFwKvq_LGirRuHnZyEba3uj2JDnVdXvTZUfNJ8AAe0z0a1KdzzmuFmT-8hzqeUxRV0vFSnUkPQNfPFSKuQCmlonX-DnkkEJzytETYEvWq_iRUw0KmTC8GqyXSDHjM3FbVu7nI8xAm0kbefyd3gmue8NYWwycP34vSybEnHhreY_EAqsDnEPMSFwiS2cC-wbAAvMXD-Y4ssfIdxsDmEPGj9MIhnYDu5fKf..&rn=d5fb008f010b9a4c93691df47adfcaad&spm=a1z10.3-b-s.w4011-25177047232.15.5dff3c0eEAgnVX&skuId=5209090940099)；[京东](https://item.jd.com/10093588288305.html)）。
 

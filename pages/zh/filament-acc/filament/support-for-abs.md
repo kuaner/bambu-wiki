@@ -4,19 +4,27 @@ title: "Support for ABS 打印指南"
 description: ""
 tags: []
 created: 2024-07-05T06:50:55.623Z
-updated: 2026-05-12T06:39:02.487Z
+updated: 2026-07-24T07:08:25.421Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/support-for-abs
 ---
 
+> ❗ **重要提醒：**  
+> 1.请在**阴凉、避光、干燥**环境中存放，避免阳光直射和高温。  
+> 2.请将耗材及折断的碎屑放在**婴幼儿及宠物无法触及**的地方，避免吞咽和窒息的风险。  
+> 3.已拆封的耗材建议使用前按指南中推荐的温度和时间进行**烘干**。  
+> 4.建议在**通风良好**的区域使用打印机，或安装有效的空气过滤、外排风系统。  
+> 5.本耗材**不属于**食品接触级耗材，请避免将打印成品用于盛装或接触食品。  
+> 6.**Support for ABS** 在打印温度下会释放苯乙烯等有害气体，**具有一定毒性**，可能会引起头晕、恶心，建议在具有封闭腔体的打印机上打印。长时间操作时，建议佩戴有蒸汽过滤功能的防护口罩（如活性炭口罩）进行防护。如有哮喘、呼吸系统疾病患者、孕妇及儿童在场，建议加强通风或暂停相关材料打印。
+
 ## **预设配置文件**
 
-下载、打开以下 .3mf 文件后，下文提到的打印参数已自动调整，导入目标打印模型的 **.stl 文件**后即可应用这些参数，无需再次调整。  
-  
-如果需要使用其他型号的打印机打印，可直接选择对应的型号，根据提示选择使用修改值，即可迁移相应的工艺参数和耗材丝参数。  
-  
-[Bambu Support for ABS（普通支撑）.3mf](https://wiki.bambulab.com/filament-acc/filament/support-for-abs-printing-guide/bambu_support_for_abs（普通支撑）.3mf)  
-  
-[Bambu Support for ABS（树状支撑）.3mf](https://wiki.bambulab.com/filament-acc/filament/support-for-abs-printing-guide/bambu_support_for_abs（树状支撑）.3mf)
+下载、打开以下 .3mf 文件后，下文提到的打印参数已自动调整，导入目标打印模型的 **.stl 文件**后即可应用这些参数，无需再次调整。
+
+如果需要使用其他型号的打印机打印，可直接选择对应的型号，根据提示选择使用修改值，即可迁移相应的工艺参数和耗材丝参数。
+
+[Bambu Support for ABS（普通支撑）.3mf](https://wiki.bambulab.com/filament-acc/filament/support-for-abs-printing-guide/bambu_support_for_abs%EF%BC%88%E6%99%AE%E9%80%9A%E6%94%AF%E6%92%91%EF%BC%89.3mf)
+
+[Bambu Support for ABS（树状支撑）.3mf](https://wiki.bambulab.com/filament-acc/filament/support-for-abs-printing-guide/bambu_support_for_abs%EF%BC%88%E6%A0%91%E7%8A%B6%E6%94%AF%E6%92%91%EF%BC%89.3mf)
 
 ![](https://wiki.bambulab.com/filament-acc/filament/support-for-abs-printing-guide/import-and-apply-cn.apng)
 
@@ -75,25 +83,31 @@ Support for ABS 的主要成分是高抗冲聚苯乙烯 (HIPS)，它对水分不
 
 使用普通支撑时，推荐设置样式为**缺省/网格**，如下图所示。
 
-![](https://wiki.bambulab.com/样式.png)
+![](https://wiki.bambulab.com/%E6%A0%B7%E5%BC%8F.png)
 
-#### 支撑面速度
+#### 
+
+支撑面速度
 
 提高支撑面速度，可以增加支撑的易剥离性。但如果支撑面速度过快，会增加模型翘曲的风险。
 
-![](https://wiki.bambulab.com/filament-acc/filament/support-for-abs/支撑面速度中文.png)
+![](https://wiki.bambulab.com/filament-acc/filament/support-for-abs/%E6%94%AF%E6%92%91%E9%9D%A2%E9%80%9F%E5%BA%A6%E4%B8%AD%E6%96%87.png)
 
-#### 接触面层数
+#### 
+
+接触面层数
 
 增加接触面层数，能够使支撑更容易剥离。
 
-![](https://wiki.bambulab.com/接触面层数.png)
+![](https://wiki.bambulab.com/%E6%8E%A5%E8%A7%A6%E9%9D%A2%E5%B1%82%E6%95%B0.png)
 
-#### 树状支撑
+#### 
+
+树状支撑
 
 如下图所示，在使用树状支撑时，建议调整参数使接触面完整并连结成片。
 
-![](https://wiki.bambulab.com/支撑成片.png)
+![](https://wiki.bambulab.com/%E6%94%AF%E6%92%91%E6%88%90%E7%89%87.png)
 
 更详细的树状支撑功能，请参见[支撑耗材与支撑功能的介绍](../../software/bambu-studio/support.md)。
 
@@ -101,11 +115,11 @@ Support for ABS 的主要成分是高抗冲聚苯乙烯 (HIPS)，它对水分不
 
 1 需要把 ABS 的材料清理量提高至 90mm³；
 
-![](https://wiki.bambulab.com/filament-acc/filament/support-for-abs/材料清理量.jpg)
+![](https://wiki.bambulab.com/filament-acc/filament/support-for-abs/%E6%9D%90%E6%96%99%E6%B8%85%E7%90%86%E9%87%8F.jpg)
 
 2. 修改 ABS 的部件冷却风扇设置，提高最小风扇速度阈值为 50%。
 
-![](https://wiki.bambulab.com/filament-acc/filament/support-for-abs/部件冷却风扇阈值.jpg)
+![](https://wiki.bambulab.com/filament-acc/filament/support-for-abs/%E9%83%A8%E4%BB%B6%E5%86%B7%E5%8D%B4%E9%A3%8E%E6%89%87%E9%98%88%E5%80%BC.jpg)
 
 ## 可溶性
 

@@ -4,7 +4,7 @@ title: "如何使用拓竹热床胶水"
 description: "本文介绍了如何使用拓竹热床胶水及注意事项。"
 tags: []
 created: 2023-01-06T01:41:25.060Z
-updated: 2026-07-01T01:36:01.463Z
+updated: 2026-07-13T10:24:48.384Z
 source: https://wiki.bambulab.com/zh/general/how-to-use-bbl-liquid-glue
 ---
 
@@ -73,6 +73,10 @@ Bambu Lab 胶水适用于多种 3D 打印耗材，包括 PLA、ABS 和 PETG 等�
 ▸ 如何清洗固体胶？
 
 固体胶可用温水和肥皂清洗。如果胶水已经干燥，请将打印板在水中浸泡 30 秒，再进行清洗。
+
+▸ 如何清洗液体胶的残留？
+
+使用清水配合无纺布即可擦洗干净。
 
 ▸ 胶水的存储条件？
 

@@ -4,7 +4,7 @@ title: "跳闸、设备漏电的排查建议"
 description: ""
 tags: ["a1", "a1 mini", "h2c", "h2d", "h2s", "p1p", "p1s", "p2s", "x1c", "x1e", "x2d"]
 created: 2023-08-21T09:08:50.969Z
-updated: 2026-05-27T07:27:55.219Z
+updated: 2026-07-13T09:14:48.880Z
 source: https://wiki.bambulab.com/zh/general/tripping-and-electric-issue
 ---
 
@@ -35,7 +35,7 @@ source: https://wiki.bambulab.com/zh/general/tripping-and-electric-issue
 
 ## 所需工具
 
-- 万用表：用于测量电路导通性和电阻值（使用方法参考：如何使用万用表检测电路是否正常）
+- 万用表：用于测量电路导通性和电阻值（使用方法参考：[如何使用万用表检测电路是否正常](../knowledge-sharing/multimeter.md)）
 - 内六角螺丝刀：用于拆卸和安装部件
 
 > 提示：使用万用表测量时，蜂鸣器响或电阻很低表示电路导通（正常）；无蜂鸣声或电阻很大表示电路阻断（异常）。

@@ -4,9 +4,87 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-07-03T08:31:41.797Z
+updated: 2026-07-24T08:30:39.041Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 24/07/26
+
+### 新页面
+
+- [HMS\_1A00-3000-0001-0041：工具头感应热端在位检测传感器短路，请重新插拔传感器连接线或更换传感器。](h2c/troubleshooting/hmscode/1A00_3000_0001_0041.md)
+- [HMS\_1A00-3000-0001-0040: 工具头感应热端在位检测传感器断路，请重新插拔传感器连接线或更换传感器。](h2c/troubleshooting/hmscode/1A00_3000_0001_0040.md)
+
+### 更新页面
+
+- [更换 AMS 2 Pro 主板](ams-2-pro/maintenance/replace-mainboard.md)
+- [绒毛表面](software/bambu-studio/parameter/fuzzy-skin.md)
+- [H2S 喷嘴/热端堵塞清理指南](h2s/troubleshooting/nozzle-clog.md)
+- [打印机无法检测到 AMS 2 Pro](ams-2-pro/troubleshooting/ams-2-pro-communication-anomalies.md)
+- [Bambu Studio 多盘打印指南](studio-handy/multi-plate-printing.md)
+- [TPU 送料助力模块组装 & 使用指南](general/manual/tpu-feed-assist-module.md)
+- [HMS\_0700\_9000\_0002\_0001: AMS A 排气风门1动作异常，可能是阻力过大。](h2/troubleshooting/hmscode/0700_9000_0002_0001.md)
+
+## 17/07/26
+
+### 新页面
+
+- [X2D 安装外排气管指南](x2d/filament-acc/install-external-exhaust-pipe.md)
+- [如何使用网线接口连接打印机](x1e/maintenance/how-to-use-internet-cable.md)
+
+### 更新页面
+
+- [更换切刀刀柄](x1/maintenance/replace-cutter-lever.md)
+- [更换 X2D 堵嘴片](x2d/maintenance/replace-flow-blocker.md)
+- [更换 H2 系列打印机线缆](h2/maintenance/replace-the-H2D-printer-cable-package.md)
+- [更换 H2D 左右涡流线圈](h2/maintenance/replace-nozzle-eddy-sensor.md)
+- [更换 X2D 的左霍尔检测板](x2d/maintenance/replace-extruder-filament-sensor-left.md)
+- [更换 H2D/H2C 切刀刀柄与刀片](h2/maintenance/replace-filament-cutter-lever.md)
+- [PETG 使用指南](filament/petg.md)
+- [ASA CF / PAHT CF 使用指南](filament/asacf_pahtcf.md)
+- [常见问题](faq.md)
+- [打印错层](knowledge-sharing/layer-shifts.md)
+- [多设备管理](software/bambu-studio/multi-device-management.md)
+- [运动精度校准](h2/manual/motion-accuracy.md)
+- [耗材烘干操作指南](filament-acc/filament/dry-filament.md)
+- [如何使用拓竹热床胶水](general/how-to-use-bbl-liquid-glue.md)
+- [A 系列打印板位置检测](a1-mini/manual/build-plate-detection.md)
+- [跳闸、设备漏电的排查建议](general/tripping-and-electric-issue.md)
+- [A1 热床不升温故障排查](a1/troubleshooting/heatbed-not-heat-up.md)
+- [如何查找序列号及注册新序列号](general/find-sn.md)
+- [A1 combo 开箱指南（旧）](a1/manual/unboxing-a1-combo.md)
+- [挤出机维护指南：P1系列挤出机维护](p1/maintenance/extruder-cleaning-guide.md)
+- [HMS\_0500-0100-0003-0006: SD 卡未格式化。](x1/troubleshooting/hmscode/0500_0100_0003_0006.md)
+
+## 10/07/26
+
+### 新页面
+
+- [A2L 更换底座](a2l/maintenance/replace-base-housing.md)
+- [HMS\_0500-0300-0001-000B: 屏幕出现故障；请重新启动设备。](p2s/troubleshooting/hmscode/0500_0300_0001_000b.md)
+- [HMS\_1A00-3000-0001-0041：工具头感应热端在位检测传感器短路，请重新插拔传感器连接线或更换传感器。](h2c/troubleshooting/hmscode/1A00_3000_0001_0041.md)
+
+### 更新页面
+
+- [更换 H2D & H2C 挤出电机](h2/maintenance/replace-extruder-servo-motor.md)
+- [X2D 智能检测介绍](x2d/manual/intelligent-detection.md)
+- [更换热端风扇- A1 系列](a1-mini/maintenance/hotend-cooling-fan.md)
+- [更换 H2C 感应热端硅胶套及感应加热组件硅胶套](h2c/maintenance/replace-induction-hotend-silicone-sleeve.md)
+- [X2D FAQs](x2d/manual/x2d-faq.md)
+- [H2D Combo 首次打印](h2/manual/h2d-first-print.md)
+- [A1 初次打印指南（使用 AMS lite）](a1/manual/first-print-with-ams-lite.md)
+- [打印机校准指南](general/printer-calibration.md)
+- [A2L 首次打印](a2l/manual/first-print.md)
+- [耗材新手入门指南](filament/beginner.md)
+- [常见打印质量问题和解决办法](knowledge-sharing/common-print-quality-problem.md)
+- [更换 H2D 气泵滤芯](h2/maintenance/replace-air-pump-filter.md)
+- [通过 microSD 卡升级固件——A1/A2L](a1/manual/a1-firmware-update-from-SD-card.md)
+- [A1 AC 板更换指南](a1/maintenance/ac-board-replacement.md)
+- [HMS\_0300-1200-0002-0001: 工具头前盖脱落。](p2s/troubleshooting/hmscode/0300_1200_0002_0001.md)
+- [HMS\_0300-1D00-0001-000A: 挤出电机过载，可能是电机故障。](a2l/troubleshooting/hmscode/0300_1D00_0001_000A.md)
+- [HMS\_1200-4500-0002-0001: 切料传感器异常，请检查连接器是否插好。](https://wiki.bambulab.com/zh/x1/troubleshooting/hmscode/1200_4500_0002_0001)
+- [HMS\_0300-0100-0001-0008：热床加热过程中出现异常，加热模块可能故障。](h2/troubleshooting/hmscode/0300_0100_0001_0008.md)
+- [HMS\_0C00-0100-0001-0001: 工具头摄像头不在线，请检查硬件连接。](h2/troubleshooting/hmscode/0C00_0100_0001_0001.md)
 
 ## 03/07/2026
 

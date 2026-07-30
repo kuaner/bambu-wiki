@@ -4,7 +4,7 @@ title: "A1 mini  USB-C 数据线更换指南"
 description: "介绍更换 A1 mini  USB-C数据线的步骤"
 tags: []
 created: 2024-02-20T13:44:25.915Z
-updated: 2025-05-19T13:00:04.575Z
+updated: 2026-07-27T03:22:32.791Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/usb-c-replacement-guide
 ---
 
@@ -43,7 +43,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/usb-c-replacement-guide
 
 ### **1. 将** USB-C 数据线**从工具头上拆除**
 
-首先将工具头上固定在 A1 mini  USB-C 数据线的四颗螺丝拧下。螺丝取下后，向上拉动 USB-C 数据线即可将其取下。
+首先将工具头上固定在 A1 mini  USB-C 数据线的四颗螺丝（BT1.6\*6）拧下。螺丝取下后，向上拉动 USB-C 数据线即可将其取下。
 
 ![](https://wiki.bambulab.com/a1m/replace-usb-c-cable/remove_usb_c_cable_from_a1_print_head.jpeg)
 
@@ -182,7 +182,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/usb-c-replacement-guide
 
 下一步是重新安装电机保护罩盖板。只需将其推回原位，直到听到卡扣 "咔嗒 "声。
 
-然后用第一步中取下的四颗螺丝重新安装 USB-C 数据线.
+然后用第一步中取下的四颗螺丝（BT1.6\*6）重新安装 USB-C 数据线.
 
 ![](https://wiki.bambulab.com/a1m/replace-usb-c-cable/re-attach_the_motor_cover.jpeg)
 > ***注意！***

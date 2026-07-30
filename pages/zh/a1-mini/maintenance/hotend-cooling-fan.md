@@ -4,7 +4,7 @@ title: "更换热端风扇- A1 系列"
 description: "本指南演示如何更换 A1 系列的热端风扇。"
 tags: ["a1 mini", "热端风扇", "a1"]
 created: 2024-05-10T03:34:11.755Z
-updated: 2025-05-19T13:51:32.421Z
+updated: 2026-07-09T08:09:06.876Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/hotend-cooling-fan
 ---
 
@@ -85,7 +85,7 @@ A1 mini 热端风扇（购买链接：[京东](https://item.jd.com/1008523711310
 
 卸下热端风扇的 2 颗螺丝，移除热端风扇。
 
-![热端风扇--.jpg](https://wiki.bambulab.com/a1m/replace-hotend-cooling-fan/%E7%83%AD%E7%AB%AF%E9%A3%8E%E6%89%87--.jpg)
+![hotend_fan_screws.png](https://wiki.bambulab.com/a1m/replace-hotend-cooling-fan/hotend_fan_screws.png)
 
 ## **安装新的热端风扇**
 
@@ -93,7 +93,7 @@ A1 mini 热端风扇（购买链接：[京东](https://item.jd.com/1008523711310
 
 将新的部热端风扇安装在工具头上，锁紧固定风扇的两颗螺丝。
 
-![热端风扇--.jpg](https://wiki.bambulab.com/a1m/replace-hotend-cooling-fan/%E7%83%AD%E7%AB%AF%E9%A3%8E%E6%89%87--.jpg)
+![hotend_fan_screws.png](https://wiki.bambulab.com/a1m/replace-hotend-cooling-fan/hotend_fan_screws.png)
 
 ### 2. 安装左侧线盖
 

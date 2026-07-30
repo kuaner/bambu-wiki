@@ -4,7 +4,7 @@ title: "更换 H2D & H2C 挤出电机"
 description: "本文介绍如何更换 H2D & H2C 挤出电机"
 tags: []
 created: 2025-03-25T10:16:12.135Z
-updated: 2026-03-18T03:51:09.038Z
+updated: 2026-07-09T19:59:46.574Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-extruder-servo-motor
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-extruder-servo-motor
 
 **挤出电机的备件包含如下：**
 
-1. 2004 挤出电机 \* 1
+1. 3513 挤出电机 \* 1
 2. M2.5x8 螺丝 - 用于固定挤出电机 \* 2
 
 ## 何时更换

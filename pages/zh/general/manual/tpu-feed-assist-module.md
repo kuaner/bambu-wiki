@@ -4,7 +4,7 @@ title: "TPU 送料助力模块组装 & 使用指南"
 description: "本文将详细为您讲述 TPU 送料助力模型的组装以及使用方法。"
 tags: []
 created: 2026-03-10T10:01:48.583Z
-updated: 2026-07-03T06:37:39.414Z
+updated: 2026-07-20T02:24:19.585Z
 source: https://wiki.bambulab.com/zh/general/manual/tpu-feed-assist-module
 ---
 
@@ -51,10 +51,12 @@ TPU 送料助力模块是一款专为**柔性耗材打印**设计的增强组件
 
 拓竹 H2S/H2D/H2D Pro/H2C、X1/X1C/X1E/X2D、P1P/P1S/P2S
 
-> **注意事项：**  
-> 1.当 H2D 左热端连接 TPU 送料助力模块时，不支持多色或多材料打印（无法同时使用左右热端）。原因在于：左热端升降动作会影响助力模块的送料稳定性，进而导致挤出机堵塞。  
-> 2.TPU 送料助力模块需搭配外挂料盘使用，不支持 AMS 自动上下料功能，仅支持通过 AMS HT 的 TPU 专用出料口手动进料。  
-> 3.若在使用过程中遇到异常或故障，可参考故障排查文档：[TPU 送料助力模块常见故障排查](../troubleshooting/tpu-feed-assist-module.md) 进行处理。
+> 📌 **注意事项：**
+>
+> 1. 当 H2D 左热端连接 TPU 送料助力模块时，不支持多色或多材料打印（无法同时使用左右热端）。原因在于：左热端升降动作会影响助力模块的送料稳定性，进而导致挤出机堵塞。
+> 2. TPU 送料助力模块需搭配外挂料盘使用，不支持 AMS 自动上下料功能，仅支持通过 AMS HT 的 TPU 专用出料口手动进料。
+> 3. 若在使用过程中遇到异常或故障，可参考故障排查文档：[TPU 送料助力模块常见故障排查](../troubleshooting/tpu-feed-assist-module.md) 进行处理。
+> 4. **P2S 单机版本**没有配置适用于 P2S 的缓冲器，您需要额外购买 **P2S 缓冲器** 配合 TPU 送料助力模块的使用。（购买链接：[京东](https://item.jd.com/10194454014780.html?pcdk=IP8IVu_upGJI6baBBUoJUNsuMiI6eq2mtKUUxvoPD1w%3D.M8AW.sbc1)；[天猫](https://detail.tmall.com/item.htm?abbucket=15&id=985866098141&mi_id=0000uoCE1MpHjzaN710PrTLvTml5YbBPVx7JNyBehb_hv38&ns=1&priceTId=2147839017745789786753783e191e&skuId=6114711638942&spm=a21n57.1.hoverItem.2&utparam=%7B%22aplus_abtest%22%3A%224c72eaec90ea905ee181097a30b88230%22%7D&xxc=taobaoSearch)）。
 
 ## 三、准备工作
 

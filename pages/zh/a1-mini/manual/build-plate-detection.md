@@ -1,10 +1,10 @@
 ---
 path: zh/a1-mini/manual/build-plate-detection
-title: "A1 系列打印板位置检测"
-description: "本文章介绍了 A1 系列的打印板位置检测功能。"
+title: "A 系列打印板位置检测"
+description: "本文章介绍了 A2L / A1 / A1 mini 打印机的打印板位置检测功能。"
 tags: []
 created: 2024-01-24T11:51:43.821Z
-updated: 2026-06-02T02:38:22.517Z
+updated: 2026-07-13T09:18:44.675Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/build-plate-detection
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/build-plate-detection
 
 众所周知，3D 打印过程中是喷嘴在打印板上挤出熔融耗材构建成 3D 模型的，所以打印前必须要在热床上放置打印板。
 
-A1 系列打印机配备了打印板位置检测功能，打印机在打印开始前能检测用户是否放置了打印板，避免直接在热床上打印，造成打印失败甚至损坏热床。下图为直接在热床上打印的错误示例：
+A 系列打印机配备了打印板位置检测功能，打印机在打印开始前能检测用户是否放置了打印板，避免直接在热床上打印，造成打印失败甚至损坏热床。下图为直接在热床上打印的错误示例：
 
 ![](https://wiki.bambulab.com/n1/manual/build-plate-detection/%E5%9C%A8%E7%83%AD%E5%BA%8A%E4%B8%8A%E6%89%93%E5%8D%B0.gif)
 

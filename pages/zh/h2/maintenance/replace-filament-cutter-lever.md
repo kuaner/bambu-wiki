@@ -4,7 +4,7 @@ title: "更换 H2D/H2C 切刀刀柄与刀片"
 description: "本文介绍如何更换 H2D/H2C 切刀刀柄和刀片"
 tags: []
 created: 2025-03-28T09:05:49.238Z
-updated: 2026-05-09T08:41:17.743Z
+updated: 2026-07-17T07:26:11.769Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-filament-cutter-lever
 ---
 
@@ -93,6 +93,10 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-filament-cutter-leve
 |  |  |
 | --- | --- |
 |  |  |
+
+安装切刀时，**请确保切刀缺口面朝上**。
+
+![notched_side_of_the_blade_facing_upwards.png](https://wiki.bambulab.com/h2/maintenance/replace-filament-cutter-lever/notched_side_of_the_blade_facing_upwards.png)
 
 使用 H2.0 内六角扳手拧紧固定螺丝。
 

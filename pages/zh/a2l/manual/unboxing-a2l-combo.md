@@ -4,7 +4,7 @@ title: "A2L Combo 套装开箱指南"
 description: "本文介绍 A2L AMS 套装的开箱步骤。"
 tags: []
 created: 2026-06-01T13:00:53.625Z
-updated: 2026-07-08T02:47:37.318Z
+updated: 2026-07-08T02:47:38.358Z
 source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
 ---
 

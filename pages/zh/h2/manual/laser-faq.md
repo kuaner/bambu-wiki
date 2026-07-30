@@ -4,7 +4,7 @@ title: "激光模组FAQ"
 description: ""
 tags: []
 created: 2025-03-25T13:45:18.590Z
-updated: 2026-01-04T09:25:16.361Z
+updated: 2026-07-23T02:24:36.354Z
 source: https://wiki.bambulab.com/zh/h2/manual/laser-faq
 ---
 
@@ -77,10 +77,6 @@ source: https://wiki.bambulab.com/zh/h2/manual/laser-faq
 #### 为什么材料测量策略会不准？这会影响加工吗？
 
 请参照此文档：[材料厚度测量](../../software/bambu-suite/manual/material-thickness-measurement.md)
-
-### 如何保养维护激光模组？
-
-建设中
 
 ### 激光模组工作时，有哪些安全预防措施？
 

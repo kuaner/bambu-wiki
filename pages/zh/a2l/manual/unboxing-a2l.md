@@ -4,7 +4,7 @@ title: "A2L 单机开箱指南"
 description: "本文介绍 A2L 单机的开箱步骤。"
 tags: []
 created: 2026-06-01T13:01:09.653Z
-updated: 2026-06-09T02:17:42.099Z
+updated: 2026-07-08T02:46:54.937Z
 source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l
 ---
 
@@ -200,7 +200,9 @@ source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l
 - 取出外挂料盘支架，将其固定到框架上。  
   ![a2l-117-apxa-spoolholder-mount-on-frame.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-117-apxa-spoolholder-mount-on-frame.png)
 - 取出铁氟龙料管，一端连接支架上的料管接头，另一端连接工具头上任意一个进料口。  
-  ![a2l-119-apxa-spoolholder-connect-ptfe-tube.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-119-apxa-spoolholder-connect-ptfe-tube.png)
+  ![a2l-119-apxa-spoolholder-connect-ptfe-tube-v2.png](https://wiki.bambulab.com/a2l/manual/unboxing/a2l-119-apxa-spoolholder-connect-ptfe-tube-v2.png)
+
+> 请将白色料管从黑色工具头线缆下方穿过，确保料管位于线缆下方，以免料管压住线缆导致线缆下垂。
 
 ### 通电和初始化校准
 

@@ -4,7 +4,7 @@ title: "AMS 2 Pro 和 AMS HT 常见问答"
 description: ""
 tags: []
 created: 2025-03-25T13:39:21.917Z
-updated: 2026-04-29T03:06:44.607Z
+updated: 2026-07-09T09:59:36.988Z
 source: https://wiki.bambulab.com/zh/ams/manual/ams-2-pro-ams-ht-faq
 ---
 
@@ -31,6 +31,8 @@ source: https://wiki.bambulab.com/zh/ams/manual/ams-2-pro-ams-ht-faq
 ![ams_hub.png](https://wiki.bambulab.com/ams-2-pro/manual/ams2pro-amsht-buying-guide/ams_hub.png)  
 通过电源适配器，您可以使用 AMS 2 Pro 的烘干功能。  
 ![电源适配器_(2).png](https://wiki.bambulab.com/ams-2-pro/manual/ams2pro-amsht-buying-guide/%E7%94%B5%E6%BA%90%E9%80%82%E9%85%8D%E5%99%A8_(2).png)
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 > 注意：请务必使用 AMS 2 Pro 和 AMS HT 标配的新版本 6-pin 连接线，若使用上一代 AMS 的 6-pin 连接线可能导致 AMS 与打印机的通信不稳定，而上一代 AMS 可以兼容新版本的 6-pin连接线。
 
@@ -77,10 +79,12 @@ H2D 与 H2S 均可连接两个 AMS。当连接至 H2D 打印机时，每个 AMS 
 
 ⚠️所需固件最低版本：
 
-- H2D： 01.03.00.00 版本及以上
-- H2S： 01.02.00.00 版本及以上
-- P2S： 01.01.50.50 public beta 版本及以上
-- 其他设备暂不支持
+> - H2D： 01.03.00.00 版本及以上
+> - H2S： 01.02.00.00 版本及以上
+> - P2S： 01.02.00.00 版本及以上
+> - X2D： 01.01.00.00 版本及以上
+> - A2L：01.01.00.00版本及以上
+> - P1S/P1P/X1C/A1/A1mini 暂不支持
 
 ### 使用 AMS 2 Pro/AMS HT 烘干时，打印机是否需要开启？
 

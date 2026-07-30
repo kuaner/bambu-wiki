@@ -1,10 +1,10 @@
 ---
 path: zh/h2s/troubleshooting/nozzle-clog
-title: "H2S 喷嘴/热端堵塞清理"
-description: "本文将系统介绍 H2S 热端堵塞时的故障排除方法及详细操作步骤。"
-tags: []
+title: "H2S 喷嘴/热端堵塞清理指南"
+description: "本文介绍当 H2S 热端堵塞时如何清理"
+tags: ["h2s", "热端堵塞"]
 created: 2025-08-26T02:19:58.844Z
-updated: 2025-09-22T09:01:11.955Z
+updated: 2026-07-23T05:26:07.939Z
 source: https://wiki.bambulab.com/zh/h2s/troubleshooting/nozzle-clog
 ---
 
@@ -17,11 +17,11 @@ source: https://wiki.bambulab.com/zh/h2s/troubleshooting/nozzle-clog
 
 为了解决大部分的堵塞问题，你可能会用到以下工具：
 
+- H1.5 或 H2.0 内六角扳手
 - 通针
 - 钳子
 - 防烫手套
 - 耗材
-- H1.5和H2.0内六角扳手
 
 ![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image.png)
 
@@ -33,29 +33,47 @@ source: https://wiki.bambulab.com/zh/h2s/troubleshooting/nozzle-clog
 
 ## 操作指南
 
-### 1. 手动挤出堵塞物
+本文提供以下四种针对热端堵塞问题的解决方案，可根据堵塞严重程度选择适配方法。
+
+## 1. 手动挤出堵塞物
 
 这是清理热端堵塞最简单的方法，在屏幕上将热端温度提高到略高于耗材要求的温度，然后通过屏幕菜单点击进料来挤出耗材。
 
-#### 步骤 1. 加热热端
+### 步骤 1. 加热热端
 
 将热端温度提高到略高于耗材要求的温度（以PLA为例，设置热端温度为250℃）
 
 ![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-1.png)
 
-#### 步骤 2. 手动挤出
+### 步骤 2. 手动挤出
 
-通过点击屏幕上的进料按钮挤出耗材，观察喷嘴能否正常挤出。
+温度稳定后，点击界面的 “**进料**” 按钮，观察喷嘴能否正常挤出。
 
 |  |  |
 | --- | --- |
 |  |  |
 
-### 2. 冷拔
+## 2. 使用通针疏通
 
-如果无法手动挤出，打印机提供了喷嘴冷拔维护功能，帮助您完成冷拔操作。本文以PLA进行冷拔为例。
+> **注意**： 此方法不适用于小于 0.4 mm 的喷嘴。
 
-#### 步骤 1. 点击“设置”-“工具箱”
+如果耗材无法从喷嘴中挤出，或从喷嘴挤出的耗材没有完全变成新加载的耗材，则则需使用通针疏通热端，并重复 “通针疏通 + 手动挤出” 的流程，直至堵塞解除。
+
+将热端加热到220℃。待热端达到指定温度后，将通针缓慢插入喷嘴，并上下疏通多次。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+> ⚠️**警告**：通针疏通时会释放热端内部压力，喷嘴可能突然喷出高温杂质，因此**务必佩戴手套**，且清理时**禁止将头深入机箱**观察。
+
+## 3. 冷拔
+
+冷拔是 3D 打印中的一种维护技术，用于清洁打印机喷嘴内部，去除碎屑、堵塞物或残留的耗材。该技术包括加热喷嘴以软化耗材，然后冷却耗材使其部分固化，最后将其拉出以去除污染物。
+
+本文以 PLA 进行冷拔为例。关于冷拔的更多详细信息，您可以参阅：[H2S 喷嘴冷拔维护清理](../maintenance/nozzle-cold-pull-maintenance-and-cleaning.md)
+
+### 步骤 1. 点击“设置”-“工具箱”
 
 进入工具箱页面，点击“喷嘴冷拔维护”，再点击下一步。
 
@@ -63,13 +81,13 @@ source: https://wiki.bambulab.com/zh/h2s/troubleshooting/nozzle-clog
 
 ![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-5.png)
 
-#### 步骤 2. 修改冷拔参数
+### 步骤 2. 修改冷拔参数
 
 根据喷嘴尺寸、喷嘴中残留的耗材类型来选择冷拔参数。本例中喷嘴尺寸为0.4mm，冷拔耗材PLA，喷嘴中残留的耗材为PLA。确定冷拔参数后，点击开始。
 
 ![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-6.png)
 
-#### 步骤 3. 开始冷拔
+### 步骤 3. 开始冷拔
 
 接下来打印机会自动执行冷拔流程，请按照打印机的提醒操作。
 
@@ -89,58 +107,89 @@ source: https://wiki.bambulab.com/zh/h2s/troubleshooting/nozzle-clog
 
 打印机会自动咬合耗材，加热喷嘴并开始冲刷。
 
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-12.png)
-
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-13.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 等到挤出的耗材完全变成了新加载的耗材，喷嘴开始冷却。
-
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-14.png)
-
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-15.png)
-
-喷嘴冷却完毕后，根据打印机提示，一只手按压从动轮支架，另一只手缓慢拉出耗材。
-
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-16.png)
-
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-17.png)
-
-在已拉出的耗材末端上检查是否有杂质残留，我们强烈建议您多次重复冷拔直至拔出的耗材丝达到表面洁净无异常物质残留。若冷拔质量已经达到要求，则可以点击“完成”。
-
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-18.png)
-
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-19.png)
-
-维护完成后，重新插入PTFE管。
-
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-20.png)
-
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image-21.png)
-
-### 3. 使用通针疏通
-
-> 通针疏通时会释放热端内部压力，喷嘴可能突然喷出高温杂质，因此务必佩戴手套，且清理时禁止将头深入机箱观察。
-
-如果耗材无法从喷嘴中挤出，或从喷嘴挤出的耗材没有完全变成新加载的耗材，则需要使用通针来疏通热端，并重新手动挤出耗材（循环通针疏通与挤出这一过程）。
-
-将热端加热到220℃，等待热端达到指定温度后，将通针伸入喷嘴并上下疏通多次。
 
 |  |  |
 | --- | --- |
 |  |  |
 
-## 验证喷嘴是否正常
+喷嘴冷却完毕后，根据打印机提示，一只手按压从动轮支架，另一只手缓慢拉出耗材。
 
-重新安装喷嘴，连接 PTFE 管，并重新装入耗材测试挤出效果，如果仍然堵塞或挤出不足，还需要反复多次尝试清理热端。
+|  |  |
+| --- | --- |
+|  |  |
 
-虽然上述方法往往能清除 99% 的堵塞物，但在有些情况下，由于喷嘴可能已经损坏，所以只需更换喷嘴。如果做完这些后，您的机器能正常打印，那么您就成功地疏通了您的喷嘴。
+在已拉出的耗材末端上检查是否有杂质残留，我们强烈建议您多次重复冷拔直至拔出的耗材丝达到表面洁净无异常物质残留。若冷拔质量已经达到要求，则可以点击“完成”。
 
-## 注意
+|  |  |
+| --- | --- |
+|  |  |
 
-0.2 mm 的喷嘴更难清除堵塞物，可能需要多次进行上述步骤。另一方面，大于 0.4 mm 的喷嘴往往比 0.4 mm 的喷嘴更少堵塞，因为喷嘴的口径开口允许更大的颗粒通过。
+维护完成后，重新插入PTFE管。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+## 4. 热六角扳手疏通法（适用于冷端堵塞）
+
+> 注意：此方法只能使用 H1.5 及以下扳手。
+
+少部分堵塞现象是耗材由于热蠕变问题而卡在热端散热片位置。这篇文章详细介绍了[热蠕变](../../filament-acc/filament/heat-creep.md)，我们建议您阅读，并了解如何避免此类堵塞。
+
+接下来的步骤需要拆下喷嘴。 这篇文章涵盖了 [H2S 喷嘴的拆卸和重新安装步骤](../maintenance/replace-silicone-sock-and-hotend.md) ，以备您随时查阅。
+
+> ⚠️**警告**：操作过程中请**佩戴防护手套**，避免熔化的耗材滴到手指上造成灼伤。
+
+### 步骤 1. 加热六角扳手
+
+首先**加热六角扳手**约 10 s 。用钳子牢牢夹住六角扳手，以免烫伤自己。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/clogging/heat_up_allen_key.jpg)
+
+### 步骤2. 将六角扳手插入喷嘴入口
+
+当扳手尖端还热的时候，快速将其推入热端，穿过散热器的顶端。
+
+将热扳手插入耗材内部，如下图所示。然后等待约 30 s ，让六角扳手冷却。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/clogging/insert_the_hex_wrench.jpg)
+
+### 步骤 3. 加热喷嘴尖端并拉出耗材堵塞物
+
+六角扳手现在卡在喷嘴里了，耗材也卡在了它周围。要取出卡住喷嘴的六角扳手，你需要加热喷嘴的尖端。
+
+取下热端的硅胶套，使用打火机对喷嘴尖端加热约 20 s（建议使用普通打火机）。
+
+> **警告**：**避免长时间加热喷嘴**或**使用高功率丁烷喷灯**，建议使用普通打火机。  
+> 喷嘴的热侧只需足够热，以便您可以取出带有耗材的六角工具。  
+> 喷嘴过热会导致耗材从喷嘴尖端滴落或爆裂。请仔细按照说明操作，操作时**请勿将喷嘴尖端朝向自己**。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/clogging/heat_up_hot_end.jpg)
+
+将喷嘴尖端加热 20 s 后，慢慢拉动扳手。你会发现耗材可以从喷嘴中完整地拔出，堵塞的部位也随之清除。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/clogging/pulled_filament.jpg)
+
+### 步骤 4. 重新安装喷嘴
+
+现在您可以重新安装喷嘴了。这篇文章涵盖了 [H2S 喷嘴的拆卸和重新安装步骤](../maintenance/replace-silicone-sock-and-hotend.md) ，以备您随时查阅。
+
+## 如何验证完成/成功
+
+重新安装喷嘴，连接 PTFE 管，并重新装入耗材测试挤出效果。如果仍然出现堵塞或挤出不足的情况，则需要反复尝试清洁热端。
+
+上述操作可清除 99% 的喷嘴堵塞物，但若喷嘴已发生物理损坏，**直接更换喷嘴**即可解决问题。完成所有疏通步骤后，若设备能恢复正常打印状态，即表明喷嘴疏通操作成功。
+
+> **说明**： 0.2 mm 口径喷嘴的堵塞问题解决难度更高，建议根据实际情况**多次重复**上述疏通步骤。  
+> 另外，口径小于 0.4 mm 的喷嘴比大于 0.4 mm 的喷嘴更容易堵塞，因为大口径喷嘴允许更大尺寸的颗粒通过。
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)，点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。

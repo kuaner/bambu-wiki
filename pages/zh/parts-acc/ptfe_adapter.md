@@ -4,7 +4,7 @@ title: "料管拓展口"
 description: "关于四进一料管拓展口与 H2C 专用料管拓展口的用途说明"
 tags: ["料管扩展口"]
 created: 2024-01-12T13:56:39.225Z
-updated: 2026-07-07T10:33:02.742Z
+updated: 2026-07-07T10:33:03.714Z
 source: https://wiki.bambulab.com/zh/parts-acc/ptfe_adapter
 ---
 

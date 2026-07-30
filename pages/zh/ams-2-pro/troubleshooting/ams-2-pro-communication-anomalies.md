@@ -4,7 +4,7 @@ title: "打印机无法检测到 AMS 2 Pro"
 description: "本文将引导您完成AMS 2 Pro 通信异常的故障排查"
 tags: []
 created: 2026-01-12T08:48:03.716Z
-updated: 2026-05-29T09:01:45.380Z
+updated: 2026-07-20T02:19:27.123Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/troubleshooting/ams-2-pro-communication-anomalies
 ---
 
@@ -78,41 +78,9 @@ AMS 自带线缆台阶高度为 1.1 mm，AMS 2 Pro 自带线缆台阶高度为 2
 
 #### 测量打印机是否正常
 
-对于 H 系列设备：  
-先将 6-pin 线的一端连接在打印机上，然后黑表笔连接绿色标记 A，红表笔测量蓝色标记 9 至 12，记录下 4 组电阻值。
+**请选择您的设备型号。**
 
-![image2.png](https://wiki.bambulab.com/ams-2-pro/troubleshooting/ams2pro-communication-anomalies/image2.png)  
-引脚标记与阻值参考：
-
-| 序号 | 9 | 10 | 11 | 12 |
-| --- | --- | --- | --- | --- |
-| 定义 | Sig-B | Sig-A | Buf-B | Buf-A |
-| 阻值 | 0.8-1.5 KΩ | 0.8-1.5 KΩ | 2-3 KΩ | 2-3 KΩ |
-
-接下来需要测量缓冲器线缆的阻值，请参考[拆装指南](../../h2/maintenance/replace-filament-buffer.md)中的步骤取下缓冲器，拉取接头进行测量。黑表笔连接绿色标记 A，红表笔测量蓝色标记 13 至 16，记录下 4 组电阻值。
-
-> 测量过程请注意更换不同量程，参考下面表格调整档位。
-
-![image3.png](https://wiki.bambulab.com/ams-2-pro/troubleshooting/ams2pro-communication-anomalies/image3.png)
-
-线缆定义与阻值参考：
-
-| 序号 | 13 | 14 | 15 | 16 |
-| --- | --- | --- | --- | --- |
-| 阻值 | 55-65 KΩ | 55-65 KΩ | 1-3 KΩ | 1-3 KΩ |
-
-请记录下您的所有测量值，并联系技术团队反馈您的测量结果。  
-**记录测量电阻的表格可以参考如下：**
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **序号** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
-| 电阻值 |  |  |  |  |  |  |  |  |
-| **序号** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
-| 电阻值 |  |  |  |  |  |  |  |  |
-
-## 结束语
-
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+- H 系列
+- P2S/X2D
+- X1/P1
+- A 系列

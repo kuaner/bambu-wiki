@@ -4,7 +4,7 @@ title: "运动精度校准"
 description: "运动精度校准"
 tags: []
 created: 2025-03-25T04:28:41.773Z
-updated: 2026-01-28T07:21:12.509Z
+updated: 2026-07-13T02:53:39.838Z
 source: https://wiki.bambulab.com/zh/h2/manual/motion-accuracy
 ---
 
@@ -55,9 +55,9 @@ source: https://wiki.bambulab.com/zh/h2/manual/motion-accuracy
 
 按照屏幕上的提示，取下热床上的打印板，放上视觉编码板，并确保板子上无任何异物。**注意：视觉编码板仅用于运动精度校准，在校准结束后请取出板子，该板子不可用于打印。使用完务必妥善保管好板子，确保编码板上的每个小方块中的图案清晰可见，不要有脏污和损坏，否则会导致校准失败。**
 
-![](https://wiki.bambulab.com/h2/manual/accuracy/image.png)
+![calibration_cn.png](https://wiki.bambulab.com/h2/manual/accuracy/calibration_cn.png)
 
-![](https://wiki.bambulab.com/h2/manual/accuracy/img_v3_02ik_d48cdcec-79e2-4e0a-87b0-bf8a161cddeg.jpg)
+![motion_calibration_cn.png](https://wiki.bambulab.com/h2/manual/accuracy/motion_calibration_cn.png)
 
 ![](https://wiki.bambulab.com/h2/manual/accuracy/image-1.png)
 
@@ -69,11 +69,11 @@ source: https://wiki.bambulab.com/zh/h2/manual/motion-accuracy
 
 3. 校准成功后，屏幕上会有相关的提示，然后在“设置”——“打印选项”中，机器会自动勾选“运动精度增强”，打印机就可以应用运动精度校准的数据进行打印、切割和雕刻。如果没有提前校准，则无法启用该功能，屏幕上也会有相应的提示。
 
-![](https://wiki.bambulab.com/h2/manual/accuracy/image-2.png)
+![settings-print_options_cn.png](https://wiki.bambulab.com/h2/manual/accuracy/settings-print_options_cn.png)
 
-![](https://wiki.bambulab.com/h2/manual/accuracy/image-3.png)
+![motion_accuracy_enhancement_cn.png](https://wiki.bambulab.com/h2/manual/accuracy/motion_accuracy_enhancement_cn.png)
 
-![](https://wiki.bambulab.com/h2/manual/accuracy/img_v3_02ik_f743f3a8-b296-4476-a575-860c21d0af6g.jpg)
+![error_message_1_cn.jpg](https://wiki.bambulab.com/h2/manual/accuracy/error_message_1_cn.jpg)
 
 注意：每次校准完成后，系统均以未校准的初始状态作为基准进行对比，而非与上一次的校准状态对比。因此，若设备整体运行状态无明显变化，历次校准所呈现的结果会保持基本一致。
 
@@ -86,7 +86,7 @@ source: https://wiki.bambulab.com/zh/h2/manual/motion-accuracy
 1. 工具头摄像头无法获取图像，有可能是工具头摄像头的镜片脏污或者摄像头无法工作，请检查工具头相机镜片是否干净，以及打印机是否有工具头摄像头相关的HMS报错；
 2. 在热床上放置错误类型的板子，或者视觉编码板摆放的位置错位了，导致机器无法正确识别到视觉编码板，会弹出相应的报错窗口；
 
-![](https://wiki.bambulab.com/h2/manual/accuracy/img_v3_02ik_ac96f5b2-9b14-4037-9f97-ab1b53c4691g.jpg)
+![error_message_2_cn.jpg](https://wiki.bambulab.com/h2/manual/accuracy/error_message_2_cn.jpg)
 
 4. 视觉编码板上某些小方块的图案被污渍覆盖或损坏，导致工具头摄像头无法正确识别；
 5. 如果校准程序全部完成，并且结果显示“校准失败”，则表示校准后的运动精度不符合预期，您可以重试。
@@ -95,7 +95,6 @@ source: https://wiki.bambulab.com/zh/h2/manual/motion-accuracy
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
-> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。

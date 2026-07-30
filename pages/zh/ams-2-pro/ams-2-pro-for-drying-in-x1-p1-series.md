@@ -4,7 +4,7 @@ title: "使用 X1/P1S 打印机连接 AMS 2 PRO 进行烘干"
 description: "本文介绍了使用 X1/P1S 打印机连接 AMS 2 PRO 进行烘干的注意事项和步骤。"
 tags: ["ams", "drying"]
 created: 2025-07-02T08:23:47.135Z
-updated: 2026-03-04T03:17:56.245Z
+updated: 2026-07-09T10:02:04.563Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/ams-2-pro-for-drying-in-x1-p1-series
 ---
 
@@ -25,6 +25,8 @@ AMS 2 Pro 不仅是一套多色打印供料系统，还内置了干燥模块，�
 4. 6 pin 和 4 pin 数据线（AMS 2 Pro 随附）
 5. PTFE 料管
 6. AMS 2 Pro 专用电源适配器（用于开启干燥功能），可通过 [Bambu Lab 官方商店](https://detail.tmall.com/item.htm?abbucket=15&id=901639674058&pisk=glBrYMbD98eyE9LJZt9EuEIi8m9JKpz1Z9TBxMjHVUYu97BeTG_02kIHR9JFkZAhFLs5ueb18H65dMmexZ9k9_TBPeJFvNrb5Rw12gppnPa_C8ngsTvttHAnRxmDfp-owuj6IgppKyojK5wN2aQ62HGkxnq2AHgkxwAHm-YvYeDh-UAmoHKpKpbHZIADAHLHqvDlmo-Wx3cHrbcmohKnZ2bHKoSDkHvHqwvnMFjlxx-6ZkETpj2gLeAySgYqQiB2qFcR4Euozt52aFD6uvDh33Se4QCIQWTG6UO68Z2jUpSDYZR1aPkP8MjOtIWEru_Go67HDsUETF5hV1CHgu2l0L8ytt_mvb9PtaBew_oLXivlk1L9ZSUv0T66TFdqozjf0UANTaaxKU1NmZR1hqM6I1QVLCvG4GgpmQb1p_unTQxv0FZ40p9N81u6E8EI9XdDBn8_V3GK9QbjdbWZCXhpin-25uMh.&rn=9bcf506d7ca48c3fe87985b17ae97a1f&spm=a1z10.3-b-s.w4011-25177047232.16.245b3c0eXA3ooH&skuId=5927195091249) 购买。**如需多个 AMS 2 Pro 同时干燥，每个都需单独配备电源适配器。**
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 ## 如何使用 AMS 2 Pro 进行耗材干燥
 

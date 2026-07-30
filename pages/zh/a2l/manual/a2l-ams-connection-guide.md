@@ -4,7 +4,7 @@ title: "A2L AMS 连接指南"
 description: "本文介绍了如何将 A2L 连接一台或多台 AMS 设备"
 tags: []
 created: 2026-06-01T13:02:57.208Z
-updated: 2026-06-17T02:16:03.403Z
+updated: 2026-07-09T10:42:01.646Z
 source: https://wiki.bambulab.com/zh/a2l/manual/a2l-ams-connection-guide
 ---
 
@@ -370,6 +370,8 @@ A2L 打印机连接 AMS 2 Pro/AMS HT 使用时，需搭配设备随附的 6-pin 
 #### Q：A2L 能否使用 AMS 2 Pro/AMS HT 进行烘干？
 
 可以，但具备烘干功能的 AMS 无法直接从打印机取电烘干，AMS 2 Pro 需要连接电源适配器，AMS HT 需要连接电源线。
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 ## 结束语
 

@@ -4,7 +4,7 @@ title: "更换 X2D 的左霍尔检测板"
 description: "本文介绍了如何更换 X2D 的左霍尔检测板"
 tags: []
 created: 2026-04-14T13:09:16.966Z
-updated: 2026-06-10T09:31:35.153Z
+updated: 2026-07-13T08:45:33.415Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-extruder-filament-sensor-left
 ---
 
@@ -21,7 +21,6 @@ X2D
 
 - 连接电缆损坏；
 - 误报退料异常；
-- 误报切刀卡住，经拓竹服务团队确认是霍尔检查开关的问题。
 
 ## 所需要工具和材料
 

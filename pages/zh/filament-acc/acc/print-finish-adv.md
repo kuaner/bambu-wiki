@@ -4,13 +4,17 @@ title: "打印结束后的工作（取下模型、清洁打印板、外观处理
 description: "本文介绍了 3D 打印完成后的全套收尾与后处理操作。"
 tags: []
 created: 2023-09-08T02:59:40.384Z
-updated: 2026-06-29T06:37:58.142Z
+updated: 2026-07-10T04:15:01.929Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/print-finish-adv
 ---
 
 ## 取下模型
 
 > **⚠️ 注意：** 打印结束后，**请等待热床和模型完全冷却到室温**，再将模型从打印板上轻轻取下，以免手部烫伤或造成模型变形、损伤或打印板损伤。
+
+|  |  |
+| --- | --- |
+|  |  |
 
 对于底面较大的模型，可能会与打印板粘结过牢，可尝试以下方法来移除：
 
@@ -23,8 +27,6 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/print-finish-adv
 一般而言，TPU 对打印板的粘结力较强，部分底面较大的模型较难拆下。这时，请勿使用蛮力，以免损伤模型或打印板，而是应该将模型的一个边角拉起一道缝隙后，往其中喷洒酒精，然后便可逐渐用力把模型和打印板分离。
 
 如果打印前在打印板上涂了液体胶或固体胶，模型底部通常会**残留胶膜**。建议取下模型后用**清水冲洗**底部并擦干，以免胶膜粘到手上。
-
-![removing_the_panda.webp](https://wiki.bambulab.com/filament-acc/print-finish-adv/removing_the_panda.webp)
 
 ## 清洁打印板
 

@@ -4,7 +4,7 @@ title: "A2L 热床手动调平"
 description: "本文介绍了如何对 A2L 热床进行手动调平"
 tags: []
 created: 2026-06-01T13:25:09.244Z
-updated: 2026-06-04T02:11:20.145Z
+updated: 2026-07-17T02:21:16.141Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/manual-bed-tramming
 ---
 
@@ -15,7 +15,7 @@ Bambu Lab 打印机的热床在出厂前已经过精确校准，通常情况下�
 - U 盘
 - H2.0 内六角螺丝刀
 - 调平辅助模型：[手动调平辅助块.3mf](https://public-cdn.bblmw.com/wiki/new/a2l/fuzhu.3mf)
-- 调平 G-code 文件：[manual\_bed\_screws\_adjust\_assist.gcode](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/manual-bed-tramming/manual_bed_screws_adjust_assist.gcode)
+- 调平 G-code 文件：[Manual\_bed\_screws\_adjust\_assist.gcode](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/manual-bed-tramming/manual_bed_screws_adjust_assist.gcode)
 
 ## 手动调平流程
 

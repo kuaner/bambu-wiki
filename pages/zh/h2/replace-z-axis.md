@@ -4,7 +4,7 @@ title: "更换 H2 系列 Z 轴丝杆"
 description: ""
 tags: []
 created: 2025-09-19T02:29:09.752Z
-updated: 2026-04-30T09:36:46.222Z
+updated: 2026-07-10T08:30:57.343Z
 source: https://wiki.bambulab.com/zh/h2/replace-z-axis
 ---
 
@@ -249,7 +249,7 @@ H2 系列共有 3 根 Z 轴丝杆：靠近前门立柱的**左/右两根**拆装
 
 2. 将丝杆螺母平稳放入热床的定位孔内
 
-![](https://wiki.bambulab.com/h2/replace-z-axis/0014.png)
+![](https://wiki.bambulab.com/h2/replace-z-axis/0014_new.jpg)
 
 3. 使用红胶螺丝进行位置固定，不要一次性锁死，便于后续微调。
 4. 进行丝杆螺母与热床的对中操作：**丝杆螺母的中心孔与热床上供丝杆穿过的通孔完全同心**，确保后续丝杆穿入时无偏移阻力。

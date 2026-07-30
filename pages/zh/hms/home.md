@@ -4,7 +4,7 @@ title: "HMS 主页面"
 description: "在本页面，您可以查找错误代码对应的排障 Wiki"
 tags: []
 created: 2023-08-25T06:59:53.361Z
-updated: 2026-07-28T07:33:32.434Z
+updated: 2026-07-28T07:33:33.772Z
 source: https://wiki.bambulab.com/zh/hms/home
 ---
 
@@ -2705,13 +2705,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0500-0300-0001-000B
 >
-> - [P2S / X2D](https://wiki.bambulab.com/zh/p2s/troubleshooting/hmscode/0500_0300_0001_000b)
+> - [P2S / X2D](../p2s/troubleshooting/hmscode/0500_0300_0001_000b.md)
 
 > **HMS\_0500-0300-0001-000B: 屏幕出现故障；请重新启动设备。**
 >
 > **Synonyms:** 0500-0300-0001-000B
 >
-> - [H2C / H2D / H2S](https://wiki.bambulab.com/zh/h2d/troubleshooting/hmscode/0500_0300_0001_000b)
+> - [H2C / H2D / H2S](../h2d/troubleshooting/hmscode/0500_0300_0001_000b.md)
 
 > **HMS\_0500-0300-0001-000C: MC电机控制器工作异常，请断电排查线路连接情况，并重启设备。**
 >
@@ -4613,7 +4613,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 0C00-0400-0002-0018
 >
-> - [H2C / H2D / H2D Pro / H2S](https://wiki.bambulab.com/zh/h2d/troubleshooting/hmscode/0C00_0400_0002_0018)
+> - [H2C / H2D / H2D Pro / H2S](../h2d/troubleshooting/hmscode/0C00_0400_0002_0018.md)
 
 > **HMS\_0C00-0400-0002-0019: 俯视摄像头安装偏移，请参照Wiki重新进行安装**
 >
@@ -4715,7 +4715,7 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 1200-4500-0002-0001
 >
-> - [A1 / A1 Mini](https://wiki.bambulab.com/zh/a1/troubleshooting/hmscode/1200_4500_0002_0001)
+> - [A1 / A1 Mini](../a1/troubleshooting/hmscode/1200_4500_0002_0001.md)
 
 > **HMS\_1200-4500-0002-0003: 切刀刀柄未松开，刀柄或刀片可能被卡住，或耗材霍尔接线异常。**
 >
@@ -5057,13 +5057,13 @@ HMS (**H**ealth **M**anagement **S**ystem，健康管理系统) 用于指示Bamb
 >
 > **Synonyms:** 1A00-3000-0001-0040
 >
-> - [H2C](https://wiki.bambulab.com/zh/h2c/troubleshooting/hmscode/1A00_3000_0001_0040)
+> - [H2C](../h2c/troubleshooting/hmscode/1A00_3000_0001_0040.md)
 
 > **HMS\_1A00-3000-0001-0041: 工具头感应热端在位检测传感器短路，请重新插拔传感器连接线或更换传感器。**
 >
 > **Synonyms:** 1A00-3000-0001-0041
 >
-> - [H2C](https://wiki.bambulab.com/zh/h2c/troubleshooting/hmscode/1A00_3000_0001_0041)
+> - [H2C](../h2c/troubleshooting/hmscode/1A00_3000_0001_0041.md)
 
 > **HMS\_1A00-E000-0001-0005: 感应热端挂架回中过程中被异物阻挡，请清理挂架运动路径上异物。**
 >

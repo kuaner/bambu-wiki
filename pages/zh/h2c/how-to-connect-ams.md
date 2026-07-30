@@ -4,7 +4,7 @@ title: "H2C + 多台 AMS 连接指南"
 description: "本文介绍了如何将 H2C 与多台 AMS 进行连接"
 tags: []
 created: 2025-11-18T12:40:45.348Z
-updated: 2026-03-20T10:05:30.443Z
+updated: 2026-07-09T10:37:00.012Z
 source: https://wiki.bambulab.com/zh/h2c/how-to-connect-ams
 ---
 
@@ -101,6 +101,8 @@ H2C 最多可安装 6 个右热端交替使用，满足多耗材打印的切换�
 ### 步骤五：烘干耗材
 
 如果需要使用 AMS 2 Pro 的烘干功能，除了直接连接至打印机的 AMS 2 Pro，其余 AMS 2 Pro 必须使用官方电源适配器供电。
+
+> **注意**：AMS 2 Pro 官方电源适配器规格为 24V 4A。为确保设备安全与正常使用，**请务必使用官方配件。使用第三方适配器可能会导致设备损坏，并影响保修权益**。
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2c/manual/how-to-connect-ams/image-13.png)
 

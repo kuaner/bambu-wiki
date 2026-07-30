@@ -4,7 +4,7 @@ title: "A1 主要组件介绍"
 description: "本文章将介绍 A1 系列打印机的主要组件"
 tags: ["a1"]
 created: 2023-12-15T02:09:11.464Z
-updated: 2026-05-25T08:55:26.117Z
+updated: 2026-07-27T04:04:05.274Z
 source: https://wiki.bambulab.com/zh/a1/manual/intro-a1
 ---
 

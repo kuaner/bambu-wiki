@@ -4,12 +4,13 @@ title: "知识分享"
 description: ""
 tags: []
 created: 2022-07-28T10:19:10.545Z
-updated: 2026-07-01T01:58:32.268Z
+updated: 2026-07-13T09:13:06.664Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing
 ---
 
 ## 3D 实用打印技巧
 
+- [混色打印](bambu-studio/color-mixing.md)
 - [如何使用激光夹具进行批量激光雕刻](laser/material/how-to-use-laser-jigs-for-batch-engraving.md)
 - [3 种优化平顶结构中桥接的方法](https://makerworld.com.cn/zh/community/post/110657)
 - [3 种解决悬空孔结构走线塌落的方法](https://makerworld.com.cn/zh/community/post/110643)
@@ -66,6 +67,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing
 - [TPU打印建议](tpu-printing-guide.md)
 - [使用 0.2mm 喷嘴打印 - FAQ](02-mm-nozzle-FAQ.md)
 - [重叠率对模型顶部粗糙度的影响](https://www.nsforming.com/CN/10.3969/j.issn.1674-6457.2025.11.022)
+- [首层测试打印：识别并修复首层问题](identify-and-fix-first-layer-issues-with-a-test-print.md)
 
 了解更多耗材设置的知识，请参考Wiki[Bambu Lab耗材](filament-acc/filament.md)
 

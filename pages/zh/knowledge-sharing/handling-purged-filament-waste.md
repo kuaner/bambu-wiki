@@ -4,11 +4,13 @@ title: "冲刷料过程中的废料处理"
 description: "关于清洁过程中产生的废料及其处理方法的概述"
 tags: []
 created: 2022-07-29T13:59:37.734Z
-updated: 2024-11-20T06:45:01.002Z
+updated: 2026-07-28T10:26:31.170Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/handling-purged-filament-waste
 ---
 
 X1 3D打印机的背面有一个用于排出废料的废料槽。不仅在使用AMS进行多色打印时会用到这个程序，在开始新的打印时也会用到，其目的是确保喷嘴内的线料是全新的。
+
+![x1_chute.jpg](https://wiki.bambulab.com/x1/knowledge-sharing/handling-purged-filament-waste/x1_chute.jpg)
 
 ## 关于废料收集的建议
 

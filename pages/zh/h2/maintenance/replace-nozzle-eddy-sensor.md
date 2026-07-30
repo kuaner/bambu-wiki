@@ -4,7 +4,7 @@ title: "更换 H2D 左右涡流线圈"
 description: ""
 tags: []
 created: 2025-04-01T02:07:14.802Z
-updated: 2026-04-01T07:38:46.784Z
+updated: 2026-07-17T06:54:27.918Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-nozzle-eddy-sensor
 ---
 
@@ -98,7 +98,9 @@ H2D 挤出主板上的涡流线圈插头采用这种小型插头设计。**拔�
 
 使用 H2.0 内六角扳手，移除两颗堵嘴磁铁支架固定螺丝（M2.5x2），然后将堵嘴磁铁支架取下。
 
-![](https://wiki.bambulab.com/h2/maintenance/replace-nozzle-eddy-sensor/image-18.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 #### 步骤 4：移除左涡流线圈
 
@@ -158,7 +160,9 @@ H2D 挤出主板上的涡流线圈插头采用这种小型插头设计。**拔�
 
 将堵嘴磁铁支架对准螺丝孔位，使用 H2.0 内六角扳手拧紧两颗固定螺丝：
 
-![](https://wiki.bambulab.com/h2/maintenance/replace-nozzle-eddy-sensor/image-33.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 #### 步骤 3：安装热端风扇左风道和左热端
 

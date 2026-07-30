@@ -4,7 +4,7 @@ title: "常见问题"
 description: ""
 tags: []
 created: 2022-08-03T03:01:56.447Z
-updated: 2026-06-02T02:21:36.798Z
+updated: 2026-07-15T10:25:55.993Z
 source: https://wiki.bambulab.com/zh/faq
 ---
 
@@ -36,7 +36,7 @@ source: https://wiki.bambulab.com/zh/faq
 
 **A 系列：**
 
-- [A2L 常见问题（FAQ）](https://wiki.bambulab.com/zh/a2l/manual/a2l-faq)
+- [A2L 常见问题（FAQ）](a2l/manual/a2l-faq.md)
 - [A1 mini 常见问答（FAQ）](a1-mini/manual/faq.md)
 - [A1 常见问答（FAQ）](a1/manual/faq.md)
 
