@@ -4,7 +4,7 @@ title: "更换 H2C 感应热端组件"
 description: "本文将为您详细讲述如何更换 H2C 感应热端和注意事项。"
 tags: []
 created: 2025-11-18T13:16:16.774Z
-updated: 2026-05-19T06:40:19.320Z
+updated: 2026-08-05T11:37:10.316Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend
 ---
 
@@ -77,7 +77,7 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend
 
 ### 5. 拆除热端
 
-**在更换热端前请一定检查热端目前的温度，避免由于高温导致烫伤！**
+> **在更换热端前请一定检查热端目前的温度，避免由于高温导致烫伤！**
 
 堵嘴片位于升降连杆上，通过拨动连杆，堵嘴片会左右移动。如果堵嘴片挡住了感应热端，必须先拨动堵嘴连杆，将堵嘴片移开，然后再进行拆卸，以防在拆除热端时不小心压弯堵嘴片。拨动时，堵嘴片可能因连杆倾斜限位而未能一次拨到位，这时需要粗拨动后再进行精细调整，确保堵嘴片完全到位。
 
