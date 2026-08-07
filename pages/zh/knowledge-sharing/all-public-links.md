@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-08-06T04:05:32.867Z
+updated: 2026-08-07T04:05:30.371Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -1801,7 +1801,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换 H2 系列 AC 板/AC 板理线盖](../h2/maintenance/replace-ac-board-for.md)  
 [H2D](../h2d.md)  
 [AMS 2 Pro](../ams-2-pro.md)  
-[更换 H2 系列 Z 轴张紧器组件/Z 轴皮带/Z 轴同步轮](../h2/maintenance/replace-z-axis-tensioner.md)  
 [更换 H2 系列废料滑梯](../h2/maintenance/replace-purge-chute.md)  
 [H2D 定期清洁维护建议](../h2/maintenance/period-maintenance.md)  
 [更换 H2D 挤出接口板/TH 板/FPC 排线](../h2/maintenance/replace-H2D-TH-board.md)  
@@ -2407,11 +2406,8 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [Bambu Studio 多盘打印指南](../studio-handy/multi-plate-printing.md)  
 [H2S 喷嘴冷拔维护清理](../h2s/maintenance/nozzle-cold-pull-maintenance-and-cleaning.md)  
  [AMS 2 Pro 电源适配器](../ams-2-pro/maintenance/replace-switching-adapter.md)  
-[TPU 打印指南](tpu-printing-guide.md)  
 [A1 润滑 Y 轴导轨操作指南](../a1/maintenance/lubricate-y-axis.md)  
 [A1 系列 TPU 90A 打印指南](../filament-acc/filament/tpu-85a-90a-printing-guide-for-a-series.md)  
-[P 系列机器打印 TPU 90A & 85A 的打印指南](../filament-acc/filament/tpu-85a-90a-printing-guide-for-p-series.md)  
-[X 系列的 TPU 打印准备工作](../filament-acc/filament/tpu-85a-90a-printing-guide-for-x-series.md)  
 [H2D 喷嘴/热端堵塞清理指南](../h2/troubleshooting/unclogging.md)  
 [激光模组FAQ](../h2/manual/laser-faq.md)  
 [HMS\_0700-2000-0002-0016: AMS A 槽 1 助力电机打滑。](../h2/troubleshooting/hmscode/0700_2000_0002_0016.md)  
@@ -2438,7 +2434,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [A1 系列进料霍尔板更换指南](../a1/maintenance/filament-sensor-replacement.md)  
 [HMS\_1200-4500-0002-0001: 切料传感器异常，请检查连接器是否插好。](../a1/troubleshooting/hmscode/1200_4500_0002_0001.md)  
 [HMS\_0700-7000-0002-0008: 多次获取AMS映射表失败，请点击“继续”重试。](../x1/troubleshooting/hmscode/0700_7000_0002_0008.md)  
-[H2 系列的 TPU 打印准备工作](../h2/h2d-tpu-printing-guide.md)  
 [耗材新手入门指南](../filament/beginner.md)  
 [P2S 定期清洁维护建议](../p2s/maintenance/period-maintenance.md)  
 [如何关闭准备阶段的振动校准过程](how-to-turn-off-the-vibration-calibration.md)  
@@ -2479,7 +2474,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [TPU 高流量套件使用指南 - H2D系列](../h2d/manual/tpu-high-flow-hotend.md)   
 [CyberBrick 技术手册](../cyberbrick/components/component-list.md)  
 [X2D 喷嘴/热端堵塞清理指南](../x2d/maintenance/cold-pull-maintenance-hotend.md)  
-[X2D TPU 打印指南](../x2d/manual/tpu-printing-guide.md)  
 [HMS\_1200-7000-0002-0002: AMS Lite A 槽位 1 耗材送往挤出机失败，可能是耗材或料盘卡住。](../a2l/troubleshooting/hmscode/1200_7000_0002_0002.md)  
 [拓竹农场管家客户端 V2.4.0 & 服务器端 V2.4.0.0 版本说明](../software/bambu-farm-release-notes/2-4-0.md)  
 [HMS\_0300-2600-0001-000B: 喷嘴在位检测失败：左挤出机喷嘴未安装或安装不到位。](../x2d/troubleshooting/hmscode/0300_2600_0001_000B.md)   
@@ -2499,11 +2493,18 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [X1E 固件发布记录](../x1/manual/X1E-firmware-release-history.md)  
 [首层不粘](first-layer-not-sticking.md)  
 [模型翘边](printed-model-warping.md)  
-[全部公开的链接](.md)  
 [HMS\_07FE-2000-0002-0004：请从挤出机中拉出外部挂载的耗材。](../h2/troubleshooting/hmscode/07FE_2000_0002_0004.md)  
 [H2 系列 XYZ 轴和挤出机升降导轨维护指南](../h2/maintenance/x-axis-lubrication.md)  
 [X1/X1C 固件发布记录](../x1/manual/X1-X1C-firmware-release-history.md)  
 [P2S 喷嘴堵塞清理指南](../p2s/maintenance/cold-pull-maintenance-hotend.md)  
 [更换 H2C 感应热端组件](../h2c/maintenance/replace-induction-hotend.md)  
 [P2S/X2D 挤出电机测试方法](../p2s/troubleshooting/extruder_motor_test.md)  
-[HMS\_0300-1D00-0001-000A: 挤出电机过载，可能是电机故障。](../a2l/troubleshooting/hmscode/0300_1D00_0001_000A.md)
+[HMS\_0300-1D00-0001-000A: 挤出电机过载，可能是电机故障。](../a2l/troubleshooting/hmscode/0300_1D00_0001_000A.md)   
+[TPU 打印指南](tpu-printing-guide.md)  
+[全部公开的链接](.md)  
+[P 系列机器打印 TPU 90A & 85A 的打印指南](../filament-acc/filament/tpu-85a-90a-printing-guide-for-p-series.md)  
+[X1 系列的 TPU 打印准备工作](../filament-acc/filament/tpu-85a-90a-printing-guide-for-x-series.md)  
+[更换 H2 系列 Z 轴张紧器组件/Z 轴皮带/Z 轴同步轮](../h2/maintenance/replace-z-axis-tensioner.md)  
+[H2 系列的 TPU 打印准备工作](../h2/h2d-tpu-printing-guide.md)  
+[X2D TPU 打印指南](../x2d/manual/tpu-printing-guide.md)  
+[P2S / X2D 模型翘曲问题改善指南](https://wiki.bambulab.com/zh/x2d/troubleshooting/preventing-warping-p2s-x2d)
