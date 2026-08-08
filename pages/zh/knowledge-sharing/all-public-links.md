@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-08-07T04:05:30.371Z
+updated: 2026-08-08T02:05:29.740Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -1920,7 +1920,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [P2S 堵塞排查](../p2s/troubleshooting/clogging.md)  
 [P2S 主要部件介绍](../p2s/manual/p2s-intro.md)  
 [P2S/X2D XYZ 轴清洁润滑](../p2s/maintenance/lubricate-x-y-z-axis.md)  
-[P2S 挤出机堵塞清理指南](../p2s/maintenance/extruder-cleaning-guide.md)  
 [P2S 开箱指南](../p2s/manual/unboxing-p2s.md)  
 [P2S 装箱指南](../p2s/manual/packing-p2s.md)  
 [更换 P2S 拖链](../p2s/maintenance/replace-cable-chain.md)  
@@ -2455,7 +2454,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0300-0600-0001-0003: A电机电阻异常，可能是电机故障。](../x1/troubleshooting/hmscode/0300_0600_0001_0003.md)  
 [耗材烘干操作指南](../filament-acc/filament/dry-filament.md)  
 [拓竹打印机和 AMS 功率参数](../general/power-consumption.md)  
-[Wiki 新页面和内容更新](../new-and-updates.md)  
 [HMS-0700-9000-0001-0002：AMS A 排气风门 1 线圈电阻异常,可能是接线异常或者损坏。](../h2/troubleshooting/hmscode/0700_9000_0001_0002.md)  
 [P2S 首层打印质量改善指南](../p2s/troubleshooting/first-layer-printing-optimization-guide.md)  
 [P2S 打印机 FAQ](../p2s/manual/p2s-faq.md)  
@@ -2501,10 +2499,13 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [P2S/X2D 挤出电机测试方法](../p2s/troubleshooting/extruder_motor_test.md)  
 [HMS\_0300-1D00-0001-000A: 挤出电机过载，可能是电机故障。](../a2l/troubleshooting/hmscode/0300_1D00_0001_000A.md)   
 [TPU 打印指南](tpu-printing-guide.md)  
-[全部公开的链接](.md)  
 [P 系列机器打印 TPU 90A & 85A 的打印指南](../filament-acc/filament/tpu-85a-90a-printing-guide-for-p-series.md)  
 [X1 系列的 TPU 打印准备工作](../filament-acc/filament/tpu-85a-90a-printing-guide-for-x-series.md)  
 [更换 H2 系列 Z 轴张紧器组件/Z 轴皮带/Z 轴同步轮](../h2/maintenance/replace-z-axis-tensioner.md)  
 [H2 系列的 TPU 打印准备工作](../h2/h2d-tpu-printing-guide.md)  
 [X2D TPU 打印指南](../x2d/manual/tpu-printing-guide.md)  
+[拆解和清洁 A1 系列料线选通器](https://wiki.bambulab.com/zh/a1/maintenance/a1-ams-hub-cleaning)  
+[Wiki 新页面和内容更新](../new-and-updates.md)  
+[全部公开的链接](.md)  
+[P2S 挤出机堵塞清理指南](../p2s/maintenance/extruder-cleaning-guide.md)  
 [P2S / X2D 模型翘曲问题改善指南](https://wiki.bambulab.com/zh/x2d/troubleshooting/preventing-warping-p2s-x2d)
