@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-08-08T02:05:29.740Z
+updated: 2026-08-09T02:05:31.977Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -2506,6 +2506,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [X2D TPU 打印指南](../x2d/manual/tpu-printing-guide.md)  
 [拆解和清洁 A1 系列料线选通器](https://wiki.bambulab.com/zh/a1/maintenance/a1-ams-hub-cleaning)  
 [Wiki 新页面和内容更新](../new-and-updates.md)  
-[全部公开的链接](.md)  
 [P2S 挤出机堵塞清理指南](../p2s/maintenance/extruder-cleaning-guide.md)  
-[P2S / X2D 模型翘曲问题改善指南](https://wiki.bambulab.com/zh/x2d/troubleshooting/preventing-warping-p2s-x2d)
+[P2S / X2D 模型翘曲问题改善指南](https://wiki.bambulab.com/zh/x2d/troubleshooting/preventing-warping-p2s-x2d)  
+[全部公开的链接](.md)
