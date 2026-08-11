@@ -4,7 +4,7 @@ title: "更换 H2C 感应热端组件"
 description: "本文将为您详细讲述如何更换 H2C 感应热端和注意事项。"
 tags: []
 created: 2025-11-18T13:16:16.774Z
-updated: 2026-08-05T11:37:10.316Z
+updated: 2026-08-05T11:37:11.581Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend
 ---
 
