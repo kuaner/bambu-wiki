@@ -9,7 +9,7 @@
   "zh/h2/troubleshooting/hmscode/0500_0400_0002_0035": "2025-07-24T01:10:23.245Z",
   "zh/p2s/maintenance/belt-tension": "2026-01-06T03:47:31.601Z",
   "zh/x1/manual/printing-on-cool-plate": "2024-06-07T06:45:50.700Z",
-  "zh/knowledge-sharing/all-public-links": "2026-08-14T04:05:34.211Z",
+  "zh/knowledge-sharing/all-public-links": "2026-08-15T02:05:35.892Z",
   "zh/x2d/troubleshooting/hmscode/0700_8900_0002_0004": "2026-04-14T13:15:32.834Z",
   "zh/p1": "2026-06-30T07:35:48.745Z",
   "zh/x2d/troubleshooting/hmscode/0300_C000_0001_0001": "2026-04-14T13:16:37.739Z",
@@ -2531,5 +2531,6 @@
   "zh/bambu-studio/export-filament": "2026-08-12T01:18:37.130Z",
   "zh/software/bambu-connect/releases/v2_5_0-beta_15": "2026-08-13T09:42:50.881Z",
   "zh/software/bambu-suite/release-notes/v01-04-00-00": "2026-08-12T10:20:52.163Z",
-  "zh/x2d/troubleshooting/hotend_blob": "2026-08-13T08:44:26.509Z"
+  "zh/x2d/troubleshooting/hotend_blob": "2026-08-13T08:44:26.509Z",
+  "zh/software/bambu-studio/release/release-note-2-8-2-60": "2026-08-14T12:57:08.577Z"
 }
