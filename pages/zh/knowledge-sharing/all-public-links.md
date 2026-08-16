@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-08-15T02:05:35.892Z
+updated: 2026-08-16T02:05:33.531Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -2512,6 +2512,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [象脚补偿](../software/bambu-studio/parameter/elephant-foot.md)  
 [A1系列裹头检测功能介绍](../a1-mini/manual/nozzle-warp-detection.md)  
 [Wiki 新页面和内容更新](../new-and-updates.md)  
-[全部公开的链接](.md)  
 [A2L 更换摄像头组件](../a2l/maintenance/replace-live-view-camera.md)  
-[Bambu Studio 2.8.2.60 版本说明](https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-8-2-60)
+[Bambu Studio 2.8.2.60 版本说明](https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-8-2-60)  
+[全部公开的链接](.md)
