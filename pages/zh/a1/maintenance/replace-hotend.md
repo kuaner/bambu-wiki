@@ -4,7 +4,7 @@ title: "更换A1热端"
 description: "本文介绍了如何更换 A1 热端"
 tags: []
 created: 2025-07-29T09:31:50.925Z
-updated: 2026-05-19T06:34:29.246Z
+updated: 2026-08-03T10:40:39.457Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/replace-hotend
 ---
 
@@ -24,8 +24,6 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/replace-hotend
 ### 所需的工具和材料
 
 - 新的热端组件
-
-- H1.5/H2.0 内六角扳手
 
 ## 安全提示
 

@@ -4,7 +4,7 @@ title: "模型翘边"
 description: ""
 tags: []
 created: 2024-06-07T08:37:48.870Z
-updated: 2025-01-20T08:28:30.367Z
+updated: 2026-08-05T01:55:38.641Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/printed-model-warping
 ---
 
@@ -25,9 +25,11 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/printed-model-warping
 
 导致模型翘边、从热床上脱落的最常见原因之一，就是热床温度与耗材温度不匹配，或选择了错误的打印板类型。
 
-例如，如果您在[低温打印板](../x1/manual/printing-on-cool-plate.md)上切片模型，然后在[纹理 PEI 打印板](../general/textured-PEI-plate-not-working-as-expected.md)上打印，由于打印板的特性和要求不同，模型很可能会出现翘边，并从热床上脱落。低温打印板对 PLA 的温度要求在 **35 摄氏度**左右，而纹理 PEI 板对 PLA 的温度要求在 **55 - 65 摄氏度**左右。
+同一种材料通常在不同的打印板使用不同的热床温度进行打印，如果选错打印板类型，则有可能因为打印的热床温度不足而导致粘接力不足。另外，纹理 PEI 板由于表面有颗粒物，所以在热床调平后，打印机会下压喷嘴 0.04mm 确保首层粘接。如果您使用纹理 PEI 板打印，却在切片时选择了其他类型的打印板，则会导致喷嘴高度过高，影响首层粘接。
 
-根据所用的耗材，选择正确的打印板类型。同时，在开始打印前要确保打印板是干净的，可以大幅提高打印成功的几率。
+因此，请根据所用的耗材，选择正确的打印板类型。同时，在开始打印前要确保打印板是干净的，可以大幅提高打印成功的几率。
+
+![change_build_plate_bambu_studio_zh.webp](https://wiki.bambulab.com/knowledge-sharing/print-quality/model-warping/change_build_plate_bambu_studio_zh.webp)
 
 ### 2. 部件冷却风扇速度过高
 

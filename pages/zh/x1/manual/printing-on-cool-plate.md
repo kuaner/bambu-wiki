@@ -4,9 +4,14 @@ title: "在低温打印板上进行打印的建议"
 description: ""
 tags: []
 created: 2022-07-29T07:21:04.502Z
-updated: 2024-06-07T06:45:50.700Z
+updated: 2026-08-05T01:43:23.165Z
 source: https://wiki.bambulab.com/zh/x1/manual/printing-on-cool-plate
 ---
+
+> ℹ️ **注意**：本产品已停产，此页面仅供仍在使用该产品的用户参考。
+>
+> - 如需了解增稳低温打印板的信息，请参阅：[拓竹增稳低温打印板](../../filament-acc/acc/bambu-cool-plate-supertack.md)；
+> - 了解当前在售的其他类型打印板，请参阅：[拓竹打印板介绍](../../filament-acc/acc/plates.md)。
 
 低温打印面板用于打印诸如PLA/PVA之类的耗材，该面板能提供最好的粘附性。低温打印面板的替换膜是粘贴在构架板上的，通过简单操作即可随时更换。
 

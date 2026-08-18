@@ -4,9 +4,14 @@ title: "低温打印板质量与预期不符"
 description: ""
 tags: []
 created: 2022-08-01T03:25:10.047Z
-updated: 2025-03-07T07:42:49.493Z
+updated: 2026-08-05T01:43:32.219Z
 source: https://wiki.bambulab.com/zh/general/cool-plate-not-working-as-expected
 ---
+
+> ℹ️ **注意**：本产品已停产，此页面仅供仍在使用该产品的用户参考。
+>
+> - 如需了解增稳低温打印板的信息，请参阅：[拓竹增稳低温打印板](../filament-acc/acc/bambu-cool-plate-supertack.md)；
+> - 了解当前在售的其他类型打印板，请参阅：[拓竹打印板介绍](../filament-acc/acc/plates.md)。
 
 ## 低温打印板介绍
 

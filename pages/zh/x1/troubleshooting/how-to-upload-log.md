@@ -4,7 +4,7 @@ title: "如何创建工单及上传日志"
 description: "本指南将引导您通过 Bambu Handy 或在 Bambu Lab 官网创建工单及上传日志，以及上传日志常见问题。"
 tags: []
 created: 2024-10-08T04:14:08.421Z
-updated: 2026-06-02T03:11:16.881Z
+updated: 2026-08-12T02:40:42.477Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 ---
 
@@ -14,9 +14,13 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 
 打开 Bambu Handy 应用，点击底部导航栏中的 “**我的**”，再选择 “**帮助中心**”，进入帮助中心界面。
 
-在帮助中心页面，找到 “**工单服务**” 区域，点击 “**提工单**”。选择遇到[问题类型](../../create-support-ticket.md)，这里以**打印机**类型为例，点击 “**下一步**” 按钮以进入工单提交页面。
+在帮助中心页面，找到 “**技术支持**” 区域，点击 “**我要提问**”。向在线客服输入您的问题或输入“人工服务”后，点击**技术咨询工单**进入工单提交页面。
 
-![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/3_step_for_handy.jpg)
+![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/cover_zh.jpg)
+
+选择遇到[问题类型](../../create-support-ticket.md)，这里以**打印机**类型为例，点击 “**下一步**” 按钮以进入工单提交页面。
+
+![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/3-portrait.png)
 
 选择打印机对应的**地区**、[**序列号**](../../general/find-sn.md)、**机型**。若 Bambu Handy 中绑定了对应打印机，可通过点击右侧箭头选择对应打印机，系统将自动填写 SN 号。完成后，点击 “**下一步**” 按钮。
 
@@ -24,11 +28,11 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 
 在问题描述中添加详细描述，以帮助我们更准确地了解问题；选择问题类型，您可通过点击右侧 “**自动识别**” 按钮，系统将自动识别问题类型并填入。同时，可上传相关图片和视频，上传完成后，点击“**下一步**”。
 
-![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/5-portrait.png)
+![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/问题详情-portrait.png)
 
 根据提示依次**上传 [打印机日志](#jump5)、HMS 图片、耗材类型** 等附件信息，点击 “**提交**” 即完成工单上传。
 
-![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/6-portrait.png)
+![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/附件信息-portrait.png)
 
 ### 日志上传
 
@@ -181,5 +185,5 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)；点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

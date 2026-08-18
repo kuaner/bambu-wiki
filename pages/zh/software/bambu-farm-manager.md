@@ -4,7 +4,7 @@ title: "拓竹农场管家软件快速入门"
 description: "本文介绍了拓竹农场管家软件。"
 tags: []
 created: 2024-10-24T10:07:33.966Z
-updated: 2026-07-01T02:22:58.075Z
+updated: 2026-08-03T04:27:56.901Z
 source: https://wiki.bambulab.com/zh/software/bambu-farm-manager
 ---
 
@@ -44,9 +44,9 @@ source: https://wiki.bambulab.com/zh/software/bambu-farm-manager
 
 ## 下载最新版本
 
-[拓竹农场管家服务器 02.04.00.00](https://public-cdn.bblmw.cn/upgrade/farm-manager/Bambu_Farm_Manager_Server_win-v02.04.00.00-20260605153718.exe)
+[拓竹农场管家服务器 02.04.00.03](https://public-cdn.bblmw.cn/upgrade/farm-manager/Bambu_Farm_Manager_Server_win-v02.04.00.03-20260731111311.exe)
 
-[拓竹农场管家客户端 02.04.01](https://public-cdn.bblmw.cn/upgrade/farm-manager/bambu-farm-manager-client-v2.4.1-2010b40f-win32-x64.exe)
+[拓竹农场管家客户端 02.04.03](https://public-cdn.bblmw.cn/upgrade/farm-manager/bambu-farm-manager-client-v2.4.3-12ed15b8-win32-x64.exe)
 
 ## 安装
 

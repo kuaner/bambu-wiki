@@ -4,7 +4,7 @@ title: "绒毛表面"
 description: "本文介绍如何在 Bambu Studio 中为模型增加绒毛表面"
 tags: ["bambu studio"]
 created: 2023-11-20T10:46:48.063Z
-updated: 2026-07-20T12:15:12.064Z
+updated: 2026-08-13T01:56:38.933Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/fuzzy-skin
 ---
 
@@ -16,11 +16,11 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/fuzzy-skin
 
 ## 绒毛表面开启选项
 
-绒毛表面功能可以在 **工艺 > 其他 > 绒毛表面** 开启。
+绒毛表面功能可以在 **工艺 > 其他 > 绒毛表面** 中开启。
 
 ![fuzzy_skin_setting_zh.png](https://wiki.bambulab.com/software/bambu-studio/fuzzy-skin/fuzzy_skin_setting_zh.png)
 
-以下选项决定了绒毛表面适用的**位置**：
+以下选项决定了绒毛表面生效的**位置**：
 
 ### 无（允许绘制）
 
@@ -30,19 +30,19 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/fuzzy-skin
 
 ### 轮廓
 
-仅在模型的外轮廓位置生成绒毛表面效果。**对轮廓和孔的定义可以参考 Wiki：**[**XY孔洞/轮廓补偿**](../xy-hole-contour-compensation.md)。
+仅在模型的外轮廓位置生成绒毛表面效果。**有关轮廓和孔的定义，可以参考：**[**XY孔洞/轮廓补偿**](../xy-hole-contour-compensation.md)。
 
 ![](https://wiki.bambulab.com/software/bambu-studio/fuzzy-skin/%E4%BB%85%E8%BD%AE%E5%BB%93.png)
 
 ### 轮廓和孔
 
-在模型的外轮廓和孔洞都产生绒毛表面效果。
+在模型的外轮廓和孔洞位置均生成绒毛表面效果。
 
 ![](https://wiki.bambulab.com/software/bambu-studio/fuzzy-skin/%E8%BD%AE%E5%BB%93%E5%92%8C%E5%AD%94.png)
 
 ### 所有墙
 
-在模型的所有内墙和外墙都产生绒毛表面效果。
+在模型的所有内墙和外墙均生成绒毛表面效果。
 
 ![](https://wiki.bambulab.com/software/bambu-studio/fuzzy-skin/%E6%89%80%E6%9C%89%E5%A2%99.png)
 
@@ -52,7 +52,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/fuzzy-skin
 
 ## 绒毛表面设置
 
-上述选项决定了绒毛表面开启的适用位置。还有其他一些可用设置，说明如下：
+上述选项决定了绒毛表面生效的位置。此外还有一些可用设置，说明如下：
 
 ### 绒毛表面生成器模式
 
@@ -119,6 +119,6 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/fuzzy-skin
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

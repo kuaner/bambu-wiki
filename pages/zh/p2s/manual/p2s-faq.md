@@ -4,7 +4,7 @@ title: "P2S 打印机 FAQ"
 description: "本文汇总关于 P2S 打印机的常见疑问与解答，帮助您更好地了解 P2S 打印机。"
 tags: []
 created: 2025-10-14T13:15:09.091Z
-updated: 2026-06-23T02:53:27.173Z
+updated: 2026-07-31T06:23:08.723Z
 source: https://wiki.bambulab.com/zh/p2s/manual/p2s-faq
 ---
 
@@ -30,7 +30,7 @@ source: https://wiki.bambulab.com/zh/p2s/manual/p2s-faq
 | 电压 | 100-120 VAC/200-240 VAC，50/60 Hz |
 | 最大功率 | 1200 W@220 V, 1000 W@110 V |
 | 待机功率 | 不连接网络待机功耗：7.3-7.8W Wifi待机功耗：7.8-8.2W |
-| PLA 稳态功率 | 200 W@220 V, 100 W@110 V |
+| PLA 稳态功率 | 200 W@220 V, 200 W@110 V |
 
 ### Q: P2S 是否支持 5G Hz 频段的 WiFi？
 

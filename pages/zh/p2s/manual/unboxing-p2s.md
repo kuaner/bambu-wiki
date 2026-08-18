@@ -4,7 +4,7 @@ title: "P2S 开箱指南"
 description: "本文介绍 P2S 套装及单机的开箱步骤。"
 tags: []
 created: 2025-10-14T13:55:05.884Z
-updated: 2026-06-11T11:10:41.705Z
+updated: 2026-08-11T02:08:36.242Z
 source: https://wiki.bambulab.com/zh/p2s/manual/unboxing-p2s
 ---
 

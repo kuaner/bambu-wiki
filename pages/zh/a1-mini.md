@@ -4,7 +4,7 @@ title: "A1 mini"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-20T13:13:46.125Z
-updated: 2026-07-01T01:59:57.950Z
+updated: 2026-07-30T01:49:46.825Z
 source: https://wiki.bambulab.com/zh/a1-mini
 ---
 
@@ -45,7 +45,7 @@ source: https://wiki.bambulab.com/zh/a1-mini
 - [A1 mini 常见问答（FAQ）](manual/faq.md)
 - [A1 系列屏幕操作指南](a1/screen-operation.md)
 - [包装清单补充说明](manual/acc-in-the-box.md)
-- 产品快速指南 ([点击此处跳转下载页面](https://bambulab.cn/zh-cn/support/documentation))
+- [快速入门指南](https://bambulab.cn/zh-cn/support/documentation/961673603464298496)
 
 ### 开箱/装箱
 
@@ -60,11 +60,11 @@ source: https://wiki.bambulab.com/zh/a1-mini
 
 ## 🧩 **打印机设置**
 
-- [初次打印指南（使用外挂料盘）](manual/first-print-with-external-spool.md)
-- [初次打印指南（使用AMS lite）](manual/first-print-with-ams-lite.md)
+- [A1 mini 初次打印指南（使用外挂料盘）](manual/first-print-with-external-spool.md)
+- [A1 mini 初次打印指南（使用 AMS lite）](manual/first-print-with-ams-lite.md)
 - [如何在 Bambu Lab A1 系列 3D 打印机中使用 SD 卡进行打印](a1/manual/how-to-print-from-sd-card.md)
 - [通过 micro SD 卡配置网络](p1/manual/p1-sd-card-network-configuration-guide.md)
-- [通过 microSD 卡升级固件——A1 mini](manual/a1-mini-firmware-update-from-SD-card.md)
+- [通过 micro SD 卡升级固件——A1 mini](manual/a1-mini-firmware-update-from-SD-card.md)
 
 ## 🏗️ 打印功能
 
@@ -95,7 +95,7 @@ source: https://wiki.bambulab.com/zh/a1-mini
 - [A1 mini -热床升温异常排查指南](troubleshooting/heatbed-not-heat-up.md)
 - [A1 mini 首层打印质量问题及排查方案](troubleshooting/print-issues-troubleshooting.md)
 - [A1 系列打印机回零调平失败故障排查](a1/troubleshooting/homing-leveling-failure.md)
-- [修复AMS lite五通组件/料管拓展口无法固定料管](a1/troubleshooting/ams-lite-filament-hub-cannot-hold-tube.md)
+- [修复 AMS lite 五通组件/料管拓展口无法固定料管](a1/troubleshooting/ams-lite-filament-hub-cannot-hold-tube.md)
 - [A1 mini 热床异响修复指南](troubleshooting/heatbed-repair-guide.md)
 - [无法拆下热端—热端背面残料造成的低温黏连](maintenance/clean-hotend-assembly.md)
 
@@ -165,13 +165,13 @@ source: https://wiki.bambulab.com/zh/a1-mini
 - [A1 mini Y 皮带更换指南](maintenance/y-belt-replacement-guide.md)
 - [A1 mini Z 轴电机更换指南](maintenance/z-motor.md)
 - [A1 mini X 电机更换](maintenance/x-motor-replacement-guide.md)
-- [A1 mini Y电机更换](maintenance/y-motor-replacement-guide.md)
+- [A1 mini Y 电机更换](maintenance/y-motor-replacement-guide.md)
 
 ### 电路板/Wifi天线/摄像头
 
 - [A1 mini 挤出主板更换指南](th-board-replacement-guide.md)
 - [A1 mini 主板更换指南](maintenance/mc-board-replacement-guide.md)
-- [A1 mini更换摄像头组件](camera-replacement-guide.md)
+- [A1 mini 更换摄像头组件](camera-replacement-guide.md)
 - [A1 mini  WiFi 天线组件](maintenance/wi-fi-antenna-replacement-guide.md)
 - [A1 mini 电源更换指南](maintenance/power-supply-replacement-guide.md)
 

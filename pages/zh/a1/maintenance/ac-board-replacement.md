@@ -2,9 +2,9 @@
 path: zh/a1/maintenance/ac-board-replacement
 title: "A1 AC 板更换指南"
 description: "本指南详细介绍了如何卸下和安装A1的AC板。"
-tags: []
+tags: ["a1", "ac 电源板"]
 created: 2024-05-31T02:03:16.213Z
-updated: 2026-07-06T08:39:31.733Z
+updated: 2026-08-11T03:06:37.518Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/ac-board-replacement
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/ac-board-replacement
 
 本指南中，我们将展示 A1 打印机的 AC 板更换过程。
 
-- A1 打印机的 AC 板现有两个版本。两个版本功能相同，只有很细微的区别，故 Wiki 上的相关指南均适用。  
+- A1 打印机的 AC 板目前有两个版本，二者功能与接口完全一致。因此，本 Wiki 图示中新旧版本 AC 板的差异不影响实际拆装操作。  
   ![a1-mini-ac-boardoldvsnew.png](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/a1-mini-ac-boardoldvsnew.png)
 
 ## 适用打印机型号
@@ -49,7 +49,7 @@ A1
 
 ### **步骤 2：拆除线缆盒**
 
-拧松黄色标记螺丝不用完全取出，移除 1、2、3 号线缆分别是摄像头、Z 轴电机、X 轴电机之后向上推出线缆支架断开 USB-C 线缆。
+拧松黄色标记螺丝，不用完全取出。移除 1、2、3 号线缆（分别是摄像头、Z 轴电机、X 轴电机）之后向上推出线缆支架，断开 USB-C 线缆。
 
 ![disconnect_the_a1_wires_and_remove_the_wire_bracket_-_22.jpeg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/disconnect_the_a1_wires_and_remove_the_wire_bracket_-_22.jpeg)
 
@@ -69,9 +69,6 @@ A1
 | --- | --- |
 |  |  |
 
-> 注意：新版本 AC 板移除地线设计，优化电源开关结构及通流能力；此变更不影响AC板的核心功能及性能。  
-> ![new_ac_board_removed_ground_wire_design.png](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-01-52.jpg)
-
 ### **步骤 5：移除热床信号线缆**
 
 移除热床 4PIN 信号线缆，可以使用工具或者捏住塑料接头进行拔出；注意不要直接拖住线缆，可能会导致接头损伤。
@@ -86,11 +83,17 @@ A1
 
 ### **步骤 7：移除 AC 板剩余线缆**
 
-继续移除剩余线缆，首先移除 #1 #2 #3 分别是地线、火线、零线。将蓝色胶套往外拨出后，使用螺丝刀顶住卡扣的同时向外拉出线缆。 #4、#5 电源模块线缆稍后拆除。
+继续移除剩余线缆，首先移除 #1 #2 #3 分别是地线、火线、零线。将蓝色胶套往外拨出后，使用**螺丝刀顶住卡扣**的同时向外拉出线缆。 #4、#5 电源模块线缆稍后拆除。
 
-![pixpin_2026-07-06_16-16-34.jpg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-03-28.jpg)
+|  |  |
+| --- | --- |
+|  |  |
 
-![](https://wiki.bambulab.com/knowledge-sharing/printer-electronic-connectors-guide/con5.png)
+> **注意**：新版 A1 电源开关进行了排线优化，**取消了地线中间连接至 AC 板的接头**，此变更不影响电源开关与 AC 板的核心功能。因此，新版 A1 电源开关在拆除 AC 板时无需移除 1# 处的地线。
+>
+> |  |  |
+> | --- | --- |
+> | 旧版 | 新版 |
 
 ### **步骤 8：取出旧的 AC 板**
 
@@ -131,17 +134,19 @@ A1
 
 ### **步骤 5：连接 AC 板剩余线缆**
 
-如下图所示（图示以新版本 AC 板为例），完成 AC 板剩余线缆的连接。
+如下图所示，完成 AC 板剩余线缆的连接。
 
-1. 地线（黄色）（适用于旧版本 AC 板）
+1. 地线（黄色）（适用于旧版 A1 电源开关，新版 A1 电源开关无需连接此线缆）
 2. 火线（棕色）
 3. 零线（蓝色）
 4. 火线（红色）
 5. 零线（黑色）
 
-![pixpin_2026-07-06_16-17-09.jpg](https://wiki.bambulab.com/a1/maintenance/ac-board-replacement/pixpin_2026-07-06_16-17-09.jpg)
+|  |  |
+| --- | --- |
+| 旧版 A1 电源开关 | 新版 A1 电源开关 |
 
-> 注意：完成以上安装之后，确保所有线缆安装上绝缘硅胶套。
+> 注意：完成以上安装之后，确保所有线缆安装上**绝缘硅胶套**。
 
 ### **步骤 6：安装打印机底壳**
 
@@ -186,7 +191,6 @@ USB-C 线缆可能出现连接异常。松开固定线缆盒的螺丝，参考[�
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
-> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的客户支持团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn?from=5)，它能够即时解答常见问题，并为您提供操作指导。

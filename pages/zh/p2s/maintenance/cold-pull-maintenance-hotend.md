@@ -4,7 +4,7 @@ title: "P2S 喷嘴堵塞清理指南"
 description: "本文将详细为您介绍 P2S 打印机喷嘴堵塞的清理方法。"
 tags: []
 created: 2025-10-14T14:51:14.961Z
-updated: 2026-03-03T07:20:18.415Z
+updated: 2026-08-05T08:32:04.431Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/cold-pull-maintenance-hotend
 ---
 
@@ -12,6 +12,8 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/cold-pull-maintenance-hoten
 
 - 没有挤出 （取下喷嘴后耗材能从挤出机送出，但无法从喷头中出来）
 - 挤出不足（挤压出的耗材不够，导致打印模型周围有间隙）
+
+> 如果堵塞或挤出异常发生在打印过程中，通常应先暂停或取消当前打印任务，再进行本页维护。
 
 ## 操作前的注意事项及机器状态
 

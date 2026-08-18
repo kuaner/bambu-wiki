@@ -4,7 +4,7 @@ title: "X2D 屏幕操作指南"
 description: "本指南介绍了 X2D 的屏幕操作及相关功能"
 tags: []
 created: 2026-04-14T14:11:48.118Z
-updated: 2026-04-14T14:11:49.194Z
+updated: 2026-08-12T06:44:31.865Z
 source: https://wiki.bambulab.com/zh/x2d/manual/screen-operation
 ---
 

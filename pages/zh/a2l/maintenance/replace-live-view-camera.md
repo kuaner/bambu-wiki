@@ -4,9 +4,11 @@ title: "A2L 更换摄像头组件"
 description: "本文介绍了如何更换 A2L 摄像头组件"
 tags: []
 created: 2026-06-01T13:10:12.346Z
-updated: 2026-06-04T02:07:30.788Z
+updated: 2026-08-14T06:07:04.916Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-live-view-camera
 ---
+
+> **隐私提示**：请确保摄像头已正确安装，使摄像头视野正确朝向打印机腔体，以避免对打印区域或喷嘴的检测出现问题。
 
 ## 摄像头组件
 

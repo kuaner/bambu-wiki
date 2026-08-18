@@ -4,7 +4,7 @@ title: "P2S 装箱指南"
 description: "本文介绍 P2S 套装及单机的装箱步骤。"
 tags: []
 created: 2025-10-14T13:55:20.913Z
-updated: 2026-06-24T07:08:04.792Z
+updated: 2026-08-11T02:12:07.449Z
 source: https://wiki.bambulab.com/zh/p2s/manual/packing-p2s
 ---
 
@@ -162,6 +162,9 @@ source: https://wiki.bambulab.com/zh/p2s/manual/packing-p2s
 |  |  |  |
 | --- | --- | --- |
 |  |  |  |
+
+> 包装方案更新，请按下图所示放置所有泡棉。  
+> ![p2s-top-foams-new.png](https://wiki.bambulab.com/p2s/manual/unboxing-guide/p2s-top-foams-new.png)
 
 #### 步骤7：固定打印机并装箱
 

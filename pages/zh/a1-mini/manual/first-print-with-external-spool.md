@@ -1,10 +1,10 @@
 ---
 path: zh/a1-mini/manual/first-print-with-external-spool
-title: "初次打印指南（使用外挂料盘）"
+title: "A1 mini 初次打印指南（使用外挂料盘）"
 description: ""
-tags: []
+tags: ["a1 mini"]
 created: 2023-09-18T02:56:41.787Z
-updated: 2024-12-18T07:29:03.432Z
+updated: 2026-07-30T01:46:29.004Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-external-spool
 ---
 

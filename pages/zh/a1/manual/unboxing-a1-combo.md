@@ -4,7 +4,7 @@ title: "A1 combo 开箱指南（旧）"
 description: "本指南提供旧版 A1 combo 的开箱操作。"
 tags: ["a1 combo"]
 created: 2023-12-12T14:29:25.833Z
-updated: 2026-07-16T01:55:05.261Z
+updated: 2026-08-04T07:08:19.043Z
 source: https://wiki.bambulab.com/zh/a1/manual/unboxing-a1-combo
 ---
 
@@ -292,7 +292,7 @@ A1 上市以来，不少用户反馈热床保护贴膜过粘不易撕取，另�
 | --- | --- |
 |  |  |
 
-### 4. 在成功安装转轴后，将 AMS lite 放置在 A1 mini 打印机的右侧位置，A1 和 AMS lite 之间的推荐距离为 50mm
+### 4. 在成功安装转轴后，将 AMS lite 放置在 A1 打印机的右侧位置，A1 和 AMS lite 之间的推荐距离为 50mm
 
 ![](https://wiki.bambulab.com/a1/manual/unboxing-combo/step15-12.png)
 

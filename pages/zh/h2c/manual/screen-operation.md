@@ -4,7 +4,7 @@ title: "H2C 屏幕操作指南"
 description: "本指南介绍了 H2C 的屏幕操作"
 tags: []
 created: 2025-11-18T12:40:41.435Z
-updated: 2026-03-23T06:37:24.256Z
+updated: 2026-07-31T09:46:27.808Z
 source: https://wiki.bambulab.com/zh/h2c/manual/screen-operation
 ---
 
@@ -266,7 +266,7 @@ source: https://wiki.bambulab.com/zh/h2c/manual/screen-operation
 
 ![](https://wiki.bambulab.com//h2/manual/screen-operation/cn-autorefill.png)
 
-2. **AMS 初始化**：首次将 AMS 连接到 H2D 打印机时，需要进行一次初始化，目的是检测 AMS 连接到了哪一侧的挤出机。
+2. **AMS 初始化**：首次将 AMS 连接到 H2C 打印机时，需要进行一次初始化，目的是检测 AMS 连接到了哪一侧的挤出机。
 
 ![](https://wiki.bambulab.com//h2/manual/screen-operation/amssetup0-cn.png)
 

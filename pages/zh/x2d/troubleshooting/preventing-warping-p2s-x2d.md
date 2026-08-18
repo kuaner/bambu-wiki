@@ -4,7 +4,7 @@ title: "P2S / X2D 模型翘曲问题改善指南"
 description: "本指南针对 P2S/X2D 打印机模型翘曲问题提供了具体的改善方案。"
 tags: []
 created: 2026-07-30T04:25:51.898Z
-updated: 2026-08-06T07:32:09.256Z
+updated: 2026-08-11T02:25:54.373Z
 source: https://wiki.bambulab.com/zh/x2d/troubleshooting/preventing-warping-p2s-x2d
 ---
 
@@ -46,7 +46,26 @@ source: https://wiki.bambulab.com/zh/x2d/troubleshooting/preventing-warping-p2s-
 
 ![change_build_plate_bambu_studio_zh.webp](https://wiki.bambulab.com/knowledge-sharing/print-quality/model-warping/change_build_plate_bambu_studio_zh.webp)
 
----
+### 3. 烘干耗材
+
+PETG 等吸水性较强的耗材受潮后，挤出稳定性变差，更容易出现粘附不足与翘曲风险。打印前需要充分烘干，并在干燥、密封条件下使用。
+
+详细烘干参数与 PETG 打印注意事项，请参考：[**PETG 使用指南**](../../filament/petg.md)。
+
+通用烘干方法请参考：[**耗材烘干操作指南**](../../filament-acc/filament/dry-filament.md)。
+
+![](https://wiki.bambulab.com/filament-acc/filament-dry-prepare/image-9.png)
+
+### 4. 检查首层质量
+
+若首层线条稀疏、与打印板粘合不牢，模型底部附着力不足，从而更容易翘边或脱落。出现翘曲时，请确认首层是否平整、压实、线条连续。
+
+若观察到首层大面积偏高或稀疏，请按机型参考对应指南排查与校准：
+
+- [**P2S 首层打印质量改善指南**](../../p2s/troubleshooting/first-layer-printing-optimization-guide.md)
+- [**X2D 首层打印质量改善指南**](first-layer-printing-optimization-guide.md)
+
+![](https://public-cdn.bblmw.com/wiki/new/x2d/first-layer-printing-optimization-guide/031.jpg)
 
 ## 解决方案
 
@@ -61,7 +80,7 @@ source: https://wiki.bambulab.com/zh/x2d/troubleshooting/preventing-warping-p2s-
 
 > **说明**：第2项为典型极端场景，为防止 PLA 支撑堵头，腔体冷却风量较大，PETG 主体在强冷气流下更易翘曲。此时强烈建议安装导风板，并置于导风状态，以在保证散热防堵的同时缓解翘曲。
 
-**模型文件：** [点击下载导风板模型.3mf](https://wiki.bambulab.com/x2d/troubleshooting/preventing-warping/x2d_p2s_deflector.3mf)
+**模型文件：** [点击下载导风板模型.3mf](https://wiki.bambulab.com/x2d/troubleshooting/preventing-warping/x2d_p2s_air_deflector.3mf)
 
 **打印须知：**
 

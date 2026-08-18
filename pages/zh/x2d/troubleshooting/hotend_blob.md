@@ -4,7 +4,7 @@ title: "X2D 打印机裹头处理指引 "
 description: "本文介绍 X2D 打印机热端裹头的修复方法"
 tags: []
 created: 2026-08-13T08:20:57.105Z
-updated: 2026-08-13T08:44:26.509Z
+updated: 2026-08-13T08:44:27.765Z
 source: https://wiki.bambulab.com/zh/x2d/troubleshooting/hotend_blob
 ---
 

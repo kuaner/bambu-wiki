@@ -4,7 +4,7 @@ title: "H2C AMS 套装 和 H2C 多色激光套装开箱指南"
 description: ""
 tags: ["h2c"]
 created: 2025-11-18T12:41:12.906Z
-updated: 2026-03-16T09:31:20.525Z
+updated: 2026-08-10T09:04:37.001Z
 source: https://wiki.bambulab.com/zh/h2c/manual/unboxing-h2c
 ---
 
@@ -28,7 +28,8 @@ AMS 套装：
 
 [刀切模组安装指南](../../h2/manual/cutting-module-installation-guide.md)
 
-> 📂 具体的配件清单请参考：[H2C 包装清单](../acc-in-the-box.md)。
+> **注意**：多色激光套装刀切垫板及激光垫板位于耗材盒中;  
+> 📂 其他详细的配件清单请参考：[H2C 包装清单](../acc-in-the-box.md)。
 
 ## 操作步骤
 

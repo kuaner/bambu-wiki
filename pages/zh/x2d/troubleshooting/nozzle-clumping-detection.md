@@ -4,7 +4,7 @@ title: "0300-4015：X2D"
 description: ""
 tags: []
 created: 2026-07-01T08:02:27.331Z
-updated: 2026-07-02T02:40:24.946Z
+updated: 2026-08-03T03:04:28.974Z
 source: https://wiki.bambulab.com/zh/x2d/troubleshooting/nozzle-clumping-detection
 ---
 
@@ -14,7 +14,13 @@ source: https://wiki.bambulab.com/zh/x2d/troubleshooting/nozzle-clumping-detecti
 
 校准过程中，机器会将喷嘴尖端伸入热床后侧小钢片边的圆孔内。尖端在伸入圆孔的过程中，打印机会利用挤出力传感器判断喷嘴是否触碰热床，如果检测到传感器信号变化过大，系统会发出警告，并停止校准过程。
 
-![指示.png](https://wiki.bambulab.com/p2s/troubleshooting/hmscode/030018000001000/%E6%8C%87%E7%A4%BA.png)
+1. **喷嘴偏移校准传感器**：用于校准热端偏移量，确保切换的热端定位完全一致。
+2. **擦嘴钢片**：清洁喷嘴（用于精擦），确保喷嘴端面保持光滑。
+
+   - 粗擦：通过吐料部件中的擦嘴部件清除喷嘴上附着的残余耗材
+   - 精擦：喷嘴移动至热床的**擦嘴钢片**处，向下轻蹭 1-2 mm，清洁喷嘴端面以确保其平整光洁
+
+![nozzle_cleaning_pad.png](https://wiki.bambulab.com/x2d/troubleshooting/nozzle-offset-calibration-failure/nozzle_cleaning_pad.png)
 
 ## 安全提示
 
@@ -45,13 +51,13 @@ source: https://wiki.bambulab.com/zh/x2d/troubleshooting/nozzle-clumping-detecti
 
 ### 步骤2. 检查小钢片两侧的圆孔内无异物
 
-![p2shole.png](https://wiki.bambulab.com/h2/troubleshooting/calibrate-failed/p2shole.png)
+![dirty_wiping_pad.png](https://wiki.bambulab.com/x2d/troubleshooting/nozzle-offset-calibration-failure/dirty_wiping_pad.png)
 
 ### 步骤3. 检查小钢片状态
 
 观察小钢片是否有倾斜，凹陷，用手指轻按小钢片，是否存在过软易变形问题。
 
-最后使用H2.0 六角扳手拧紧小钢片两侧圆孔内的螺栓。
+最后使用 H2.0 六角扳手拧紧小钢片两侧圆孔内的螺栓。
 
 ### 步骤4. 重新校准
 
@@ -59,6 +65,6 @@ source: https://wiki.bambulab.com/zh/x2d/troubleshooting/nozzle-clumping-detecti
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)；点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的客户支持团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn?from=5)，它能够即时解答常见问题，并为您提供操作指导。

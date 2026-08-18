@@ -1,10 +1,10 @@
 ---
 path: zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-p-series
 title: "P 系列机器打印 TPU 90A & 85A 的打印指南"
-description: "使用 P 系列机器打印TPU 90A & 85A 的打印指南"
+description: "使用 P1 系列 / P2S 打印机打印TPU 90A & 85A 的打印指南"
 tags: []
 created: 2025-03-07T02:37:44.822Z
-updated: 2026-07-23T03:28:13.860Z
+updated: 2026-08-06T04:06:54.248Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-p-series
 ---
 
@@ -113,7 +113,11 @@ TPU 耗材具有较强的吸湿性，在自然环境中容易吸收水分。若�
 | --- | --- |
 |  |  |
 
-## 进料工作
+## P2S 进料工作
+
+请参考下方视频教程：
+
+## P1 系列进料工作
 
 所有 TPU 耗材使用时均需要垫高耗材容器（容器出料口高于工具头进料口）以确保进料顺畅。
 

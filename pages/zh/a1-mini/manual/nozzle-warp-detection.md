@@ -4,7 +4,7 @@ title: "A1系列裹头检测功能介绍"
 description: "本文章介绍了 A1 系列打印机的裹头检测功能。"
 tags: ["a1", "a1 mini"]
 created: 2024-01-18T10:03:10.040Z
-updated: 2026-06-23T09:29:23.907Z
+updated: 2026-08-17T03:14:24.236Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/nozzle-warp-detection
 ---
 
@@ -24,7 +24,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/nozzle-warp-detection
 
 裹头检测有以下两种：
 
-**1. 打印完第 3 层第 1 个对象的所有墙后，会移动到吐料槽的位置进行第一次裹头检测。** 检测时喷嘴的具体坐标：A1 mini (X -6, Y 170, Z -1)；A1 (X 261, Y 250, Z -1)。该步骤无需打开裹头检测。
+**1. 打印完第 3 层第 1 个对象的所有墙后，会移动到右侧（屏幕同一侧）进行第一次裹头检测。** 检测时喷嘴的具体坐标：A1 mini (X 187, Y 178, Z -1)；A1 (X 261, Y 250, Z -1)。该步骤无需打开裹头检测。
 
 |  |  |
 | --- | --- |

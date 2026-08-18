@@ -1,28 +1,38 @@
 ---
 path: zh/p2s/maintenance/replace-filament-cutter-stopper
-title: "更换 P2S 切刀顶杆组件"
-description: "本文介绍了如何更换 P2S 切刀顶杆组件"
+title: "更换 P2S 切刀顶杆组件和跳齿修复指引"
+description: "本文介绍了如何更换 P2S 切刀顶杆组件和跳齿修复。"
 tags: []
 created: 2025-10-14T12:59:29.201Z
-updated: 2026-06-02T08:54:53.502Z
+updated: 2026-08-10T03:27:44.056Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-filament-cutter-stopper
 ---
 
 ## 切刀顶杆组件
 
-P2S 的切刀顶杆组件是安装在打印机腔内左侧，用于顶住切刀刀柄，实现切断耗材功能的配件。  
-![fac171.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/fac171.jpg)
+P2S 的切刀顶杆组件是安装在打印机腔内左侧，用于顶住切刀刀柄，实现切断耗材功能的配件。
 
-## 何时更换
+|  |  |
+| --- | --- |
+|  |  |
+| 一版本 | 二版本 |
+
+该组件于近期完成设计升级。为便于说明，本指南将升级后的组件称为二版本，升级前的组件称为一版本，两者主要区别在于跳齿问题的处理方式：
+
+- 二版本：优化了结构设计，若出现跳齿可手动修复，无需更换整个组件。
+- 一版本：不支持手动修复，功能失效时需更换整个组件。
+
+## 何时适用
 
 切刀顶杆功能失效、错位
 
 ## 所需的工具和材料
 
-新的切刀顶杆组件  
-H2.0 内六角扳手
+- 切刀顶杆组件
+- H2.0 内六角扳手
+- H1.5 内六角扳手
 
-> 为了更清晰地展示螺丝的位置，我们在拆除左侧板的情况下撰写的本指引，实际更换时，不需要拆除左侧板。
+> 为了更清晰地展示螺丝的位置，我们在拆除左侧板的情况下进行了拍摄；实际更换时，无需拆除左侧板。
 
 ## 安全提示
 
@@ -46,7 +56,7 @@ H2.0 内六角扳手
 ![led_001.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-ap-board-cover-and-led-light-left/led_001.png)  
 使用 H1.5 内六角扳手移除 2 颗 AP 板盖固定螺丝（BT2x8）；  
 ![ap_002.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-ap-board-cover-and-led-light-left/ap_002.png)  
-握住 AP 板盖连接拖链的一端，向右侧方向拉出 AP 板盖。在拉出时请用左手托住 AP 板左侧，当右侧拖链端拉出时，左手扶住 AP板盖，避免 AP 板盖跌落。
+握住 AP 板盖连接拖链的一端，向右侧方向拉出 AP 板盖。在拉出时请用左手托住 AP 板左侧，当右侧拖链端拉出时，左手扶住 AP 板盖，避免 AP 板盖跌落。
 
 > **易损提示：请勿从前端直接掰开 AP 板盖，会导致 AP 板盖折断！**
 
@@ -60,18 +70,57 @@ H2.0 内六角扳手
 
 ![](https://wiki.bambulab.com/p2s/maintenance/replace-filament-cutter-stopper/1_5.jpg)
 
-使用 H2.0 的内六角扳手的**短端**移除切刀顶杆组件上方的 1 颗螺丝.
+使用 H2.0 内六角扳手的**短端**移除切刀顶杆组件上方的 1 颗螺丝。
 
 > 请勿使用长端斜向拧螺丝，否则可能导致螺丝滑丝。
 
 ![](https://wiki.bambulab.com/p2s/maintenance/replace-filament-cutter-stopper/1_3.jpg)  
-再移除切刀顶杆组件底部的 2 颗螺丝.
+再移除切刀顶杆组件底部的 2 颗螺丝。
 
 ![](https://wiki.bambulab.com/p2s/maintenance/replace-filament-cutter-stopper/1_6.jpg)
 
 用手从下方顶起切刀顶杆组件的转轴，将其从打印机框架上取下。
 
 ![](https://wiki.bambulab.com/p2s/maintenance/replace-filament-cutter-stopper/1_1.jpg)
+
+## 跳齿修复
+
+本章节步骤适用于**二版**顶杆组件。一版请跳过本章节，更换新的切刀顶杆组件。
+
+如下图，一二版齿条位置的设计不同，可据此判断：**一版（左）；二版（右）**。
+
+![new_vs_old.png](https://wiki.bambulab.com/p2s/maintenance/replace-filament-cutter-stopper/new_vs_old.png)
+
+首先，检查顶杆是否能够正常弹出。若无法像下方正常示例一样弹出，则需要修复跳齿问题。
+
+**正常状态**：拨动摆杆 1，摆杆 1 位置在最下方时，2 处顶杆垂直弹出。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+**异常状态：**
+
+1. 摆杆 1 位置在最下方时，2 处顶杆**弹出不到位**，不垂直于组件，如下左图。
+2. 摆杆 1 位置在最下方时，2 处顶杆**不弹出**，如下右图。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+**跳齿修复：**
+
+左手将摆杆固定在最下方的位置，右手轻微用力拨动顶杆，使其垂直于组件。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+调整完毕后，拨动摆杆，顶杆正常弹出，即为修复成功。
+
+![normal.webp](https://wiki.bambulab.com/p2s/maintenance/replace-filament-cutter-stopper/normal.webp)
+
+修复成功后，按照下方安装步骤将组件装回。
 
 ## 安装切刀顶杆组件
 
@@ -100,7 +149,7 @@ H2.0 内六角扳手
 将 LED 补光灯 - 左的连接线插入 AP 板，并将检修端扣紧。
 
 ![led_补光灯接口_001.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-ap-board-cover-and-led-light-left/led_001.png)  
-使用 H1.5 内六角扳锁紧 2 颗螺丝（BT2x8）。  
+使用 H1.5 内六角扳手锁紧 2 颗螺丝（BT2x8）。  
 ![ap_002.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-ap-board-cover-and-led-light-left/ap_002.png)
 
 ### 步骤 3：安装料管支架
@@ -116,6 +165,6 @@ H2.0 内六角扳手
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系技术支持](https://support.bambulab.cn)
+> 我们希望本指南可以为您提供清晰实用的帮助。  
+> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
+> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。

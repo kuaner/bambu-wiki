@@ -4,7 +4,7 @@ title: "X2D AMS 套装装箱指南"
 description: "本文介绍 X2D AMS 套装的装箱步骤"
 tags: []
 created: 2026-04-14T13:20:04.343Z
-updated: 2026-04-22T02:11:21.482Z
+updated: 2026-08-11T02:13:04.475Z
 source: https://wiki.bambulab.com/zh/x2d/manual/packing-x2d-combo
 ---
 
@@ -224,6 +224,9 @@ source: https://wiki.bambulab.com/zh/x2d/manual/packing-x2d-combo
 |  |  |
 | --- | --- |
 |  |  |
+
+> 包装方案更新，请按下图所示放置所有泡棉。  
+> ![x2d-top-foams-new.png](https://wiki.bambulab.com/x2d/manual/unboxing/x2d-top-foams-new.png)
 
 ### 9. 固定打印机并装箱
 

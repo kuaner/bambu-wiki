@@ -4,7 +4,7 @@ title: "耗材烘干操作指南"
 description: ""
 tags: []
 created: 2023-09-18T12:14:02.019Z
-updated: 2026-07-29T03:52:21.755Z
+updated: 2026-07-31T09:34:19.301Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/dry-filament
 ---
 
@@ -21,12 +21,15 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/dry-filament
 |  |  |
 |  |  |
 
-烘干方式有两种：使用 AMS HT 或 AMS 2 Pro 烘干；使用打印机热床烘干。
+烘干方式有两种：
 
-- [AMS HT 购买链接](https://item.jd.com/10143824753819.html)
-- [AMS 2 Pro 购买链接](https://item.jd.com/10143824027483.html)
+- 使用 AMS HT 或 AMS 2 Pro 烘干（[购买 AMS HT](https://item.jd.com/10143824753819.html)；[购买 AMS 2 Pro](https://item.jd.com/10143824027483.html)）
+- 使用打印机热床烘干
 
 ![](https://wiki.bambulab.com/filament-acc/filament-dry-prepare/image-9.png)
+
+> **注意：** 如果您购买的是无盘耗材，**请先将耗材安装在料盘上再进行烘干**。安装方法请参考这篇 Wiki：[无盘耗材安装至可重复使用料盘的指南](../../general/swaping-new-filament-with-bambu-reusable-spool.md)。  
+> ![安装料盘.jpg](https://wiki.bambulab.com/filament-acc/beginner/%E5%AE%89%E8%A3%85%E6%96%99%E7%9B%98.jpg)
 
 ## 1. 使用 AMS 2 Pro \ AMS HT 烘干
 
@@ -154,8 +157,6 @@ P1S 需要手动控制热床下降并设置热床温度，您可以参考本文�
 ## 耗材烘烤参数表
 
 各类耗材的建议烘烤参数如下表:
-
-> 注意：如果您购买的是无盘耗材，请将耗材安装在料盘上再进行烘干。安装方法您可以参考这篇 Wiki：[无盘耗材安装至可重复使用料盘的指南](../../general/swaping-new-filament-with-bambu-reusable-spool.md)
 
 💡 提示：表格可上下、左右滑动查看更多内容
 

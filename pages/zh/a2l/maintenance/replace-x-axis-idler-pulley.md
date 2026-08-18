@@ -4,7 +4,7 @@ title: "A2L 更换 X 轴惰轮组件"
 description: "本文介绍了如何更换A2L 的 X 轴惰轮组件。"
 tags: []
 created: 2026-08-10T01:42:11.640Z
-updated: 2026-08-11T10:00:45.499Z
+updated: 2026-08-11T10:00:46.777Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-axis-idler-pulley
 ---
 

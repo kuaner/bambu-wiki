@@ -4,7 +4,7 @@ title: "主页"
 description: ""
 tags: []
 created: 2022-07-27T15:03:58.612Z
-updated: 2026-07-07T03:44:39.703Z
+updated: 2026-08-05T09:56:49.744Z
 source: https://wiki.bambulab.com/zh/home
 ---
 
@@ -85,7 +85,7 @@ Bambu Connect](https://wiki.bambulab.com/zh/software/bambu-connect)
 
 [![Cyberbrick](https://wiki.bambulab.com/wiki/cyberbrick-en_wiki_home_new.jpg)
   
-Cyberbrick](https://wiki.bambulab.com/zh/cyberbrick)
+CyberBrick](https://wiki.bambulab.com/zh/cyberbrick)
 
 ### MakerWorld
 

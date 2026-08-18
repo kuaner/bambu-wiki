@@ -4,7 +4,7 @@ title: "更换 H2 系列 Z 轴张紧器组件/Z 轴皮带/Z 轴同步轮"
 description: "本文介绍了如何更换 H2 系列 Z 轴张紧器组件/Z 轴皮带/Z 轴同步轮"
 tags: []
 created: 2025-03-25T02:13:05.191Z
-updated: 2026-05-06T07:24:37.891Z
+updated: 2026-08-06T09:28:10.678Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-z-axis-tensioner
 ---
 
@@ -76,11 +76,12 @@ Z 轴皮带是安装在打印机底部、节线长为 1444mm ，宽度为 6mm �
 
 ![](https://wiki.bambulab.com/h2/maintenance/replace-z-axis-tensioner/image-2.png)
 
-降低热床后使用螺丝将滑块固定，再关闭打印机电源，并断开电源连接。
+降低热床后使用螺丝将滑块固定，再关闭打印机电源，并断开电源连接。  
+![](https://wiki.bambulab.com/h2/manual/unboxing-h2d//image-18.png)
 
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
+![](https://wiki.bambulab.com/h2/manual/unboxing-h2d//image-19.png)
+
+![](https://wiki.bambulab.com/h2/manual/unboxing-h2d//image-20.png)
 
 > 注意：开箱时我们建议将拧下的四颗热床螺丝放入热床固定件中。  
 > ![](https://wiki.bambulab.com/h2/manual/unboxing-h2d/img_v3_02ns_8f2b000d-f5a7-43ba-a7f0-74af6d413efg.jpg)
@@ -155,6 +156,14 @@ Z 轴皮带是安装在打印机底部、节线长为 1444mm ，宽度为 6mm �
 ![](https://wiki.bambulab.com/h2/maintenance/replace-z-axis-tensioner/image-24.png)
 
 ### 步骤 3：安装 Z 轴张紧器组件
+
+按住热床，尝试再次拧紧热床固定螺丝，避免螺丝未紧固导致热床发生偏移。当热床固定螺丝均锁紧，即可开始下一步。
+
+![](https://wiki.bambulab.com/h2/manual/unboxing-h2d//image-18.png)
+
+![](https://wiki.bambulab.com/h2/manual/unboxing-h2d//image-19.png)
+
+![](https://wiki.bambulab.com/h2/manual/unboxing-h2d//image-20.png)
 
 **在安装前请确保 Z 轴张紧器的螺母装在 Z 张紧器滑块上**，然后参考下图将 Z 轴张紧器安装至对应位置。在安装的时候注意 Z 轴张紧器上的卡扣需要对准打印机底座上的缺口；然后先将扭簧安装至对应的立柱上，将短臂一侧卡在张紧器滑块上，长臂一侧卡在打印机底部的卡扣上。
 

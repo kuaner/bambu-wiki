@@ -4,7 +4,7 @@ title: "X2D 喷嘴/热端堵塞清理指南"
 description: "本文将系统介绍 X2D 热端堵塞时的故障排除方法及详细操作步骤。"
 tags: []
 created: 2026-04-14T13:09:55.422Z
-updated: 2026-07-23T02:56:17.767Z
+updated: 2026-08-03T10:03:40.512Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/cold-pull-maintenance-hotend
 ---
 

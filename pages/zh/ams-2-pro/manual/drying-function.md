@@ -4,7 +4,7 @@ title: "AMS 2 Pro 和 AMS HT 烘干指南"
 description: "本文将介绍 AMS 2 Pro 和 AMS HT 的烘干工作流程。"
 tags: ["ams 2 pro", "ams ht"]
 created: 2025-05-27T11:28:24.077Z
-updated: 2026-07-29T03:46:14.005Z
+updated: 2026-08-17T04:18:51.273Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/manual/drying-function
 ---
 
@@ -30,9 +30,9 @@ AMS 2 Pro 和 AMS HT 都内置了烘干模块，当耗材长时间未使用时�
 
 ![ams_(6).png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/ams_(6).png)
 
-3. 选择烘干参数
+3. 根据需求选择合适的烘干参数
 
-- 根据您的需求选择合适的烘干参数。当烘干 PLA 时，AMS 中可以存放其他耗材。当**烘干 ABS/PETG 时**，PLA 和 TPU 耗材需要从 AMS 中**取出**，否则耗材可能融合。
+> ⚠️ **重要提示**：当烘干 ABS / PETG 等高温耗材时，由于烘干温度会超过 PLA、TPU 的软化温度，必须将 AMS 内所有 PLA、TPU 等低软化温度耗材取出后再开始烘干，否则会导致耗材软化、变形。而当烘干 PLA 时，AMS 中可以同时存放其他耗材。耗材烘干参数请查阅 [**耗材烘干操作指南**](../../filament-acc/filament/dry-filament.md) 中的**耗材烘烤参数表**。
 
 ![ams_(6).png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/ams_(7).png)
 
@@ -43,7 +43,7 @@ AMS 2 Pro 和 AMS HT 都内置了烘干模块，当耗材长时间未使用时�
 >
 > ![ams_(6).png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/ams_(9).png)
 
-4. 确认 AMS 中的耗材类型，并选择烘干方式。如烘干 ABS 时，设备会提示将 PLA 抽出。
+4. 确认 AMS 中的耗材类型，并选择烘干方式。
 
 ![ams_(6).png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/ams_(12).png)
 
@@ -88,7 +88,9 @@ AMS 2 Pro 和 AMS HT 都内置了烘干模块，当耗材长时间未使用时�
 
 ![ams_(3).png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/ams_(4).png)
 
-- 检查 AMS 中的耗材情况，部分耗材需拉出入料口。
+- 检查 AMS 中的耗材情况。
+
+> ⚠️ **重要提示**：当烘干 ABS / PETG 等高温耗材时，由于烘干温度会超过 PLA、TPU 的软化温度，必须将 AMS 内所有 PLA、TPU 等低软化温度耗材取出后再开始烘干，否则会导致耗材软化、变形。而当烘干 PLA 时，AMS 中可以同时存放其他耗材。耗材烘干参数请查阅 [**耗材烘干操作指南**](../../filament-acc/filament/dry-filament.md) 中的**耗材烘烤参数表**。
 
 ![ams_(3).png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/ams_(5).png)
 
@@ -98,7 +100,7 @@ AMS 2 Pro 和 AMS HT 都内置了烘干模块，当耗材长时间未使用时�
 
 ## 边烘边打功能介绍
 
-AMS 的边烘边打是在开启 AMS 烘干功能的同时，使用 AMS 的自动上下料功能。
+AMS 的边烘边打是在开启 AMS 烘干功能后，使用 AMS 的自动上下料功能进行打印。
 
 该功能在屏幕/软件界面不具备独立的开启/关闭按钮。若要使用该功能，可直接在开启烘干的同时进行打印即可。
 
@@ -106,10 +108,8 @@ AMS 的边烘边打是在开启 AMS 烘干功能的同时，使用 AMS 的自动
 
 为确保自动送料的顺畅和打印稳定，当开始打印任务后，系统会**自动降低烘干温度**，这样能够有效防止耗材在 AMS 内部提前软化，避免 AMS 中的送料齿轮压碎耗材，并且烘干温度将不会高于 AMS 舱内耗材的最低软化温度。
 
-- 烘干 PLA 并打印其他耗材 / 使用 PLA 打印  
-  → 烘干温度自动设定为 45 °C（不高于 PLA 的软化温度）
-- 烘干 PETG 并打印 ABS / 使用 PETG 打印  
-  → 烘干温度自动设定为 55 °C（不高于 PETG 的软化温度）
+- 烘干 PETG 并打印 PLA → 烘干温度自动设定为 45 °C（不高于 PLA 的软化温度）
+- 烘干 ABS 并打印 PETG → 烘干温度自动设定为 55 °C（不高于 PETG 的软化温度）
 
 ![1.png](https://wiki.bambulab.com/ams-2-pro/manual/drying-function/1.png)
 

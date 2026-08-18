@@ -4,7 +4,7 @@ title: "TPU 高流量套件使用指南 - H2D系列 "
 description: "本文将详细为您介绍 TPU 高流量热端的安装方法、使用技巧及相关注意事项。"
 tags: []
 created: 2026-03-10T11:31:54.331Z
-updated: 2026-04-09T06:37:38.721Z
+updated: 2026-08-03T03:57:35.641Z
 source: https://wiki.bambulab.com/zh/h2d/manual/tpu-high-flow-hotend
 ---
 
@@ -176,7 +176,7 @@ TPU硬度与不同喷嘴流量对应表
 
 | TPU 硬度 | 0.4mm TPU 喷嘴 | 0.4mm 标准喷嘴 | 0.6mm TPU 喷嘴 | 0.6mm 标准喷嘴 |
 | --- | --- | --- | --- | --- |
-| 85A | 2.2 mm³/s | 不推荐 | 2.2 mm³/s | 2.2 mm³/s |
+| 85A | 2.2 mm³/s | 不推荐 | 4.8 mm³/s | 2.2 mm³/s |
 | 90A | 5.6 mm³/s | 2.8 mm³/s | 5.6 mm³/s | 2.8 mm³/s |
 
 #### Bambu Studio 喷嘴确认

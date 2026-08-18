@@ -4,7 +4,7 @@ title: "更换 X2D 右侧板"
 description: "本文介绍了如何更换 X2D 右侧板"
 tags: []
 created: 2026-04-14T13:09:36.114Z
-updated: 2026-07-08T04:17:17.644Z
+updated: 2026-08-10T10:16:45.974Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-right-side-panel
 ---
 
@@ -79,7 +79,8 @@ X2D
 ![009_bottom_screws.jpg](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_right_side_panel/009_bottom_screws.jpg)
 
 正放打印机，用内六角扳手在右上角撬动右侧板，解除该处的卡扣锁定。  
-![rightp.jpg](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_right_side_panel/rightp.jpg)  
+![卡扣位置.png](https://wiki.bambulab.com/x2d/maintenance/replace-right-side-panel/%E5%8D%A1%E6%89%A3%E4%BD%8D%E7%BD%AE.png)
+
 将右侧板向上提拉少许，解除其余卡扣锁定，然后移除右侧板。  
 ![010_remove_left_panel.jpg](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_right_side_panel/010_remove_left_panel.jpg)
 

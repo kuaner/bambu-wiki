@@ -4,7 +4,7 @@ title: "接缝设置"
 description: "本文介绍如何在 Bambu Studio 中设置和绘制接缝"
 tags: ["bambu studio"]
 created: 2023-08-18T09:16:33.159Z
-updated: 2026-07-28T05:19:32.334Z
+updated: 2026-08-05T06:41:33.539Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/Seam
 ---
 
@@ -73,7 +73,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/Seam
 
 ### 擦拭速度
 
-在空驶回抽的时候，通常会进行一段擦拭来清洁喷嘴（详情可以参考：[回抽设置 | Bambu Lab Wiki](parameter/retraction.md) {target="\_blank"}），擦拭的速度可以调整。该值以百分比形式表示，将根据空驶速度的百分比进行计算。**例如擦拭速度设置为80%，表示擦拭速度=空驶速度\*80%。**
+在空驶回抽的时候，通常会进行一段擦拭来清洁喷嘴（详情可以参考：[回抽设置 | Bambu Lab Wiki](parameter/retraction.md)），擦拭的速度可以调整。该值以百分比形式表示，将根据空驶速度的百分比进行计算。**例如擦拭速度设置为80%，表示擦拭速度=空驶速度\*80%。**
 
 ![](https://wiki.bambulab.com/software/bambu-studio/seam/%E6%93%A6%E6%8B%AD%E9%80%9F%E5%BA%A6.jpg)
 

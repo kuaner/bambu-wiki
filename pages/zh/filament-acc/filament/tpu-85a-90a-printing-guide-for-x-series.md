@@ -1,10 +1,10 @@
 ---
 path: zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-x-series
-title: "X 系列的 TPU 打印准备工作"
-description: "使用 X 系列机器打印 TPU 的指南"
+title: "X1 系列的 TPU 打印准备工作"
+description: "使用 X1 系列机器打印 TPU 的指南"
 tags: []
 created: 2025-03-07T02:38:47.962Z
-updated: 2026-07-23T03:28:29.256Z
+updated: 2026-08-06T03:57:32.392Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-x-series
 ---
 

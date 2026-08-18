@@ -4,7 +4,7 @@ title: "更换 AP 主板 -- X1 系列"
 description: "本指南介绍更换 X1 系列打印机 AP 板的详细步骤。"
 tags: ["x1", "ap 板"]
 created: 2022-08-05T03:07:18.696Z
-updated: 2026-05-21T13:30:08.307Z
+updated: 2026-08-13T08:51:57.030Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-ap-board
 ---
 
@@ -16,7 +16,7 @@ AP 主板的全称是指应用处理器主板（Application Processor Main Board
 
 AP 板上的连接器
 
-![](https://wiki.bambulab.com/x1/maintenance/replace-ap-board/connectors_on_the_ap_board.jpg)
+![connectors_on_the_ap_board_v1.png](https://wiki.bambulab.com/x1/maintenance/replace-ap-board/connectors_on_the_ap_board_v1.png)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -35,15 +35,9 @@ AP 板上的连接器
 - H2.0 内六角扳手
 - 吹风机
 - 固定胶布或 UV 胶、紫外线灯（为了进一步稳固插头连接器，并不强制使用）
-- 硅胶
+- 硅胶（下图仅供参考）
 
 ![](https://wiki.bambulab.com/x1/maintenance/replace-the-chamber-led/silicone_glue.jpg)
-
-仅供参考
-
-## 开始操作前的安全警告和机器状态
-
-在开始本指南中的过程之前，请确保机器已关闭。
 
 > 注意：在开始安装前，请先拍照并留存 AP 板上的序列号（即背面二维码），以便在后续注册流程中使用。  
 > ![qr-x1--.png](https://wiki.bambulab.com/x1/maintenance/replace-ap-board/qr-x1--.png)
@@ -52,7 +46,11 @@ AP 板上的连接器
 
 ### 步骤 1 - 关闭电源
 
-关闭打印机电源，拔下电源线，并取下顶部玻璃盖板。
+从打印机屏幕左侧进入**设置**页面，然后点击**设置（#7） > 设备和序列号**。获取并记录打印机序列号（SN 号码），用于后续注册流程中使用。然后关闭打印机电源，拔下电源线，并取下顶部玻璃盖板。
+
+|  |  |
+| --- | --- |
+|  |  |
 
 ### 步骤 2 - 打开 AP 主板盖
 

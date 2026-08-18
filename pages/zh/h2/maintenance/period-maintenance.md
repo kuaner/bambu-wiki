@@ -4,7 +4,7 @@ title: "H2D 定期清洁维护建议"
 description: ""
 tags: []
 created: 2025-03-25T02:44:53.074Z
-updated: 2026-06-04T06:52:49.793Z
+updated: 2026-08-10T03:01:58.163Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/period-maintenance
 ---
 

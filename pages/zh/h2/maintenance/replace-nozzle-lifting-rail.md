@@ -1,12 +1,14 @@
 ---
 path: zh/h2/maintenance/replace-nozzle-lifting-rail
-title: "更换 H2D 升降滑块组件"
-description: "本文介绍了如何更换 H2D 升降滑块组件"
+title: "更换 H2D & H2C  升降滑块组件"
+description: "本文介绍了如何更换 H2D 及 H2C 升降滑块组件"
 tags: []
 created: 2025-03-28T09:32:24.069Z
-updated: 2025-09-30T06:17:34.629Z
+updated: 2026-08-04T03:49:45.327Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-nozzle-lifting-rail
 ---
+
+> **注意： 本页面以 H2D 机器为例，H2C 的更换步骤相似。**
 
 ## 升降滑块组件
 

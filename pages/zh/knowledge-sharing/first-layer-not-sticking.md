@@ -4,7 +4,7 @@ title: "首层不粘"
 description: ""
 tags: []
 created: 2024-06-07T07:10:24.763Z
-updated: 2026-01-22T07:30:36.333Z
+updated: 2026-08-17T01:44:35.866Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/first-layer-not-sticking
 ---
 
@@ -20,11 +20,11 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/first-layer-not-sticking
 
 在 Bambu Studio 中选择了错误的打印板类型，可能会导致首层不粘附。
 
-![](https://wiki.bambulab.com/knowledge-sharing/first-layer-not-sticking/plate-type.png)
-
-例如，如果在[低温打印板](../x1/manual/printing-on-cool-plate.md)上切片一个模型，然后在[纹理 PEI 打印板](../general/textured-PEI-plate-not-working-as-expected.md)上打印，那么模型很有可能无法按照预期粘附在打印板上。低温打印板对 PLA 的温度要求在 **35 摄氏度**左右，而纹理 PEI 板对 PLA 的温度要求在 **55 - 65 摄氏度**左右。纹理 PEI 打印板也有着不一样的 Z 偏移，会影响喷嘴与打印板表面的距离，从而影响首层的打印。
+同一种材料通常在不同的打印板使用不同的热床温度进行打印，如果选错打印板类型，则有可能因为打印的热床温度不足而导致粘接力不足。另外，纹理 PEI 板由于表面有颗粒物，所以在热床调平后，打印机会下压喷嘴 0.04mm 确保首层粘接。如果您使用纹理 PEI 板打印，却在切片时选择了其他类型的打印板，则会导致喷嘴高度过高，影响首层粘接。
 
 根据所用的耗材，选择正确的打印板类型。同时，在开始打印前要确保打印板是干净的，可以大幅提高打印成功的几率。
+
+![change_build_plate_bambu_studio_zh.webp](https://wiki.bambulab.com/knowledge-sharing/print-quality/model-warping/change_build_plate_bambu_studio_zh.webp)
 
 ### 2. 打印前未清洗打印板
 

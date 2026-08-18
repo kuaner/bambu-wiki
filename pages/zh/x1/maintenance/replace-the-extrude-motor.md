@@ -1,10 +1,10 @@
 ---
 path: zh/x1/maintenance/replace-the-extrude-motor
 title: "更换挤出电机"
-description: "本指南详细介绍了如何卸下和安装挤出电机"
+description: "本指南详细介绍了如何卸下和安装挤出电机、 Logo LED 灯连接线"
 tags: []
 created: 2022-10-25T02:38:14.647Z
-updated: 2026-04-02T03:51:41.061Z
+updated: 2026-07-29T10:27:07.095Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-the-extrude-motor
 ---
 

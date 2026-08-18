@@ -4,7 +4,7 @@ title: "CyberBrick 技术手册"
 description: ""
 tags: []
 created: 2026-03-17T02:57:56.616Z
-updated: 2026-06-23T05:52:04.248Z
+updated: 2026-08-03T09:52:37.990Z
 source: https://wiki.bambulab.com/zh/cyberbrick/components/component-list
 ---
 
@@ -20,7 +20,7 @@ source: https://wiki.bambulab.com/zh/cyberbrick/components/component-list
 | [三档开关‑XA010](https://wiki.bambulab.com/zh/cyberbrick/components/component-list#%E4%B8%89%E6%A1%A3%E5%BC%80%E5%85%B3-xa010) | [下载用户手册](https://wiki.bambulab.com/cyberbrick/component_list/three-position_rocker_switch_module_with_3pin_sh1.0_connector-xa010_user_manual.zip) | [下载规格书](https://wiki.bambulab.com/cyberbrick/component_list/three-position_rocker_switch_module_with_3pin_sh1.0_connector_-_xa010.pdf) | 无 | [下载模型](https://wiki.bambulab.com/cyberbrick/component_list/three-position_rocker_switch_module_with_3pin_sh1.0_connector-xa010_3d_model.zip) |
 | [双通道摇杆‑XA011](https://wiki.bambulab.com/zh/cyberbrick/components/component-list#%E5%8F%8C%E9%80%9A%E9%81%93%E6%91%87%E6%9D%86-xa011) | [下载用户手册](https://wiki.bambulab.com/cyberbrick/component_list/dual-axis_joystick_module_with_3pin_sh1.0_connectors_-xa011_user_manual.zip) | [下载规格书](https://wiki.bambulab.com/cyberbrick/component_list/dual-axis_joystick_module_with_3pin_sh1.0_connectors_-_xa011.pdf) | 无 | [下载模型](https://wiki.bambulab.com/cyberbrick/component_list/dual-axis_joystick_module_with_3pin_sh1.0_connectors-xa011_3d_model.zip) |
 | 电池盒‑AAA电池‑3节串联 | 无 | 无 | 无 | [下载模型](https://wiki.bambulab.com/cyberbrick/component_list/cad_3x1.5v_aaa_battery_case_with_xh2.54_connector-xa012.zip) |
-| 145007.4V800mAh锂电池 | 无 | [下载规格书](https://wiki.bambulab.com/cyberbrick/component_list/14500_7.4v_800mah_li-ion_battery_(1pcs)_-_pc003.pdf) | 无 | [下载模型](https://wiki.bambulab.com/cyberbrick/component_list/cad_14500_7.4v_800mah_li-ion_battery-pc003.zip) |
+| 145007.4V800mAh锂电池 | 无 | [下载规格书](https://wiki.bambulab.com/cyberbrick/component_list/14500_7.4v_800mah_li-ion_battery_(1pcs)_-_pc003_new.pdf) | 无 | [下载模型](https://wiki.bambulab.com/cyberbrick/component_list/cad_14500_7.4v_800mah_li-ion_battery-pc003.zip) |
 | 7.4V锂电池充电器‑XH2.54 | 无 | 无 | 无 | 无 |
 | XH2.54‑2PIN‑100mm | 无 | 无 | 无 | 无 |
 | 外设连接线‑SH1.0‑3PIN‑100mm | 无 | 无 | 无 | 无 |

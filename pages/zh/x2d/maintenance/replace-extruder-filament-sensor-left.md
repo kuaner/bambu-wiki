@@ -4,7 +4,7 @@ title: "更换 X2D 的左霍尔检测板"
 description: "本文介绍了如何更换 X2D 的左霍尔检测板"
 tags: []
 created: 2026-04-14T13:09:16.966Z
-updated: 2026-07-13T08:45:33.415Z
+updated: 2026-08-12T01:23:26.618Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-extruder-filament-sensor-left
 ---
 
@@ -95,6 +95,9 @@ X2D
 
 安装左霍尔检测板的螺丝，  
 ![008_remove_left_hall_screws.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_extruder_filament_sensor_left/008_remove_left_hall_screws.png)
+
+> 注：此处使用的螺丝全长 6mm，请勿使用其余更长螺丝，造成传感器损坏。  
+> ![pixpin_2026-08-12_09-21-59.png](https://wiki.bambulab.com/x2d/maintenance/replace-extruder-filament-sensor-left/pixpin_2026-08-12_09-21-59.png)
 
 将左右热端加热组件连接到加热组件接口板上  
 ![002_cutting_lever.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_extruder_filament_sensor_left/002_cutting_lever.png)

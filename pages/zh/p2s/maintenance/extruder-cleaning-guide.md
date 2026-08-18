@@ -4,7 +4,7 @@ title: "P2S 挤出机堵塞清理指南"
 description: "本文将为您介绍 P2S 挤出机清洁的详细步骤。"
 tags: []
 created: 2025-10-14T13:22:23.473Z
-updated: 2026-06-10T10:08:46.248Z
+updated: 2026-08-07T03:28:56.430Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/extruder-cleaning-guide
 ---
 
@@ -92,11 +92,17 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/extruder-cleaning-guide
 
 ![挤出机螺丝2.jpg](https://wiki.bambulab.com/p2s/maintenance/extruder-cleaning-guide/%E6%8C%A4%E5%87%BA%E6%9C%BA%E8%9E%BA%E4%B8%9D2.jpg)
 
-取下挤出机组件。
+缓慢取下挤出机组件。
 
 > 若难以取下挤出机，可能是因为挤出机与喷嘴连接处有耗材堵塞，可以先取出喷嘴再取下挤出机。
 
 ![1.webp](https://wiki.bambulab.com/p2s/maintenance/extruder-cleaning-guide/1.webp)
+
+> ❗ **注意：** 取下时，挤出机组件内侧的小轴承可能会掉落或松脱，请缓慢操作，并妥善保管，避免丢失。
+>
+> |  |  |
+> | --- | --- |
+> |  |  |
 
 ### 5. 清理内部堵塞耗材
 
@@ -149,6 +155,14 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/extruder-cleaning-guide
 装上挤出主动轮组件，锁紧1颗螺丝。
 
 ![](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/extruder-cleaning-guide/image-9.png)
+
+将银色轴承装入工具头下图标注的位置。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+![install_bearing.webp](https://wiki.bambulab.com/p2s/maintenance/extruder-cleaning-guide/install_bearing.webp)
 
 安装耗材传感器的排线。
 

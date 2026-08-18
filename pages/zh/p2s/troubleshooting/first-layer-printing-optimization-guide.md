@@ -4,7 +4,7 @@ title: "P2S 首层打印质量改善指南"
 description: "本文将详细阐述当 P2S 首层打印出现异常时应如何处理。"
 tags: []
 created: 2025-10-14T12:59:11.286Z
-updated: 2026-03-30T08:22:06.796Z
+updated: 2026-07-31T02:12:14.193Z
 source: https://wiki.bambulab.com/zh/p2s/troubleshooting/first-layer-printing-optimization-guide
 ---
 
@@ -165,27 +165,19 @@ source: https://wiki.bambulab.com/zh/p2s/troubleshooting/first-layer-printing-op
 1. 清洁打印板：使用无水酒精或专用清洁剂彻底清洁打印板，详情参考[Bambu Lab纹理PEI打印板质量与预期不符](../../general/textured-PEI-plate-not-working-as-expected.md)。
 2. 重新校准测试：重新放置打印板，执行热床自动校准程序，再打印验证测试。
 
-#### 5. 临时解决方案(上述方案无效时)：**调整Z轴零点偏移值**
+#### 5. 调整Z轴零点偏移值
 
-> **注意事项：** 此方法作为一种临时方案，适用于快速修正首层问题，但**可能引入新的局部瑕疵**（例如：修正首层局部偏低区域后，原本正常的区域可能偏高）。
+点击进入**校准**页面，选择**首层质量校准**。  
+![20260731-100859.jpg](https://wiki.bambulab.com/p2s/troubleshooting/first-layer-printing-optimization-guide/20260731-100859.jpg)
 
-**修改G-code命令：**
+**微调建议：**将增加或减小偏移值，再次进行打印测试，如果首层依旧偏低，可以再次增加偏移值，最大 0.05mm，直至首层处于合理范围。
 
-在**打印机设置——打印机起始G-code**中找到`G29.1`，其中G29.1 Z{0.01}代表的使用纹理板时默认的喷嘴抬升高度，G29.1 Z{0.03}代表的是非纹理板的默认抬升高度。为了保证首层均匀，用纹理板时工具头默认上抬 0.01mm，非纹理板默认上抬 0.03mm。
-
-![](https://public-cdn.bblmw.com/wiki/new/p2s/troubleshooting/first-layer-printing-optimization-guide/image-26.png)
-
-- **纹理板**：将原指令`G29.1 Z{0.01}`修改为`G29.1 Z{xxx}`（`xxx`为调整值）。如果首层偏低，可以改为Z{0.03}，相当于打印时相比默认设置把喷嘴上抬 0.02mm；
-- **非纹理板**：对于其他类型的打印板，例如光面板，将原指令`G29.1 Z{0.03}`修改为`G29.1 Z{xxx}`（`xxx`为调整值）。如果首层偏低，可以改为Z{0.05}，相当于打印时相比默认设置把喷嘴上抬 0.02mm。
+![20260731-100903.jpg](https://wiki.bambulab.com/p2s/troubleshooting/first-layer-printing-optimization-guide/20260731-100903.jpg)
 
 - **调整逻辑**
 
-  - **首层偏高** → **减小偏移值**（如：从`0.01`改为`-0.01`）。
-  - **首层偏低** → **增大偏移值**（如：从`0.01`改为`0.03`）。
-- **调整范围建议：**
-
-  - **纹理板**：`-0.01mm~0.03mm`
-  - **非纹理板**：`0.01mm~0.05mm`
+  - **首层偏高** → **减小偏移值**（如：从`0`改为`-0.01`）。
+  - **首层偏低** → **增大偏移值**（如：从`0`改为`0.01`）。
 
 ## 大面积首层热床保温策略解释
 

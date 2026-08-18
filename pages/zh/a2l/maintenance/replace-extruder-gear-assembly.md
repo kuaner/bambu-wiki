@@ -4,7 +4,7 @@ title: "A2L 更换挤出机齿轮"
 description: "本文介绍如何更换 A2L 挤出机齿轮组件"
 tags: ["挤出机齿轮"]
 created: 2026-06-01T13:07:01.446Z
-updated: 2026-06-05T07:43:20.117Z
+updated: 2026-08-12T02:23:53.769Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-extruder-gear-assembly
 ---
 
@@ -68,7 +68,7 @@ A2L 挤出机齿轮组件
 依次安装主动轮、从动轮。  
 ![jcjcl011.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-extruder-gear-assembly/jcjcl011.webp)
 
-> 此时可以涂抹少量附赠的润滑油到黄色齿轮啮合部分，延长齿轮寿命。
+> 此时可以涂抹少量附赠的润滑脂到黄色齿轮啮合部分，延长齿轮寿命。
 
 参照图示顺序放入挤出机弹簧和顶帽，锁紧挤出机张紧螺丝。  
 ![jcjcl012.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-extruder-gear-assembly/jcjcl012.webp)

@@ -4,7 +4,7 @@ title: "拓竹打印机和 AMS 功率参数"
 description: "本文介绍了拓竹打印机和 AMS 的功率参数"
 tags: ["功耗"]
 created: 2024-02-29T11:50:57.158Z
-updated: 2026-06-12T06:33:11.784Z
+updated: 2026-07-31T06:23:44.987Z
 source: https://wiki.bambulab.com/zh/general/power-consumption
 ---
 
@@ -78,7 +78,7 @@ source: https://wiki.bambulab.com/zh/general/power-consumption
 | 电压 | 100-120 VAC / 200-240 VAC，50/60 Hz |
 | 最大功率 | 1200 W@220 V 1000 W@110 V |
 | 待机功率 | 不连接网络待机功耗：7.3-7.8 W Wifi 待机功耗：7.8-8.2 W |
-| PLA 稳态功率 | 200 W@220 V 100 W@110 V |
+| PLA 稳态功率 | 200 W@220 V 200 W@110 V |
 
 **P1 系列：**
 

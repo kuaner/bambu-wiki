@@ -4,7 +4,7 @@ title: "TPU 打印指南"
 description: "本文介绍了打印 TPU 的建议"
 tags: ["tpu"]
 created: 2023-08-02T08:20:33.025Z
-updated: 2026-07-23T03:25:37.341Z
+updated: 2026-08-06T04:07:16.461Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/tpu-printing-guide
 ---
 
@@ -170,7 +170,7 @@ H2 系列](https://wiki.bambulab.com/zh/h2/h2d-tpu-printing-guide)
 
 [![X1 系列](https://wiki.bambulab.com/h2s/x1_series.png)
   
-X 系列](https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-x-series)
+X1 系列](https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-x-series)
 
 [![P1 系列](https://wiki.bambulab.com/h2s/test3_compressed.png)
   

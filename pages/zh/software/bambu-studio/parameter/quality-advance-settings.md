@@ -4,7 +4,7 @@ title: "Bambu Studio 质量高级设置"
 description: "介绍 Bambu Studio 中质量相关的高级参数的作用"
 tags: ["bambu studio", "打印质量"]
 created: 2024-08-22T13:07:43.829Z
-updated: 2026-06-01T07:29:39.429Z
+updated: 2026-08-11T10:09:53.695Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/quality-advance-settings
 ---
 
@@ -133,7 +133,7 @@ Bambu Studio 1.9.4版本引入了平滑速度的选项。悬垂和非悬垂区�
 
 ## 平滑 Z 方向外墙速度
 
-开启后，Bmabu Studio 会尝试对连续对相邻层的外墙速度进行平滑，这有利于模型光滑曲面较多的模型获得更好的效果。注意，该功能开启后会增加打印时间，并且在花瓶模式中不生效。
+开启后，Bambu Studio 会尝试对连续相邻层的外墙速度进行平滑，这有利于光滑曲面较多的模型获得更好的效果。注意，该功能开启后会增加打印时间，并且在花瓶模式中不生效。
 
 ![smoothing_wall_speed_along_z_cn.png](https://wiki.bambulab.com/bambu-studio/parameter/quality-advance-settings/smoothing_wall_speed_along_z_cn.png)
 

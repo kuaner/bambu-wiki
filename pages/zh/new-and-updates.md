@@ -4,9 +4,100 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-07-24T08:30:39.041Z
+updated: 2026-08-14T08:41:37.839Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 2026-W33
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [Bambu Connect (Beta) 版本说明 v2.5.0-beta.15](software/bambu-connect/releases/v2_5_0-beta_15.md) | 本页介绍 Bambu Connect Beta v2.5.0-beta.15 的版本修复内容，主要包含安全问题修复。 | Bambu Connect |
+| [Bambu Suite V1.4.0.00 版本说明](software/bambu-suite/release-notes/v01-04-00-00.md) | 介绍 Bambu Suite V1.4.0.00 的版本更新内容、功能改进与问题修复。 | Bambu Suite |
+| [A2L 更换 X 轴惰轮组件](a2l/maintenance/replace-x-axis-idler-pulley.md) | 介绍 A2L 更换 X 轴惰轮组件的所需工具、安全提示及拆装操作步骤。 | A2L |
+| [导出打印机预设、材料预设和工艺预设](bambu-studio/export-filament.md) | 介绍如何在 Bambu Studio 中导出打印机、材料和工艺预设，便于备份、迁移与共享配置。 | Bambu Studio |
+| [X2D 打印机裹头处理指引](x2d/troubleshooting/hotend_blob.md) | 介绍 X2D 打印机喷头裹料的处理方法及所需工具，帮助排查并清理裹头问题。 | X2D |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [Bambu Suite 版本说明](software/bambu-suite/release-notes.md) | 补充 V1.4.0.00 版本说明入口及 V1.3.0.00 下载链接 | V1.4.0.00 | Bambu Suite |
+| [更换 X2D 的左霍尔检测板](x2d/maintenance/replace-extruder-filament-sensor-left.md) | 补充螺丝长度为 6mm 的注意事项，避免传感器损坏。 | 6mm螺丝 | X2D |
+| [A2L 更换挤出机齿轮](a2l/maintenance/replace-extruder-gear-assembly.md) | 更新齿轮啮合处润滑材料说明，将润滑油改为润滑脂。 | 润滑脂 | A2L |
+| [刀切/画笔主要部件和使用流程介绍](h2/manual/cutter-setup.md) | 补充刀切模组校准俯视摄像头时需安装刀切垫板的注意事项 | 俯视摄像头校准 | H2D |
+| [H2C AMS 套装 和 H2C 多色激光套装开箱指南](h2c/manual/unboxing-h2c.md) | 补充多色激光套装刀切垫板及激光垫板位于耗材盒中的说明，并更新配件清单引导表述。 | 包装清单 | H2C |
+| [P2S 装箱指南](p2s/manual/packing-p2s.md) | 补充包装方案更新说明及顶部泡棉摆放示意图。 | 泡棉 | P2S |
+| [更换 AP 主板 -- X1 系列](x1/maintenance/replace-ap-board.md) | 补充更换前记录打印机序列号（SN）的操作说明。 | 序列号 | X1 系列 |
+| [如何创建工单及上传日志](x1/troubleshooting/how-to-upload-log.md) | 更新工单提交流程入口。 | 工单 | X1 |
+| [X2D AMS 套装装箱指南](x2d/manual/packing-x2d-combo.md) | 补充包装方案更新说明及顶部泡棉摆放示意图。 | 泡棉 | X2D |
+| [象脚补偿](software/bambu-studio/parameter/elephant-foot.md) | 补充象脚补偿值计算方法及测试模型、校准准备步骤。 | 象脚补偿 | Bambu Studio |
+| [拓竹打印机 LED 指示灯灯语解释](general/indicator-led-explanation.md) | 更新 AP 板指示灯查看方式，改为打开板盖无需完全拆下，并补充示意图片。 | AP板指示灯 | H2 系列 |
+| [更换 P2S 切刀顶杆组件和跳齿修复指引](p2s/maintenance/replace-filament-cutter-stopper.md) | 补充切刀顶杆组件版本区分及二版本跳齿手动修复说明。 | 跳齿修复 | P2S |
+| [PLA Silk/ Silk+ 丝绸耗材打印指南](x1/manual/printing-with-silk-filaments.md) | 补充丝绸 PLA 的烘干、硬件适配及 Bambu Studio 参数设置说明。 | 丝绸PLA | 耗材 |
+| [P2S / X2D 模型翘曲问题改善指南](x2d/troubleshooting/preventing-warping-p2s-x2d.md) | 补充耗材烘干与首层质量检查的防翘曲排查指引 | 翘曲 | P2S,X2D |
+
+## 2026-W32
+
+### 新增 Wiki
+
+| 标题 (点击跳转） | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [HMS\_0500-0400-0001-0049: 检测到 AMS、AMS lite 或 AMS HT 通信异常，请在打印机空闲时重新插拔模块连接线，或重启打印机。](a1/troubleshooting/hmscode/0500-0400-0001-0049.md) | 本页介绍 AMS、AMS lite 或 AMS HT 通信异常的常见原因与排查方法，包括重装连接线和万用表检测。 | A1 系列 |
+| [HMS\_0500-0400-0001-0049: 检测到 AMS、AMS lite 或 AMS HT 通信异常，请在打印机空闲时重新插拔模块连接线，或重启打印机。](x1/troubleshooting/hmscode/0500-0400-0001-0049.md) | 本页介绍 AMS 与打印机通信异常的常见原因及排查方法，包括重装连接线和万用表检测。 | X1/P1 系列 |
+| [拆解和清洁 A1 系列料线选通器](a1/maintenance/a1-ams-hub-cleaning.md) | 介绍 A1 系列料线选通器的拆解与清洁方法，用于维护进料通道并排查堵塞问题。 | A1 系列 |
+| [P2S / X2D 模型翘曲问题改善指南](x2d/troubleshooting/preventing-warping-p2s-x2d.md) | 介绍 P2S/X2D 打印中首层翘边与支撑面翘曲的成因、基础排查及导风板安装使用方法。 | P2S,X2D |
+
+### 优化 Wiki
+
+| 标题 (点击跳转） | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [X1/X1C 固件发布记录](x1/manual/X1-X1C-firmware-release-history.md) | 补充 01.12.00.00 固件更新内容，包括安全、堆料检测和农场打印优化。 | 01.12.00.00 | X1,X1C |
+| [X1E 固件发布记录](x1/manual/X1E-firmware-release-history.md) | 补充 X1E OTA 01.03.00.00 版本发布说明及离线升级备注 | 01.03.00.00 | X1E |
+| [AMS 2 Pro 和 AMS HT 烘干指南](ams-2-pro/manual/drying-function.md) | 更新“边烘边打”的表述，明确开启烘干后可用自动上下料进行打印。 | 边烘边打 | AMS, AMS 2 Pro |
+| [更换 H2 系列 Z 轴张紧器组件/Z 轴皮带/Z 轴同步轮](h2/maintenance/replace-z-axis-tensioner.md) | 补充热床固定螺丝需重新拧紧以避免热床偏移的说明。 | 热床固定螺丝 | H2 系列 |
+| [HMS\_0300-1D00-0001-000A: 挤出电机过载，可能是电机故障。](a2l/troubleshooting/hmscode/0300_1D00_0001_000A.md) | 更新特定 G-code 文件名称及下载链接。 | a2l-zerotest.gcode | A2L |
+| [P2S/X2D 挤出电机测试方法](p2s/troubleshooting/extruder_motor_test.md) | 更新 P2S、X2D 零点测试 G-code 文件名及链接写法。 | zerotest.gcode | P2S,X2D |
+| [拓竹农场管家软件快速入门](software/bambu-farm-manager.md) | 更新拓竹农场管家服务器和客户端的下载版本号。 | 拓竹农场管家 | / |
+| [拓竹农场管家客户端 V2.4.0 & 服务器端 V2.4.0.0 版本说明](software/bambu-farm-release-notes/2-4-0.md) | 更新客户端和服务器下载版本，并补充两端修复内容。 | 拓竹农场管家 | / |
+| [HMS\_0300-2600-0001-000B: 喷嘴在位检测失败：左挤出机喷嘴未安装或安装不到位。](x2d/troubleshooting/hmscode/0300_2600_0001_000B.md) | 更新喷嘴在位检测机制描述，并将异常项改为涡流线圈异常。 | 涡流线圈 | X2D |
+| [更换 H2D & H2C 升降滑块组件](h2/maintenance/replace-nozzle-lifting-rail.md) | 补充说明本页以 H2D 为例，H2C 更换步骤相似。 | H2C | H2D,H2C |
+| [H2 系列 XYZ 轴和挤出机升降导轨维护指南](h2/maintenance/x-axis-lubrication.md) | 补充 H2C 机型维护前需先卸下并停靠右侧热端的说明 | H2C | H2C |
+| [HMS\_07FE-2000-0002-0004：请从挤出机中拉出外部挂载的耗材。](h2/troubleshooting/hmscode/07FE_2000_0002_0004.md) | 更新霍尔开关排查说明，补充未使用外挂耗材时的异常原因提示。 | 霍尔开关 | X1 |
+| [P2S 喷嘴堵塞清理指南](p2s/maintenance/cold-pull-maintenance-hotend.md) | 补充打印中发生堵塞或挤出异常时应先暂停或取消任务的提示。 | 喷嘴堵塞 | P2S |
+| [A1 AC 板更换指南](a1/maintenance/ac-board-replacement.md) | 更新 A1 打印机的新版本电源开关连接 AC 板的图文（无需拆装地线）；补充说明新旧版本 AC 板连接方式相同。 | AC板 | A1 |
+| [HMS\_0500-0500-0001-0007: MQTT 命令校验失败，请更新 Studio 或 Handy。](x1/troubleshooting/hmscode/0500_0500_0001_0007.md) | 更新 Studio/Handy 升级指引，并补充版本检查、下载方式及支持入口。 | MQTT 命令校验失败 | / |
+| [P 系列机器打印 TPU 90A & 85A 的打印指南](filament-acc/filament/tpu-85a-90a-printing-guide-for-p-series.md) | 更新进料工作章节，区分 P2S 与 P1 系列，并补充 P2S 打印 TPU 的视频教程。 | P2S | 耗材 |
+| [低温打印板质量与预期不符](general/cool-plate-not-working-as-expected.md) | 补充低温打印板已停产提示及相关参考链接。 | 打印板 | / |
+| [耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水的兼容性、适配性及参数设置](general/filament-guide-material-table.md) | 更新 PLA 填充类材料分类，细分为 Metal/Wood/Marble 并调整兼容与参数说明 | PLA Marble | AMS |
+| [H2 系列的 TPU 打印准备工作](h2/h2d-tpu-printing-guide.md) | 补充打印 TPU 的视频教程。 | 视频教程 | 耗材 |
+| [首层不粘](knowledge-sharing/first-layer-not-sticking.md) | 更新打印板类型选错导致首层不粘的原因说明，并更换配图。 | 打印板类型 | / |
+| [P2S 挤出机堵塞清理指南](p2s/maintenance/extruder-cleaning-guide.md) | 补充拆卸挤出机时，轴承易脱落的注意事项及轴承安装位置示意。 | 轴承 | P2S |
+| [在低温打印板上进行打印的建议](x1/manual/printing-on-cool-plate.md) | 补充低温打印板已停产提示及相关参考链接。 | 打印板 | / |
+| [X2D TPU 打印指南](x2d/manual/tpu-printing-guide.md) | 补充打印 TPU 的视频教程。 | TPU | 耗材 |
+
+## 31/07/26
+
+### 新页面
+
+- [HMS\_0C00-0400-0002-0018: 模切刀偏移校准失败。请执行工具箱中的刀切模组偏移校准；若问题仍存在，请检查模切刀刀尖是否磨损。](h2d/troubleshooting/hmscode/0C00_0400_0002_0018.md)
+
+### 更新页面
+
+- [A2L 更换龙门架](a2l/maintenance/replace-printer-frame.md)
+- [H2C](h2c.md)
+- [接缝设置](software/bambu-studio/Seam.md)
+- [耗材烘干操作指南](filament-acc/filament/dry-filament.md)
+- [冲刷料过程中的废料处理](knowledge-sharing/handling-purged-filament-waste.md)
+- [多机型 AMS 连接指南](ams/manual/multi-model-AMS-compatibility-guide.md)
+- [如何查找序列号及注册新序列号](general/find-sn.md)
+- [P2S 首层打印质量改善指南](p2s/troubleshooting/first-layer-printing-optimization-guide.md)
+- [如何关闭准备阶段的振动校准过程](knowledge-sharing/how-to-turn-off-the-vibration-calibration.md)
+- [A1 combo 开箱指南（旧）](a1/manual/unboxing-a1-combo.md)
+- [H2 系列打印机上电异常排查指南-下篇](h2d/troubleshooting/h2/failure-to-power-on-part2.md)
+- [HMS\_0300-2E00-0003-0001 : 电机降噪功能更新，请重新校准。](a2l/troubleshooting/hmscode/0300_2E00_0003_0001.md)
 
 ## 24/07/26
 

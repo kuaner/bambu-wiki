@@ -4,7 +4,7 @@ title: "H2S"
 description: "本文提供了所有关于 Bambu Lab H2S 的文章链接。"
 tags: []
 created: 2025-08-26T06:27:25.736Z
-updated: 2026-06-22T10:40:33.986Z
+updated: 2026-07-30T11:50:42.552Z
 source: https://wiki.bambulab.com/zh/h2s
 ---
 
@@ -133,7 +133,7 @@ source: https://wiki.bambulab.com/zh/h2s
 - [H2系列 X轴线轨和Y轴光杆润滑保养指南](h2/maintenance/x-axis-lubrication.md)
 - [H2系列 Z轴丝杆和光杆润滑保养指南](general/lead-screws-lubrication.md)
 - [喷嘴冷拔维护清理](maintenance/nozzle-cold-pull-maintenance-and-cleaning.md)
-- [喷嘴不堵塞，打印更顺畅](knowledge-sharing/how_to_avoid_nozzle_clogs.md)
+- [如何有效防止喷嘴堵塞](knowledge-sharing/how_to_avoid_nozzle_clogs.md)
 
 ## 🛠️ 零件更换指南
 

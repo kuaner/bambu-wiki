@@ -4,7 +4,7 @@ title: "H2 系列 XYZ 轴和挤出机升降导轨维护指南"
 description: "本章将详细为您讲述 H2 系列打印机的 X 轴线性导轨和 Y 轴光轴润滑保养教程。"
 tags: ["h2d", "x轴", "挤出机"]
 created: 2025-07-15T01:56:54.575Z
-updated: 2026-06-12T03:54:35.886Z
+updated: 2026-08-05T11:44:04.638Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication
 ---
 
@@ -161,7 +161,8 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/x-axis-lubrication
 
 ## H2D/H2C 挤出机升降导轨
 
-> H2D 和 H2C 设备需要进行该项维护，H2S可跳过。
+> H2D 和 H2C 设备需要进行该项维护，H2S可跳过。  
+> **仅适用于 H2C**：开始本节维护前，请先在打印机开机状态下，使用屏幕卸下右侧热端并将其停靠到机架上。完成停靠后，请关闭打印机并断开电源，再继续以下维护步骤。详细操作请参考：[更换感应热端组件](../../h2c/maintenance/replace-induction-hotend.md)
 
 ### 第 1 步：退出耗材
 

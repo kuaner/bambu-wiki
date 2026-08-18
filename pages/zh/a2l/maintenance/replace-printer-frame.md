@@ -4,7 +4,7 @@ title: "A2L 更换龙门架"
 description: "本文介绍了如何更换 A2L 龙门架"
 tags: []
 created: 2026-06-01T13:15:12.866Z
-updated: 2026-06-12T07:37:03.673Z
+updated: 2026-07-30T09:32:12.240Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-printer-frame
 ---
 
@@ -113,6 +113,12 @@ A2L 龙门架
 |  |  |
 | --- | --- |
 |  |  |
+
+### 5.校准
+
+在打印机屏幕点击 “设置 > 维护 > 校准”，开始校准工作。
+
+![image_(2).png](https://wiki.bambulab.com/a2l/maintenance/replace-printer-frame/image_(2).png)
 
 ## 结束语
 

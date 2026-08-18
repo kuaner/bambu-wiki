@@ -4,7 +4,7 @@ title: "P2S/X2D 挤出电机测试方法"
 description: "本文介绍了 P2S/X2D 挤出电机过载时，对挤出电机的测试方法。"
 tags: ["p2s", "x2d"]
 created: 2026-05-08T02:22:26.905Z
-updated: 2026-07-17T02:16:32.808Z
+updated: 2026-08-05T02:12:45.094Z
 source: https://wiki.bambulab.com/zh/p2s/troubleshooting/extruder_motor_test
 ---
 
@@ -41,8 +41,8 @@ source: https://wiki.bambulab.com/zh/p2s/troubleshooting/extruder_motor_test
 
 退料完成后，根据产品型号下载附件并导入 U 盘中，将 U 盘插上打印机，然后在打印文件中找到同名文件发起一次打印。
 
-[p2s\_zerotest.gcode](https://wiki.bambulab.com/p2s/troubleshooting/extruder-motor-overload/p2s_zerotest.gcode)  
-[x2d\_zerotest.gcode](https://wiki.bambulab.com/p2s/troubleshooting/extruder-motor-overload/x2d_zerotest.gcode)  
+[p2s-zerotest.gcode](https://wiki.bambulab.com/p2s/troubleshooting/extruder-motor-overload/p2s-zerotest.gcode)  
+[x2d-zerotest.gcode](https://wiki.bambulab.com/p2s/troubleshooting/extruder-motor-overload/x2d-zerotest.gcode)  
 ![文件1.png](https://wiki.bambulab.com/p2s/troubleshooting/hmscode/0300_1d00_0001_000a/%E6%96%87%E4%BB%B61.png)
 
 X2D:

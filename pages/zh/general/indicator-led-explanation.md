@@ -4,7 +4,7 @@ title: "拓竹打印机 LED 指示灯灯语解释"
 description: ""
 tags: []
 created: 2024-06-12T03:28:02.473Z
-updated: 2026-06-25T07:40:04.599Z
+updated: 2026-08-10T06:56:18.600Z
 source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 ---
 
@@ -20,7 +20,11 @@ source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 
 ### 正常状态：AP 板指示灯快速闪烁（左）、常亮（右）
 
-参阅 wiki 内容[取下 AP 板盖](https://wiki.bambulab.com/zh/h2/maintenance/replace-ap-board#%E6%AD%A5%E9%AA%A4-2%E5%8F%96%E4%B8%8B-ap-%E6%9D%BF%E7%9B%96)，使用 H2.0 内六角扳手拧下 1 颗固定螺丝（BT2.6x8），然后从靠近前门的一侧取下 AP 板盖，观察 AP 板指示灯。
+使用 H2.0 内六角扳手拧下 1 颗固定螺丝（BT2.6x8），然后从靠近前门的一侧打开 AP 板盖，无须完全将其拆下，露出 AP 板即可观察 AP 板指示灯。
+
+|  |  |
+| --- | --- |
+|  |  |
 
 ![h2_ap1.gif](https://wiki.bambulab.com/general/bbl-indicator-led/h2_ap1.gif)
 

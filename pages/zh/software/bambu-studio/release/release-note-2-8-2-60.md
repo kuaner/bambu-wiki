@@ -4,7 +4,7 @@ title: "Bambu Studio 2.8.2.60 版本说明"
 description: ""
 tags: []
 created: 2026-08-14T06:12:19.462Z
-updated: 2026-08-14T12:57:08.577Z
+updated: 2026-08-14T12:57:09.872Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-8-2-60
 ---
 

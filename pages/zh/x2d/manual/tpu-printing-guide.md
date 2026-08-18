@@ -4,7 +4,7 @@ title: "X2D TPU 打印指南"
 description: "本文介绍了如何使用 X2D 打印 TPU 95A  HF、TPU 90A  和 TPU 85A "
 tags: []
 created: 2026-04-14T13:20:30.650Z
-updated: 2026-07-23T02:58:20.319Z
+updated: 2026-08-06T03:54:57.548Z
 source: https://wiki.bambulab.com/zh/x2d/manual/tpu-printing-guide
 ---
 
@@ -44,7 +44,7 @@ TPU 具有较强的吸湿性，在自然环境中容易吸收水分。若含有�
 
 > 由于 X2D 右侧采用辅助挤出机设计，进料阻力较大，因此**仅支持使用主热端打印 TPU，不可使用辅助热端打印 TPU**。
 
-若不是全新热端，请检查热端中是否有残料；若有，请升温后用 PLA / PETG [冷拔](https://wiki.bambulab.com/zh/x2d/maintenance/cold-pull-maintenance-hotend#coll-pull-x2d) 2 - 3 次，**切忌使用纤维增强料线冷拔**，请参考 [X2D 堵塞排查指南](../troubleshooting/clogging.md)。
+若不是全新热端，请检查热端中是否有残料；若有，请升温后用 PLA / PETG [冷拔](https://wiki.bambulab.com/zh/x2d/maintenance/cold-pull-maintenance-hotend#cold-pull-x2d) 2 - 3 次，**切忌使用纤维增强料线冷拔**，请参考 [X2D 堵塞排查指南](../troubleshooting/clogging.md)。
 
 | 耗材类型 | 0.2 喷嘴普通热端 | 0.4 喷嘴普通热端 | 0.6 喷嘴普通热端 | 0.8 喷嘴普通热端 | 任意尺寸大流量热端 |
 | --- | --- | --- | --- | --- | --- |
@@ -66,6 +66,8 @@ TPU 具有较强的吸湿性，在自然环境中容易吸收水分。若含有�
 | TPU 类型 | 低温打印板 | 工程材料打印板 | 光面 PEI 打印板/高温打印板 | 纹理 PEI 打印板 | 是否涂胶 |
 | --- | --- | --- | --- | --- | --- |
 | TPU 85A/90A/95A HF/TPU for AMS | 不适配 | 推荐 | 推荐 | 推荐 | 是（除 PEI 纹理板外） |
+
+## 视频教程
 
 ## TPU 95A HF（使用外挂料盘）
 

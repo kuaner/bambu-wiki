@@ -4,7 +4,7 @@ title: "更换 X2D 工具头电路板"
 description: "本文介绍了如何更换 X2D 挤出主板（TH 板）、工具头接口板、热端加热组件接口板"
 tags: []
 created: 2026-04-14T13:08:30.420Z
-updated: 2026-06-11T03:09:32.169Z
+updated: 2026-08-13T04:08:27.728Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-th-board
 ---
 
@@ -52,7 +52,7 @@ X2D
 
 ### **第 2 步 - 移除 TH 板（挤出主板）**
 
-用镊子依次断开连接到 TH 板（挤出主板）上的工具头接口板排线、热端加热组件接口板排线、挤出电机排线、工具头摄像头排线、堵嘴组件排线、左热端风扇线缆、辅助热端风扇线缆。
+用镊子依次断开连接到 TH 板（挤出主板）上的热端加热组件接口板排线、工具头接口板排线、挤出电机排线、工具头摄像头排线、辅助热端风扇线缆、堵嘴组件排线、左热端风扇线缆。
 
 ![003_disconnect_the_th_board_cable_connection.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_th_board/003_disconnect_the_th_board_cable_connection.png)
 

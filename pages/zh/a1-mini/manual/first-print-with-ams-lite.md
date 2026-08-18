@@ -1,10 +1,10 @@
 ---
 path: zh/a1-mini/manual/first-print-with-ams-lite
-title: "初次打印指南（使用AMS lite）"
+title: "A1 mini 初次打印指南（使用 AMS lite）"
 description: ""
-tags: []
+tags: ["a1 mini"]
 created: 2023-09-18T02:21:45.231Z
-updated: 2024-06-03T08:54:02.945Z
+updated: 2026-07-30T01:47:40.371Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-ams-lite
 ---
 
