@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-08-18T02:05:40.097Z
+updated: 2026-08-19T02:05:47.844Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -1079,7 +1079,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [A1 mini 产品保养与维修](../A1-mini/maintenance.md)  
 [更换AMS主框架](../x1/maintenance/replace-the-ams-main-frame.md)  
 [连接 AMS Hub 和多台 AMS](../x1/manual/Connect-AMS-Hub-and-multi-AMS.md)  
-[耗材粘嘴](../filament-acc/filament/print-quality/filament-sticks-to-nozzle.md)  
 [X1 系列屏幕操作指南](../x1/manual/screen-operation.md)  
 [2D 工艺类型介绍](../software/bambu-suite/manual/2d-processing-type-intro.md)  
 [更换精细尖刀](../h2/maintenance/replace-fine-point-blade.md)  
@@ -1633,7 +1632,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换热床（V2）](../x1/maintenance/Replacing-the-heat-bed.md)  
 [手动调节流量以获得更好的打印效果](../x1/manual/manual-flow-rate-tuning.md)  
 [打印机无法检测到AMS](../x1/troubleshooting/AMS_is_not_detected_by_the_printer.md)  
-[拆解和清洁AMS五通组件](../x1/troubleshooting/clean-the-filaments-hub.md)  
 [X1/P1 系列热床手动调平](../x1/manual/manual-bed-leveling.md)  
 [更换 X1/P1 工具头后盖和中框](../p1/maintenance/toolhead-housing.md)  
 [更换 P1 热端组件及其相关组件](../p1/maintenance/complete-hot-end-assembly.md)  
@@ -1909,7 +1907,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0700-2000-0002-0023: AMS A 槽 1 AMS内部料管脱落，或者出料霍尔传感器异常，检测不到耗材。](../h2d/troubleshooting/hmscode/0700_2000_0002_0023.md)  
 [H2D 升级 H2C 指引全流程指引 - 上篇](../h2c/maintenance/upgrade-from-h2d-to-h2c.md)  
 [感应热端升级失败（热端取放故障）排查指南](../h2c/troubleshooting/hotend-upgrade-failure.md)  
-[H2C 打印机 FAQ](../h2c/manual/h2c-faq.md)  
 [H2C 固件发布记录](../h2c/manual/h2c-firmware-release-history.md)  
 [HMS\_0700-4500-0002-0001：切料传感器异常。请检查连接器是否正确插入。](../p2s/troubleshooting/hmscode/0700_4500_0002_0001.md)  
 [更换 H2C TH 板](../h2c/maintenance/replace-th-board.md)  
@@ -2511,7 +2508,10 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [Bambu Studio 2.8.2.60 版本说明](../software/bambu-studio/release/release-note-2-8-2-60.md)  
 [A1系列裹头检测功能介绍](../a1-mini/manual/nozzle-warp-detection.md)  
 [首层不粘](first-layer-not-sticking.md)  
-[全部公开的链接](.md)  
 [AMS 2 Pro 和 AMS HT 烘干指南](../ams-2-pro/manual/drying-function.md)  
 [拓竹铁氟龙料管介绍](../filament-acc/acc/ptfe-tube.md)  
+[拆解和清洁AMS五通组件](../x1/troubleshooting/clean-the-filaments-hub.md)  
+[耗材粘嘴](../filament-acc/filament/print-quality/filament-sticks-to-nozzle.md)  
+[全部公开的链接](.md)  
+[H2C 打印机 FAQ](../h2c/manual/h2c-faq.md)  
 [A2L 首层打印质量改善指南](../a2l/maintenance/first-layer-quality-calibration.md)
