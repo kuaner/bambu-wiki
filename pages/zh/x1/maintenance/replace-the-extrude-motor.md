@@ -1,10 +1,10 @@
 ---
 path: zh/x1/maintenance/replace-the-extrude-motor
-title: "更换挤出电机"
+title: "更换挤出电机及 Logo LED 灯连接线"
 description: "本指南详细介绍了如何卸下和安装挤出电机、 Logo LED 灯连接线"
 tags: []
 created: 2022-10-25T02:38:14.647Z
-updated: 2026-07-29T10:27:07.095Z
+updated: 2026-08-20T06:56:01.840Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-the-extrude-motor
 ---
 
@@ -13,6 +13,8 @@ source: https://wiki.bambulab.com/zh/x1/maintenance/replace-the-extrude-motor
 挤出电机是安装在工具头上，用于驱动挤出机进行动作的电机，它是一款 36 系列圆形步进电机。
 
 ![](https://wiki.bambulab.com/x1/maintenance/replace-the-e-motor/extrude_motor.jpg)
+
+> 注意：本篇适用于 X1 系列打印机，如果您需要更换 P1 系列打印机的挤出电机，请参考 Wiki ：[更换 P1 系列挤出电机](../../p1/maintenance/replace-extruder-motor.md)
 
 ## 何时更换
 

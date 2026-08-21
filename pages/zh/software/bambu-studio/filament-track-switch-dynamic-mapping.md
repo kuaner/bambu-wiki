@@ -4,7 +4,7 @@ title: "耗材变轨器动态映射切片功能介绍"
 description: "本文介绍了耗材变轨器加装后 Bambu Studio 的动态映射功能"
 tags: []
 created: 2026-03-25T03:17:20.231Z
-updated: 2026-04-14T13:36:13.992Z
+updated: 2026-08-19T12:16:38.771Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/filament-track-switch-dynamic-mapping
 ---
 
@@ -17,9 +17,9 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/filament-track-switch
 **必须同时满足以下几个条件，动态映射才会生效：**
 
 1. 打印机是双喷嘴机型，且已安装并连接好耗材变轨器（具体步骤请参考：[耗材变轨器使用指南](../../general/manual/filament-track-switch.md)）；
-2. 在切片设置中，耗材分组模式选择为**“省料模式”，**并勾选**“启用智能耗材分配”**选项。
+2. 在**准备**页面，点击“**编辑材料分组**”图标，选择**省料**模式，勾选底部“**启用智能耗材分配**”选项，并点击**确认**。
 
-![](https://wiki.bambulab.com/software/bambu-studio/filament-track-switch-dynamic-mapping/005.png)
+![smart_filament_assign_setup_zh.png](https://wiki.bambulab.com/software/bambu-studio/filament-track-switch-dynamic-mapping/smart_filament_assign_setup_zh.png)
 
 设置后，点击切片并开启打印，Bambu Studio 会提供一个最优耗材摆放建议，推荐将哪些耗材放入耗材变轨器的同侧（即同个 AMS 内）。按照此建议摆放耗材，可最大程度缩短实际打印时间。
 

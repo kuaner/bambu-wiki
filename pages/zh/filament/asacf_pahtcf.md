@@ -4,7 +4,7 @@ title: "ASA CF / PAHT CF 使用指南"
 description: ""
 tags: ["耗材"]
 created: 2025-10-11T03:01:32.625Z
-updated: 2026-07-24T02:25:33.435Z
+updated: 2026-08-19T02:50:30.279Z
 source: https://wiki.bambulab.com/zh/filament/asacf_pahtcf
 ---
 
@@ -104,9 +104,7 @@ Bambu ASA-CF 专为户外高耐候场景设计，在保留 ASA 抗紫外线、�
 
 - 打印中建议使用干燥箱或 AMS 等封闭供料系统。
 
-> **注意：**
->
-> 1. 使用热床进行耗材烘干时，请每隔 6 小时将耗材翻面一次，并在耗材上方覆盖耗材包装盒或 PC 盒。
+> **注意：** 使用热床进行耗材烘干时，请每隔 6 小时将耗材翻面一次，并在耗材上方覆盖耗材包装盒或 PC 盒。
 
 ### 2.2 准备打印板
 
@@ -116,9 +114,9 @@ ASA/PA 这两类耗材属于高温耗材，打印时因其独特的物理性能�
 2. 打印过程中较大的内应力，导致收缩翘曲
 3. 尼龙类材料冷却时出现明显的结晶收缩，即分子链紧密排列导致的体积减小
 
-因此建议清洁干净打印板并涂抹胶水打印，成功率会有显著提高：[如何使用 Bambu Lab 胶水](../general/how-to-use-bbl-liquid-glue.md)
+因此建议清洁干净打印板并涂抹**固体胶**打印，成功率会有显著提高：[如何使用 Bambu Lab 胶水](../general/how-to-use-bbl-liquid-glue.md)
 
-> **注意：为保证打印效果，建议使用官方液体胶水**
+> ℹ️**注意：为保证打印效果，建议使用官方固体胶。**
 
 ![](https://wiki.bambulab.com/filament-acc/asacf-pahtcf/image90.png)
 
@@ -176,7 +174,7 @@ ASA/PA 这两类耗材属于高温耗材，打印时因其独特的物理性能�
 
 #### 1. 增加打印板和模型粘附
 
-- 增加打印板的粘附：涂抹胶水或固体胶（如下左图）
+- 增加打印板的粘附：涂抹固体胶（如下左图）
 - 开启裙边：增大模型与打印板接触面积（如下右图）  
   ![image-23.png](https://wiki.bambulab.com/filament-acc/petg/image-23.png)
 

@@ -4,7 +4,7 @@ title: "ABS GF / PA6 GF 玻纤耗材使用指南"
 description: ""
 tags: ["耗材"]
 created: 2025-10-11T02:02:17.434Z
-updated: 2026-07-23T10:25:26.157Z
+updated: 2026-08-19T03:05:19.081Z
 source: https://wiki.bambulab.com/zh/filament/absgf_pa6gf
 ---
 
@@ -72,8 +72,8 @@ PA6-GF、ABS-GF 与 ABS 力学性能对比如下：
 
 | 材料 | 打印机兼容性 | 喷嘴兼容性 | 打印板兼容性 | 配件兼容性 |
 | --- | --- | --- | --- | --- |
-| **PA6-GF** | 需要封箱打印机，不适配 **P1P / A1** 机型 | ✅只兼容硬化钢喷嘴，建议使用 **0.6mm** 喷嘴； ❌不兼容 **0.2mm** 喷嘴；不推荐使用 **0.4mm 高流量喷嘴**。 | ✅需要涂固体胶打印； ✅建议使用光面板涂胶打印； ❌不适配低温增稳打印板 | **AMS lite 不兼容** |
-| **ABS-GF** | 同上 | ✅只兼容 **0.4mm 及以上硬化钢喷嘴**，兼容高流量喷嘴 | 同上 | 同上 |
+| **PA6-GF** | 需要封箱打印机，不适配 **P1P / A1** 机型 | ✅只兼容硬化钢喷嘴，建议使用 **0.6mm** 喷嘴； ❌不兼容 **0.2mm** 喷嘴；不推荐使用 **0.4mm 高流量喷嘴**。 | ✅需要涂**固体胶**打印； ✅建议使用光面板涂胶打印； ❌不适配低温增稳打印板 | **AMS lite 不兼容** |
+| **ABS-GF** | 同上 | ✅只兼容 **0.4mm 及以上硬化钢喷嘴**，兼容高流量喷嘴 | ✅需要涂**液体胶**打印； ✅建议使用光面板涂胶打印； ❌不适配低温增稳打印板 | 同上 |
 
 > 提示：在使用 **0.6mm 喷嘴**打印以上两款耗材时可以获得更好的打印效果。
 
@@ -103,13 +103,11 @@ PA6-GF、ABS-GF 与 ABS 力学性能对比如下：
 为提高模型打印成功率，请在打印前完成以下准备工作：
 
 - **清洁打印板**： 去除表面残留物与灰尘，保持清洁。
-- **增强附着力**： 使用[官方液体胶水或固体胶](../general/how-to-use-bbl-liquid-glue.md)，并搭配光面打印板效果最佳。
+- **增强附着力**： 打印 ABS-GF 请使用官方液体胶，PA6-GF 使用官方固体胶，并搭配光面打印板效果最佳。
 - **提升腔体温度**：
 
 1. H2 系列 / X1E：具备主动腔温控制系统，默认开启即可有效抑制翘边。
 2. X1C / P1S：可通过提高热床温度并预热约 15 分钟来间接升温。
-
-> **提示**：建议使用**官方液体胶** （购买链接：[天猫](https://detail.tmall.com/item.htm?abbucket=7&id=698882119427&pisk=fx0IVG2FR9XCOdxec_dachcQIHaSRYT42_N-ibQFwyULVzMZUMzyx3m_wAk7zzlJKYg7BYAhzB0EFuhUCWIRvuBTWSFP2Th-z737-VoFzJJ3PbH4PKJ2uElntP4J3KREq9OUkS6deTrRBPUwXNRwuEln16PpgfLq8RMMZ7jRyYELX5FuB7I8pYUt6WyOJ7QLyRd_I7U8wkeRX1F7OaF-e7LO6WVLwWEdv5ETMRe8ykhEjsNWAJcBs8_a7LY0pXe1lf0_97SnOR6CpVi_v-Q4CaQ-5WGGSh8Gl3yxmJr4FALNRzGTNAZqAK_IFbhm2lg5pBkxB0M8scv5V-i-Tmm8fBLK1ywQ2VkOZMzI2v07xD1kifUKIm20vhvg12u4V-q1BphZ1JEjVvJGyJoj6AZq7O74kmDsPoUA4wb4h4zcV1ZcP5w21CslqcHWD9mBunbzv5VQbCO1p0qLs5wX1CsVDkFgO-d619n1.&rn=96c02ad685309e35ce3ca6c70da74297&spm=a1z10.3-b-s.w4011-25177047232.24.5cad3c0e7FyN9g&skuId=4944744761494)；[京东](https://item.jd.com/10067766191994.html)），并配合**光面打印板**使用（购买链接：[天猫](https://detail.tmall.com/item.htm?abbucket=11&id=800721797477&pisk=g39KVdsMrV0ncgaUvUciEHTjAfiMvfxUBe-bEab3NFL9yUCn4MYle_Q9c6merUAOyFTORJmET__J8NYuEHvJ_8K24pmFEDWeYTWSoqDDyH-FUo-y3AJLfls2fgNQdfX_IK4GfqDmnhhCYTxsoLjirSsOm865Owt6fNSYOJT5NOa17gS7RT_IXh_N57aCNJM1fgIYdTw5Fha12gUQAJ_75P_NVTwCNUtsXgb1PT6WPhGDh4Q_Aa2JO0AiyXFIj82kBMCdy8bTeqilA6LBvN3-FdHV9ZtCW8gBFu7NyNJjSfKwPBThbUHxWtO2WLCfevUVvCtACwXjM5BpjeJAdK3LKGfRJC9C6uw5COAC1QLKJW7BtFCVf1Z-3GYc5HJB60z6AEbddG1ihmK1NCvFgp0_ptO2x9AWlVVhRII54KJDHyiuoZIuOcnTa75Cb7HbIRUWGEq1XZmKe7PP_cSOocnTa75CbGQmv0Fza1oN.&rn=38da32195ee9038724e5f3da8dd0f71e&spm=a1z10.3-b-s.w4011-25177047232.59.5fb73c0egXAGhy&skuId=5455831745773)；[京东](https://item.jd.com/10105104550425.html)）。
 
 [→ 点击跳转查看详细的防翘边方法与参数优化](https://wiki.bambulab.com/zh/filament/absgf_pa6gf#%E6%A8%A1%E5%9E%8B%E7%BF%98%E8%BE%B9)
 
@@ -139,7 +137,7 @@ PA6-GF、ABS-GF 与 ABS 力学性能对比如下：
 
 #### 1. 增加打印板和模型粘附
 
-- 增加打印板的粘附：涂抹胶水或固体胶（如下左图）
+- 增加打印板的粘附：涂抹胶水（如下左图）；打印 ABS-GF 请使用官方液体胶，PA6-GF 使用官方固体胶。
 - 开启裙边：启用“裙边（Brim）”功能，增大模型与打印板接触面积（如下右图）  
   ![image-23.png](https://wiki.bambulab.com/filament-acc/petg/image-23.png)
 
@@ -202,8 +200,7 @@ PA6-GF、ABS-GF 与 ABS 力学性能对比如下：
 
 - **增大墙层数以及稀疏填充密度**
 
-我们可以通过改变墙层数以及稀疏填充密度来改善模型的强度。推荐墙层数不大于6层，填充密度不大于50%，并选择**螺旋体**为稀疏填充图案。具体参数需要**根据实际情况减小调节幅度**，较大的填充密度和强层数会增大**翘边**的风险。  
-注意：提高墙层数以及稀疏填充密度后会增大耗材冷却收缩的翘边风险，建议在有强度打印需求时在打印板表面涂胶打印或在 Bambu Studio 中增加 Brim 裙边。
+我们可以通过改变墙层数以及稀疏填充密度来改善模型的强度。推荐墙层数不大于6层，填充密度不大于50%，并选择**螺旋体**为稀疏填充图案。具体参数需要**根据实际情况减小调节幅度**，较大的填充密度和强层数会增大**翘边**的风险。
 
 > 注意：提高墙层数以及稀疏填充密度后会增大耗材冷却收缩的翘边风险，建议在有强度打印需求时在打印板表面涂胶打印或在 Bambu Studio 中增加 Brim 裙边。
 

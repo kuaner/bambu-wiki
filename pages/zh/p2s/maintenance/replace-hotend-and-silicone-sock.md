@@ -4,7 +4,7 @@ title: "更换 P2S 热端和热端硅胶套"
 description: "介绍如何正确拆装热端硅胶套和热端。"
 tags: ["热端", "热端硅胶套", "fah048"]
 created: 2025-10-14T12:49:32.773Z
-updated: 2026-05-19T06:23:41.458Z
+updated: 2026-08-20T06:35:47.601Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-hotend-and-silicone-sock
 ---
 
@@ -17,6 +17,8 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-hotend-and-silicone
 ![fah048.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/fah048.jpg)
 
 > **📌 注意**：若您更换了不同规格的喷嘴，请在发起打印前务必在**屏幕上**同步喷嘴信息。
+
+> **📌 注意**：本篇适用于 P2S 系列打印机，如果您需要更换 X2D 系列打印机的挤出电机，请参考 Wiki ：[更换 X2D 热端和硅胶套](../../x2d/maintenance/replace-hotend-and-silicone-sock.md)
 
 ## 何时更换
 

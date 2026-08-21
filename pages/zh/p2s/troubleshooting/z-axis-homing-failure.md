@@ -1,12 +1,16 @@
 ---
 path: zh/p2s/troubleshooting/z-axis-homing-failure
-title: "0300-4000： P2S/X2D"
+title: "0300-4000： Z轴回零失败，任务已停止"
 description: ""
 tags: []
 created: 2025-12-23T07:43:37.950Z
-updated: 2026-07-02T02:40:32.491Z
+updated: 2026-08-19T07:34:32.947Z
 source: https://wiki.bambulab.com/zh/p2s/troubleshooting/z-axis-homing-failure
 ---
+
+## 适用机型
+
+P2S、X2D
 
 ## 故障描述
 

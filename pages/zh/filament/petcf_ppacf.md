@@ -4,7 +4,7 @@ title: "PET-CF / PPA-CF / PPS-CF / PA6-CF 使用指南"
 description: ""
 tags: ["耗材"]
 created: 2025-10-11T03:55:22.257Z
-updated: 2026-07-24T02:33:35.953Z
+updated: 2026-08-19T02:58:33.170Z
 source: https://wiki.bambulab.com/zh/filament/petcf_ppacf
 ---
 
@@ -168,7 +168,7 @@ PET-CF、PA6-CF 、PPA-CF 与 PPS-CF 这四款耗材在干态与湿态环境下�
 
 因此建议清洁干净打印板并涂抹固体胶打印，成功率会有显著提高：[如何使用 Bambu Lab 胶水](../general/how-to-use-bbl-liquid-glue.md)
 
-> **注意：为保证打印效果，建议使用官方液体胶水**
+> ℹ️ **注意：为保证打印效果，建议使用官方固体胶。**
 
 ![](https://wiki.bambulab.com/filament-acc/asacf-pahtcf/image90.png)
 
@@ -231,7 +231,7 @@ PET-CF、PA6-CF 、PPA-CF 与 PPS-CF 这四款耗材在干态与湿态环境下�
 
 #### 4.3.1 增加打印板和模型粘附
 
-- 增加打印板的粘附：涂抹胶水或固体胶（如下左图）
+- 增加打印板的粘附：涂抹固体胶（如下左图）
 - 开启裙边：增大模型与打印板接触面积（如下右图）  
   ![image-23.png](https://wiki.bambulab.com/filament-acc/petg/image-23.png)
 

@@ -4,7 +4,7 @@ title: "更换 H2D & H2C 部件冷却风扇"
 description: "本文介绍如何更换 H2D & H2C 部件冷却风扇"
 tags: []
 created: 2025-03-25T02:18:00.015Z
-updated: 2026-03-13T03:11:38.747Z
+updated: 2026-08-19T02:27:29.284Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-part-cooling-fan
 ---
 

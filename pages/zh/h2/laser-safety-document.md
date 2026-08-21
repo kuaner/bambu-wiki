@@ -4,7 +4,7 @@ title: "激光安全文档"
 description: ""
 tags: []
 created: 2025-03-25T02:46:58.166Z
-updated: 2026-07-07T07:00:31.216Z
+updated: 2026-08-19T08:05:00.525Z
 source: https://wiki.bambulab.com/zh/h2/laser-safety-document
 ---
 
@@ -214,8 +214,6 @@ source: https://wiki.bambulab.com/zh/h2/laser-safety-document
 <https://public-cdn.bblmw.com/wiki/H2D/safety-guidelines/Laser-safety-guidelines-CN.mp4>
 
 ## 7. LSO
-
-（待完善）
 
 LSO 是 Laser Safety Officer（激光安全官员）的缩写。LSO是负责风险管理的人员，拥有确保遵循所有适用标准和规章的权力。此人应具备评估所有系统的能力，并验证所有参与激光操作的人员的知识和技能。
 

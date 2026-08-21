@@ -4,7 +4,7 @@ title: "如何使用拓竹热床胶水"
 description: "本文介绍了如何使用拓竹热床胶水及注意事项。"
 tags: []
 created: 2023-01-06T01:41:25.060Z
-updated: 2026-07-13T10:24:48.384Z
+updated: 2026-08-19T03:17:56.662Z
 source: https://wiki.bambulab.com/zh/general/how-to-use-bbl-liquid-glue
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/general/how-to-use-bbl-liquid-glue
 | --- | --- |
 |  |  |
 | **固体胶** | **液体胶** |
-| **介绍：**固体胶可在打印板和模型之间提供适当的粘合力，且不含甲醛，适用于打印 PC 和 PA 类耗材。普通胶棒也可涂抹在打印板上，以便更轻松地去除某些高粘附性耗材打印的模型。 | **介绍：**液体胶是专为 3D 打印开发的粘合剂，适用于打印 PLA、ABS、PETG、ASA、TPU、PET 等耗材。使用时可保持稳定的粘合力，无需担心模型脱落或变形。 |
+| **介绍：**固体胶可在打印板和模型之间提供适当的粘合力，且不含甲醛，适用于打印 PC、PA、ASA-CF、PPA-CF、PPS-CF、PET-CF、PA6-GF 等耗材。普通胶棒也可涂抹在打印板上，以便更轻松地去除某些高粘附性耗材打印的模型。 | **介绍：**液体胶是专为 3D 打印开发的粘合剂，适用于打印 PLA、ABS、PETG、TPU 等耗材。使用时可保持稳定的粘合力，无需担心模型脱落或变形。 |
 | **购买链接：**[天猫](https://detail.tmall.com/item.htm?abbucket=7&id=694046763647&pisk=fg4oVX2neuoStvtmiiu5xpDYPhjvFQgI9JLKp2HF0xkfO_NRAe53pJneJ7I5t6D0dYn-zTgnTReseXK8aq-qwXpraUoe0Ik0Uen8-WTnTWyCNvC5D7NSR2WOBJbTN7_TylQ3r3-q3SGpLUPkIbuSR2WOKnLEVN0QCzk5CY-qgxGnTeozLm-qTxlrabyE3mlZTUuUL25m0XhwYpoe4joqhfdy82ke0KliOH8ezJPViXGjjekg8raVFQ8SN1MOJrhoqvYKneAA9bioT7DcQO4D50DaaxYFBOKfNvDb7tI0GJrzejwhSt0af-4nb2bkCbq4sqk-7GxmrSe7S4zGEUhxxYq4zmAe870b4cZ3ETxSUuemfjo2tNGYBxP7zofB37ytE4lqDN5ggDrYPcaR3U0af738YRWv2YriTgzp0hJ_weGV9r-BA0ljiAdlC4HvgpPkfsfDfgirGbBOisxBb0ljaAfcihti4jG80&rn=96c02ad685309e35ce3ca6c70da74297&spm=a1z10.3-b-s.w4011-25177047232.28.5cad3c0e7FyN9g&skuId=4922957600622)；[京东](https://item.jd.com/10059377671132.html) | **购买链接：**[天猫](https://detail.tmall.com/item.htm?abbucket=7&id=698882119427&pisk=fx0IVG2FR9XCOdxec_dachcQIHaSRYT42_N-ibQFwyULVzMZUMzyx3m_wAk7zzlJKYg7BYAhzB0EFuhUCWIRvuBTWSFP2Th-z737-VoFzJJ3PbH4PKJ2uElntP4J3KREq9OUkS6deTrRBPUwXNRwuEln16PpgfLq8RMMZ7jRyYELX5FuB7I8pYUt6WyOJ7QLyRd_I7U8wkeRX1F7OaF-e7LO6WVLwWEdv5ETMRe8ykhEjsNWAJcBs8_a7LY0pXe1lf0_97SnOR6CpVi_v-Q4CaQ-5WGGSh8Gl3yxmJr4FALNRzGTNAZqAK_IFbhm2lg5pBkxB0M8scv5V-i-Tmm8fBLK1ywQ2VkOZMzI2v07xD1kifUKIm20vhvg12u4V-q1BphZ1JEjVvJGyJoj6AZq7O74kmDsPoUA4wb4h4zcV1ZcP5w21CslqcHWD9mBunbzv5VQbCO1p0qLs5wX1CsVDkFgO-d619n1.&rn=96c02ad685309e35ce3ca6c70da74297&spm=a1z10.3-b-s.w4011-25177047232.24.5cad3c0e7FyN9g&skuId=4944744761494)；[京东](https://item.jd.com/10067766191994.html) |
 
   

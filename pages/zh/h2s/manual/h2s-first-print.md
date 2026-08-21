@@ -4,7 +4,7 @@ title: "H2S 首次打印指南"
 description: "本文将详细为您介绍使用 H2S 进行首次打印的流程和注意事项。"
 tags: []
 created: 2025-08-26T06:17:01.623Z
-updated: 2026-02-11T08:50:06.499Z
+updated: 2026-08-19T08:36:23.905Z
 source: https://wiki.bambulab.com/zh/h2s/manual/h2s-first-print
 ---
 
@@ -49,9 +49,9 @@ source: https://wiki.bambulab.com/zh/h2s/manual/h2s-first-print
 
 ![1.png](https://public-cdn.bblmw.com/wiki/new/aether/h2s/h2s-first-print/6.png)
 
-将耗材插入支架，确保一直推到底，直到无法继续推进为止。此时，您会看到工具头挤出机的指示灯亮起绿光，这表示耗材已正确进入工具头内部。
+将耗材推入料管支架，确保推到底、无法再继续为止。此时屏幕上的耗材路径会显示一条绿色线条，表示耗材已正确送达工具头。
 
-![1.png](https://public-cdn.bblmw.com/wiki/new/aether/h2s/h2s-first-print/7.png)
+![filament_h2s_extruder_zh.png](https://wiki.bambulab.com/h2s/manual/screen-operation/filament_h2s_extruder_zh.png)
 
 点击打印机屏幕上的“编辑”按钮，为当前耗材设置相应的信息。设置完成后，点击“进料”。
 

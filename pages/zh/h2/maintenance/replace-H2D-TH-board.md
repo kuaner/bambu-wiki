@@ -4,7 +4,7 @@ title: "更换 H2D 挤出接口板/TH 板/FPC 排线"
 description: "本文介绍了如何更换 H2D 挤出接口板/TH 板/FPC 排线"
 tags: []
 created: 2025-03-25T03:04:06.264Z
-updated: 2026-06-08T02:29:51.069Z
+updated: 2026-08-19T02:22:55.204Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-H2D-TH-board
 ---
 
@@ -64,18 +64,25 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 
 ### 步骤 1：移除部件冷却风扇风道和风扇
 
-您可以参考[更换 H2D 部件冷却风扇指南](replace-part-cooling-fan.md)这篇 Wiki 或者是下方视频（前1分40秒的内容）来移除部件冷却风扇风道和部件冷却风扇。
+请参考这篇 Wiki：[**更换 H2D 部件冷却风扇指南**](replace-part-cooling-fan.md) 或下方视频（前1分40秒的内容）来移除部件冷却风扇风道和部件冷却风扇。
 
 ### 步骤 2：移除挤出接口板
 
-依次拔掉接口板上的 （1号位置）2004 切换电机 FPC 插头、（2号位置）TH 板接口 FPC 插头、（3号位置）左热端加热组件插头及其泡棉（插头位于 TH 主板，泡棉位于挤出接口板），和 （4号位置）2004 升降电机 FPC 插头。
+依次拔掉接口板上的插头：
 
-![](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/image-1.png)
+- 1 号位置：2004 切换电机 FPC 插头
+- 2 号位置：TH 板接口 FPC 插头
+- 3 号位置：左热端加热组件插头及其泡棉（插头位于 TH 主板，泡棉位于挤出接口板）
+- 4 号位置：2004 升降电机 FPC 插头
+- 5 号位置：部件冷却风扇插头（已于步骤 1 断开连接，此处仅表示意）
+
+![toolhead_extruder_connection_board_h2d.png](https://wiki.bambulab.com/h2/maintenance/replace-h2d-th-board/toolhead_extruder_connection_board_h2d.png)
 
 | **序号** | **连接对象** | **序号** | **连接对象** |
 | --- | --- | --- | --- |
 | 1 | 2004 切换电机 | 2 | TH 板 |
 | 3 | 左热端加热组件 | 4 | 2004 升降电机 |
+| 5 | 部件冷却风扇 |  |  |
 
 注意：
 
@@ -407,7 +414,8 @@ TH 板和挤出接口板安装在工具头背面，TH 板和挤出接口板之�
 
 ### 步骤 5：安装部件冷却风扇和风道
 
-您可以参考这篇 Wiki 中的安装步骤来安装部件冷却风扇和部件冷却风扇风道：[更换 H2D 部件冷却风扇指南](replace-part-cooling-fan.md)
+您可以参考这篇 Wiki 中的安装步骤来安装部件冷却风扇和部件冷却风扇风道：[更换 H2D 部件冷却风扇指南](replace-part-cooling-fan.md)  
+也可以观看下方视频（1:40至视频结尾）来安装。
 
 ## 如何验证成功
 

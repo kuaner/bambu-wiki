@@ -4,7 +4,7 @@ title: "拆解和清洁AMS五通组件"
 description: "五通组件内部清洁"
 tags: ["五通组件", "清洁"]
 created: 2022-10-17T06:53:23.443Z
-updated: 2026-05-13T10:26:54.643Z
+updated: 2026-08-18T06:31:18.339Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/clean-the-filaments-hub
 ---
 
