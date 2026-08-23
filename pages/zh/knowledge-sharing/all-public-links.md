@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-08-22T02:05:41.581Z
+updated: 2026-08-23T02:05:38.175Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -2512,9 +2512,10 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [耗材](../filament-acc.md)  
 [Wiki 新页面和内容更新](../new-and-updates.md)  
 [拓竹农场管家软件快速入门](../software/bambu-farm-manager.md)  
-[全部公开的链接](.md)  
 [运动精度校准](../h2/manual/motion-accuracy.md)  
   
 [拓竹农场管家客户端 V2.4.0 & 服务器端 V2.4.0.0 版本说明](../software/bambu-farm-release-notes/2-4-0.md)  
   
-[Bambu Studio 2.8.2.61 版本说明](https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-8-2-61)
+  
+[Bambu Studio 2.8.2.61 版本说明](https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-8-2-61)  
+[全部公开的链接](.md)
