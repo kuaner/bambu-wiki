@@ -3,12 +3,10 @@ path: zh/a2l/manual/unboxing-a2l-combo
 title: "A2L Combo 套装开箱指南"
 description: "本文介绍 A2L AMS 套装的开箱步骤。"
 tags: []
-created: 2026-06-01T13:00:53.625Z
-updated: 2026-07-08T02:47:38.358Z
+created: 2026-06-01T13:00:53.632Z
+updated: 2026-08-28T06:42:59.752Z
 source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
 ---
-
-## 视频指南
 
 ## 包装内物品
 
@@ -37,7 +35,9 @@ source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
 
 > 请勿拿取龙门架 X 轴，请拿两侧 Z 轴或 Z 轴后方深灰色部件。
 
-![a2l-take-out-printer-frame.webp](https://wiki.bambulab.com/a2l/unboxing/a2l-take-out-printer-frame.webp)
+![a2l-013-s02-accessories-take-out-gantry-v2.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-013-s02-accessories-take-out-gantry-v2.png)
+
+![a2l-015-s02-accessories-gantry-placed-upright-v2.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-015-s02-accessories-gantry-placed-upright-v2.png)
 
 - 取出纸卡，然后从两侧抬起并取出打印机底座，请勿拉拽扎带。将底座放在稳定平面上。  
   ![a2l-016-s02-accessories-take-out-base.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-016-s02-accessories-take-out-base.png)
@@ -166,9 +166,6 @@ source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
   ![a2l-077-s13-cutter-tighten-screw.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-077-s13-cutter-tighten-screw.png)
 - 将连接线插入线缆接口。  
   ![a2l-078-s13-cutter-connect-cable.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-078-s13-cutter-connect-cable.png)
-
-> 请勿用力拉扯吐料组件上的连接线，以免损坏线缆。连接时，可适当拉出 X 轴末端的线缆，以便完成接线。
-
 - 整理线缆，将连接线卡入线槽，向左放置线缆接口。  
   ![a2l-080-s13-cutter-route-cable-into-channel.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-080-s13-cutter-route-cable-into-channel.png)
 - 确保线缆已如图放置，然后安装吐料组件后盖。  
@@ -249,9 +246,7 @@ source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
 - 取出外挂料盘支架，将其固定到框架上。  
   ![a2l-117-apxa-spoolholder-mount-on-frame.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-117-apxa-spoolholder-mount-on-frame.png)
 - 取出铁氟龙料管，一端连接支架上的料管接头，另一端连接工具头上任意一个进料口。  
-  ![a2l-119-apxa-spoolholder-connect-ptfe-tube-v2.png](https://wiki.bambulab.com/a2l/manual/unboxing/a2l-119-apxa-spoolholder-connect-ptfe-tube-v2.png)
-
-> 请将白色料管从黑色工具头线缆下方穿过，确保料管位于线缆下方，以免料管压住线缆导致线缆下垂。
+  ![a2l-119-apxa-spoolholder-connect-ptfe-tube.png](https://public-cdn.bblmw.com/wiki/new/a2l/manual/unbox/a2l-119-apxa-spoolholder-connect-ptfe-tube.png)
 
 ### 附录 B：安装料管中继接头连接其他型号的 AMS
 
@@ -260,6 +255,6 @@ source: https://wiki.bambulab.com/zh/a2l/manual/unboxing-a2l-combo
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

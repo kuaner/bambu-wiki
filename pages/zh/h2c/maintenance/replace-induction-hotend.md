@@ -1,10 +1,10 @@
 ---
 path: zh/h2c/maintenance/replace-induction-hotend
 title: "更换 H2C 感应热端组件"
-description: "本文将为您详细讲述如何更换 H2C 感应热端和注意事项。"
+description: ""
 tags: []
-created: 2025-11-18T13:16:16.774Z
-updated: 2026-08-05T11:37:11.581Z
+created: 2025-11-18T13:16:16.779Z
+updated: 2026-08-28T06:32:23.726Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend
 ---
 
@@ -22,8 +22,6 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend
 ## 工具和材料
 
 - 新的热端组件
-
-## 视频指南
 
 ## 自动更换热端
 
@@ -77,7 +75,7 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend
 
 ### 5. 拆除热端
 
-> **在更换热端前请一定检查热端目前的温度，避免由于高温导致烫伤！**
+**在更换热端前请一定检查热端目前的温度，避免由于高温导致烫伤！**
 
 堵嘴片位于升降连杆上，通过拨动连杆，堵嘴片会左右移动。如果堵嘴片挡住了感应热端，必须先拨动堵嘴连杆，将堵嘴片移开，然后再进行拆卸，以防在拆除热端时不小心压弯堵嘴片。拨动时，堵嘴片可能因连杆倾斜限位而未能一次拨到位，这时需要粗拨动后再进行精细调整，确保堵嘴片完全到位。
 
@@ -88,9 +86,6 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend
 |  |  |
 | --- | --- |
 |  |  |
-
-> 📌 喷嘴可能会因残留物而难以取下，这时可以先适当加热，再使用镊子或螺丝刀轻轻撬动，佩戴隔热手套后取下热端。热端取下后，使用钳子或剪刀剪断热端顶部残留耗材，避免影响后续安装。  
-> ![左喷嘴.webp](https://wiki.bambulab.com/h2/maintenance/replace-hotend/%E5%B7%A6%E5%96%B7%E5%98%B4.webp)
 
 ### 6. 安装热端
 
@@ -120,15 +115,15 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend
 
 ## 在设备上同步喷嘴信息
 
-若您更换了其他直径或者其他材质的热端，请在热端 & 挂架界面重新点击读取：
+若您更换了其他直径或者其他材质的热端，请参考下面的动图在屏幕上修改信息：
 
-![1.png](https://wiki.bambulab.com/h2c/manual/replace-induction-hotend/1.png)
+![](https://public-cdn.bblmw.com/wiki/new/h2c/maintenance/replace-induction-hotend/020.webp)
 
 ## 操作后的校准步骤
 
 建议在完成更换后，对打印机进行校准操作。
 
-![007.png](https://wiki.bambulab.com/h2c/troubleshoting/hotend-upgrade-failure/007.png)
+![](https://public-cdn.bblmw.com/wiki/new/h2c/maintenance/replace-induction-hotend/007.png)
 
 ## 如何验证成功
 
@@ -136,6 +131,6 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-induction-hotend
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

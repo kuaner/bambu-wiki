@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-power-supply
 title: "A2L 更换电源模块"
-description: "本文介绍了如何更换 A2L 电源模块"
+description: ""
 tags: []
-created: 2026-06-01T13:13:01.144Z
-updated: 2026-06-30T01:42:16.172Z
+created: 2026-06-01T13:13:01.146Z
+updated: 2026-08-28T08:45:00.929Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-power-supply
 ---
 
@@ -63,7 +63,7 @@ A2L 电源模块
 
 ![ac012.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/ac012.jpg)![ac013.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/ac013.jpg)
 
-使用 H2.0 六角螺丝刀拆下图示两颗螺丝，取下电源模块。
+使用 H2.0 六角螺丝刀拆下图示三颗螺丝，取下电源模块。
 
 ![ac015.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/ac015.jpg)![ac014.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/ac014.webp)
 
@@ -71,7 +71,7 @@ A2L 电源模块
 
 ### 1. 安装电源模块
 
-将电源模块放入对应位置，使用 H2.0 六角螺丝刀锁入两颗螺丝。
+将电源模块放入对应位置，使用 H2.0 六角螺丝刀锁入三颗螺丝。
 
 ![ac016.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/ac016.webp)![ac015.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/ac015.jpg)
 
@@ -99,6 +99,5 @@ A2L 电源模块
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请在开始操作前联系我们的客户服务团队。  
-> 我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

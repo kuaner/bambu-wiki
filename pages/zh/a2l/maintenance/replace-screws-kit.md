@@ -3,8 +3,8 @@ path: zh/a2l/maintenance/replace-screws-kit
 title: "A2L 螺丝包使用说明"
 description: ""
 tags: []
-created: 2026-06-01T13:18:24.440Z
-updated: 2026-06-01T13:18:31.939Z
+created: 2026-06-01T13:18:24.441Z
+updated: 2026-08-28T06:46:32.604Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-screws-kit
 ---
 
@@ -36,5 +36,5 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-screws-kit
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)，点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！
