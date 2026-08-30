@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-08-29T08:05:34.444Z
+updated: 2026-08-30T06:05:36.931Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -1142,7 +1142,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换挤出电机](../p1/maintenance/replace-extruder-motor.md)  
 [浮雕灯板相框 V1 安装说明（已弃用）](Lithophane-LED-Backlight-Board-Kit.md)  
 [填充图案介绍](../software/bambu-studio/fill-patterns.md)  
-[全部公开的链接](.md)  
 [A1 系列 X 轴线轨滚珠意外脱出处理指引](../a1/maintenance/steel-bearing-balls-fall.md)  
 [如何在拓竹打印机上使用开发者模式](enable-developer-mode.md)  
 [更换 P1P/P1S 的 XY 框架](../p1/maintenance/replace-xy-axis-assembly.md)  
@@ -2519,4 +2518,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [A2L 更换 X 轴惰轮组件](../a2l/maintenance/replace-x-axis-idler-pulley.md)  
 [X2D 打印机裹头处理指引](../x2d/troubleshooting/hotend_blob.md)   
 [HMS\_07FE-4500-0002-0001: 切料传感器异常。请检查连接器是否正确插入。](../x2d/troubleshooting/hmscode/07fe_4500_0002_0001.md)  
-[H2S 挤出机清理指南](https://wiki.bambulab.com/zh/h2s/troubleshooting/extruder-cleaning-guide)
+[更换 X/P 系列 Z 惰轮盖](https://wiki.bambulab.com/zh/x1/maintenance/replace-z-tensioner-cover)  
+[H2S 挤出机清理指南](https://wiki.bambulab.com/zh/h2s/troubleshooting/extruder-cleaning-guide)  
+[全部公开的链接](.md)
