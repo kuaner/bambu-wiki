@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-08-30T06:05:36.931Z
+updated: 2026-08-31T08:05:39.968Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -663,7 +663,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [H2D Pro 固件发布记录](../h2d-pro/manual/firmware-release-history.md)  
 [H2S 固件发布记录](../h2s/manual/h2s-firmware-release-history.md)  
 [更换钩针](../h2/manual/replace-weeding-tool.md)  
-[P2S](../p2s.md)  
 [拓竹产品的 3D 打印配件模型](printed-tools.md)  
 [A 系列](../a-series.md)  
 [模型上传准则](../makerworld/tutorials/model-upload-guidelines.md)  
@@ -711,7 +710,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [A2L](../a2l.md)  
 [用户手册](../p1/manual.md)  
 [延时摄影介绍](../software/bambu-studio/Timelapse.md)  
-[P1 系列](../p1.md)  
 [Bambu Studio 安装故障排查](../bambu-studio/troubleshoot/install-issue.md)  
 [延时摄影套件使用指南](../makerworld/cyberbrick/example-projects/time-lapse.md)  
 [MakerWorld 独家模型版权支持 FAQ（中国站）](../makerworld/exclusive-model-copyright-support-faq.md)  
@@ -733,7 +731,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [AMS 2 Pro 定期清洁维护建议](../ams-2-pro/maintenance/basic-maintenance.md)  
 [知识分享](.md)  
 [常见问题](../faq.md)  
-[X1 系列](../x1.md)  
 [H2D Pro](../h2d-pro.md)  
 [HMS\_1A00-3000-0001-0040: 工具头感应热端在位检测传感器断路，请重新插拔传感器连接线或更换传感器。](../h2c/troubleshooting/hmscode/1A00_3000_0001_0040.md)  
 [Bambu Studio 2.5.0 版本说明](../software/bambu-studio/release/release-note-2-5-0.md)  
@@ -761,7 +758,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [Bambu Suite V1.4.0.00 版本说明](../software/bambu-suite/release-notes/v01-04-00-00.md)  
 [Bambu Connect (beta)](../software/bambu-connect.md)  
 [Bambu Connect 版本说明](../software/bambu-connect/releases.md)  
-[X2D](../x2d.md)  
 [Bambu Connect (Beta) 版本说明 v2.5.0-beta.15](../software/bambu-connect/releases/v2_5_0-beta_15.md)  
 [HMS\_0500-0100-0002-0002: 未连接实况摄像头，请检查硬件及线路连接。](../x1/troubleshooting/hmscode/0500_0100_0002_0002.md)  
 [Bambu Studio 2.8.2.60 版本说明](../software/bambu-studio/release/release-note-2-8-2-60.md)  
@@ -2520,4 +2516,8 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_07FE-4500-0002-0001: 切料传感器异常。请检查连接器是否正确插入。](../x2d/troubleshooting/hmscode/07fe_4500_0002_0001.md)  
 [更换 X/P 系列 Z 惰轮盖](https://wiki.bambulab.com/zh/x1/maintenance/replace-z-tensioner-cover)  
 [H2S 挤出机清理指南](https://wiki.bambulab.com/zh/h2s/troubleshooting/extruder-cleaning-guide)  
-[全部公开的链接](.md)
+[X1 系列](../x1.md)  
+[P1 系列](../p1.md)  
+[全部公开的链接](.md)  
+[P2S](../p2s.md)  
+[X2D](../x2d.md)
