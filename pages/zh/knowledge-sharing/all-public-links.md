@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-08-31T08:05:39.968Z
+updated: 2026-09-01T06:05:40.428Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -2518,6 +2518,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [H2S 挤出机清理指南](https://wiki.bambulab.com/zh/h2s/troubleshooting/extruder-cleaning-guide)  
 [X1 系列](../x1.md)  
 [P1 系列](../p1.md)  
-[全部公开的链接](.md)  
 [P2S](../p2s.md)  
-[X2D](../x2d.md)
+[X2D](../x2d.md)  
+[全部公开的链接](.md)
