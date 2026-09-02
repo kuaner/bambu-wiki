@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-09-01T06:05:40.428Z
+updated: 2026-09-02T06:05:40.447Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -290,7 +290,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0700-2000-0002-0006: 检测到送料过程中特氟龙管断开，请检查从AMS到挤出机的特氟龙管是否接好。](../x1/troubleshooting/hmscode/0700-7000-0002-0003.md)  
 [Bambu Studio 崩溃/冻结故障排除指南](../bambu-studio/troubleshoot/crash-freeze-issue.md)  
 [使用 0.2mm 喷嘴打印 - FAQ](02-mm-nozzle-FAQ.md)  
-[如何创建 MakerWorld 服务工单](../makerworld/tutorials/create_tickets.md)  
 [更换拖链组件（X1系列）](../x1/maintenance/cable-chain.md)  
 [Bambu Suite V1.0.3.1 版本说明](../software/bambu-suite/release-notes/V1-0-3-1.md)  
 [如何创建自定义预设](../software/bambu-studio/preset.md)  
@@ -1111,7 +1110,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [A1 摄像头更换指南](../a1/maintenance/camera-replacement-guide.md)  
 [A1 mini 热床异响修复指南](../a1-mini/troubleshooting/heatbed-repair-guide.md)  
 [HMS\_1200-1200-0001-0001: AMS1 有刷电机1打滑，可能挤出轮磨损或料线过细。](../A1/troubleshooting/hmscode/1200_1200_0001_0001.md)  
-[如何创建工单及上传日志](../x1/troubleshooting/how-to-upload-log.md)  
 [耗材散开（炸盘）修复指南](../filament-acc/filament/fix-loose-filament.md)  
 [X1E 电源开关座更换指南](../x1/maintenance/x1e-replace-power-switch-assembly.md)  
 [开机后屏幕无法正常启动](../x1/troubleshooting/SD-card-damage.md)  
@@ -1582,7 +1580,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0300\_1D00\_0001\_0001: 挤出电机位置传感器异常，可能是传感器排线松动。](../h2s/troubleshooting/hmscode/0300_1D00_0001_0001.md)  
 [HMS\_0300\_0900\_0001\_0002: 挤出电机短路，可能电机故障。](../h2s/troubleshooting/hmscode/0300_0900_0001_0002.md)  
 [HMS\_0500\_0400\_0002\_0043: 工具头摄像头脏污或被遮挡，请清理后继续。](../h2s/troubleshooting/hmscode/0500_0400_0002_0043.md)  
-[HMS\_0300\_0900\_0001\_0001: 挤出电机断路，可能线没插紧或电机故障。](../h2s/troubleshooting/hmscode/0300_0900_0001_0001.md)  
 [HMS\_0500\_0600\_0002\_0001: 工具头摄像头不在位，请检测硬件连接](../h2s/troubleshooting/hmscode/0500_0600_0002_0001.md)  
 [HMS\_0700\_2000\_0002\_0009: AMS A槽位1耗材挤出异常，可能堵头或耗材过细导致挤出机打滑。](../h2s/troubleshooting/hmscode/0700_2000_0002_0009.md)  
 [HMS\_0700\_4500\_0002\_0002: 切刀刀柄行程异常，可能电机丢步或XY未回零。](../h2s/troubleshooting/hmscode/0700_4500_0002_0002.md)  
@@ -1814,7 +1811,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [P2S 打印机线材包](../p2s/maintenance/replace-printer-cable-pack.md)   
 [P2S 主要部件介绍](../p2s/manual/p2s-intro.md)  
 [P2S 打印机 FAQ](../p2s/manual/p2s-faq.md)  
-[P2S 包装清单](../p2s/manual/acc-in-the-box.md)  
 [更换 P2S 内衬](../p2s/maintenance/replace-inner-lining.md)  
 [加装 P2S 辅助部件冷却风扇](../p2s/maintenance/install-auxiliary-part-cooling-fan-left.md)  
 [P2S/X2D XYZ 轴清洁润滑](../p2s/maintenance/lubricate-x-y-z-axis.md)  
@@ -1978,7 +1974,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0700-7000-0002-000A: 获取切片文件中耗材与热端的匹配关系失败。](../h2c/troubleshooting/hmscode/0700_7000_0002_000A.md)  
 [HMS\_0300-0200-0001-000B: 右挤出机喷嘴温控异常，可能热端未安装到位或无线测温板故障。](../h2c/troubleshooting/hmscode/0300_0200_0001_000B.md)  
 [HMS\_0300\_E200\_0002\_0001: 热端挂架电机与位置传感器通信异常。如重启打印机无法解决问题，建议联系售后服务。](../h2c/troubleshooting/hmscode/0300_E200_0002_0001.md)  
-[HMS\_0500\_0500\_0001\_0020: 热端 1 认证失败，请切换热端或者重启打印机。](../h2c/troubleshooting/hmscode/0500_0500_0001_0020.md)  
 [HMS\_1A00-E000-0001-0006: 感应热端挂架回中行程过长，可能是同步带过松，请检查并张紧同步带。](../h2c/troubleshooting/hmscode/1A00_E000_0001_0006.md)  
 [HMS\_0300-E000-0001-0001: 热端挂架电机未连接或存在开路异常，请检查电机软排线连接是否正常。](../h2c/troubleshooting/hmscode/0300_E000_0001_0001.md)  
 [HMS\_1A00-E000-0001-0005: 感应热端挂架回中过程中被异物阻挡，请清理挂架运动路径上异物。](../h2c/troubleshooting/hmscode/1A00_E000_0001_0005.md)  
@@ -2520,4 +2515,9 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [P1 系列](../p1.md)  
 [P2S](../p2s.md)  
 [X2D](../x2d.md)  
-[全部公开的链接](.md)
+[如何创建工单及上传日志](../x1/troubleshooting/how-to-upload-log.md)  
+[全部公开的链接](.md)  
+[如何创建 MakerWorld 服务工单](../makerworld/tutorials/create_tickets.md)  
+[HMS\_0300\_0900\_0001\_0001: 挤出电机断路，可能线没插紧或电机故障。](../h2s/troubleshooting/hmscode/0300_0900_0001_0001.md)  
+[P2S 包装清单](../p2s/manual/acc-in-the-box.md)  
+[HMS\_0500\_0500\_0001\_0020: 热端 1 认证失败，请切换热端或者重启打印机。](../h2c/troubleshooting/hmscode/0500_0500_0001_0020.md)
