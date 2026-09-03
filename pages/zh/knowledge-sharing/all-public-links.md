@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-09-02T06:05:40.447Z
+updated: 2026-09-03T06:05:42.556Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -1051,7 +1051,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0700\_5000\_0002\_0001: AMS A 通信异常，请检查AMS的连接线。](../x1/troubleshooting/hmscode/0700_5000_0002_0001.md)  
 [HMS\_0500-0300-0001-0003: AMS模块工作异常，请尝试重启设备。](../x1/troubleshooting/hmscode/0500_0300_0001_0003.md)  
 [打印选项](../studio-handy/print-options.md)  
-[A1 mini 主板更换指南](../a1-mini/maintenance/mc-board-replacement-guide.md)  
 [HMS\_0700-7000-0002-0007: AMS耗材用尽。请把耗材放入同一个AMS槽位后继续。](../x1/troubleshooting/hmscode/0700_7000_0002_0007.md)  
 [HMS\_0500-0300-0001-0004: 缓冲器模块工作异常，请重启设备。](../x1/troubleshooting/hmscode/0500_0300_0001_0004.md)  
 [HMS\_0300-0100-0001-000A: 热床温控异常，AC板可能故障。](../x1/troubleshooting/hmscode/0300_0100_0001_000A.md)  
@@ -1092,7 +1091,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [通过 microSD 卡升级固件 ——X1/X1C](../x1/manual/X1-firmware-update-from-SD-card.md)  
 [更换 Z 轴丝杆套件](../a1/maintenance/a1-z-axis-leadscrew-kit-replacement-guides.md)  
 [A1 Z 皮带更换指南](../a1/maintenance/a1-z-belt-replacement-guide.md)  
-[A1 主板更换指南](../a1/maintenance/mainboard-replacement-guide.md)  
 [Bambu Studio 质量高级设置](../software/bambu-studio/parameter/quality-advance-settings.md)  
 [A1 mini Y 轴皮带更换指南](../a1-mini/maintenance/y-belt-replacement-guide.md)  
 [A1 USB-C 数据线更换指南](../a1/maintenance/usb-c-cable-replacement-guide.md)  
@@ -1126,7 +1124,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [拓竹增稳低温打印板](../filament-acc/acc/bambu-cool-plate-supertack.md)  
 [A1 mini Z 轴电机更换指南](../a1-mini/maintenance/z-motor.md)  
 [通过 microSD 卡升级固件——P1P/P1S](../p1/manual/P1-firmware-update-from-SD-card.md)  
-[通过 microSD 卡升级固件——A1 mini](../a1-mini/manual/a1-mini-firmware-update-from-SD-card.md)  
 [通过 microSD 卡升级固件——A1/A2L](../a1/manual/a1-firmware-update-from-SD-card.md)  
 [霍尔开关故障排查指南](../x1/troubleshooting/filament-sensor-test.md)  
 [AMS lite 定期维护建议](../ams-lite/maintenance/basic-maintenance.md)  
@@ -1346,7 +1343,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0300-0900-0001-0001: 挤出电机断路，可能线没插紧或电机故障。](../h2/troubleshooting/hmscode/0300_0900_0001_0001.md)  
 [辅助部件冷却风扇软胶钉脱落安装指南](../h2/troubleshooting/reinstall-rubber-screws.md)  
 [H2D/H2C 3D 打印材料混打指南](../filament-acc/filament/h2d-filament-config-limit.md)  
-[H2D 包装清单](../h2/manual/acc-in-the-box.md)  
 [HMS\_07FE-8100-0002-0001: 挤出切换动作异常，请检查是否有异物卡在工具头内。](../h2/troubleshooting/hmscode/07FE_8100_0002_0001.md)   
 [烟尘净化器滤芯介绍及更换指南](../h2/maintenance/replace-smoke-purifier-air-filte.md)  
 [U 盘规格要求和使用建议](../h2/manual/usb-pecifications-and-usage-recommendations.md)  
@@ -1903,7 +1899,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [Vortek 感应热端系统工作流程介绍](../h2c/manual/induction-hotend-system-workflow.md)  
 [H2C Bambu Studio 操作指南](../h2c/manual/bambu-studio-h2c-operation.md)  
 [Bambu Studio H2C 擦料塔冲刷模式详解](../software/bambu-studio/h2c-purge-mode.md)  
-[H2C 屏幕操作指南](../h2c/manual/screen-operation.md)  
 [H2C + 多台 AMS 连接指南](../h2c/how-to-connect-ams.md)  
 [H2C AMS 套装 和 H2C 多色激光套装开箱指南](../h2c/manual/unboxing-h2c.md)  
 [H2C 首次打印](../h2c/manual/first-print.md)  
@@ -2394,7 +2389,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [A2L 更换底盖](../a2l/maintenance/replace-bottom-cover.md)  
 [HMS\_1200-4500-0002-0003: 切刀刀柄未松开，刀柄或刀片可能被卡住，或料线霍尔接线异常。](../a2l/troubleshooting/hmscode/1200_4500_0002_0003.md)  
 [HMS\_1200-1200-0001-0001: AMS lite 1 有刷电机1打滑，可能挤出轮磨损或料线过细。](../a2l/troubleshooting/hmscode/1200_1000_0001_0001.md)  
-[A2L 更换主板](../a2l/maintenance/replace-mainboard.md)  
 [A2L 更换 AC 板](../a2l/maintenance/replace-ac-board.md)  
 [HMS\_1200-2000-0002-0004: AMS Lite A 槽位1耗材可能断在工具头。](../a2l/troubleshooting/hmscode/1200_2000_0002_0004.md)  
 [HMS\_1200-1000-0002-0002: AMS lite 1 1号槽电机过载。料线可能缠结或卡住。](../a2l/troubleshooting/hmscode/1200_1000_0002_0002.md)   
@@ -2516,8 +2510,14 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [P2S](../p2s.md)  
 [X2D](../x2d.md)  
 [如何创建工单及上传日志](../x1/troubleshooting/how-to-upload-log.md)  
-[全部公开的链接](.md)  
 [如何创建 MakerWorld 服务工单](../makerworld/tutorials/create_tickets.md)  
 [HMS\_0300\_0900\_0001\_0001: 挤出电机断路，可能线没插紧或电机故障。](../h2s/troubleshooting/hmscode/0300_0900_0001_0001.md)  
 [P2S 包装清单](../p2s/manual/acc-in-the-box.md)  
-[HMS\_0500\_0500\_0001\_0020: 热端 1 认证失败，请切换热端或者重启打印机。](../h2c/troubleshooting/hmscode/0500_0500_0001_0020.md)
+[HMS\_0500\_0500\_0001\_0020: 热端 1 认证失败，请切换热端或者重启打印机。](../h2c/troubleshooting/hmscode/0500_0500_0001_0020.md)  
+[A1 mini 主板更换指南](../a1-mini/maintenance/mc-board-replacement-guide.md)  
+[A1 主板更换指南](../a1/maintenance/mainboard-replacement-guide.md)  
+[通过 microSD 卡升级固件——A1 mini](../a1-mini/manual/a1-mini-firmware-update-from-SD-card.md)  
+[全部公开的链接](.md)  
+[H2D 包装清单](../h2/manual/acc-in-the-box.md)  
+[H2C 屏幕操作指南](../h2c/manual/screen-operation.md)  
+[A2L 更换主板](../a2l/maintenance/replace-mainboard.md)
