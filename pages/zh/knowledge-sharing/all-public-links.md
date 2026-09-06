@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-09-05T06:05:44.841Z
+updated: 2026-09-06T06:05:43.240Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -2517,7 +2517,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [A2L 首层打印质量改善指南](../a2l/maintenance/first-layer-quality-calibration.md)  
 [Wiki 新页面和内容更新](../new-and-updates.md)  
 [PLA Basic 与 PETG HF、PETG Basic 互相支撑打印指南](../filament-acc/filament/h2d-pla-and-petg-mutual-support.md)  
-[全部公开的链接](.md)  
-[P2S/X2D 喷嘴吐料位置标定](../p2s/troubleshooting/purge-wiper-position-calibeation.md)  
+[P2S/X2D 喷嘴吐料位置标定](https://wiki.bambulab.com/zh/p2s/troubleshooting/purge-wiper-position-calibration)  
 [Bambu Studio 2.7.1 版本说明](../software/bambu-studio/release/release-note-2-7-1.md)  
-[H2S 挤出机清理指南](https://wiki.bambulab.com/zh/h2s/troubleshooting/extruder-cleaning-guide)
+[H2S 挤出机清理指南](https://wiki.bambulab.com/zh/h2s/troubleshooting/extruder-cleaning-guide)  
+[全部公开的链接](.md)
