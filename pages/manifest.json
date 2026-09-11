@@ -9,7 +9,7 @@
   "zh/h2/troubleshooting/hmscode/0500_0400_0002_0035": "2025-07-24T01:10:23.245Z",
   "zh/p2s/maintenance/belt-tension": "2026-01-06T03:47:31.601Z",
   "zh/x1/manual/printing-on-cool-plate": "2026-08-05T01:43:23.165Z",
-  "zh/knowledge-sharing/all-public-links": "2026-09-10T06:05:49.153Z",
+  "zh/knowledge-sharing/all-public-links": "2026-09-11T06:05:49.280Z",
   "zh/x2d/troubleshooting/hmscode/0700_8900_0002_0004": "2026-04-14T13:15:32.834Z",
   "zh/p1": "2026-06-30T07:35:48.745Z",
   "zh/x2d/troubleshooting/hmscode/0300_C000_0001_0001": "2026-04-14T13:16:37.739Z",
@@ -2543,5 +2543,7 @@
   "zh/p2s/troubleshooting/purge-wiper-position-calibration": "2026-09-04T02:27:10.944Z",
   "zh/software/bambu-farm-release-notes/3-0-0": "2026-09-08T02:05:08.756Z",
   "zh/x2d/manual/external-exhaust-fan-bundle": "2026-09-08T06:10:34.991Z",
-  "zh/x2d/troubleshooting/hmscode/0500_0100_0002_0012": "2026-09-09T07:13:08.584Z"
+  "zh/x2d/troubleshooting/hmscode/0500_0100_0002_0012": "2026-09-09T07:13:08.584Z",
+  "zh/a2l/manual/post-printing-cutting": "2026-09-10T11:54:01.088Z",
+  "zh/x1/troubleshooting/first-layer-printing-optimization-guide": "2026-09-09T07:05:43.834Z"
 }
