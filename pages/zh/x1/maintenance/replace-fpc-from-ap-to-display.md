@@ -4,7 +4,7 @@ title: "更换屏幕FPC"
 description: "更换显示屏主排线的操作步骤和检验方法"
 tags: ["x1"]
 created: 2022-08-01T03:42:51.825Z
-updated: 2025-12-18T11:39:40.788Z
+updated: 2026-08-28T08:23:18.344Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-fpc-from-ap-to-display
 ---
 
@@ -149,10 +149,8 @@ source: https://wiki.bambulab.com/zh/x1/maintenance/replace-fpc-from-ap-to-displ
 
 否则，请检查连接并重试。如果问题仍然存在，请联系 Bambu Lab 服务团队寻求进一步帮助。
 
-## **结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

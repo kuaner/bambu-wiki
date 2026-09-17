@@ -4,7 +4,7 @@ title: "如何创建 MakerWorld 服务工单"
 description: "本文介绍了通过网页和手机 App 创建并提交 MakerWorld 服务工单的步骤。"
 tags: []
 created: 2025-02-26T04:10:23.543Z
-updated: 2025-05-19T13:56:35.904Z
+updated: 2026-09-01T07:01:21.043Z
 source: https://wiki.bambulab.com/zh/makerworld/tutorials/create_tickets
 ---
 
@@ -38,30 +38,31 @@ source: https://wiki.bambulab.com/zh/makerworld/tutorials/create_tickets
 >   1. 查看[官方 wiki](../../home.md) 寻找解决方案。  
 >   2. 通过[在线技术支持](https://support.bambulab.cn/cn/im)（服务时间 9:00-21:00）联系我们。  
 >   3. 提交[技术咨询工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
-> - 请点击[这里](../../create-support-ticket.md)了解更多关于如何创建技术咨询工单的信息。
+> - 请点击[这里](../../x1/troubleshooting/how-to-upload-log.md)了解更多关于如何创建技术咨询工单的信息。
 
 ## 通过 Bambu Handy App 创建新工单
 
-### 点击“帮助中心” → “工单服务” → “MakerWorld 相关”
+### 点击“帮助中心” → “我要提问” → “技术咨询工单”
 
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
+打开 Bambu Handy 应用，点击底部导航栏中的 “**我的**”，再选择 “**帮助中心**”，进入帮助中心界面。
+
+在帮助中心页面，找到 “**技术支持**” 区域，点击 “**我要提问**”。向在线客服输入您的问题或输入“人工服务”后，点击**技术咨询工单**进入工单提交页面。
+
+![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/ticket_submit.jpg)
+
+选择**MakerWorld 相关**，点击 “**下一步**” 按钮以进入工单提交页面。
+
+![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/mw_ticket.png)
 
 ### 填写工单信息，点击“提交”
 
-1. 选择**问题类型**：
-
-- 如果您对 MakerWorld 社区有疑问，如社区准则、激励机制等，选择“**咨询**”。
-- 如果您希望指出 MakerWorld 网页或 Bambu Handy App 模型商城的潜在运行异常，选择“**错误报告**”。
-- 如果您认为模型或账号被错误处罚，如版权问题、积分、帐户停用，选择“**上诉**”。
-
-2. 填写**问题描述**。为提高解决效率，请详细清晰地描述您遇到的问题。
+1. 选择**问题类型**：MakerWorld、Maker's Supply 或 MakerLab。
+2. 填写问题**描述**。为提高解决效率，请详细清晰地描述您遇到的问题。
 3. 您也可以上传与问题相关的**图片或视频**，帮助支持人员更有效地排查问题。
 
 > - 如果您的问题与**订单、物流**等综合咨询相关，我们建议您联系电商平台客服、在线支持或咨询代理商，以确保您的问题能得到及时的答复。
 > - 如果您的问题与**拓竹打印机**相关，我们建议您：  
->   1. 点击 “我的”- “官方教程” 寻找解决方案。  
->   2. 点击 “我的” - “帮助中心” - “在线咨询” 联系在线技术支持（服务时间 9:00-21:00）。  
->   3. 点击 “我的” - “帮助中心” - “工单服务” - “打印机相关” 提交技术咨询工单。
-> - 请点击[这里](../../create-support-ticket.md)了解更多关于如何创建技术咨询工单的信息。
+>   1. 点击 “我的”- “学习” 寻找解决方案。  
+>   2. 点击 “我的” - “帮助中心” - “热线咨询” 联系在线技术支持（服务时间 9:00-21:00）。  
+>   3. 点击 “我的” - “帮助中心” - “我要提问” - “打印机” 提交技术咨询工单。
+> - 请点击[这里](../../x1/troubleshooting/how-to-upload-log.md)了解更多关于如何创建技术咨询工单的信息。

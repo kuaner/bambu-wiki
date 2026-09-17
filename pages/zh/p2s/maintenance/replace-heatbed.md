@@ -4,7 +4,7 @@ title: "更换 P2S 热床"
 description: "本文介绍了如何更换 P2S 热床"
 tags: []
 created: 2025-10-14T12:55:26.370Z
-updated: 2025-10-14T13:28:13.048Z
+updated: 2026-09-08T09:59:55.305Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-heatbed
 ---
 
@@ -26,10 +26,7 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-heatbed
 
 ## 安全提示
 
-> **重要提醒 ！**
->
-> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生电路短路从而引起额外的电子设备损坏和安全隐患。
->
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 
 ## 移除热床
@@ -50,13 +47,20 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-heatbed
 
 ### 步骤 4：移除热床
 
-1. 先从 MC 板上断开热床温度线，然后从 AC 板上断开三根热床供电线。在断开热床供电线时，需先按下接口处的卡扣解锁，然后即可拔出线缆；
+1. 从 MC 板上断开热床温度线；
 
 ![01_heated_bed_thermistor_cable_001.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/01_heated_bed_thermistor_cable_001.png)
 
-![02_heated_bed_power_cable_connector_002.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/02_heated_bed_power_cable_connector_002.png)
+2. 从 AC 板上断开热床供电线。在断开热床供电线时，需先按下接口处的卡扣解锁，然后即可拔出线缆；
 
-2. 使用 H2.0 内六角扳手移除一颗地线固定螺丝（STW3.5x6），将地线从框架上取出，并将地线从线扣中取出；
+> ⚠️ **注意**：P2S 的热床存在两种版本，版本 1 热床有**红、蓝、灰 3 根**供电线，因此需断开这三根线缆；版本 2 热床仅有**红、灰 2 根**供电线，因此需断开这两根线缆。请根据实际情况操作。
+
+|  |  |
+| --- | --- |
+|  |  |
+| 版本1：红、蓝、灰 3 根线缆 | 版本2：红、灰 2 根线缆 |
+
+3. 使用 H2.0 内六角扳手移除一颗地线固定螺丝（STW3.5x6），将地线从框架上取出，并将地线从线扣中取出；
 
 ![03_heated_bed_ground_wire_003.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/03_heated_bed_ground_wire_003.png)
 
@@ -64,17 +68,17 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-heatbed
 
 ![05_ground_wire_clip_005.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/05_ground_wire_clip_005.png)
 
-3. 使用 H1.5 内六角扳手移除两颗电源保护盖上的走线压片螺丝（BT2x5），将走线压片取下。然后将热床线缆从电源保护盖上的线扣中穿过；
+4. 使用 H1.5 内六角扳手移除两颗电源保护盖上的走线压片螺丝（BT2x5），将走线压片取下。然后将热床线缆从电源保护盖上的线扣中穿过；
 
 ![23_ac_clamp_screw_023.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/23_ac_clamp_screw_023.png)
 
 ![06_route_through_ac_board_cover_006.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/06_route_through_ac_board_cover_006.png)
 
-4. 使用 H1.5 内六角扳手移除 Z 滑块底面的两颗走线压片固定螺丝（BT2x5），将走线压片取出；
+5. 使用 H1.5 内六角扳手移除 Z 滑块底面的两颗走线压片固定螺丝（BT2x5），将走线压片取出；
 
 ![07_heated_bed_bottom_clamp_screw_007.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/07_heated_bed_bottom_clamp_screw_007.png)
 
-5. 使用 H2.0 内六角扳手移除七颗热床固定螺丝（BT3x5），将热床向上提起后侧放，然后将热床线缆从 Z 滑块中抽出，然后即可移除热床。
+6. 使用 H2.0 内六角扳手移除七颗热床固定螺丝（BT3x8），将热床向上提起后侧放，然后将热床线缆从 Z 滑块中抽出，然后即可移除热床。
 
 ![12_full_view_of_heated_bed_screws_012.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/12_full_view_of_heated_bed_screws_012.png)
 
@@ -86,7 +90,9 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-heatbed
 
 ### 步骤 1：安装热床
 
-1. 将新的热床侧着放入打印机，将热床线缆依次穿过 Z 滑块。在穿线时可以先依次将三根热床供电线穿过 Z 滑块，然后将拉动热床线，再依次将热床地线和热床温度线从 Z 滑块中拉出；
+1. 将新的热床侧着放入打印机，将热床线缆依次穿过 Z 滑块。在穿线时可以先依次将热床供电线穿过 Z 滑块，然后将拉动热床线，再依次将热床地线和热床温度线从 Z 滑块中拉出；
+
+> ⚠️ **注意**：P2S 的热床存在两种版本，版本 1 热床有**红、蓝、灰 3 根**供电线；版本 2 热床仅有**红、灰 2 根**供电线，请以您收到的版本为准。
 
 ![16_route_the_heated_bed_cable_1_016.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/16_route_the_heated_bed_cable_1_016.png)
 
@@ -118,9 +124,20 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-heatbed
 
 ![05_ground_wire_clip_005.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/05_ground_wire_clip_005.png)
 
-5. 将热床线缆依次插入 AC 板和 MC 板，并将线缆卡入线槽中，将 AC 板盖上的走线压片装入，使用 H1.5 内六角扳手拧紧两颗固定螺丝（BT2x5）。
+5. 将热床温度线插入至 MC 板上对应的接口；
 
-![21_connect_the_wires_021.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/21_connect_the_wires_021.png)
+![01_heated_bed_thermistor_cable_001.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/01_heated_bed_thermistor_cable_001.png)
+
+6. 将热床供电线依次插入 AC 板对应的接口；
+
+> ⚠️ **注意**：P2S 的热床存在两种版本，版本 1 热床需要连接**红、蓝、灰 3 根**供电线；版本 2 热床需要连接**红、灰 2 根**供电线。
+
+|  |  |
+| --- | --- |
+|  |  |
+| 版本1：红、蓝、灰 3 根线缆 | 版本2：红、灰 2 根线缆 |
+
+7. 将线缆卡入线槽中，将 AC 板盖上的走线压片装入，使用 H1.5 内六角扳手拧紧两颗固定螺丝（BT2x5）。
 
 ![22_ac_clamp_screw_022.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/22_ac_clamp_screw_022.png)
 
@@ -145,11 +162,11 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-heatbed
 
 1. 通过触摸屏选择"回中"，将热床温度升至 55℃ 并保持 5 分钟预热；
 
-![](https://public-cdn.bblmw.com/wiki/new/p2s/troubleshooting/first-layer-printing-optimization-guide/image-1.png)
+![p2s_tap_home.png](https://wiki.bambulab.com/p2s/maintenance/replace-heatbed/p2s_tap_home.png)
 
-![](https://public-cdn.bblmw.com/wiki/new/p2s/troubleshooting/first-layer-printing-optimization-guide/image.png)
+![set_heatbed_temp.png](https://wiki.bambulab.com/p2s/maintenance/replace-heatbed/set_heatbed_temp.png)
 
-![](https://public-cdn.bblmw.com/wiki/new/p2s/troubleshooting/first-layer-printing-optimization-guide/image-2.png)
+![heatbed-temp-cn.png](https://wiki.bambulab.com/p2s/maintenance/replace-heatbed/heatbed-temp-cn.png)
 
 2. 使用 H2.0 内六角扳手拧紧前方的四颗螺丝（编号 4 - 7）。
 
@@ -168,5 +185,5 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-heatbed
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系技术支持](https://support.bambulab.cn)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

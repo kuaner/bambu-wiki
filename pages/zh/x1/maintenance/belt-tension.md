@@ -4,7 +4,7 @@ title: "X1/P1 系列皮带张紧"
 description: "关于 P1 和 X1 系列打印机 XY 轴皮带张紧的操作"
 tags: ["张紧", "p1", "x1"]
 created: 2022-07-29T06:21:16.059Z
-updated: 2026-05-29T09:04:34.267Z
+updated: 2026-08-28T04:25:18.735Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/belt-tension
 ---
 
@@ -52,6 +52,6 @@ P1 系列和 X1 系列设备均可通过 Bambu Studio 进行校准。
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导.
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

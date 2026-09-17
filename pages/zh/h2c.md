@@ -4,7 +4,7 @@ title: "H2C"
 description: "本文提供了所有关于 Bambu Lab H2C 的文章链接。"
 tags: []
 created: 2025-11-18T13:09:34.372Z
-updated: 2026-08-04T03:54:44.963Z
+updated: 2026-08-27T01:52:30.205Z
 source: https://wiki.bambulab.com/zh/h2c
 ---
 
@@ -191,6 +191,7 @@ source: https://wiki.bambulab.com/zh/h2c
 - [更换 H2C 感应加热组件](maintenance/replace-induction-heating-assembly.md)
 - [更换 H2C 左热端加热组件](h2/maintenance/hotend-heating-assembly.md)
 - [更换 H2C 右涡流线圈](maintenance/replace-right-eddy-sensor.md)
+- [更换 H2C 左涡流线圈](maintenance/replace-left-eddy-sensor.md)
 - [更换 H2C TH 板](maintenance/replace-th-board.md)
 - [更换 H2C 挤出接口板](maintenance/replace-extruder-connection-board.md)
 - [更换 H2C X轴组件](h2/maintenance/replace-x-axis-assembly.md)

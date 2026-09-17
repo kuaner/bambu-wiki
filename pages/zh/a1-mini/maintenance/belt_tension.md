@@ -1,11 +1,11 @@
 ---
-path: zh/A1-mini/maintenance/belt_tension
+path: zh/a1-mini/maintenance/belt_tension
 title: "A1mini 同步带张紧"
 description: "本指南介绍了如何调整 A1 mini 打印机的 X 轴/ Y 轴/ Z 轴皮带的松紧度。"
 tags: []
 created: 2026-04-30T03:29:38.815Z
-updated: 2026-05-18T07:16:36.215Z
-source: https://wiki.bambulab.com/zh/A1-mini/maintenance/belt_tension
+updated: 2026-08-28T08:44:03.097Z
+source: https://wiki.bambulab.com/zh/a1-mini/maintenance/belt_tension
 ---
 
 A1 mini 打印机使用两根同步皮带，分别用于实现工具头（X 轴）和热床（Y 轴）的移动。适时对同步带进行张紧是确保打印质量的重要保障。
@@ -85,10 +85,8 @@ X、Y 皮带都张紧后， 开启打印机，在**校准**菜单中选中**振�
 
 ![](https://wiki.bambulab.com/n1/maintenance/belt_tension/%E6%A0%A1%E5%87%86.jpg)
 
-## **结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。
->
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

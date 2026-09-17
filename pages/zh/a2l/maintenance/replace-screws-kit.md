@@ -3,8 +3,8 @@ path: zh/a2l/maintenance/replace-screws-kit
 title: "A2L 螺丝包使用说明"
 description: ""
 tags: []
-created: 2026-06-01T13:18:24.441Z
-updated: 2026-08-28T06:46:32.604Z
+created: 2026-06-01T13:18:24.440Z
+updated: 2026-08-28T06:46:32.065Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-screws-kit
 ---
 

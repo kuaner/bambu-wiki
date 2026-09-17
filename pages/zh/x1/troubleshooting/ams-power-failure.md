@@ -4,7 +4,7 @@ title: "AMS 无法上电"
 description: "本文介绍了 AMS 无法上电的故障排除"
 tags: ["ams"]
 created: 2022-08-01T04:33:04.667Z
-updated: 2026-05-29T09:36:20.390Z
+updated: 2026-08-28T08:23:19.994Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/ams-power-failure
 ---
 
@@ -36,11 +36,11 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/ams-power-failure
 
 从缓冲器上断开 4Pin 线缆，开启打印机，测试 4Pin 线缆的电压。
 
-![](https://wiki.bambulab.com/ams_power_on_failure/测4pin线电压.png)
+![](https://wiki.bambulab.com/ams_power_on_failure/%E6%B5%8B4pin%E7%BA%BF%E7%94%B5%E5%8E%8B.png)
 
 然后将 4Pin 线缆连接回打印机，将 6Pin 线缆与 AMS 断开。测试 6pin 电缆的电压。
 
-![](https://wiki.bambulab.com/ams_power_on_failure/测6pin线电压.png)
+![](https://wiki.bambulab.com/ams_power_on_failure/%E6%B5%8B6pin%E7%BA%BF%E7%94%B5%E5%8E%8B.png)
 
 - 如果 AMS 外部的引脚和电压都是正常的，但故障仍然存在，检查 AMS 内部的电源线缆（Power）是否松动或者脱落以及内部电压是否正常（24V）。
 - 检查 AMS 主板针脚是否有存在进水腐蚀的情况。
@@ -49,14 +49,12 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/ams-power-failure
 
 - 如果 AMS 主板的 24V 也是正常的，**请拔掉主板上的其他的线只保留电源线和通信线(485)，测 U2 芯片上的 GND/3.3V 和 GND/6.6V**是否正常（绿框中），并同时观察一下屏幕上 AMS 是不是被识别到了。如果此时 AMS 能被打印机检测到，把 AMS 主板上的其他模块的线依次接上，看看接回哪条线的时候 AMS 就无法上电了，这样就能确认是哪个部件故障导致整个 AMS 无法工作的。
 
-![](https://wiki.bambulab.com/x1/troubleshooting/ams-power-failure/ams上电.jpg)
+![](https://wiki.bambulab.com/x1/troubleshooting/ams-power-failure/ams%E4%B8%8A%E7%94%B5.jpg)
 
 - 请按上述步骤进行测量和排查，根据测试结果联系售后服务团队以获得进一步帮助。
 
-## **结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

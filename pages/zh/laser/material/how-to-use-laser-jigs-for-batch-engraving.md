@@ -4,7 +4,7 @@ title: "如何使用激光夹具进行批量激光雕刻"
 description: "本篇教程将介绍如何使用激光夹具进行批量激光雕刻。"
 tags: []
 created: 2026-01-06T09:28:28.389Z
-updated: 2026-03-27T04:12:32.879Z
+updated: 2026-08-28T06:36:10.819Z
 source: https://wiki.bambulab.com/zh/laser/material/how-to-use-laser-jigs-for-batch-engraving
 ---
 
@@ -326,5 +326,5 @@ source: https://wiki.bambulab.com/zh/laser/material/how-to-use-laser-jigs-for-ba
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)；点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

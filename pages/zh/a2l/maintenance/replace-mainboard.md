@@ -4,7 +4,7 @@ title: "A2L 更换主板"
 description: "本文介绍了如何更换 A2L 主板"
 tags: []
 created: 2026-06-01T13:12:55.684Z
-updated: 2026-06-17T01:39:01.225Z
+updated: 2026-09-07T03:34:28.722Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-mainboard
 ---
 
@@ -42,7 +42,21 @@ A2L 主板
 
 ## **拆卸步骤**
 
-### 1. 拆除前底盖
+### 1. 弹出 SD 卡并关闭打印机
+
+A2L **不支持热插拔卡**，因此每次取出 SD 卡时，**请务必从菜单中安全弹出**，具体步骤如下：
+
+- 进入 **设置 → SD 卡**
+- 在 SD 卡菜单中点击**弹出**
+- 点击**弹出**，确认选项
+
+![a1-弹出sd_v2.jpg](https://wiki.bambulab.com/a1-sd/a1-%E5%BC%B9%E5%87%BAsd_v2.jpg)
+
+只需按下 SD 卡再松开，即可将其从打印机中弹出。然后关闭打印机，并断开打印机电源。
+
+![](https://wiki.bambulab.com/a1/manual/print-from-sd-card/a1_micro_sd_card.jpeg)
+
+### 2. 拆除前底盖
 
 将Z轴降低至距离热床约 5-8 cm位置。  
 ![dk001.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk001.webp)
@@ -59,12 +73,12 @@ A2L 主板
 用手扣住前底盖边缘，向外解锁卡扣取下前底盖。  
 ![dk012.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk012.webp)
 
-### 2. 移除WiFi天线
+### 3. 移除WiFi天线
 
 使用镊子或铲刀从底座上移除 WiFi 天线。  
 ![wifi001.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/wifi001.webp)
 
-### 3. 断开线缆
+### 4. 断开线缆
 
 使用 H1.5 内六角螺丝刀拆下图示两颗螺丝，拔除工具头线缆。  
 ![dz005.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dz005.jpg)![dz006.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dz006.jpg)
@@ -81,10 +95,16 @@ A2L 主板
 | 2 | AC 板 | 5 | 屏幕组件 |
 | 3 | Z 电机 |  |  |
 
-### 4. 移除主板
+### 5. 移除主板
 
 使用十字螺丝刀拧松固定电源插头的三颗螺丝，拔出电源插头。  
 ![dy114.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-y-axis-linear-guide-assembly/dy114.jpg)
+
+> ℹ️ **说明**：电源模块有不同版本，接线端子的外观略有差异，但**接线方式和功能完全相同**。本文以其中某一版本示例，不影响实际操作。
+>
+> |  |  |
+> | --- | --- |
+> | 本文示例版本 | 其他版本 |
 
 将电源线从线槽中取出。  
 ![dy113.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-y-axis-linear-guide-assembly/dy113.webp)
@@ -116,7 +136,13 @@ A2L 主板
 将电源插头装回电源模块中，并使用十字螺丝刀锁紧固定螺丝。  
 ![dy114.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-y-axis-linear-guide-assembly/dy114.jpg)
 
-> 电源线插头位置和颜色必须与图示完全一致，接错可能导致设备烧毁！
+> **❗ 警示**：电源线插头位置和颜色必须与图示完全一致，接错可能导致设备烧毁！
+
+> ℹ️ **说明**：电源模块有不同版本，接线端子的外观略有差异，但**接线方式和功能完全相同**。本文以其中某一版本示例，不影响实际操作。
+>
+> |  |  |
+> | --- | --- |
+> | 本文示例版本 | 其他版本 |
 
 ### 2. 连接线缆
 
@@ -142,6 +168,12 @@ A2L 主板
 小心地将打印机翻转回正常放置位置。  
 ![dk016.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dk016.jpg)
 
+### 5. 插入 MicroSD 卡
+
+A2L **不支持热插拔卡**，因此请在打印机断电情况下，插入 MicroSD 卡，然后再连接打印机电源。
+
+![a1_micro_sd_card.jpg](https://wiki.bambulab.com/a1-sd/a1_micro_sd_card.jpg)
+
 ## 联系客户支持注册序列号
 
 > 重要提醒：  
@@ -165,6 +197,5 @@ A2L 主板
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请在开始操作前联系我们的客户服务团队。  
-> 我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -4,7 +4,7 @@ title: "霍尔开关故障排查指南"
 description: "本文介绍了如何对霍尔开关进行检测"
 tags: ["霍尔板"]
 created: 2024-11-26T04:10:37.813Z
-updated: 2026-06-09T08:16:22.885Z
+updated: 2026-08-28T06:20:59.908Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/filament-sensor-test
 ---
 
@@ -31,8 +31,8 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/filament-sensor-test
 
 - A2L
 - H2 系列
-- P2S 霍尔开关组件
-- X2D 主挤出机霍尔开关组件
-- X2D 辅助挤出机霍尔开关组件
-- X1/P1 系列霍尔开关组件
-- A1 系列霍尔开关组件
+- P2S
+- X2D （主挤出机）
+- X2D （辅助挤出机）
+- X1/P1 系列
+- A1 系列

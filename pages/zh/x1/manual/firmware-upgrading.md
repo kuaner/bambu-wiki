@@ -4,7 +4,7 @@ title: "X1 系列打印机如何更新固件"
 description: "本指南介绍 X1 系列打印机固件升级的详细步骤。"
 tags: ["x1", "固件升级"]
 created: 2022-07-29T07:22:36.565Z
-updated: 2026-03-30T06:23:17.012Z
+updated: 2026-08-28T04:25:25.614Z
 source: https://wiki.bambulab.com/zh/x1/manual/firmware-upgrading
 ---
 
@@ -39,8 +39,6 @@ source: https://wiki.bambulab.com/zh/x1/manual/firmware-upgrading
 
 ## 结束语
 
-> 我们希望这份指南为您提供了有效的信息，并真实地帮助了您。
->
-> 如果您对本文中描述的过程有任何疑虑或疑问，您可以在开始操作前联系我们的客户服务团队。 我们随时准备为您提供帮助并回答您的任何问题。
->
-> [点击这里提交服务工单](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

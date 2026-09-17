@@ -4,7 +4,7 @@ title: "A1 mini 主板更换指南"
 description: "本指南详细介绍了如何卸下和安装A1 mini的主板。"
 tags: ["a1 mini", "主板"]
 created: 2024-05-24T09:32:38.525Z
-updated: 2026-05-21T13:44:21.755Z
+updated: 2026-09-02T07:00:10.288Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/mc-board-replacement-guide
 ---
 
@@ -56,7 +56,21 @@ A1 mini 主板
 
 ## 移除旧主板
 
-### 1. 移除打印机底部的盖子
+### 1. 弹出 MicroSD 卡并关闭打印机
+
+Bambu Lab A1 系列 3D 打印机**不支持热插拔卡**，因此每次取出 MicroSD 卡时，**请务必从菜单中安全弹出**，具体步骤如下：
+
+- 进入 **设置 → SD 卡**
+- 在 SD 卡菜单中点击**弹出**
+- 点击**弹出**，确认选项
+
+![a1-弹出sd_v2.jpg](https://wiki.bambulab.com/a1-sd/a1-%E5%BC%B9%E5%87%BAsd_v2.jpg)
+
+只需按下 MicroSD 卡再松开，即可将其从打印机中弹出。然后关闭打印机，并断开打印机电源。
+
+![sd_card_a1_mini.jpg](https://wiki.bambulab.com/a1m/manual/ai-mini-combo-pack/sd_card_a1_mini_.jpg)
+
+### 2. 移除打印机底部的盖子
 
 以 Z 轴为接触点，将打印机侧放至桌子上。
 
@@ -68,7 +82,7 @@ A1 mini 主板
 
 卸下螺丝后，从右上方开始，绕着打印机轻轻撬动，直到底盖松动。
 
-### 2. 移除主板风扇
+### 3. 移除主板风扇
 
 卸下固定风扇的 2 颗螺丝。
 
@@ -78,7 +92,7 @@ A1 mini 主板
 
 ![](https://wiki.bambulab.com/a1m/replace-mc-board-fan/disconnect_mc_fan_connector.jpeg)
 
-### 3. 移除 USB-C 数据线支架并断开接头
+### 4. 移除 USB-C 数据线支架并断开接头
 
 如下图所示。支架用于将 USB-C 数据线固定在主板上。
 
@@ -88,25 +102,25 @@ A1 mini 主板
 
 ![](https://wiki.bambulab.com/a1m/replace-usb-c-cable/remove_the_a1_mini_usb_cable.jpeg)
 
-### 4. 断开 Wi-Fi 天线接头
+### 5. 断开 Wi-Fi 天线接头
 
 将 Wi-Fi 天线线缆轻轻拉向您的方向。请格外小心，将其从主板上向上拉，避免损坏主板。
 
 ![](https://wiki.bambulab.com/a1m/replace-wifi-antenna/disconnect_the_wi-fi_antenna_connector.jpeg)
 
-### 5. 断开触摸屏的排线
+### 6. 断开触摸屏的排线
 
 将固定排线的塑料夹子轻轻拉向你的方向，从而松开排线，使其可以被拉出。由于夹子很容易被损坏，所以请格外小心。
 
 ![](https://wiki.bambulab.com/a1m/replace-touchscreen/open_the_plastic_clip_of_the_ribbon_cable.jpeg)
 
-### 6. 断开主板上的其他线缆
+### 7. 断开主板上的其他线缆
 
 断开标号为 4 和 5 的电缆时，请格外小心。它们的底部有一个小夹子，取下时需要按住。
 
 ![](https://wiki.bambulab.com/a1m/remove-mc-board/disconnect_the_remaining_wires.jpeg)
 
-### 7. 移除塑料电线盖
+### 8. 移除塑料电线盖
 
 小心拧下固定塑料电线盖的 3 颗螺丝，可以看到电源端子。
 
@@ -114,19 +128,19 @@ A1 mini 主板
 
 ![](https://wiki.bambulab.com/a1m/power-supply/remove_the_plastic_wire_cover.jpeg)
 
-### 8. 从电源上移除主板的电线
+### 9. 从电源上移除主板的电线
 
 松开下图中所示的电源端子螺丝。只需将其拧松即可，**请勿将其完全卸下**，便于在接下来的步骤中将更容易将所有部件重新安装到位。
 
 ![](https://wiki.bambulab.com/a1m/remove-mc-board/remove_mc_board_wires_from_the_power_supply.jpeg)
 
-### 9. 卸下主板螺丝并拉出主板
+### 10. 卸下主板螺丝并拉出主板
 
 卸下固定主板的 3 颗螺丝，然后轻轻地将主板拉向您的方向将其取出。
 
 ![](https://wiki.bambulab.com/a1m/remove-mc-board/mc_board_a1_mini_screws.jpeg)
 
-### 10. 从主板上移除热床电缆
+### 11. 从主板上移除热床电缆
 
 电缆上有一个安全闩锁，用于将其固定，因此在拉动线缆时需要按住金属夹。
 
@@ -235,6 +249,12 @@ A1 mini 主板
 
 ![](https://wiki.bambulab.com/a1-mini/a1mini-replace-mc-board-fan/a1_mini_%E6%96%B0%E8%83%8C%E6%9D%BF%E4%BF%AE%E5%89%AA_1.jpg)
 
+### 12. 插入 MicroSD 卡
+
+A1 系列 3D 打印机**不支持热插拔卡**，因此请在打印机断电情况下，插入 MicroSD 卡，然后再连接打印机电源。
+
+![sd_card_a1_mini.jpg](https://wiki.bambulab.com/a1m/manual/ai-mini-combo-pack/sd_card_a1_mini_.jpg)
+
 ## 功能验证
 
 为确保一切按预期运行，请打开打印机并执行回中程序尝试将各轴归位，并确认屏幕能正确显示温度。
@@ -316,10 +336,8 @@ A1 mini 主板
 12. AMS Lite 接口
 13. SD 卡
 
-## **结束语**
+## 结束语
 
-> 我们希望这份指南为您提供了有效的信息，并真实地帮助了您。
->
-> 如果您对本文中描述的过程有任何疑虑或疑问，您可以在开始操作前联系我们的客户服务团队。 我们随时准备为您提供帮助并回答您的任何问题。
->
-> [点击这里提交服务工单](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

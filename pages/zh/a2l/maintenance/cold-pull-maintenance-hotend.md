@@ -4,7 +4,7 @@ title: "A2L 喷嘴堵塞清理"
 description: "本文介绍了 A2L 喷嘴堵塞时应如何清理"
 tags: []
 created: 2026-06-01T13:32:08.482Z
-updated: 2026-07-08T02:06:35.164Z
+updated: 2026-08-28T08:46:20.231Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hotend
 ---
 
@@ -150,10 +150,8 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hoten
 
 0.2 mm 的喷嘴更难清除堵塞物，可能需要多次进行上述步骤。另一方面，大于 0.4 mm 的喷嘴往往比 0.4 mm 的喷嘴更少堵塞，因为喷嘴的口径开口允许更大的颗粒通过。
 
-## **结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

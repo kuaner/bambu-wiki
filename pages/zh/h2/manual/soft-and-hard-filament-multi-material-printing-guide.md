@@ -4,7 +4,7 @@ title: "H2D 软硬材料混打指南"
 description: "本文介绍如何使用 H2D 进行软硬材料混打"
 tags: []
 created: 2025-03-26T11:53:35.185Z
-updated: 2025-03-27T06:18:06.991Z
+updated: 2026-08-28T08:34:43.148Z
 source: https://wiki.bambulab.com/zh/h2/manual/soft-and-hard-filament-multi-material-printing-guide
 ---
 
@@ -205,7 +205,6 @@ H2D 机型支持硬料线（左热端）以及 TPU 料线（右热端）一起�
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -4,7 +4,7 @@ title: "P2S 包装清单"
 description: "本文汇总 P2S 多色打印套装\单机版本的包装配件清单"
 tags: []
 created: 2025-10-14T13:15:10.600Z
-updated: 2026-02-25T11:54:28.470Z
+updated: 2026-09-01T09:51:29.275Z
 source: https://wiki.bambulab.com/zh/p2s/manual/acc-in-the-box
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/p2s/manual/acc-in-the-box
 
 | **P2S 多色打印套装版本** | **P2S 单机版本** |
 | --- | --- |
-| P2S 打印机  AMS 2 Pro  打印板（已预装在热床上）   减震脚垫 （已预装在打印机上） | P2S 打印机  打印板（已预装在热床上）   减震脚垫 （已预装在打印机上） |
+| P2S 打印机  AMS 2 Pro  打印板（已预装在热床上）   减震脚垫 （已预装在打印机上）   缓冲器 （已预装在打印机上） | P2S 打印机  打印板（已预装在热床上）   减震脚垫 （已预装在打印机上） |
 | 1-combo-acc.jpeg | 2-p2s-acc.png |
 | **配件盒**  - 电源线 - 6-pin 连接线 - 料盘支架组件 - 铁氟龙料管 \*3 (600 mm、555 mm、350 mm） - 屏幕 | - 料盘支架组件 - 屏幕 - 铁氟龙料管 \*2 (555 mm、180 mm） - 电源线 |
 | **工具盒**  - 热端硅胶套 - 工具头切刀 - 通针 - 擦嘴块 - 刮刀刀片 - 螺丝（用于刮刀） - 内六角扳手（H1.5 和 H2.0） - 润滑油 - 润滑脂 | **工具盒**  - 热端硅胶套 - 工具头切刀 - 通针 - 擦嘴块 - 刮刀刀片 - 螺丝（用于刮刀） - 内六角扳手（H1.5 和 H2.0） - 润滑油 - 润滑脂 |
@@ -45,5 +45,5 @@ source: https://wiki.bambulab.com/zh/p2s/manual/acc-in-the-box
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)，点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

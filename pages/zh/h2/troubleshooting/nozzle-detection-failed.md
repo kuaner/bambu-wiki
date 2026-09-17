@@ -4,7 +4,7 @@ title: "03004039：喷嘴在位检测失败，请查看帮助解决问题。"
 description: ""
 tags: ["h2"]
 created: 2026-04-01T07:14:23.003Z
-updated: 2026-04-01T08:49:00.910Z
+updated: 2026-08-28T06:37:42.205Z
 source: https://wiki.bambulab.com/zh/h2/troubleshooting/nozzle-detection-failed
 ---
 

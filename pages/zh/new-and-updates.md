@@ -4,9 +4,128 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-08-14T08:41:37.839Z
+updated: 2026-09-11T09:01:55.911Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 2026-W37
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [X1/P1 首层打印质量改善指南](x1/troubleshooting/first-layer-printing-optimization-guide.md) | 介绍 X1/P1 打印机首层质量不佳的排查与改善方法，涵盖热端检查、清洁打印板和热床调平。 | X1 系列,P1 系列 |
+| [X2D 外排风扇套件安装指南](x2d/manual/external-exhaust-fan-bundle.md) | 介绍 X2D 外排风扇套件的安装流程、所需工具及排气管连接件的组装方法。 | X2D,P2S |
+| [A2L 打印后刀切](a2l/manual/post-printing-cutting.md) | 介绍 A2L 打印后刀切的版本要求、纸张贴放位置、定位校准异常与切不透纸的处理方法。 | A2L |
+| [拓竹农场管家客户端 V3.0.0 & 服务器端 V3.0.0.0 版本说明](software/bambu-farm-release-notes/3-0-0.md) | 介绍拓竹农场管家客户端 V3.0.0 与服务器端 V3.0.0.0 的版本更新内容与功能改进。 | / |
+| [HMS\_0500-0100-0002-0012：实况摄像头固件升级出错，请重启机器后重试升级。](x2d/troubleshooting/hmscode/0500_0100_0002_0012.md) | 介绍 X2D 实况摄像头固件升级报错 0500-0100-0002-0012 的排查与处理步骤。 | X2D |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [X2D 冷却系统介绍](x2d/manual/cooling-fan-system.md) | 更新风扇章节名称，并改写其冷却对象描述。 | 散热风扇 | X2D |
+| [A2L 固件发布记录](a2l/manual/a2l-firmware-release-history.md) | 补充 01.01.05.00 固件新增“打印后刀切”及多项功能优化说明 | 打印后刀切 | A2L |
+| [更换 H2 系列热床组件](h2/maintenance/replace-heatbed-unit.md) | 补充背板、废料滑梯、内置气泵及 AC 板理线盖的拆装指引 | 热床组件 | H2 系列,H2D |
+| [熨烫功能](software/bambu-studio/parameter/ironing.md) | 更新熨烫功能中，阿基米德螺旋图案介绍。 | 阿基米德螺旋 | Bambu Studio |
+| [MakerWorld 加载异常排查](makerworld/troubleshooting-loading-issues.md) | 更新加载异常排查说明，并补充访问被阻止的排查提示与 HAR 导出指引 | HAR | / |
+| [A1 mini整机拆装指引](a1-mini/maintenance/a1-mini-com.md) | 更新 Y 轴导轨实物图，说明实物与 Wiki 图中差异，不影响拆装操作。 | Y轴线轨/导轨 | A1 mini |
+| [更换 A1mini Y轴导轨](a1-mini/maintenance/replacing-y-axis.md) | 更新 Y 轴导轨实物图，说明实物与 Wiki 图中差异，不影响拆装操作。 | Y轴线轨/导轨 | A1 mini |
+| [A2L 更换主板](a2l/maintenance/replace-mainboard.md) | 更新电源模块版本说明，说明接线方式相同。 | 电源模块 | A2L |
+| [A2L 更换电源模块](a2l/maintenance/replace-power-supply.md) | 更新电源模块版本说明，说明接线方式相同。 | 电源模块 | A2L |
+| [混色打印](bambu-studio/color-mixing.md) | 补充混色打印推荐耗材及 CMYW/RYBW 官方测试说明，更新 CMYK 释义与配图。 | 混色打印 | / |
+| [HMS\_0300-A800-0001-0001: AMS电源异常，可能是AMS损坏、AMS接口短路，或AMS接入数量过多。请检查 AMS接入是否正确。](p2s/troubleshooting/hmscode/0300_A800_0001_0001.md) | 按机型（A2L/P2S/X2D）分类，补充 A2L 连接 AMS lite 的排障操作。 | A2L | A2L,P2S,X2D,AMS,AMS 2 Pro,AMS HT |
+| [拓竹农场管家软件快速入门](software/bambu-farm-manager.md) | 更新农场管家服务器/客户端下载版本，并调整支持机型固件要求表述。 | 农场管家 | H2D Pro,A1 mini,A2L,P1P,P1S,P2S,X1C,X1E,H2S,H2C,A1 |
+| [常见问题](faq.md) | 更新食品接触打印说明，改为纯净 PLA 适用性及指南链接 | 纯净 PLA | / |
+
+## 2026-W36
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [A1 mini 主板更换指南](a1-mini/maintenance/mc-board-replacement-guide.md) | 补充更换主板前安全弹出、断电取出及装回后插入 MicroSD 卡说明 | MicroSD 卡 | A1 mini,A1 系列 |
+| [A1 主板更换指南](a1/maintenance/mainboard-replacement-guide.md) | 补充 SD 卡安全弹出/断电插拔说明，并更新相关步骤顺序。 | SD卡 | A1 系列 |
+| [A2L 更换主板](a2l/maintenance/replace-mainboard.md) | 补充更换主板前后 MicroSD 卡安全弹出与断电插卡说明。 | MicroSD卡 | A2L |
+| [如何创建 MakerWorld 服务工单](makerworld/tutorials/create_tickets.md) | 更新 MakerWorld 工单提交流程，并补充 Maker's Supply、MakerLab 问题类型。 | MakerWorld工单 | X1 |
+| [H2D 包装清单](h2/manual/acc-in-the-box.md) | 更新配件盒清单中 AMS 内附件的数量与放置说明。 | 配件盒 | H2D,AMS |
+| [H2C 包装清单](h2c/acc-in-the-box.md) | 更新长方形配件盒清单，并补充正方形配件盒说明与图片标注。 | 配件盒 | H2C,AMS |
+| [AMS线材包](ams/ams-cables.md) | 补充六合一AMS线材包内容及上下料组件连接线更换步骤。 | 六合一线材包 | AMS,X1 |
+| [H2C 屏幕操作指南](h2c/manual/screen-operation.md) | 补充过滤器功能说明及打印结束后自动净化空气信息 | 过滤器 | H2C |
+
+## 2026-W35
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [H2S 挤出机清理指南](h2s/troubleshooting/extruder-cleaning-guide.md) | 介绍 H2S 挤出机的清理方法与操作要点，用于排查堵料、进料异常等问题。 | H2S |
+| [更换 H2C 左涡流线圈](h2c/maintenance/replace-left-eddy-sensor.md) | 介绍 H2C 左涡流线圈的更换流程，帮助用户完成拆装与维护操作。 | H2C |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [HMS\_0300-2000-0001-0002: Y轴回零异常，请检查热床是否卡住或运动阻力过大。](a2l/troubleshooting/hmscode/0300_2000_0001_0002.md) | 更新回中成功判定条件，将移动距离由“≥”改为“=”。 | 回中成功判定 | A2L |
+| [X2D 回零&调平失败故障排查](x2d/troubleshooting/homing-leveling-failure.md) | 更新回零原理表述，并更新文末支持渠道与反馈说明。 | 回零 | X2D |
+| [堵头](filament-acc/filament/print-quality/clog.md) | 补充 X2D 喷嘴堵塞清理入口，并更新 H2C 链接及文末支持方式。 | X2D | 耗材 |
+| [耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水的兼容性、适配性及参数设置](general/filament-guide-material-table.md) | 补充高磨损耗材需更高频维护喷嘴和挤出齿轮的说明。 | 喷嘴维护 | AMS |
+| [H2S 堵塞排查](h2s/troubleshooting/clogging.md) | 更新挤出机堵塞处理方式为跳转清理指南。 | 挤出机清理指南 | H2S |
+| [如何有效防止喷嘴堵塞](knowledge-sharing/how_to_avoid_nozzle_clogs.md) | 补充温度示意图。 | 喷嘴堵塞 | / |
+| [X2D 打印擦拭时出现异响的解决方法](x2d/troubleshooting/noise-during-wiping.md) | 更新处理方案：改为升级固件后重做电机降噪，并补充润滑 Z 张紧器排查步骤。 | 异响 | X2D |
+| [A1系列打印首层打印质量问题及对应方案——首层偏低](a1-mini/troubleshooting/print-issues-troubleshooting.md) | 补充通过调整起始G-code临时修正首层偏低的方法、适用范围及偏移调整逻辑。 | G-code | A1 系列 |
+| [Bambu Lab纹理PEI打印板质量与预期不符](general/textured-PEI-plate-not-working-as-expected.md) | 补充打印区域涂层磨损的处理建议，并更新粘附力问题的排查指引与支持入口。 | 纹理PEI打印板 | / |
+| [H2D 挤出机堵塞处理指南](h2/troubleshooting/dual-extruder-Idlers-clogging.md) | 补充前盖导向组件堵塞的拆卸、清理与复装处理步骤 | 前盖导向组件 | H2D |
+| [挤出机维护指南：P1系列挤出机维护](p1/maintenance/extruder-cleaning-guide.md) | 补充大齿轮无法取出时的拆卸步骤与注意事项。 | 大齿轮拆卸 | P1 系列 |
+| [挤出机维护指南：X1 系列挤出机维护](x1/troubleshooting/extruder-clog.md) | 补充大齿轮无法取出时的拆卸步骤及操作注意事项。 | 大齿轮拆卸 | X1 系列 |
+| [耗材变轨器使用指南 - H2 系列](general/manual/filament-track-switch-h2.md) | 补充 H2D 的适用版本要求，并更新 H2C 的版本表述。 | H2D | 耗材 |
+| [开箱&装箱指南](general/unboxing-guide.md) | 更新 AMS lite 开箱指南链接地址。 | AMS lite 开箱指南 | AMS, A1 |
+| [H2D 固件发布记录](h2d/manual/h2d-firmware-release-history.md) | 补充 01.04.00.00 版本发布说明，含耗材变轨器支持及多项优化 | 01.04.00.00 | H2D,AMS,AMS 2 Pro |
+| [更换 P1 系列挤出机](p1/maintenance/extruder-unit.md) | 补充更换挤出机前拆装切刀的安全提醒与操作说明。 | 挤出机 | P1 系列 |
+| [更换 P2S 右侧板](p2s/maintenance/replace-right-side-panel.md) | 更新前面盖安装引用说明，并补充相关安装示意图。 | 前面盖 | P2S |
+| [更换 X1 系列挤出机](x1/maintenance/replace-extruder.md) | 补充更换挤出机时取下切刀的安全提醒，并更新视频嵌入方式。 | 挤出机 | X1 系列 |
+| [更换 X2D 右侧板](x2d/maintenance/replace-right-side-panel.md) | 补充前盖拆装与单元拆装配图，并更新链接打开方式及图片尺寸。 | 右侧板 | X2D |
+| [更换 P1 系列 Z 轴张紧器](p1/maintenance/z-tensioner.md) | 统一术语：Z 惰轮盖 | Z轴张紧器 | P1 系列,P1S |
+| [更换 P2S/X2D Z 皮带](p2s/maintenance/replace-z-belt.md) | 统一术语：Z 惰轮盖 | Z 惰轮盖 | P2S,X2D |
+| [更换 X1 系列 Z 轴张紧器](x1/maintenance/replace-the-z-tensioner.md) | 统一术语：Z 惰轮盖 | Z轴张紧器 | X1 系列 |
+| [更换 X1 系列 Z 轴同步皮带](x1/maintenance/replace-the-z-timing-belt.md) | 统一术语：Z 惰轮盖 | Z 惰轮盖 | X1 系列 |
+| [拓竹铁氟龙料管介绍](filament-acc/acc/ptfe-tube.md) | 更新 AMS 背面料管拆卸说明，区分 AMS 与 AMS 2 Pro 的操作方法。 | AMS | 耗材 |
+| [更换 P2S AC/MC 板](p2s/maintenance/replace-mc-and-ac-boards.md) | 补充 P2S 两种热床供电线版本及对应接线说明 | 热床供电线 | P2S |
+| [HMS\_0300-0600-0001-0003：A电机电阻异常，可能是电机故障。](p2s/troubleshooting/hmscode/0300_0600_0001_0003.md) | 更新电机插头对调排查对象为 A/B 电机，并更新支持联系方式。 | A电机电阻异常 | P2S |
+| [P2S/X2D 喷嘴吐料位置标定](https://wiki.bambulab.com/zh/p2s/troubleshooting/purge-wiper-position-calibeation) | 更新异物检查说明，并更新文末技术支持联系方式与反馈指引 | 异物检查 | P2S,X2D |
+| [拓竹增稳低温打印板](filament-acc/acc/bambu-cool-plate-supertack.md) | 更新打印板适配说明，按面积规格重列对应机型并细化到 H2D/H2S/H2C/A1。 | 增稳低温打印板 | 耗材 |
+| [更换 P2S 热床](p2s/maintenance/replace-heatbed.md) | 补充 P2S 两种热床版本的供电线差异及对应接线说明。 | 热床 | P2S |
+| [HMS\_0300-0700-0001-0003：B电机电阻异常，可能是电机故障。](p2s/troubleshooting/hmscode/0300_0700_0001_0003.md) | 更新电机插头对调排查步骤，将 B/Z 对调改为 A/B 对调。 | B电机电阻异常 | P2S |
+| [HMS\_0300-0800-0001-0002：Z电机短路，可能电机故障。](p2s/troubleshooting/hmscode/0300_0800_0001_0002.md) | 更新排查指引：改为对调插头后导出日志并联系技术支持。 | Z电机短路 | P2S,X1 |
+| [Bambu Handy 快速入门指南](studio-handy/handy/bambu-handy-quick-start.md) | 更新 Bambu Handy 简介与绑定流程表述，并补充首次开启通知权限说明。 | 通知权限 | P1 系列,A 系列,AMS |
+
+## 2026-W34
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [HMS\_07FE-4500-0002-0001: 切料传感器异常。请检查连接器是否正确插入。](x2d/troubleshooting/hmscode/07fe_4500_0002_0001.md) | 介绍 X2D 出现切料传感器异常报错时的原因排查与连接器检查处理方法。 | X2D |
+| [Bambu Lab 配件知识库](filament-acc/acc.md) | 拓竹 3D 打印机配件介绍与使用指南大合集。 | 配件 |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [H2S 首次打印指南](h2s/manual/h2s-first-print.md) | 更新耗材送入到位的判定说明，由挤出机绿灯改为屏幕绿色路径提示。 | 耗材路径 | H2S |
+| [拓竹农场管家软件快速入门](software/bambu-farm-manager.md) | 更新农场管家服务器与客户端版本下载信息，并补充历史版本与发布说明链接。 | 农场管家 | / |
+| [拓竹农场管家客户端 V2.4.0 & 服务器端 V2.4.0.0 版本说明](software/bambu-farm-release-notes/2-4-0.md) | 补充通用设置禁用拖拽排序开关，并补充修复 A2L 设置 AMS 槽位失败问题。 | A2L | A2L,X2D,H2D,H2D Pro,AMS |
+| [A1系列裹头检测功能介绍](a1-mini/manual/nozzle-warp-detection.md) | 更新A1 mini首次裹头检测的喷嘴坐标。 | 裹头检测 | A1 mini,A1 |
+| [耗材变轨器动态映射切片功能介绍](software/bambu-studio/filament-track-switch-dynamic-mapping.md) | 更新智能耗材分配的操作说明与配图，明确入口在准备页的编辑材料分组。 | 智能耗材分配 | / |
+| [A2L 首层打印质量改善指南](a2l/maintenance/first-layer-quality-calibration.md) | 补充 A2L 热床保温功能说明及大面积首层保温策略。 | 热床保温 | A2L |
+| [AMS 2 Pro 和 AMS HT 烘干指南](ams-2-pro/manual/drying-function.md) | 更新高温耗材烘干警示，并补充两种烘干/打印组合的自动温度说明 | 烘干 | 耗材 |
+| [耗材粘嘴](filament-acc/filament/print-quality/filament-sticks-to-nozzle.md) | 更新粘嘴成因与处理说明，补充受潮存储湿度及温度/风扇调参建议。 | 粘嘴 | 耗材 |
+| [ABS GF / PA6 GF 玻纤耗材使用指南](filament/absgf_pa6gf.md) | 更新 ABS-GF 与 PA6-GF 的胶水使用要求，区分液体胶和固体胶。 | 胶水 | 耗材 |
+| [ASA CF / PAHT CF 使用指南](filament/asacf_pahtcf.md) | 更新打印板胶水使用建议，并调整热床烘干注意事项表述。 | 固体胶 | 耗材 |
+| [PET-CF / PPA-CF / PPS-CF / PA6-CF 使用指南](filament/petcf_ppacf.md) | 更新打印板胶水使用建议 | 固体胶 | 耗材 |
+| [耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水的兼容性、适配性及参数设置](general/filament-guide-material-table.md) | 补充胶水使用教程链接及部分碳纤/玻纤耗材对应胶水建议 | 胶水 | AMS |
+| [如何使用拓竹热床胶水](general/how-to-use-bbl-liquid-glue.md) | 更新固体胶与液体胶的适用耗材范围说明 | 热床胶水 | / |
+| [更换 H2D 挤出接口板/TH 板/FPC 排线](h2/maintenance/replace-H2D-TH-board.md) | 补充接口板第5号部件冷却风扇插头标注，并补充安装视频。 | 部件冷却风扇插头 | H2D |
 
 ## 2026-W33
 
@@ -41,7 +160,7 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 
 ## 2026-W32
 
-### 新增 Wiki
+### 新页面
 
 | 标题 (点击跳转） | Wiki 简介 | 分类 |
 | --- | --- | --- |
@@ -50,7 +169,7 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 | [拆解和清洁 A1 系列料线选通器](a1/maintenance/a1-ams-hub-cleaning.md) | 介绍 A1 系列料线选通器的拆解与清洁方法，用于维护进料通道并排查堵塞问题。 | A1 系列 |
 | [P2S / X2D 模型翘曲问题改善指南](x2d/troubleshooting/preventing-warping-p2s-x2d.md) | 介绍 P2S/X2D 打印中首层翘边与支撑面翘曲的成因、基础排查及导风板安装使用方法。 | P2S,X2D |
 
-### 优化 Wiki
+### 更新页面
 
 | 标题 (点击跳转） | 更新简要 | 关键词搜索 | 分类 |
 | --- | --- | --- | --- |
@@ -94,7 +213,7 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 - [多机型 AMS 连接指南](ams/manual/multi-model-AMS-compatibility-guide.md)
 - [如何查找序列号及注册新序列号](general/find-sn.md)
 - [P2S 首层打印质量改善指南](p2s/troubleshooting/first-layer-printing-optimization-guide.md)
-- [如何关闭准备阶段的振动校准过程](knowledge-sharing/how-to-turn-off-the-vibration-calibration.md)
+- [如何关闭准备阶段的振动校准过程](https://wiki.bambulab.com/zh/knowledge-sharing/how-to-turn-off-the-vibration-calibration)
 - [A1 combo 开箱指南（旧）](a1/manual/unboxing-a1-combo.md)
 - [H2 系列打印机上电异常排查指南-下篇](h2d/troubleshooting/h2/failure-to-power-on-part2.md)
 - [HMS\_0300-2E00-0003-0001 : 电机降噪功能更新，请重新校准。](a2l/troubleshooting/hmscode/0300_2E00_0003_0001.md)
@@ -351,7 +470,7 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 - [包装清单补充说明](a1-mini/manual/acc-in-the-box.md)
 - [跳闸、设备漏电的排查建议](general/tripping-and-electric-issue.md)
 - [第三方打印机校准](bambu-studio/Calibration.md)
-- [如何关闭准备阶段的振动校准过程](knowledge-sharing/how-to-turn-off-the-vibration-calibration.md)
+- [如何关闭准备阶段的振动校准过程](https://wiki.bambulab.com/zh/knowledge-sharing/how-to-turn-off-the-vibration-calibration)
 - [润滑脂和润滑油](filament-acc/acc/lubricant-grease-oil.md)
 - [A1 系列五通组件拆解与清理](a1/maintenance/filament_hub_cleaning.md)
 - [A1 主要组件介绍](a1/manual/intro-a1.md)
@@ -394,7 +513,7 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 - [更换 P2S 热端和热端硅胶套](p2s/maintenance/replace-hotend-and-silicone-sock.md)
 - [更换 A1 热端](a1/maintenance/replace-hotend.md)
 - [更换 H2C 感应热端组件](h2c/maintenance/replace-induction-hotend.md)
-- [P2S/X2D 喷嘴吐料位置标定](p2s/troubleshooting/purge-wiper-position-calibeation.md)
+- [P2S/X2D 喷嘴吐料位置标定](https://wiki.bambulab.com/zh/p2s/troubleshooting/purge-wiper-position-calibeation)
 - [打印机校准指南](general/printer-calibration.md)
 - [Bambu Studio 触碰裹头检测功能](software/bambu-studio/nozzle-clumping-detection-by-probing.md)
 - [打印机电路故障排查-X2D](x2d/troubleshooting/x2d-circuit-fault-template.md)
@@ -585,7 +704,7 @@ source: https://wiki.bambulab.com/zh/new-and-updates
 
 - [拓竹热端喷嘴介绍](filament-acc/acc/nozzles.md)
 - [A1 系列热端加热组件更换指引](a1-mini/maintenance/hotend-heating-assembly-replacement.md)
-- [P2S 喷嘴吐料位置标定](p2s/troubleshooting/purge-wiper-position-calibeation.md)
+- [P2S 喷嘴吐料位置标定](https://wiki.bambulab.com/zh/p2s/troubleshooting/purge-wiper-position-calibeation)
 - [HMS\_0700-8000-0001-0004: AMS A加热器1异常发热。](h2d/troubleshooting/hmscode/0700_8000_0001_0004.md)
 
 ### 🔔 Wiki 评论区功能更新公告
@@ -683,7 +802,7 @@ Wiki 评论区已全面更新：无需登录，仅需填写昵称和邮箱即可
 ### 新页面
 
 - [更换 H2 系列左内衬](h2/maintenance/replace-inner-lining-left.md)
-- [如何关闭准备阶段的振动校准过程](knowledge-sharing/how-to-turn-off-the-vibration-calibration.md)
+- [如何关闭准备阶段的振动校准过程](https://wiki.bambulab.com/zh/knowledge-sharing/how-to-turn-off-the-vibration-calibration)
 - [打印机无法检测到 AMS 2 Pro](ams-2-pro/troubleshooting/ams-2-pro-communication-anomalies.md)
 
 ### 更新页面
@@ -1942,7 +2061,7 @@ Wiki 评论区已全面更新：无需登录，仅需填写昵称和邮箱即可
 - [更换触摸屏-A1 mini](a1-mini/maintenance/touchscreen-replacement-guide.md)（发布于 05/06/2024）
 - [A1 mini 擦嘴套件更换指南](a1-mini/maintenance/nozle-wiper-replacement.md)（发布于 05/06/2024）
 - [查看切片信息](software/bambu-studio/view-slicing-information.md)（发布于 14/06/2024）
-- [打印板部分位置出现不沾](knowledge-sharing/inconsistent-adhesion-on-plate.md)（发布于 14/06/2024）
+- [打印板部分位置出现不沾](https://wiki.bambulab.com/zh/knowledge-sharing/inconsistent-adhesion-on-plate)（发布于 14/06/2024）
 - [打印层过热、下垂的原因和解决方式](knowledge-sharing/melted-prints.md)（发布于 14/06/2024）
 - [首层不粘](knowledge-sharing/first-layer-not-sticking.md)（发布于 14/06/2024）
 - [模型翘边](knowledge-sharing/printed-model-warping.md)（发布于 14/06/2024）

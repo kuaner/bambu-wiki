@@ -4,7 +4,7 @@ title: "支撑耗材与支撑功能的介绍"
 description: ""
 tags: []
 created: 2023-03-14T14:00:57.625Z
-updated: 2026-06-02T02:50:20.646Z
+updated: 2026-08-28T08:24:22.232Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/support
 ---
 
@@ -107,7 +107,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/support
 > - 经过测试，Bambu ASA 作为支撑材料时与主体材料 PA6-CF、PAHT-CF 粘附力偏弱，仅打印支撑界面有脱落风险，因此建议 Bambu ASA 优先选择为支撑主体以及支撑界面
 > - 以上打印参数均使用 Bambu Studio 默认参数
 > - 经过测试证明：当模型主体填充较高时，易在边缘处发生翘曲，打印高填充模型不建议使用上表的支撑耗材组合，建议使用本体支撑
-> - 由于大部分 CF 纤增强耗材耗材无法放入 AMS 中使用（未带 RFID ），因此该方案更加适配双喷嘴打印机。若您仍希望在单喷嘴机型上实现支撑耗材/多色打印，可参考 [外挂多色打印功能](https://wiki.bambulab.com/zh/bambu-studio/multi_color_with_external)，根据您的实际打印需求与模型换色次数评估是否开启。
+> - 由于大部分 CF 纤增强耗材耗材无法放入 AMS 中使用（未带 RFID ），因此该方案更加适配双喷嘴打印机。若您仍希望在单喷嘴机型上实现支撑耗材/多色打印，可参考 [外挂多色打印功能](../../bambu-studio/multi_color_with_external.md)，根据您的实际打印需求与模型换色次数评估是否开启。
 
 下面图示为在 X1C 上使用 ASA 作为 PAHT-CF 的支撑材料。
 
@@ -360,7 +360,6 @@ Bambu Studio 拥有完整的支撑结构设置页面，如下图所示。
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

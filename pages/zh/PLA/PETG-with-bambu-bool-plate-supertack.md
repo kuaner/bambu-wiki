@@ -1,14 +1,14 @@
 ---
 path: zh/PLA/PETG-with-bambu-bool-plate-supertack
-title: "如何使用拓竹低温增稳打印板打印 Support for PLA/PETG"
-description: "本文介绍了如何使用拓竹低温增稳打印板打印 Support for PLA/PETG"
+title: "如何使用拓竹增稳低温打印板打印 Support for PLA/PETG"
+description: "本文介绍了如何使用拓竹增稳低温打印板打印 Support for PLA/PETG"
 tags: []
 created: 2024-11-11T12:04:59.648Z
-updated: 2026-05-12T06:39:02.492Z
+updated: 2026-09-09T10:01:22.573Z
 source: https://wiki.bambulab.com/zh/PLA/PETG-with-bambu-bool-plate-supertack
 ---
 
-拓竹低温增稳打印板首层不兼容 Support for PLA/PETG，直接在打印板表面打印 Support for PLA/PETG 会损坏打印板，故 Bambu Studio 在切片完成检测到有首层存在 Support for PLA/PETG 时会出现错误提示并禁止打印。
+拓竹增稳低温打印板首层不兼容 Support for PLA/PETG，直接在打印板表面打印 Support for PLA/PETG 会损坏打印板，故 Bambu Studio 在切片完成检测到有首层存在 Support for PLA/PETG 时会出现错误提示并禁止打印。
 
 ## 打印建议
 

@@ -4,7 +4,7 @@ title: "如何将日志文件上传到现有工单"
 description: "本指南将引导您在现有工单中上传日志或其他附件"
 tags: []
 created: 2023-03-22T07:18:36.217Z
-updated: 2026-06-02T03:12:35.588Z
+updated: 2026-08-28T08:24:27.122Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 ---
 
@@ -200,8 +200,6 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 
 ## 结束语
 
-> 我们希望这份指南为您提供了有效的信息，并真实地帮助了您。
->
-> 如果您对本文中描述的过程有任何疑虑或疑问，您可以在开始操作前联系我们的客户服务团队。 我们随时准备为您提供帮助并回答您的任何问题。
->
-> [点击这里提交服务工单](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

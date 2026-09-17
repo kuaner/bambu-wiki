@@ -4,7 +4,7 @@ title: "P2S XY 轴惰轮润滑保养"
 description: "本文将详细为您介绍 P2S XY轴惰轮润滑方法。"
 tags: []
 created: 2025-10-14T15:02:43.099Z
-updated: 2025-12-14T14:43:36.324Z
+updated: 2026-08-28T06:29:41.847Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/idler-pulley-lubrication
 ---
 
@@ -183,5 +183,5 @@ XY 轴惰轮作为打印机传动系统的关键部件，其顺畅运行直接�
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)；点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

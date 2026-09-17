@@ -4,7 +4,7 @@ title: "A1 屏幕更换指南"
 description: "本文介绍了如何进行 A1 的屏幕更换"
 tags: ["a1", "屏幕"]
 created: 2024-06-05T04:09:07.210Z
-updated: 2025-02-11T01:32:16.947Z
+updated: 2026-08-28T08:28:43.759Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/touchscreen-replacement-guide
 ---
 
@@ -64,7 +64,7 @@ A1 屏幕 （购买链接：[京东](https://item.jd.com/10093584451123.html)；
 
 卸下红色标记的 10 颗螺丝，即可拆卸底盖。
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/拆底壳螺丝10.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E6%8B%86%E5%BA%95%E5%A3%B3%E8%9E%BA%E4%B8%9D10.jpg)
 
 ### 4. 断开屏幕排线
 
@@ -122,11 +122,11 @@ A1 屏幕 （购买链接：[京东](https://item.jd.com/10093584451123.html)；
 
 ### 4. 安装打印机底盖
 
-**请注意红色箭头标示的电机线缆。**请务必整理好这束线缆后，才能完全按下底盖。
+\*\*请注意红色箭头标示的电机线缆。\*\*请务必整理好这束线缆后，才能完全按下底盖。
 
 将底盖卡扣到位后，拧入 10 颗螺丝，**请注意不要过度拧紧。**
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/安装底盖.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E5%AE%89%E8%A3%85%E5%BA%95%E7%9B%96.jpg)
 
 ### 5. 安装线缆支架并连接线缆
 
@@ -134,13 +134,13 @@ A1 屏幕 （购买链接：[京东](https://item.jd.com/10093584451123.html)；
 
 > **注意：该螺丝是拧入塑料框架的，请避免过度拧紧。**
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/安装支架.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E5%AE%89%E8%A3%85%E6%94%AF%E6%9E%B6.jpg)
 
 2. 重新连接摄像头、X 轴电机和 Z 轴电机线缆以完成安装。
 
 > **注意：右侧较短线缆为 X 轴电机线缆，插入右上方接口；较长线缆为 Z 轴电机线缆，插入右下方接口。**
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/接线缆.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E6%8E%A5%E7%BA%BF%E7%BC%86.jpg)
 
 ## 功能验证
 
@@ -158,24 +158,22 @@ A1 屏幕 （购买链接：[京东](https://item.jd.com/10093584451123.html)；
 
 ### 摄像头无法工作
 
-确保正确连接摄像头的线缆，请参见步骤 5. 安装线缆支架并连接线缆。
+确保正确连接摄像头的线缆，请参见\_步骤 5. 安装线缆支架并连接线缆\_。
 
 ### X/Z 轴无法工作
 
-确保正确连接 X 和 Z 电机的线缆，请参见步骤 5. 安装线缆支架并连接线缆。
+确保正确连接 X 和 Z 电机的线缆，请参见\_步骤 5. 安装线缆支架并连接线缆\_。
 
 ### 屏幕显示错误信息
 
-USB 数据线可能没有完全插入。松开线缆支架的固定螺丝，然后重新连接 USB 数据线，请参见步骤 5. 安装线缆支架并连接线缆。
+USB 数据线可能没有完全插入。松开线缆支架的固定螺丝，然后重新连接 USB 数据线，请参见\_步骤 5. 安装线缆支架并连接线缆\_。
 
 ### 屏幕不亮/无反应
 
-确保正确连接排线，请参见步骤 3. 连接屏幕排线。
+确保正确连接排线，请参见\_步骤 3. 连接屏幕排线\_。
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

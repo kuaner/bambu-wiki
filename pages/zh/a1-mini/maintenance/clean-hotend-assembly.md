@@ -4,7 +4,7 @@ title: "无法拆下热端—热端背面残料造成的低温黏连"
 description: "本文将介绍如何拆卸因特殊原因无法分离的快拆式热端和加热组件。"
 tags: ["热端", "a1", "h2", "p2s", "x2d"]
 created: 2023-11-07T08:58:27.873Z
-updated: 2026-05-12T06:39:02.492Z
+updated: 2026-08-28T06:20:21.326Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/clean-hotend-assembly
 ---
 
@@ -72,6 +72,6 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/clean-hotend-assembly
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

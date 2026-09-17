@@ -4,7 +4,7 @@ title: "A1 系列进料霍尔板更换指南"
 description: "本指南演示如何更换 A1 系列进料霍尔板。"
 tags: []
 created: 2024-05-11T02:13:59.044Z
-updated: 2026-07-28T06:40:17.695Z
+updated: 2026-08-28T08:28:15.176Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/filament-sensor-replacement
 ---
 
@@ -81,6 +81,7 @@ A1 进料霍尔板（购买链接：[京东](https://item.jd.com/10086620804757.
 慢慢向上拉直。
 
 ![a1_霍尔板线座.webp](https://wiki.bambulab.com/a1/troubleshooting/hms/1200_4500_0002_0003/a1_%E9%9C%8D%E5%B0%94%E6%9D%BF%E7%BA%BF%E5%BA%A7.webp)
+
 ![](https://wiki.bambulab.com/a1m/replace-th-board/remove_the_filament_sensor_ribbon_cable.jpeg)
 
 ### 6. **移除五通组件和传感器**
@@ -120,6 +121,7 @@ A1 进料霍尔板（购买链接：[京东](https://item.jd.com/10086620804757.
 排线需要与下图所示的两个孔之间的小槽对齐。
 
 ![](https://wiki.bambulab.com/a1m/replace-filament-sensor/filament_sensor_adhesive.jpeg)
+
 ![](https://wiki.bambulab.com/a1/maintenance/filament-sensor-replacement/20250313-175901.webp)
 
 ### 2. **安装五通组件至挤出机**
@@ -136,7 +138,7 @@ A1 进料霍尔板（购买链接：[京东](https://item.jd.com/10086620804757.
 
 > 注意！插接时需注意排线正反，下左图的排线是正确的，右图金属面朝上是错误的！
 
-![](https://wiki.bambulab.com/a1/maintenance/filament-sensor-replacement/线缆正反_new-ch.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/filament-sensor-replacement/%E7%BA%BF%E7%BC%86%E6%AD%A3%E5%8F%8D_new-ch.jpg)
 
 按照下图所示的方式，小心地将挤出机电机电缆放置在 FPC 排线旁边。
 
@@ -149,13 +151,14 @@ A1 进料霍尔板（购买链接：[京东](https://item.jd.com/10086620804757.
 使用3颗黑色螺丝，将挤出主板重新固定到工具头上。
 
 ![](https://wiki.bambulab.com/a1m/replace-th-board/install_the_th_board_screws.jpeg)
+
 > 重要提醒！
 >
 > 不要过度拧紧螺丝，以免造成任何损坏。
 >
 > 在拧紧螺丝之前需要注意确认背面线缆避开螺丝孔，防止拧螺丝时扎穿线缆。
 >
-> ![](https://wiki.bambulab.com/a1/maintenance/filament-sensor-replacement/螺丝需注意1.jpg)
+> ![](https://wiki.bambulab.com/a1/maintenance/filament-sensor-replacement/%E8%9E%BA%E4%B8%9D%E9%9C%80%E6%B3%A8%E6%84%8F1.jpg)
 
 ### 5. **重新接线**
 
@@ -174,6 +177,7 @@ A1 进料霍尔板（购买链接：[京东](https://item.jd.com/10086620804757.
 将 USB- C 以正确的方向插入接口后，使用在第一步中拆下的4颗螺丝重新安装 USB-C 数据线。
 
 ![](https://wiki.bambulab.com/a1m/replace-th-board/install_the_usb_cable_and_4_screws.jpeg)
+
 > **重要提醒！**
 >
 > **请不要过度拧紧螺丝，否则可能会导致螺纹损坏**。请注意对齐 USB-C 数据线的方向和背面的小凹槽。 USB-C 数据线只能用一种方式安装，正确的方向是数据线接头的凸起对准后方的凹槽。
@@ -206,15 +210,15 @@ A1 进料霍尔板（购买链接：[京东](https://item.jd.com/10086620804757.
 
 ### **进料霍尔板无法工作**
 
-参照步骤3 安装挤出主板至工具头，确保 FPC 排线正确连接至[挤出主板](../../a1-mini/th-board-replacement-guide.md)。
+参照\_步骤3 安装挤出主板至工具头\_，确保 FPC 排线正确连接至[挤出主板](../../a1-mini/th-board-replacement-guide.md)。
 
-另外，参照可选步骤，确保五通组件内的磁铁能按照预期移动，并无附着任何杂物。
+另外，参照\_可选步骤\_，确保五通组件内的磁铁能按照预期移动，并无附着任何杂物。
 
 如果 FPC 排线已损坏，您需要更换进料霍尔板。（购买链接：[京东](https://item.jd.com/10086620804757.html) [天猫](https://detail.tmall.com/item.htm?abbucket=19&id=742413890652&rn=a2c4a71cc1ebc454113082a1179bbdfd&spm=a1z10.3-b-s.w4011-25177047232.13.59d31c79bCV2UL&skuId=5118758836326)）
 
 ### **热端温度为0**
 
-参照步骤 5 重新接线，检查热端加热组件接头是否正确插入。
+参照\_步骤 5 重新接线\_，检查热端加热组件接头是否正确插入。
 
 务必仔细对齐接头的引脚和[挤出主板](../../a1-mini/th-board-replacement-guide.md)。
 
@@ -222,20 +226,18 @@ A1 进料霍尔板（购买链接：[京东](https://item.jd.com/10086620804757.
 
 ### **热端无法加热**
 
-参照步骤 5 重新接线，检查热端加热组件接头是否正确插入。
+参照\_步骤 5 重新接线\_，检查热端加热组件接头是否正确插入。
 
- 务必仔细对齐接头的引脚和[挤出主板](../../a1-mini/th-board-replacement-guide.md)。
+务必仔细对齐接头的引脚和[挤出主板](../../a1-mini/th-board-replacement-guide.md)。
 
 如果问题仍然存在，加热器线可能已损坏（半透明线）。
 
 ### **打印机无法正确回中**
 
-参照步骤 5 重新接线，检查涡流传感器线缆（5 和 6）是否正确连接至挤出主板。
+参照\_步骤 5 重新接线\_，检查涡流传感器线缆（5 和 6）是否正确连接至挤出主板。
 
 ## 结束语
 
-> 我们希望这份指南为您提供了有效的信息，并真实地帮助了您。
->
-> 如果您对本文中描述的过程有任何疑虑或疑问，您可以在开始操作前联系我们的客户服务团队。 我们随时准备为您提供帮助并回答您的任何问题。
->
-> [点击这里提交服务工单](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

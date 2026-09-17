@@ -4,7 +4,7 @@ title: "H2D /  H2D Pro / H2C / X2D 延时摄影介绍"
 description: "本文介绍了 H2D、H2D Pro、H2C、X2D 等 CoreXY 结构多喷嘴打印机的延时摄影功能"
 tags: []
 created: 2025-03-25T05:10:57.539Z
-updated: 2026-06-30T08:10:32.224Z
+updated: 2026-08-28T06:21:19.123Z
 source: https://wiki.bambulab.com/zh/h2/manual/time-lapse-function
 ---
 
@@ -145,6 +145,6 @@ MakerWorld 延时摄影套件可连接至 AMS 接口，通过蓝牙将指令转�
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

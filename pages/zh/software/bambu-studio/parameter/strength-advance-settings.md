@@ -4,13 +4,13 @@ title: "强度高级设置"
 description: ""
 tags: []
 created: 2024-03-04T11:29:51.406Z
-updated: 2026-07-07T01:43:18.513Z
+updated: 2026-09-14T06:05:57.285Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/strength-advance-settings
 ---
 
-在Bambu Studio中，您可以**工艺——强度——高级**中对强度相关的参数一些高级设置。
+在Bambu Studio中，您可以在**工艺——强度——高级**中对强度相关的参数一些高级设置。
 
-![strength_advance_zh.png](https://wiki.bambulab.com/bambu-studio/parameter/strength-advance-settings/strength_advance_zh.png)
+![strength-advance_ui.png](https://wiki.bambulab.com/bambu-studio/parameter/strength-advance-settings/strength-advance_ui.png)
 
 ## 填充/墙 重叠
 
@@ -82,6 +82,31 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/strength-ad
 
 ![](https://wiki.bambulab.com/bambu-studio/parameter/strength-advance-settings/%E8%AF%86%E5%88%AB%E5%86%85%E9%83%A8%E7%8B%AD%E7%AA%84%E5%AE%9E%E5%BF%83%E5%A1%AB%E5%85%85%E5%85%B3.png)
 
+## 次顶面图案
+
+此选项用于单独设置**次顶面**（顶面正下方的一层填充）的走线图案，将其与内部实心填充分开处理。次顶面默认使用「**单调**」图案，而非内部实心填充默认的「**直线**」图案，可减少内部实心填充在模型顶面留下的痕迹，提升顶面外观。
+
+![sub_top_surface_ui.png](https://wiki.bambulab.com/bambu-studio/parameter/strength-advance-settings/sub_top_surface_ui.png)
+
+![before_after.png](https://wiki.bambulab.com/bambu-studio/parameter/strength-advance-settings/before_after.png)
+
+单独设置次顶面的意义在于：**当不同方向的填充走线在交界处衔接时（如下图左列所示），熔融材料会向空隙较大的一侧堆积，容易在顶面留下挤压纹路**。将次顶面改为单调走线后，可减少此类纹路透到顶面；相比把全部内部实心填充都改为单调，又能避免过多增加打印时间。
+
+关于填充图案的更多信息，请参考这篇 Wiki 指南：[填充图案介绍 — 直线/单调](https://wiki.bambulab.com/zh/software/bambu-studio/fill-patterns#fill-pattern-rectilinear-monotonic)
+
+| 直线 | 单调 |
+| --- | --- |
+|  |  |
+|  |  |
+
+> ✅ **次顶面图案的生效条件**
+>
+> - **仅作用于顶面正下方的一层**，不随「顶面壳层数」变厚。
+> - **顶面面积过小时不生效**，对于面积较大且带孔洞的顶面改善效果更明显。
+> - **顶面下方为桥接时不生效**，该层仍然沿用桥接的走线方式。
+
+> **ℹ️ 提示**：若改用单调填充后顶面纹路明显减轻或消失，说明问题多与内部实心填充的走线方向及材料流动有关；若纹路仍然存在，则基本可排除流体特性因素，问题更可能来自机器回程差。
+
 ## 确保垂直外壳厚度
 
 该参数用于在斜面表面附近添加实心填充，以保证垂直外壳厚度(顶部+底部实心填充）。**需要保证的垂直外壳厚度取决于设置的顶面壳体厚度（层数）和底面壳体厚度（层数）。**
@@ -140,6 +165,6 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/strength-ad
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

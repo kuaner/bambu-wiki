@@ -4,7 +4,7 @@ title: "打印机内部存储使用指南"
 description: "该功能允许您在无 U 盘的情况下，更加便捷地发送和打印模型文件。"
 tags: []
 created: 2026-02-26T07:58:25.020Z
-updated: 2026-04-24T02:04:41.335Z
+updated: 2026-08-28T06:37:01.226Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/how-to-use-internal-model-cache-space
 ---
 
@@ -81,6 +81,6 @@ P2S 已支持该功能，其他机型将在后续通过固件更新逐步支持�
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

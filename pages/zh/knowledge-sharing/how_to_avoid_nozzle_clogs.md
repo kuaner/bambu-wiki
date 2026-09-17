@@ -4,7 +4,7 @@ title: "如何有效防止喷嘴堵塞"
 description: "本指南介绍了预防3D打印喷嘴堵塞的实用方法，包括耗材选择、存储、维护和故障排除，帮助确保打印顺畅、效果可靠。"
 tags: []
 created: 2025-09-15T04:01:07.252Z
-updated: 2026-08-03T10:03:57.550Z
+updated: 2026-08-28T06:25:19.255Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/how_to_avoid_nozzle_clogs
 ---
 
@@ -34,6 +34,8 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/how_to_avoid_nozzle_clogs
 ### 高温料与低温料切换注意事项
 
 打印完 PAHT-CF、PET-CF、PPA-CF、PPA-GF、PPS、PPS-CF 等熔融温度较高的高温耗材后，要打印 PLA、TPU、PETG 等打印温度较低、硬度较低的低温耗材时，建议先把喷嘴温度设为 250 ~ 300 ℃ ，其次把高温耗材手动退出，接着把要打印的低温料放入挤出残余高温料，再逐步过渡到低温范围，边降温边挤出，然后把喷嘴温度设置为 220 ~ 240 ℃，降温期间继续挤出，直到温度稳定，确保新低温料已经能顺利流出喷嘴，最后准备下一次打印。
+
+![tempzh.jpg](https://wiki.bambulab.com/knowledge-sharing/anti_clogging/tempzh.jpg)
 
 ## 打印操作与参数设置
 
@@ -136,5 +138,5 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/how_to_avoid_nozzle_clogs
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)；点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -4,7 +4,7 @@ title: "挤出机维护指南：P1系列挤出机维护"
 description: "本指南提供 P1 系列挤出机堵塞清理、挤出机拆解与组装的详细步骤。"
 tags: []
 created: 2026-04-30T04:11:28.484Z
-updated: 2026-07-14T02:15:33.541Z
+updated: 2026-08-28T08:44:05.056Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/extruder-cleaning-guide
 ---
 
@@ -85,6 +85,27 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/extruder-cleaning-guide
 ![](https://wiki.bambulab.com/p1/maintenance/extruder-maintenance/disassemble_the_p1_series_extruder.jpeg)
 
 螺丝5用于张紧挤出机齿轮。拧松该螺丝以释放弹簧的张力，然后您可以将黄色齿轮向上轻轻拔出，另一侧的从动齿轮也采用同样的方法拆出。
+
+**若大齿轮无法取出，请参考该步骤。**
+
+拧出一点侧边的压紧螺丝。
+
+![pixpin_2026-08-26_18-09-53.jpg](https://wiki.bambulab.com/x1/troubleshooting/extruder-clog/pixpin_2026-08-26_18-09-53.jpg)
+
+将挤出机放在料盘中心孔上。
+
+![pixpin_2026-08-26_18-10-05.jpg](https://wiki.bambulab.com/x1/troubleshooting/extruder-clog/pixpin_2026-08-26_18-10-05.jpg)
+
+使用螺丝刀对准大齿轮的中轴。
+
+![pixpin_2026-08-26_18-09-43.jpg](https://wiki.bambulab.com/x1/troubleshooting/extruder-clog/pixpin_2026-08-26_18-09-43.jpg)
+
+轻轻按压或用其他工具敲击，取下齿轮。
+
+> 敲击过程请观察螺丝刀，避免接触轴承，轴承受损可能导致挤出缺陷。  
+> ![pixpin_2026-08-26_18-09-19.jpg](https://wiki.bambulab.com/x1/troubleshooting/extruder-clog/pixpin_2026-08-26_18-09-19.jpg)
+
+![pixpin_2026-08-26_18-09-33.jpg](https://wiki.bambulab.com/x1/troubleshooting/extruder-clog/pixpin_2026-08-26_18-09-33.jpg)
 
 ![](https://wiki.bambulab.com/p1/maintenance/extruder-maintenance/%E6%8C%A4%E5%87%BA%E6%9C%BA4%E9%83%A8%E5%88%86%E3%80%81.jpg)
 
@@ -188,8 +209,6 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/extruder-cleaning-guide
 
 ## 结束语
 
-> 我们希望这份指南为您提供了有效的信息，并真实地帮助了您。
->
-> 如果您对本文中描述的过程有任何疑虑或疑问，您可以在开始操作前联系我们的客户服务团队。 我们随时准备为您提供帮助并回答您的任何问题。
->
-> [点击这里提交服务工单](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

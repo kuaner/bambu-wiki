@@ -4,7 +4,7 @@ title: "X2D"
 description: ""
 tags: []
 created: 2026-04-13T03:43:10.298Z
-updated: 2026-08-13T08:44:00.016Z
+updated: 2026-08-30T09:22:54.354Z
 source: https://wiki.bambulab.com/zh/x2d
 ---
 
@@ -151,6 +151,7 @@ source: https://wiki.bambulab.com/zh/x2d
 - [更换 X2D X/Y 皮带](maintenance/replace-xy-belt.md)
 - [更换 X2D X/Y 皮带 (当皮带断裂时)](knowledge-sharing/replace_the_xy_belts.md)
 - [更换 X2D Z 张紧器](p2s/maintenance/replace-z-belt-tensioner.md)
+- [更换 X2D Z 惰轮盖](x1/maintenance/replace-z-tensioner-cover.md)
 - [更换 X2D Z 皮带](p2s/maintenance/replace-z-belt.md)
 - [更换 X2D Z 同步轮](p2s/maintenance/replace-z-belt-timing-pulley.md)
 - [更换 X2D Z 电机](p2s/maintenance/replace-z-motor.md)

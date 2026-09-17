@@ -4,7 +4,7 @@ title: "更换 H2D & H2C 左右侧板玻璃"
 description: "本指南介绍了如何更换 H2D & H2C 的左右侧板玻璃"
 tags: []
 created: 2025-04-27T13:22:00.220Z
-updated: 2026-03-11T03:48:22.075Z
+updated: 2026-08-28T08:38:19.251Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-side-glass
 ---
 
@@ -106,8 +106,6 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-side-glass
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。
->
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

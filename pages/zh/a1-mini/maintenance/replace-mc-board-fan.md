@@ -4,7 +4,7 @@ title: "A1 mini 主板风扇更换指南"
 description: "本文提供更换 A1 mini 主板风扇的相关指引和注意事项，在这个拆解过程中涉及的可更换配件的拆装也可参考本文进行处理。"
 tags: ["a1 mini", "主板散热风扇"]
 created: 2024-03-11T11:10:09.487Z
-updated: 2026-04-15T09:31:58.110Z
+updated: 2026-09-08T08:14:31.261Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/replace-mc-board-fan
 ---
 

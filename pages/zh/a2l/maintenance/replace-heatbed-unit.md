@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-heatbed-unit
 title: "A2L 更换热床组件"
-description: ""
+description: "本文介绍了如何更换 A2L 热床组件"
 tags: []
-created: 2026-06-01T13:15:06.834Z
-updated: 2026-08-28T06:45:49.159Z
+created: 2026-06-01T13:15:06.763Z
+updated: 2026-08-28T06:45:48.764Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-heatbed-unit
 ---
 

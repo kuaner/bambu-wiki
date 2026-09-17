@@ -4,7 +4,7 @@ title: "H2C 首层打印质量改善指南"
 description: "本文介绍了如何改善 H2C 的首层打印质量"
 tags: []
 created: 2025-11-18T13:16:02.448Z
-updated: 2026-05-25T08:22:27.423Z
+updated: 2026-09-03T06:17:04.478Z
 source: https://wiki.bambulab.com/zh/h2c/troubleshooting/first-layer-printing-optimization-guide
 ---
 
@@ -102,6 +102,9 @@ source: https://wiki.bambulab.com/zh/h2c/troubleshooting/first-layer-printing-op
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2c/troubleshooting/first-layer-printing-optimization-guide/2.webp)
 
+> 注意：请正确安装固定卡扣，如下图：左侧为正确安装，右侧为错误示范。  
+> ![d卡扣.jpg](https://wiki.bambulab.com/h2/maintenance/replace-hotend/d%E5%8D%A1%E6%89%A3.jpg)
+
 - **右喷嘴安装：** 对准装配位推入，按下拉柄完成锁定；轻轻晃动喷嘴，确认锁定到位且无松动。
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2c/troubleshooting/first-layer-printing-optimization-guide/4.webp)
@@ -185,5 +188,5 @@ source: https://wiki.bambulab.com/zh/h2c/troubleshooting/first-layer-printing-op
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)；点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

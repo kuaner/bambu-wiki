@@ -4,7 +4,7 @@ title: "更换 H2D/H2C 左右热端加热组件"
 description: "本文介绍如何更换 H2D/H2C 左右热端加热组件"
 tags: []
 created: 2025-03-25T08:46:41.904Z
-updated: 2026-06-23T08:11:16.153Z
+updated: 2026-09-16T07:10:44.027Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/hotend-heating-assembly
 ---
 
@@ -141,9 +141,15 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/hotend-heating-assembly
 | --- | --- |
 |  |  |
 
+  
+
 ## 更换右热端加热组件
 
-### 移除右热端加热组件
+> **注意**：H2C 右热端为感应热端，其更换步骤与 H2D 稍有不同，请参考： [更换 H2C 感应热端加热组件](../../h2c/maintenance/replace-induction-heating-assembly.md)。
+
+  
+
+### 移除 H2D 右热端加热组件
 
 #### 步骤 1：移除工具头右热端
 
@@ -229,7 +235,6 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/hotend-heating-assembly
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

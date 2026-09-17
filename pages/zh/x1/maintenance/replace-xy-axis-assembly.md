@@ -4,7 +4,7 @@ title: "更换 X1C 的 XY 框架"
 description: " X1C 打印机 XY 框架更换指南"
 tags: ["x1", "x1c"]
 created: 2024-12-12T01:17:10.822Z
-updated: 2025-12-24T12:18:39.659Z
+updated: 2026-08-28T08:31:02.886Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-xy-axis-assembly
 ---
 
@@ -501,7 +501,6 @@ X/Y 框架共使用 3 种规格的螺丝与四个立柱固定，圆圈标记的�
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

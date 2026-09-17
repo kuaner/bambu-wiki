@@ -4,7 +4,7 @@ title: "绒毛表面"
 description: "本文介绍如何在 Bambu Studio 中为模型增加绒毛表面"
 tags: ["bambu studio"]
 created: 2023-11-20T10:46:48.063Z
-updated: 2026-08-13T01:56:38.933Z
+updated: 2026-08-28T08:26:36.740Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/fuzzy-skin
 ---
 

@@ -1,10 +1,10 @@
 ---
 path: zh/p1/maintenance/z-belt
-title: "Z 同步皮带拆装指南"
+title: "更换 P1 系列 Z 同步皮带"
 description: "拆装 P1 系列打印机 Z 轴同步皮带的操作步骤"
 tags: ["p1", "z 同步皮带"]
 created: 2022-12-30T09:38:28.494Z
-updated: 2025-12-24T12:18:39.659Z
+updated: 2026-08-28T02:28:07.951Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/z-belt
 ---
 
@@ -39,7 +39,7 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/z-belt
 
 ### **第 3 步 -** 移除张紧轮
 
-用 H2.0 内六角扳手拧下张紧轮螺丝，取下张紧轮盖子，移除 Z 轴张紧弹簧和 Z 轴张紧轮组件。
+用 H2.0 内六角扳手拧下张紧轮螺丝，取下 Z 惰轮盖，移除 Z 轴张紧弹簧和 Z 轴张紧轮组件。
 
 |  |  |
 | --- | --- |
@@ -67,9 +67,9 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/z-belt
 | --- | --- |
 |  |  |
 
-### **第 3 步 -** 安装张紧轮盖
+### **第 3 步 -** 安装惰轮盖
 
-安装张紧轮盖，锁入 1 颗张紧轮螺丝（不拧紧）和3颗盖子固定螺丝，将弹簧的长臂卡到位。
+安装 Z 惰轮盖，锁入 1 颗张紧轮螺丝（不拧紧）和3颗盖子固定螺丝，将弹簧的长臂卡到位。
 
 |  |  |
 | --- | --- |

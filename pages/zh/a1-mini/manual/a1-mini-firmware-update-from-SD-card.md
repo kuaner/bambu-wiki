@@ -4,7 +4,7 @@ title: "通过 microSD 卡升级固件——A1 mini"
 description: "A1 mini 通过 microSD 卡升级固件的步骤"
 tags: ["a1 mini"]
 created: 2024-11-22T07:45:08.196Z
-updated: 2026-02-11T09:16:26.678Z
+updated: 2026-09-02T07:01:48.073Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/a1-mini-firmware-update-from-SD-card
 ---
 
@@ -37,9 +37,9 @@ A1 mini **不支持热插拔卡**，因此每次取出 microSD 卡时，**请务
 
 - 进入 **设置 → SD 卡**
 - 在 SD 卡菜单中点击**弹出**
-- 点击**是**，确认选项
+- 点击**弹出**，确认选项
 
-![a1-弹出sd.jpg](https://wiki.bambulab.com/a1-sd/a1-%E5%BC%B9%E5%87%BAsd.jpg)
+![a1-弹出sd_v2.jpg](https://wiki.bambulab.com/a1-sd/a1-%E5%BC%B9%E5%87%BAsd_v2.jpg)
 
 只需按下 microSD 卡再松开，即可将其从打印机中弹出。
 
@@ -73,7 +73,6 @@ A1 mini **不支持热插拔卡**，因此每次取出 microSD 卡时，**请务
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。  
-> 我们随时准备为您解答疑问并提供帮助。[*点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

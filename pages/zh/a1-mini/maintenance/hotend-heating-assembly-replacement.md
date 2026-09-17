@@ -4,7 +4,7 @@ title: "A1 系列热端加热组件更换指引"
 description: "本指南简要介绍了如何为 A1 系列打印机更换热端加热组件"
 tags: ["a1", "热端组件"]
 created: 2023-12-21T06:33:19.318Z
-updated: 2026-03-10T06:11:08.698Z
+updated: 2026-08-28T08:27:26.511Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/hotend-heating-assembly-replacement
 ---
 
@@ -253,6 +253,5 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/hotend-heating-assembly
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请在开始操作前联系我们的客户服务团队。  
-> 我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

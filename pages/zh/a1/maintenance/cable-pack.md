@@ -4,7 +4,7 @@ title: "更换 A1 线材包"
 description: "本文将介绍如何更换 A1 线材包中的线缆。"
 tags: ["a1"]
 created: 2026-05-08T07:13:01.836Z
-updated: 2026-05-15T10:44:47.460Z
+updated: 2026-08-28T06:42:12.713Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/cable-pack
 ---
 

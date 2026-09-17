@@ -4,7 +4,7 @@ title: "更换 P2S 前面盖"
 description: ""
 tags: []
 created: 2025-10-14T12:55:41.235Z
-updated: 2025-10-14T12:55:42.804Z
+updated: 2026-08-28T08:42:12.721Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-front-cover
 ---
 
@@ -107,5 +107,5 @@ P2S 打印机的前面盖是安装在打印机正面，并印刷有打印机型�
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系技术支持](https://support.bambulab.cn)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

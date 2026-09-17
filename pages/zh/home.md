@@ -4,7 +4,7 @@ title: "主页"
 description: ""
 tags: []
 created: 2022-07-27T15:03:58.612Z
-updated: 2026-08-05T09:56:49.744Z
+updated: 2026-08-21T08:34:59.567Z
 source: https://wiki.bambulab.com/zh/home
 ---
 
@@ -99,7 +99,11 @@ MakerWorld](https://makerworld.com.cn)
 
 [![AMS](https://wiki.bambulab.com/a1-sd/starter_pack_-_a1.jpg)
   
-耗材和配件](https://wiki.bambulab.com/zh/filament-acc)
+耗材指南](https://wiki.bambulab.com/zh/filament-acc)
+
+[![AMS](https://wiki.bambulab.com/general/widgets/accessories_&_consumables.png)
+  
+配件 & 工具](https://wiki.bambulab.com/zh/filament-acc/acc)
 
 ## 通用
 

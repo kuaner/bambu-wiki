@@ -1,10 +1,10 @@
 ---
 path: zh/p1/maintenance/extruder-unit
-title: "更换挤出机"
+title: "更换 P1 系列挤出机"
 description: "本指南介绍 P1 系列挤出机的拆装步骤。"
 tags: []
 created: 2022-12-04T06:38:02.744Z
-updated: 2026-05-11T02:11:39.570Z
+updated: 2026-08-28T06:19:07.789Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/extruder-unit
 ---
 
@@ -12,11 +12,10 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/extruder-unit
 
 ![](https://wiki.bambulab.com/p1/maintenance/extruder-unit/extruder_unit.jpg)
 
-P1P 适用
-
 ## 工具
 
-H2.0/H1.5 内六角扳手
+- H2.0/H1.5 内六角扳手
+- 镊子
 
 ## 准备工作
 
@@ -43,6 +42,9 @@ H2.0/H1.5 内六角扳手
 |  |  |
 | --- | --- |
 |  |  |
+
+> **安全提醒**：切刀锋利，在更换挤出机时，请取下切刀防止误伤。  
+> ![removecut.jpg](https://wiki.bambulab.com/x1/maintenance/replace-cutter/removecut.jpg)
 
 ### **第 4 步 -** 移除挤出机
 
@@ -80,6 +82,10 @@ H2.0/H1.5 内六角扳手
 
 ### **第 3 步 -** 安装切刀
 
+-将刀片卡扣与拨杆对齐，然后将其插入挤出机。
+
+![installcut.jpg](https://wiki.bambulab.com/x1/maintenance/replace-cutter/installcut.jpg)
+
 抬起切刀刀柄，将切刀滑入挤出机刀槽，锁螺丝固定切刀刀柄。
 
 ![](https://wiki.bambulab.com/p1/maintenance/extruder-unit/install_the_cutter.jpg)
@@ -102,6 +108,6 @@ H2.0/H1.5 内六角扳手
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

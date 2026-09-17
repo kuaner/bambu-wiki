@@ -4,7 +4,7 @@ title: "更换X1系列挤出接口板"
 description: "本指南介绍如何更换X1系列打印机上的挤出接口板。"
 tags: ["x1"]
 created: 2025-07-31T02:31:28.522Z
-updated: 2026-02-11T08:50:06.611Z
+updated: 2026-08-28T08:40:16.523Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/extruder-connection-board-replacement
 ---
 
@@ -139,10 +139,8 @@ source: https://wiki.bambulab.com/zh/x1/maintenance/extruder-connection-board-re
 3. 热端不加热： 检查拆解步骤第 2 步中编号为 3 的接口是否连接稳固。
 4. 打印机报 HMS 错误： 确认 FPC 排线方向正确并完全插入接口。
 
-## **结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。
->
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

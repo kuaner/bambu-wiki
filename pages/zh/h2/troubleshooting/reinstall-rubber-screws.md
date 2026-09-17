@@ -4,7 +4,7 @@ title: "辅助部件冷却风扇软胶钉脱落安装指南"
 description: "本文介绍了如何安装脱落得辅助部件冷却风扇软胶钉"
 tags: []
 created: 2025-04-01T09:47:44.367Z
-updated: 2025-04-02T05:26:55.707Z
+updated: 2026-08-28T08:36:26.157Z
 source: https://wiki.bambulab.com/zh/h2/troubleshooting/reinstall-rubber-screws
 ---
 
@@ -91,7 +91,6 @@ H2D
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

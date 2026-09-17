@@ -1,10 +1,10 @@
 ---
 path: zh/h2/manual/cutting-module-installation-guide
-title: "刀切模组安装指南"
-description: "刀切模组安装操作指南"
-tags: []
+title: "H2 系列刀切/画笔模组安装指南"
+description: "本文介绍了如何在 H2 系列打印机上安装刀切/画笔模组。"
+tags: ["h2"]
 created: 2025-03-25T06:21:22.039Z
-updated: 2025-07-18T06:28:23.387Z
+updated: 2026-08-27T02:12:19.123Z
 source: https://wiki.bambulab.com/zh/h2/manual/cutting-module-installation-guide
 ---
 

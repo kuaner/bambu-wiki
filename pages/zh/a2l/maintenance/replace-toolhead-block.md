@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-toolhead-block
 title: "A2L 更换工具头滑车"
-description: ""
+description: "本文介绍了如何更换 A2L 工具头滑车"
 tags: []
 created: 2026-06-01T13:09:04.947Z
-updated: 2026-08-28T08:44:34.091Z
+updated: 2026-08-28T08:44:33.492Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-toolhead-block
 ---
 

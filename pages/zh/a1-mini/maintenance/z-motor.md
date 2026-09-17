@@ -4,7 +4,7 @@ title: "A1 mini Z 轴电机更换指南"
 description: "本文介绍了如何更换 A1 mini 的 Z 轴电机"
 tags: []
 created: 2024-11-21T08:28:02.911Z
-updated: 2025-02-08T03:51:45.600Z
+updated: 2026-09-14T06:09:40.713Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/z-motor
 ---
 
@@ -58,7 +58,7 @@ Z 轴电机是安装在打印机底部，用于驱动工具头在 Z 轴方向上
 
 2. 移除 3 颗 Z 轴电机螺丝。
 
-![](https://wiki.bambulab.com/a1m/replace-z-motor/取下3颗螺丝.jpg)
+![](https://wiki.bambulab.com/a1m/replace-z-motor/%E5%8F%96%E4%B8%8B3%E9%A2%97%E8%9E%BA%E4%B8%9D.jpg)
 
 ### 步骤 3：拆卸底壳
 
@@ -148,8 +148,6 @@ Z 轴电机是安装在打印机底部，用于驱动工具头在 Z 轴方向上
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

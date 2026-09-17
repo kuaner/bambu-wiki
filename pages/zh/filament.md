@@ -4,7 +4,7 @@ title: "耗材"
 description: ""
 tags: []
 created: 2026-08-25T04:13:56.472Z
-updated: 2026-08-25T04:18:36.576Z
+updated: 2026-08-25T04:18:37.732Z
 source: https://wiki.bambulab.com/zh/filament
 ---
 

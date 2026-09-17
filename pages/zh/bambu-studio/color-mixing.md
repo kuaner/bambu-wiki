@@ -4,7 +4,7 @@ title: "混色打印"
 description: "学习如何使用 Bambu Studio 的颜色混合功能，在单次打印中通过双色混合或三色混合，实现自定义的色调和渐变效果。"
 tags: []
 created: 2026-07-02T09:02:15.300Z
-updated: 2026-07-03T04:32:58.382Z
+updated: 2026-09-15T01:59:11.546Z
 source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 ---
 
@@ -14,13 +14,15 @@ source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 
 而 Bambu Studio 的**颜色混合功能**突破了这一限制：该功能可在单次打印中组合多种颜色耗材，自定义颜色混合的比例，生成自定义的色调或平滑的色彩过渡。通过将单层拆分为 2-3 个更薄的层，每层使用不同颜色的耗材打印，最终打印成品在视觉上会产生颜色混合的效果，呈现出全新的色调。
 
-如下图所示的所有小船，仅仅使用了四种颜色的耗材（CMYK 耗材）进行混色，单盘打印而成。
+如下图所示的所有小船，仅仅使用了四种颜色的耗材（CMYK：青、品红、黄、白）进行混色，单盘打印而成。
 
 ![benchies-intro.jpeg](https://wiki.bambulab.com/software/bambu-studio/color-mixing/benchies-intro.jpeg)
 
 > ⚠️ **Bambu Studio 版本要求：** 若要使用混色打印功能，请将 Bambu Studio 更新至 v2.5.3 版本及以上；若要使用渐变颜色曲线图功能，需更新至 v2.7.1 版本及以上。
 
 ## 界面与功能指南
+
+> ℹ️ **提示**：混色打印推荐使用 **Bambu PLA Basic** 官方耗材，其 **CMYW（青、品红、黄、白）** 和 **RYBW（红、黄、蓝、白）** 组合均经过官方测试，混色映射的颜色更准确。本文配图以 PLA Matte 为例演示操作，实际打印仍推荐使用 PLA Basic。
 
 **功能入口**：点击**项目耗材列表**底部的 **添加混色耗材** 按钮 1 进入。在弹出的窗口中，即可在 **选择混色材料** 列表 2 中管理要混合的耗材。
 
@@ -81,6 +83,8 @@ source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 
 ![](https://wiki.bambulab.com/software/bambu-studio/color-mixing/enable-per-part-gradient-effect_zh.png)
 
+  
+
 ## 功能原理
 
 由于 PLA 等耗材本身略带半透明性，Bambu Studio 会将目标颜色拆分为一系列极薄且交替排列的层。当以精细的层高打印时，我们的眼睛会自然地将这些微层融合在一起，从而感知到一种全新的中间色调。
@@ -101,7 +105,7 @@ source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 
 下图展示了混合比例中蓝色 1 占比 62% 的极厚层、白色 2 占比 31% 的中等层，以及红色 3 仅占 7% 的极薄层。
 
-![](https://wiki.bambulab.com/software/bambu-studio/color-mixing/layer-composition-diagram_zh.png)
+![](https://wiki.bambulab.com/software/bambu-studio/color-mixing/layer-composition-diagram1_zh.png)
 
 ### 打印机选择
 
@@ -145,9 +149,62 @@ source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 ## 相关阅读
 
 - [减少多色打印时的材料浪费](../software/bambu-studio/reduce-wasting-during-filament-change.md)
+- [纹理转涂色](../software/bambu-studio/texture-to-color.md)
+
+  
+
+## 使用纹理转涂色功能进行混色打印
+
+「**纹理转涂色**」是 Bambu Studio 的另一项功能，可将带纹理贴图的模型转换为多色模型。在其耗材映射环节，可直接将模型涂色拆解为基础色组合（如 CMYW、RYBW 或自定义材料组合），从而实现混色打印。关于纹理转涂色的完整流程，请参阅：[纹理转涂色](../software/bambu-studio/texture-to-color.md)
+
+|  |  |
+| --- | --- |
+|  |  |
+| 带有纹理贴图的模型 | 导入 Bambu Studio 的多色模型 |
+
+### 拆解颜色
+
+![4.1_decompose_zh.webp](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/4.1_decompose_zh1.webp)
+
+点击耗材下拉菜单中的「**拆解颜色**」，可将选中的模型涂色拆解为可混色的基础色组合。拆解颜色支持以下**三种拆色组合**：
+
+- **1. 材料列表**（项目耗材）：从项目耗材列表中选择材料组合混色。
+
+![](https://wiki.bambulab.com/software/bambu-studio/texture‑to‑color/9-1-1.png)
+
+- **2. CMYW**（标准色板）：使用 `青（Cyan）`、`品红（Magenta）`、`黄（Yellow）`、`白（White）` 四色组合混色。
+- **3. RYBW**（标准色板）：使用 `红（Red）`、`黄（Yellow）`、`蓝（Blue）`、`白（White）` 四色组合混色。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+> ℹ️ **提示**：选择「**CMYW**」或「**RYBW**」模式后，软件会优先复用项目中已有的对应颜色耗材；若缺少，则自动添加所需耗材。新增的耗材会归入「**新增混色耗材**」列表。
+
+### 自动混色模式
+
+耗材映射还支持以下**两种自动混色模式**，可将模型中所有颜色批量拆解为指定的标准组合：
+
+- **一键 CMYW 自动混色**：将所有颜色拆解为 `青（Cyan）`、`品红（Magenta）`、`黄（Yellow）`、`白（White）` 四种颜色。
+
+|  |  |
+| --- | --- |
+|  |  |
+| CMYW 混色效果 | 混色后耗材列表 |
+
+- **一键 RYBW 自动混色**：将所有颜色拆解为 `红（Red）`、`黄（Yellow）`、`蓝（Blue）`、`白（White）` 四种颜色。
+
+|  |  |
+| --- | --- |
+|  |  |
+| RYBW 混色效果 | 混色后耗材列表 |
+
+> ✅ **说明**：进行混色打印时，推荐使用 **Bambu PLA Basic** 官方耗材。上述 CMYW 与 RYBW 组合均经过官方测试，混色打印时映射得到的颜色更准确。
+
+  
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

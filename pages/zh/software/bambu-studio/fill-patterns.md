@@ -4,13 +4,13 @@ title: "填充图案介绍"
 description: "本文介绍了稀疏填充图案、顶面填充和底面填充图案"
 tags: []
 created: 2025-01-15T07:07:44.055Z
-updated: 2026-05-25T02:42:48.938Z
+updated: 2026-09-14T06:06:28.883Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/fill-patterns
 ---
 
 ## 功能设置
 
-可以在**工艺——强度——稀疏填充密度**中选择稀疏填充图案，也可在“**顶面图案/底面图案**”中选择适合模型顶面或底面的图案。
+可以在**工艺——强度——稀疏填充图案**中选择稀疏填充图案，也可在“**顶面图案/底面图案**”中选择适合模型顶面或底面的图案。
 
 ![](https://wiki.bambulab.com/software/bambu-studio/fill-patterns/image-8.png)
 
@@ -199,9 +199,11 @@ Locked Zag 是专门为“将填充作为外表面”场景设计的纹理，是
 | --- | --- |
 |  |  |
 
-## 顶面填充和底面填充
+## 顶面/次顶面/底面填充图案
 
 目前有 5 种基础选项——同心、直线、单调、单调线和直线排列，以及新增的 3 种——希尔伯特曲线、阿基米德螺旋和八角螺旋。
+
+**次顶面图案**默认设置为单调，更多信息请参考这篇 Wiki：[强度高级设置-次顶面图案](https://wiki.bambulab.com/zh/software/bambu-studio/parameter/strength-advance-settings#sub-top-surface-pattern)
 
 |  |  |
 | --- | --- |
@@ -265,6 +267,6 @@ Locked Zag 是专门为“将填充作为外表面”场景设计的纹理，是
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

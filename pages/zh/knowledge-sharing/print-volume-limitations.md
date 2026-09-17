@@ -4,7 +4,7 @@ title: "打印体积限制，以及如何实现极限构建体积"
 description: "我们描述了为什么打印机有部分容量限制，以及如何解决这个问题"
 tags: []
 created: 2022-08-01T08:09:33.336Z
-updated: 2026-05-18T06:41:12.974Z
+updated: 2026-08-28T08:23:26.876Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/print-volume-limitations
 ---
 
@@ -75,6 +75,6 @@ Bambu 系列打印机，其中X1系列、P1系列和A1的构建体积都是256x2
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

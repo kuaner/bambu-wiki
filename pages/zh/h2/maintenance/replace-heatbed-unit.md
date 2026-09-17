@@ -4,7 +4,7 @@ title: "更换 H2 系列热床组件"
 description: "本文介绍了如何更换 H2 系列热床组件"
 tags: []
 created: 2025-03-25T12:11:48.201Z
-updated: 2026-05-19T06:47:15.987Z
+updated: 2026-09-09T08:38:54.789Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-heatbed-unit
 ---
 
@@ -62,19 +62,45 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-heatbed-unit
 
 ![](https://wiki.bambulab.com/h2/maintenance/replace-heatbed-unit/image-27.png)
 
-### 步骤 2：移除背板、废料滑梯和 AC 板理线盖
+### 步骤 2. 移除打印机背板和废料滑梯
 
-您可以参阅这篇 Wiki 来依次移除
+移除排烟管转接件（若有）的 4 颗固定螺丝。
 
-1. 背板
-2. 废料滑梯
-3. AC 板理线盖
+![](https://wiki.bambulab.com/h2/laser/image-87.png)
 
-由于更换热床不涉及 AC 板的拆装，因此您可忽略更换 AC 板的步骤：
+移除打印机背板固定螺丝，即可取下背板：
 
-[更换 H2D AC 板/AC 板理线盖](replace-ac-board-for.md)
+- 红色圆圈标记的 11 颗螺丝（ST3×6）
+- 绿色方框标记的 12 颗螺丝（BT3×8）
+- 黄色方框标记的 2 颗外挂料盘固定螺丝（M3x12）
 
-### 步骤 3：断开热床连接线
+![](https://wiki.bambulab.com/h2/maintenance/replace-rear-panel/image-29.png)
+
+详细步骤您可以参考这篇 Wiki 来[移除 H2 系列打印机背板](replace-rear-panel.md) 。
+
+松开下图红色圆圈的废料滑梯固定螺丝（BT3x8），向下拉，移除废料滑梯；
+
+|  |  |
+| --- | --- |
+|  |  |
+
+### 步骤 3. 移除内置气泵（若有）
+
+若打印机为激光版，请先移除位于打印机右下角的内置气泵。
+
+![气泵位置.jpg](https://wiki.bambulab.com/h2/maintenance/built-in-air-pump/%E6%B0%94%E6%B3%B5%E4%BD%8D%E7%BD%AE.jpg)
+
+详细步骤您可以参考这篇 Wiki 以[移除内置气泵](built-in-air-pump.md)。
+
+### 步骤 4：移除 AC 板理线盖
+
+您可以参阅这篇 Wiki 来依次移除 AC 板理线盖： [更换 H2D AC 板/AC 板理线盖](replace-ac-board-for.md)
+
+> **注意**：由于更换热床不涉及 AC 板的拆装，因此您可忽略更换 AC 板的步骤。
+
+![](https://wiki.bambulab.com/ams-2-pro/maintenance/replace-ac-board-for/image-13.png)
+
+### 步骤 5：断开热床连接线
 
 1. 由于热床与 MC 板的两根连接线在“**步骤 2**”中已经移除，您可以直接跳过这一步。热床与 MC 板连接的两个线缆为 3 和 4，分别为：
 
@@ -107,7 +133,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-heatbed-unit
 
 ![](https://wiki.bambulab.com/h2/maintenance/replace-heatbed-unit/image-22.png)
 
-### 步骤 4：移除热床
+### 步骤 6：移除热床
 
 1. 您可以使用 H2.0 内六角扳手或镊子先撬开热床左右两侧的两个硅胶塞，然后即可看见螺丝。使用 H2.0 内六角扳手依次拧松下图所示的六颗螺丝（M3x8）。
 
@@ -229,17 +255,53 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-heatbed-unit
 
 4. 与 MC 板连接的热床信号线和状态灯连接线将在“**步骤 4**”中安装。
 
-### 步骤 4：安装 AC 板理线盖、废料滑梯和背板
+### 步骤 4：安装 AC 板理线盖
 
-您可以参阅下面的这篇 Wiki 依次安装：
+您可以查看 Wiki 以安装 AC 板理线盖： [更换 H2D AC 板/AC 板理线盖](replace-ac-board-for.md)
 
-1. AC 板理线盖；
-2. 废料滑梯；
-3. 背板
+![](https://wiki.bambulab.com/ams-2-pro/maintenance/replace-ac-board-for/image-13.png)
 
-[更换 H2D AC 板/AC 板理线盖](replace-ac-board-for.md)
+### 步骤 5：安装内置气泵（若有）
 
-### 步骤 5：安装状态灯和喷嘴偏移校准线圈
+若打印机为激光版，请重新安装位于打印机右下角的内置气泵。
+
+![气泵位置.jpg](https://wiki.bambulab.com/h2/maintenance/built-in-air-pump/%E6%B0%94%E6%B3%B5%E4%BD%8D%E7%BD%AE.jpg)
+
+详细步骤您可以参考这篇 Wiki 以[安装内置气泵](built-in-air-pump.md)。
+
+> 注意正确放置热床线，以防有阻碍物，影响热床正常移动。  
+> ![热床线缆.jpg](https://wiki.bambulab.com/h2/maintenance/built-in-air-pump/%E7%83%AD%E5%BA%8A%E7%BA%BF%E7%BC%86.jpg)
+
+### 步骤 6： 安装废料滑梯和背板
+
+对准废料滑梯下方 2 个卡扣位置，往前推，使这 2 个卡扣与内衬上的孔洞咬合。装回后，需检查螺丝孔位是否对齐；
+
+|  |  |
+| --- | --- |
+|  |  |
+
+> 注：在安装废料滑梯的时候，需要注意将废料滑梯的两侧扣在内衬的外侧，如果扣在内侧可能无法正常安装。
+>
+> ![](https://wiki.bambulab.com/h2/maintenance/replace-purge-chute/image-22.png)
+
+重新安装 1 颗废料滑梯固定螺丝（BT3x8），如图示红色圆圈标注。  
+![remove_purge_screws1.jpg](https://wiki.bambulab.com/h2/maintenance/replace-inner-lining-left/remove_purge_screws_1xx.jpg)
+
+重新拧上打印机背板固定螺丝，即可安装背板：
+
+- 红色圆圈标记的 11 颗螺丝（ST3×6）
+- 绿色方框标记的 12 颗螺丝（BT3×8）
+- 黄色方框标记的 2 颗外挂料盘固定螺丝（M3x12）
+
+![](https://wiki.bambulab.com/h2/maintenance/replace-rear-panel/image-29.png)
+
+详细步骤您可以参考这篇 Wiki 来[安装 H2 系列打印机背板](replace-rear-panel.md) 。
+
+重新安装排烟管转接件（若有）的 4 颗固定螺丝。
+
+![](https://wiki.bambulab.com/h2/laser/image-87.png)
+
+### 步骤 7：安装状态灯和喷嘴偏移校准线圈
 
 1. 状态灯上有两排卡扣，靠前的一排卡扣较长，您可以先将这一排卡扣对准热床上的孔位，插入后往前拉将卡扣扣入，然后再拿出状态灯往上扣，将后排的卡扣也扣到位，最后重新连接线缆；
 
@@ -255,7 +317,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-heatbed-unit
 
 ![](https://wiki.bambulab.com/h2/maintenance/replace-heatbed-unit/image-46.png)
 
-### 步骤 6：高温热床调平
+### 步骤 8：高温热床调平
 
 更换热床后，为避免打印机工作异常，需完成一次高温热床调平。请点击屏幕“**设置**”>“**校准**”>“**打印校准**”，勾选“**高温热床调平**”，开始校准。
 
@@ -284,7 +346,6 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-heatbed-unit
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

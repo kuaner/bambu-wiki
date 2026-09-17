@@ -4,7 +4,7 @@ title: "打印机网络端口"
 description: ""
 tags: ["端口", "网络端口"]
 created: 2023-01-09T08:56:56.138Z
-updated: 2025-11-26T08:24:20.021Z
+updated: 2026-09-11T07:05:25.616Z
 source: https://wiki.bambulab.com/zh/general/printer-network-ports
 ---
 

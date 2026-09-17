@@ -4,7 +4,7 @@ title: "Bambu Handy 无法连接网络（iOS 系统）"
 description: "本文将介绍当使用 iOS 系统时，Bambu Handy 连接网络失败的排查指引"
 tags: ["bambu handy"]
 created: 2024-11-01T01:12:15.768Z
-updated: 2024-11-09T00:22:16.280Z
+updated: 2026-08-28T08:30:36.215Z
 source: https://wiki.bambulab.com/zh/bambu-handy/troubleshoot/network-connection-failed
 ---
 
@@ -57,7 +57,6 @@ Bambu Handy提示无法连接服务器或者无法加载任何内容。
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。  
-> 我们随时准备为您解答疑问并提供帮助。[*点击此处联系在线技术支持**（服务时间 9:00-21:00）*](hhttps://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

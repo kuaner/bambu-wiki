@@ -4,7 +4,7 @@ title: "AMS 主要功能和工作流程介绍"
 description: ""
 tags: []
 created: 2023-04-20T11:38:20.070Z
-updated: 2025-05-16T01:39:46.876Z
+updated: 2026-08-28T08:24:37.427Z
 source: https://wiki.bambulab.com/zh/ams/manual/ams-function-introduction
 ---
 
@@ -172,7 +172,6 @@ Bambu官方的耗材卷的两侧都有RFID标签，在AMS上有两个读取RFID�
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持**（服务时间：工作日 9:00-21:00；节假日：9:00-18:00）*](https://support.bambulab.cn/cn/im?from=1)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

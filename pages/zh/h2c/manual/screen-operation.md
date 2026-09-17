@@ -4,7 +4,7 @@ title: "H2C 屏幕操作指南"
 description: "本指南介绍了 H2C 的屏幕操作"
 tags: []
 created: 2025-11-18T12:40:41.435Z
-updated: 2026-07-31T09:46:27.808Z
+updated: 2026-09-02T03:55:01.347Z
 source: https://wiki.bambulab.com/zh/h2c/manual/screen-operation
 ---
 
@@ -31,6 +31,10 @@ source: https://wiki.bambulab.com/zh/h2c/manual/screen-operation
 - **冷却模式**：适合打印 PLA/TPU 等**耐热性较低的耗材；**在此模式下，腔体加热循环风扇保持关闭状态。
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2c/manual/screen-operation/screenshot_20251107_091135.png)
+
+> **过滤器：** 该功能主要用于低温耗材打印过程中将空气通过过滤器过滤再排出。需配合打印机固件01.02.00.00 版本及以上。
+>
+> ![冷却模式下过滤.jpg](https://wiki.bambulab.com/h2/releasenote/%E5%86%B7%E5%8D%B4%E6%A8%A1%E5%BC%8F%E4%B8%8B%E8%BF%87%E6%BB%A4.jpg)
 
 - **腔温保持模式**：适合打印 ABS/ASA/PC/PA 等**具备高耐热性的耗材。**腔体加热时，系统会自动切换至腔温保持模式；在此模式下，腔体加热循环风扇将自动开启，辅助部件冷却风扇将保持关闭状态。
 
@@ -422,6 +426,9 @@ H2C 配备了伺服挤出电机、缓冲器、实况摄像头、俯视摄像头�
 5. **缓存远程打印文件到外部存储中**：通过云端发起的打印，打印文件将缓存到外部存储中。
 6. **运动精度增强**：专为对打印质量有高要求的用户设计，旨在解决 3D 打印过程中的绝对定位问题，从而提高打印精度，尤其是大尺寸打印的精度。通过这一过程，可以显著抑制运动迟滞和运动畸变，确保打印结果更加精准。
 7. **打印结果快照：**打印任务完成后，打印机会自动拍摄打印件照片并上传至云端，该照片将同步显示在 Bambu Handy 的打印完成弹窗中。
+8. **打印结束后净化空气**：打印完成后，打印机会自动进行 3 分钟的空气净化。需配合 Bambu Studio 2.5.3 及以上版本，打印机固件 01.02.00.00 及以上。
+
+![purify_air_at_pint_end_zh.png](https://wiki.bambulab.com/h2c/manual/screen-operation/purify_air_at_pint_end_zh.png)
 
 #### **AMS 选项**
 
@@ -509,5 +516,5 @@ H2C 配备了伺服挤出电机、缓冲器、实况摄像头、俯视摄像头�
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)，点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

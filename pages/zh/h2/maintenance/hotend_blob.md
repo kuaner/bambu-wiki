@@ -4,7 +4,7 @@ title: "H2D 打印机裹头处理指引"
 description: "本文介绍 H2D 打印机热端裹头导致无法使用的修复方法"
 tags: []
 created: 2025-05-15T03:44:40.607Z
-updated: 2026-03-23T06:53:03.314Z
+updated: 2026-08-28T08:38:40.890Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/hotend_blob
 ---
 
@@ -156,7 +156,6 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/hotend_blob
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。  
-> 我们随时准备为您解答疑问并提供帮助。[*点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im?from=5)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

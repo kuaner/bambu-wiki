@@ -4,7 +4,7 @@ title: "PLA Silk/ Silk+ 丝绸耗材打印指南"
 description: "本指南介绍了如何通过设置切片参数让拓竹丝绸 PLA（Silk / Silk+）耗材打印的模型丝绸光泽最大化。"
 tags: []
 created: 2022-07-29T07:24:29.221Z
-updated: 2026-08-13T07:33:16.794Z
+updated: 2026-08-28T08:23:06.606Z
 source: https://wiki.bambulab.com/zh/x1/manual/printing-with-silk-filaments
 ---
 

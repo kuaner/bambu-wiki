@@ -4,7 +4,7 @@ title: "跳闸、设备漏电的排查建议"
 description: ""
 tags: ["a1", "a1 mini", "h2c", "h2d", "h2s", "p1p", "p1s", "p2s", "x1c", "x1e", "x2d"]
 created: 2023-08-21T09:08:50.969Z
-updated: 2026-07-13T09:14:48.880Z
+updated: 2026-08-28T06:19:57.547Z
 source: https://wiki.bambulab.com/zh/general/tripping-and-electric-issue
 ---
 

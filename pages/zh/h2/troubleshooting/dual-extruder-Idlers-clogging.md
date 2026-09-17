@@ -1,20 +1,26 @@
 ---
 path: zh/h2/troubleshooting/dual-extruder-Idlers-clogging
-title: "H2D 从动杆卡料处理指南"
-description: ""
+title: "H2D 挤出机堵塞处理指南"
+description: "本文将介绍 H2D 挤出机出现堵塞时的处理办法。"
 tags: []
 created: 2025-06-05T03:54:01.539Z
-updated: 2026-01-26T13:46:57.843Z
+updated: 2026-08-28T08:38:55.978Z
 source: https://wiki.bambulab.com/zh/h2/troubleshooting/dual-extruder-Idlers-clogging
 ---
 
 ## 适用场景
 
-![卡料.jpg](https://wiki.bambulab.com/h2/troubleshooting/dual-extruder-idlers-clogging/%E5%8D%A1%E6%96%99.jpg)
+挤出机出现堵塞时的常见现象是“耗材无法从工具头中抽出”，对于 H2D 来说，从动杆组件以及前盖导向组件会是堵塞发生的位置。
+
+通常还会有如下几种现象：
 
 - 打印机报错“挤出电机过载”或出现空打现象；
 - 更换喷嘴组件后依然无法正常出料；
 - 耗材卡在挤出机内，无法通过常规方式移除。
+
+![卡料.jpg](https://wiki.bambulab.com/h2/troubleshooting/dual-extruder-idlers-clogging/%E5%8D%A1%E6%96%99.jpg)
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-19.png)
 
 ## 所需要工具和材料
 
@@ -31,7 +37,89 @@ source: https://wiki.bambulab.com/zh/h2/troubleshooting/dual-extruder-Idlers-clo
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。  
 > 如果您对本指南有任何疑问，请[点击这里提交工单](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)，我们将及时回复并为您提供所需的帮助。
 
-## 故障排除
+## 清理前盖导向组件
+
+前盖导向组件位于挤出齿轮和热端之间。
+
+![此渲染图用于展示挤出机齿轮出口至热端出口的路径](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-15.png)
+
+需要说明的是，前盖导向与左右切刀刀柄均存在干涉，拆装存在一定困难，但请不要灰心，只要你参考下述建议，一定可以顺利拆除前盖导向组件的。
+
+### 拆卸热端
+
+**确保热端处于室温后**，先拆除未被堵嘴片挡住的热端，然后在屏幕上切换挤出机，将另一个热端也拆下。
+
+- [更换 H2D 热端指南](../maintenance/replace-hotend.md)
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-16.png)
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-17.png)
+
+### 移除前盖导向
+
+拆除前盖导向上的 4 颗螺丝（或 3 颗螺丝，具体以你收到的版本为准），往上抵住黑色热端连接件，使左切刀从切刀螺丝附近的开口槽中脱出一点，然后从前盖导向右下角向外用力撬出前盖导向。
+
+在这种情况下，通常会有一段耗材同时穿过挤出机和前盖导向，在移除前盖导向时需要较大的力。移除前盖导向后，再剪断导向组件与挤出机之间的耗材，分离前盖导向组件。
+
+- [更换 H2D 挤出机前盖指南](../maintenance/replace-dual-extruder-filament-guide.md)
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-18.png)
+
+用手指向上抵住黑色热端连接件，同时按压左切刀刀柄，使左切刀从切刀螺丝附近的开口槽中脱出一点，然后从前盖导向右下角向外用力撬出前盖导向。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/%E6%8B%86%E4%B8%8B%E5%89%8D%E7%9B%96%E5%AF%BC%E5%90%91.webp)
+
+您也选择可以在 MakerWorld 下载并打印拆装辅助工具模型，以方便您进行拆装操作。[模型链接：H2D 挤出机前盖导向拆装辅助工具](https://makerworld.com.cn/zh/models/1217253-h2d-ji-chu-ji-qian-gai-dao-xiang-chai-zhuang-fu-zh#profileId-1295106)
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/3.webp)
+
+### 移除堵塞耗材
+
+如果异常耗材只是堵在前盖导向的入口处，使用斜口钳将耗材拔出即可。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-19.png)
+
+尝试取用一小段耗材，捅入前盖导向内。若不能穿过导向，则异常耗材堵塞在前盖导向的内部，那么需要将前盖导向拆开清理。
+
+**前盖导向拆解清理**
+
+您需要先拧开 1 颗螺丝；
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-20.png)
+
+然后沿着导轨移除黑色连接件，
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-21.png)
+
+拆下切刀和弹簧。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-22.png)
+
+使用 H1.5 的螺丝刀疏通黑色连接件以及导向组件的内部，防止有耗材仍然堵塞在里面。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-23.png)
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-24.png)
+
+清理完成后，将弹簧重新安装到黑色连接件上，并沿着导轨装回连接件；
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-25.png)
+
+请确保弹簧刚好套在红框中的滑块上。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-26.png)
+
+然后重新拧入螺丝并放回切刀。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-27.png)
+
+需要注意的是，切刀有一侧凹面，请确保装入切刀的时候**凹面是朝上的**。
+
+![](https://wiki.bambulab.com/h2/troubleshooting/extruder-motor-overload/image-28.png)
+
+最后，您可以按照下面 wiki 中的安装步骤来进行挤出机前盖的安装操作：[更换 H2D 挤出机前盖指南](../maintenance/replace-quick-change-tool-interface.md)。
+
+## 清理从动杆组件
 
 ### 移除挤出机前盖
 
@@ -141,7 +229,6 @@ source: https://wiki.bambulab.com/zh/h2/troubleshooting/dual-extruder-Idlers-clo
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

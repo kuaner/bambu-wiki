@@ -4,7 +4,7 @@ title: "欧特克 FDM 测试模型介绍"
 description: "本页面将介绍 Bambu Studio 中包含的欧特克 FDM 测试模型：它是什么、为什么重要、如何在 Bambu Studio 中打印、需要重点检查哪些方面，以及如何调校你的打印机和切片软件以获得更好的质量。"
 tags: []
 created: 2026-01-27T10:22:14.716Z
-updated: 2026-04-14T08:57:09.096Z
+updated: 2026-08-28T06:36:35.965Z
 source: https://wiki.bambulab.com/zh/bambu-studio/ksrFDMTest
 ---
 

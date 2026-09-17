@@ -4,7 +4,7 @@ title: "H2C 挤出机堵塞清理指南"
 description: "本文将为您介绍 H2C 挤出机清洁的详细步骤。"
 tags: []
 created: 2025-11-18T13:15:45.396Z
-updated: 2026-09-07T10:16:27.520Z
+updated: 2026-09-07T10:16:28.823Z
 source: https://wiki.bambulab.com/zh/h2c/troubleshooting/extruder-cleaning-guide
 ---
 

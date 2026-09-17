@@ -1,10 +1,10 @@
 ---
 path: zh/x1/troubleshooting/how-to-check-which-part-is-clogged
-title: "打印机堵塞排查"
+title: "X1/P1 打印机堵塞排查"
 description: "本指南介绍如何确认堵塞部位并进行排障处理。"
 tags: ["x1"]
 created: 2022-09-02T01:11:00.996Z
-updated: 2025-12-24T12:18:39.659Z
+updated: 2026-08-26T09:41:37.968Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-check-which-part-is-clogged
 ---
 

@@ -4,7 +4,7 @@ title: "双喷嘴打印机耗材切片分组"
 description: "本文将为您详细介绍双喷嘴打印机的切片分组策略包括：省料模式、便携模式、自定义模式"
 tags: []
 created: 2025-03-25T04:27:07.599Z
-updated: 2026-04-15T01:42:40.531Z
+updated: 2026-08-28T08:32:56.129Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/manual/dual-nozzles-slicing-filament-grouping
 ---
 
@@ -121,7 +121,6 @@ X2D 质量模式是在原有省料模式、便捷模式和自定义模式基础�
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

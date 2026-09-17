@@ -4,13 +4,19 @@ title: "更换 A1mini Y轴导轨"
 description: "本文将介绍如何更换A1mini的Y轴导轨。"
 tags: ["a1 mini"]
 created: 2026-04-28T08:58:22.086Z
-updated: 2026-04-28T09:33:03.501Z
+updated: 2026-09-11T03:18:29.560Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/replacing-y-axis
 ---
 
-## Y轴轨道
+## Y 轴导轨
 
-![](https://wiki.bambulab.com/n1/a1-mini-printer/y%E8%BD%B4%E5%AF%BC%E8%BD%A8.png)
+![](https://wiki.bambulab.com/n1/a1-mini-yz/a1mini_y1.jpg)
+
+> **ℹ️ 说明**：Y 轴线轨有两个版本，结构上存在细微差别。该差异**不影响**配件拆装，两个版本的操作步骤完全相同。本文图示以版本 1 为例。
+>
+> |  |  |
+> | --- | --- |
+> | 版本 1 | 版本 2 |
 
 ## 工具
 
@@ -125,8 +131,6 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/replacing-y-axis
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

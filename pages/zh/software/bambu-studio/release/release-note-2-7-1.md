@@ -4,7 +4,7 @@ title: "Bambu Studio 2.7.1 版本说明"
 description: ""
 tags: []
 created: 2026-06-01T09:07:11.054Z
-updated: 2026-06-06T02:42:37.577Z
+updated: 2026-09-04T02:24:52.963Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-7-1
 ---
 
@@ -31,7 +31,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-
 
 ### 纹理转涂色
 
-新增将贴图纹理直接转换为模型涂色的能力。适合需要将彩色图案（Logo、装饰图）应用到3D模型表面的多色打印场景。目前支持OBJ、glTF、GLB、FLB、FBX纹理格式导入。
+新增将贴图纹理直接转换为模型涂色的能力。适合需要将彩色图案（Logo、装饰图）应用到3D模型表面的多色打印场景。目前支持OBJ、glTF、GLB、FBX纹理格式导入。
 
 ![2.gif](https://wiki.bambulab.com/software/bambu-studio/release-note/v2_7_1/2.gif)
 
@@ -39,7 +39,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-
 >
 > - 暂不支持同时加载多个纹理模型进行转换，请逐个导入。
 > - 暂不支持Draco压缩的 glTF / GLB。
-> - 受依赖的第三方库影响，macOS对压缩FBX支持受限。
+> - 受依赖的第三方库影响，macOS对压缩 FBX 支持受限。
 
 ### 耗材管理器
 

@@ -4,7 +4,7 @@ title: "A1 主板更换指南"
 description: "介绍更换 A1 主板的步骤。"
 tags: []
 created: 2024-08-16T06:39:18.713Z
-updated: 2026-06-18T02:36:38.601Z
+updated: 2026-09-02T07:00:19.275Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/mainboard-replacement-guide
 ---
 
@@ -39,7 +39,21 @@ A1
 
 ## 拆卸旧主板
 
-### 1. 将打印机正面朝下放置
+### 1. 弹出 SD 卡并关闭打印机
+
+Bambu Lab A1 系列 3D 打印机**不支持热插拔卡**，因此每次取出 SD 卡时，**请务必从菜单中安全弹出**，具体步骤如下：
+
+- 进入 **设置 → SD 卡**
+- 在 SD 卡菜单中点击**弹出**
+- 点击**弹出**，确认选项
+
+![a1-弹出sd_v2.jpg](https://wiki.bambulab.com/a1-sd/a1-%E5%BC%B9%E5%87%BAsd_v2.jpg)
+
+只需按下 SD 卡再松开，即可将其从打印机中弹出。然后关闭打印机，并断开打印机电源。
+
+![](https://wiki.bambulab.com/a1/manual/print-from-sd-card/a1_micro_sd_card.jpeg)
+
+### 2. 将打印机正面朝下放置
 
 将打印机正面朝下放置，方便操作打印机底部。
 
@@ -47,7 +61,7 @@ A1
 
 ![](https://wiki.bambulab.com/a1/maintenance/power-supply/place_the_a1_printer_on_its_front.jpeg)
 
-### 2. 拆卸线缆支架
+### 3. 拆卸线缆支架
 
 1. 断开相机、X 轴电机和 Z 轴电机 3 处线缆；
 
@@ -59,15 +73,11 @@ A1
 | --- | --- | --- |
 |  |  |  |
 
-### 3. 拆除打印机底盖
+### 4. 拆除打印机底盖
 
 卸下红色标记的 10 颗螺丝，即可拆卸底盖。
 
 ![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E6%8B%86%E5%BA%95%E5%A3%B3%E8%9E%BA%E4%B8%9D10.jpg)
-
-### 4. 取出 SD 卡
-
-从打印机上取出  SD 卡。
 
 ### 5. 断开主板上的 5 根线缆
 
@@ -223,6 +233,12 @@ A1
 
 ![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E6%8E%A5%E7%BA%BF%E7%BC%86.jpg)
 
+### 10. 插入 MicroSD 卡
+
+A1 系列 3D 打印机**不支持热插拔卡**，因此请在打印机断电情况下，插入 MicroSD 卡，然后再连接打印机电源。
+
+![a1_micro_sd_card.jpg](https://wiki.bambulab.com/a1-sd/a1_micro_sd_card.jpg)
+
 ## 联系客户支持注册序列号
 
 > 重要提醒：  
@@ -259,10 +275,8 @@ A1
 
 新主板需要客户支持注册。因此，请向客户支持提供新主板的序列号以注册，请参考该wiki：[如何查找序列号及注册新序列号](../../general/find-sn.md)。
 
-## **结束语**
+## 结束语
 
-> 我们希望这份指南为您提供了有效的信息，并真实地帮助了您。
->
-> 如果您对本文中描述的过程有任何疑虑或疑问，您可以在开始操作前联系我们的客户服务团队。 我们随时准备为您提供帮助并回答您的任何问题。
->
-> [点击这里提交服务工单](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

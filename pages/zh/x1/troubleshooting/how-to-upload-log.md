@@ -4,7 +4,7 @@ title: "如何创建工单及上传日志"
 description: "本指南将引导您通过 Bambu Handy 或在 Bambu Lab 官网创建工单及上传日志，以及上传日志常见问题。"
 tags: []
 created: 2024-10-08T04:14:08.421Z
-updated: 2026-08-12T02:40:42.477Z
+updated: 2026-09-01T06:59:35.741Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 ---
 
@@ -16,7 +16,7 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 
 在帮助中心页面，找到 “**技术支持**” 区域，点击 “**我要提问**”。向在线客服输入您的问题或输入“人工服务”后，点击**技术咨询工单**进入工单提交页面。
 
-![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/cover_zh.jpg)
+![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/ticket_submit.jpg)
 
 选择遇到[问题类型](../../create-support-ticket.md)，这里以**打印机**类型为例，点击 “**下一步**” 按钮以进入工单提交页面。
 
@@ -185,5 +185,5 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

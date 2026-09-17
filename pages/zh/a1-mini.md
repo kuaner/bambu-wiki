@@ -4,7 +4,7 @@ title: "A1 mini"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-20T13:13:46.125Z
-updated: 2026-07-30T01:49:46.825Z
+updated: 2026-09-09T10:05:20.304Z
 source: https://wiki.bambulab.com/zh/a1-mini
 ---
 
@@ -79,8 +79,8 @@ source: https://wiki.bambulab.com/zh/a1-mini
 - [缠料检测功能](ams-lite/manual/filament-tangle-monitoring-intro.md)
 - [裹头检测功能](manual/nozzle-warp-detection.md)
 - [打印板检测](manual/build-plate-detection.md)
+- [MIDI to A1 mini 使用指南](A1-mini/Midi.md)
 - [空打检测](ams-lite/manual/air-printing-detection.md)
-- [MIDI to A1 mini 使用指南](https://wiki.bambulab.com/zh/a1-mini/midi)
 
 ## 💡 故障排除和解决方案
 

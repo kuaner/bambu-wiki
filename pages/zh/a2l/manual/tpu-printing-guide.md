@@ -3,8 +3,8 @@ path: zh/a2l/manual/tpu-printing-guide
 title: "A2L TPU 打印指南"
 description: "本指南介绍了如何在 A2L 上打印 TPU"
 tags: []
-created: 2026-06-01T13:02:28.531Z
-updated: 2026-08-28T06:43:11.832Z
+created: 2026-06-01T13:02:28.530Z
+updated: 2026-08-28T06:43:11.380Z
 source: https://wiki.bambulab.com/zh/a2l/manual/tpu-printing-guide
 ---
 
@@ -21,6 +21,8 @@ TPU 容易吸湿，受潮会影响打印质量。为了避免这种情况，建�
 - 在收纳盒内放置干燥剂。
 
 ![](https://public-cdn.bblmw.com/wiki/new/a2l/manual/tpu-printing-guide/017.png)
+
+## 视频指南
 
 ## 打印前准备
 

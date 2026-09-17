@@ -4,7 +4,7 @@ title: "H2D Combo 和 H2DL 开箱指南"
 description: ""
 tags: []
 created: 2025-03-26T07:23:26.383Z
-updated: 2026-02-06T10:31:54.417Z
+updated: 2026-08-28T08:34:38.146Z
 source: https://wiki.bambulab.com/zh/h2/manual/unboxing-ams-combo-and-laser-full-combo
 ---
 
@@ -296,7 +296,6 @@ AMS 套装：H2D、AMS 2 Pro、配件盒
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -4,7 +4,7 @@ title: "H2D 工具头刮打印板故障排查指南"
 description: "文章主要描述了当 H2D 的工具头刮擦打印板时如何排除故障"
 tags: []
 created: 2025-06-30T02:13:21.166Z
-updated: 2025-07-21T02:28:58.336Z
+updated: 2026-08-28T08:39:59.876Z
 source: https://wiki.bambulab.com/zh/h2/troubleshooting/toolhead-scraping-the-build-surface
 ---
 
@@ -113,7 +113,6 @@ source: https://wiki.bambulab.com/zh/h2/troubleshooting/toolhead-scraping-the-bu
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

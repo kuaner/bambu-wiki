@@ -4,7 +4,7 @@ title: "耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水�
 description: "耗材指南可帮助您选择合适的耗材打印材料，包括喷嘴和打印面板的兼容性、打印设置及存储办法。"
 tags: []
 created: 2023-05-12T03:43:34.799Z
-updated: 2026-08-19T03:29:54.890Z
+updated: 2026-09-08T01:42:22.243Z
 source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 ---
 
@@ -72,6 +72,7 @@ source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 - **喷嘴直径首选方案：** **0.6 mm** 硬化钢喷嘴，**堵塞概率更低**，适配多数打印场景
 - **喷嘴直径备选方案：** 可选择 **0.4 mm** 硬化钢喷嘴（建议打印层高控制在 **0.15~0.3 mm**，打印速度上限约 **100 mm/s**），能在减少堵头风险的同时，提升模型细节表现与表面质量；
 - 对于特殊设计的 Bambu 耗材（如 **Bambu PLA-CF、Bambu PETG-CF、Bambu PLA Marble、Bambu PLA Sparkle、Bambu PLA Glow** 等），强烈推荐以 **0.4 mm 硬化钢喷嘴作为首选**，可实现流畅打印与优质表面效果的双重保障。
+- **维护频率**： 需要更高频次地维护喷嘴以及挤出齿轮。
 
 > **📌 直径影响说明**  
 > 随着喷嘴直径增大（0.4 mm → 0.6 mm → 0.8 mm），打印精细度会降低，但堵塞概率也依次降低。
@@ -158,7 +159,7 @@ AMS 与 AMS Lite 对耗材物理特性有明确要求，不推荐使用以下三
 | **ABS** | 90 - 100 °C | 90 - 100 °C |
 | **ASA** | 90 - 100 °C | 90 - 100 °C |
 | **TPU** | 30 - 45 °C | 30 - 45 °C |
-| **PET-CF** | 80 - 100 °C | 80 - 100 °C |
+| **PET-CF** | 80 - 100 °C | 不适配 |
 | **PC** | 100 - 120 °C | 不推荐 |
 | **PA / PA-CF / PAHT-CF** | 90 - 110 °C | 不推荐 |
 
@@ -254,6 +255,6 @@ AMS 与 AMS Lite 对耗材物理特性有明确要求，不推荐使用以下三
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

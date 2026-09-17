@@ -4,9 +4,25 @@ title: "A2L 固件发布记录"
 description: ""
 tags: []
 created: 2026-06-01T13:03:14.734Z
-updated: 2026-06-01T13:03:17.750Z
+updated: 2026-09-09T09:10:08.994Z
 source: https://wiki.bambulab.com/zh/a2l/manual/a2l-firmware-release-history
 ---
+
+## 01.01.05.00（20260903）
+
+### 新增功能
+
+**1. 新增“打印后刀切”功能。**
+
+配合 3.26.0 版本及以上 Bambu Handy、1.4.0.00 版本及以上 Bambu Suite 及刀切模组，用户可先在普通纸张上打印平面图案，通过手机 Bambu Handy APP 拍照识别轮廓，最终实现高精度延边切割，提升贴纸、标签、贺卡等作品的精度和美观度。
+
+### 功能优化
+
+1. 优化了模型顶面熨烫质量，减少缺料、表面不平整等问题。
+2. 优化了部分场景下的 HMS 误报问题，提升使用体验。
+3. 优化了风扇转速策略，降低噪声。
+4. 优化非首层保温的引导，配合 Bambu Studio 2.8.2.61 版本及以上使用，提升用户体验。
+5. 设置菜单中新增使用政策、隐私政策和用户改善计划的查看入口。
 
 ## 01.01.00.00（20260601）
 
@@ -61,6 +77,6 @@ source: https://wiki.bambulab.com/zh/a2l/manual/a2l-firmware-release-history
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

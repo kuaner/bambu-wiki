@@ -4,7 +4,7 @@ title: "堵头"
 description: ""
 tags: ["堵头", "打印质量"]
 created: 2023-12-10T05:32:58.252Z
-updated: 2026-07-07T03:36:14.453Z
+updated: 2026-08-28T06:20:24.698Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/clog
 ---
 
@@ -12,19 +12,9 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/clog
 
 ![](https://wiki.bambulab.com/knowledge-sharing/print-quality-troubleshooting-guide/dutou.png)
 
-堵头是打印过程中常见的一个问题，分为挤出机堵塞和喷嘴堵塞两种，可以参考下表 Wiki ，根据对应机型进行排查和清理：
+堵头是打印过程中常见的一个问题，分为挤出机堵塞和喷嘴堵塞两种。
 
-| 链接 | 内容简介 |
-| --- | --- |
-| [X1/P1 喷嘴/热端堵塞](../../../x1/troubleshooting/nozzle-clog.md) | 演示了清理 X1/P1 系列热端/喷嘴堵塞的几个方法。 |
-| [H2D 喷嘴/热端堵塞清理](../../../h2/troubleshooting/unclogging.md) | 介绍当 H2D 热端堵塞时如何清理。 |
-| [H2S热端堵塞清理](../../../h2s/troubleshooting/nozzle-clog.md) | 系统介绍 H2S 热端堵塞时的故障排除方法及详细操作步骤。 |
-| [H2C 喷嘴堵塞排查](../../../h2c/troubleshooting/clogging.md) | 介绍当 H2C 热端堵塞时如何清理 |
-| [P2S 喷嘴堵塞清理指南](../../../p2s/maintenance/cold-pull-maintenance-hotend.md) | 详细介绍 P2S 打印机喷嘴堵塞的清理方法。 |
-| [A1 系列打印机热端堵塞清理](../../../a1-mini/troubleshooting/nozzle-clog.md) | 介绍当 A1 系列打印机热端堵塞时如何清理。 |
-| [A2L 打印机热端堵塞清理](../../../a2l/maintenance/cold-pull-maintenance-hotend.md) | 介绍当 A2L 系列打印机热端堵塞时如何清理。 |
-
-打印前，请提前确认是否给打印耗材设置了正确的喷嘴和热床温度：[打印材料的兼容性和参数设置 | Bambu Lab Wiki](../../../general/filament-guide-material-table.md)。
+打印前，请确认是否设置了错误的喷嘴和热床温度，错误的温度也会导致耗材无法挤出：[打印材料的兼容性和参数设置 | Bambu Lab Wiki](../../../general/filament-guide-material-table.md)。
 
 ### 挤出机堵塞
 
@@ -76,7 +66,20 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/clog
 3. 用普通耗材冲刷，并用通针疏通，直到出料顺畅为止。
 4. 以在 220 ℃ 下手推 PLA 耗材进料的方式判断是否已疏通到位。
 
-具体步骤详见 [喷嘴堵塞清理指南](../../../x1/troubleshooting/nozzle-clog.md)。若喷嘴已无法疏通，则需更换新喷嘴，参见 [更换热端及其相关组件](../../../x1/maintenance/replace-hotend.md)。
+具体步骤详见：
+
+| 链接 | 内容简介 |
+| --- | --- |
+| [X1/P1 喷嘴/热端堵塞](../../../x1/troubleshooting/nozzle-clog.md) | 演示了清理 X1/P1 系列热端/喷嘴堵塞的几个方法。 |
+| [H2D 喷嘴/热端堵塞清理](../../../h2/troubleshooting/unclogging.md) | 介绍当 H2D 热端堵塞时如何清理。 |
+| [H2S热端堵塞清理](../../../h2s/troubleshooting/nozzle-clog.md) | 系统介绍 H2S 热端堵塞时的故障排除方法及详细操作步骤。 |
+| [H2C 喷嘴堵塞清理](../../../h2c/troubleshooting/unclogging.md) | 介绍当 H2C 热端堵塞时如何清理 |
+| [P2S 喷嘴堵塞清理指南](../../../p2s/maintenance/cold-pull-maintenance-hotend.md) | 详细介绍 P2S 打印机喷嘴堵塞的清理方法。 |
+| [X2D 喷嘴堵塞清理指南](../../../x2d/maintenance/cold-pull-maintenance-hotend.md) | 详细介绍 X2D 打印机喷嘴堵塞的清理方法。 |
+| [A1 系列打印机热端堵塞清理](../../../a1-mini/troubleshooting/nozzle-clog.md) | 介绍当 A1 系列打印机热端堵塞时如何清理。 |
+| [A2L 打印机热端堵塞清理](../../../a2l/maintenance/cold-pull-maintenance-hotend.md) | 介绍当 A2L 系列打印机热端堵塞时如何清理。 |
+
+若喷嘴已无法疏通，则需更换新喷嘴。
 
 此外，打印这类含纤维颗粒的耗材时，推荐使用 0.6 mm 或 0.8 mm 口径的喷嘴，以降低堵塞风险；严禁使用 0.2 mm 喷嘴打印，否则喷嘴堵塞风险极高。
 
@@ -110,6 +113,6 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/clog
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

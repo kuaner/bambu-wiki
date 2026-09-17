@@ -4,7 +4,7 @@ title: "打印结束后的工作（取下模型、清洁打印板、外观处理
 description: "本文介绍了 3D 打印完成后的全套收尾与后处理操作。"
 tags: []
 created: 2023-09-08T02:59:40.384Z
-updated: 2026-08-14T09:26:31.211Z
+updated: 2026-08-28T06:20:09.599Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/print-finish-adv
 ---
 
@@ -152,6 +152,6 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/print-finish-adv
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的客户支持团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

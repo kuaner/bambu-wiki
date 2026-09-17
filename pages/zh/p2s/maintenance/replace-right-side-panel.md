@@ -4,7 +4,7 @@ title: "更换 P2S 右侧板"
 description: "本文介绍了如何更换 P2S 右侧板"
 tags: []
 created: 2025-10-14T12:58:55.912Z
-updated: 2025-10-14T12:58:57.137Z
+updated: 2026-08-28T08:42:19.843Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-right-side-panel
 ---
 
@@ -110,9 +110,13 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-right-side-panel
 
 您可以参考[更换前面盖](replace-front-cover.md)，装好前面盖和屏幕。
 
+![install_the_front_cover015.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-front-cover/install_the_front_cover015.jpg)
+
 ### 第3步：安装自适应风道切换组件
 
-您可以参考[更换自适应风道切换组件](replace-adaptive-airflow-switching-unit.md)的拆解部份内容，安装自适应风道切换组件。
+您可以参考[更换自适应风道切换组件](replace-adaptive-airflow-switching-unit.md)的安装部份内容，安装自适应风道切换组件。
+
+![install_the_unit_009.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/adaptive_airflow_switching_unit/install_the_unit_009.png)
 
 ### 第4步：安装背板、缓冲器和料管支架
 
@@ -121,6 +125,8 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-right-side-panel
 - [更换背板](replace-rear-panel.md)
 - [更换缓冲器](replace-filament-buffer.md)
 - [更换料管支架](replace-ptfe-tube-bracket.md)
+
+![install_the_rear_panel_007.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/rear_panel/install_the_rear_panel_007.png)
 
 ## 如何验证成功
 
@@ -133,5 +139,5 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-right-side-panel
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系技术支持](https://support.bambulab.cn)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

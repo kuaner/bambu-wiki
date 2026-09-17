@@ -1,0 +1,133 @@
+---
+path: zh/x1/troubleshooting/miniwiki_test_0817
+title: ""
+description: ""
+tags: []
+created: 2026-08-18T04:08:19.236Z
+updated: 2026-08-24T03:48:05.018Z
+source: https://wiki.bambulab.com/zh/x1/troubleshooting/miniwiki_test_0817
+---
+
+![]()
+标签
+
+可能发生炒面缺陷。请检查打印质量并决定是否停止任务。
+
+当前问题可能对应以下情况，点击可查看帮助指南：
+
+[情况1
+模型首层未粘牢打印板](#mw-case-1)
+[情况2
+打印中途模型底部翘边、模型倒塌](#mw-case-2)
+[情况3
+悬垂导致炒面](#mw-case-3)
+
+Step 1/6
+
+检查并跳过出现炒面的零件，若无法跳过，请参考以下步骤排查并重新发起打印。
+
+![炒面-cn.webp](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/spaghetti-failure-cn1.gif)
+
+Step 2/6
+
+检查模型首层打印是否完整无变形缺损。
+
+![检查炒面过程](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/first-layer-gaps.png)
+
+若首层成形完整，请跳转
+[情形2](#mw-case-2)。
+
+Step 3/6
+
+使用清洗剂清洁打印板并擦干表面水分。
+
+![清洗打印板](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/clean-build-plate.jpg)
+
+请参考该
+[Wiki](/zh/filament-acc/acc/pei-plate-clean-guide)清洗打印板。
+
+Step 4/6
+
+屏幕上进入校准-打印校准，重新进行热床自动调平。
+
+![校准cn.jpeg](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/print-calibration-cn.jpg)
+
+Step 5/6
+
+检查发起时选择的打印板类型是否与实际相符合。
+
+![image1.png](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/build-plate-type-cn.png)
+
+Step 6/6
+
+若再次打印依然发生炒面，请尝试**更换或烘干**耗材重新发起打印。
+
+![烘干cn.png](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/filament-drying-cn.png)
+
+**若长时间未烘干：**请参考该
+[Wiki](/zh/filament-acc/filament/dry-filament)烘干耗材。
+**若已更换或者烘干耗材，依旧出现炒面现象：**请
+[联系人工客服](https://support.bambulab.cn/liveChat/)。
+
+Step 1/6
+
+检查模型是否存在翘边、脱落现象。
+
+![翘边.jpg](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/warping.jpg)
+
+若模型未翘边、脱落，请跳转
+[情形3](#mw-case-3)。
+
+Step 2/6
+
+使用清洗剂清洁打印板并擦干表面水分。
+
+![清洗打印板](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/clean-build-plate.jpg)
+
+请参考该
+[Wiki](/zh/filament-acc/acc/pei-plate-clean-guide)清洗打印板。
+
+Step 3/6
+
+屏幕上进入校准-打印校准，进行热床调平。
+
+![校准cn.jpeg](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/print-calibration-cn.jpg)
+
+Step 4/6
+
+关闭打印机上盖、前门，避免外部冷空气影响。
+
+![封箱.png](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/close-printer-enclosure.png)
+
+Step 5/6
+
+检查发起时选择的打印板类型是否与实际相符合。
+
+![image1.png](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/build-plate-type-cn.png)
+
+Step 6/6
+
+若问题仍未解决，请参考Wiki或联系客服。
+
+**打印测试：**模型依然容易翘边、倒塌，请参考
+[Wiki](/zh/filament-acc/filament/print-quality/warping-falling-off-collapsing)调整 Bambu Studio 内切片参数进行优化。
+
+如持续无法解决请
+[联系人工客服](https://support.bambulab.cn/liveChat/)协助排查。
+
+Step 1/2
+
+观察模型悬垂位置是否缺少支撑结构。
+
+![悬垂实物-cn_compressed.png](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/overhang-and-support-cn_compressed.png)
+
+如缺少支撑可在 Bambu Studio 支撑栏，开启或增加悬垂位置的支撑，详细可参考[Wiki](/zh/software/bambu-studio/support)
+
+Step 2/2
+
+开启静音模式，降低打印速度确保打印稳定性
+
+![静音模式-cn.jpeg](https://public-cdn.bblmw.com/wiki/new/miniwiki/x1/0c00_0300_0003_0008/silent-mode-cn.jpg)
+
+**若悬垂位置依旧发生炒面：**请
+[联系人工客服](https://support.bambulab.cn/liveChat/)。

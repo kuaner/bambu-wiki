@@ -4,7 +4,7 @@ title: "拓竹 A1 系列 Y 轴导轨润滑（使用 WD-40 多用途产品）以 
 description: "本文以 A1 mini 为例，介绍了如何使用 WD-40 多用途产品对 A1 系列打印机的 Y 轴导轨进行润滑"
 tags: ["y轴", "a1", "a1 mini"]
 created: 2024-01-25T04:19:28.012Z
-updated: 2025-08-18T07:36:42.273Z
+updated: 2026-08-28T08:27:41.486Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/lubricate-y-axis-with-wd-40-multi-use-product
 ---
 
@@ -40,7 +40,7 @@ A1 系列打印机的Y轴采用了全金属导轮，这套导轨系统确保用�
 
 ### 第 1 步：使用干净的无纺布擦拭导轨上的灰尘，切勿使用容易掉纤维的纸巾
 
-![](https://wiki.bambulab.com/a1/manual/lubricate-y-with-wd-40/前擦灰.png)
+![](https://wiki.bambulab.com/a1/manual/lubricate-y-with-wd-40/%E5%89%8D%E6%93%A6%E7%81%B0.png)
 
 ### 第 2 步：**将摇晃均匀后的"WD-40 多用途产品"喷在在一块干净的无纺织布上**
 
@@ -50,11 +50,11 @@ A1 系列打印机的Y轴采用了全金属导轮，这套导轨系统确保用�
 
 ### 第 3 步：**用沾有"WD-40多用途产品"的无纺织布轻轻拍涂在Y轴导轨杆上**
 
-![](https://wiki.bambulab.com/a1/manual/lubricate-y-with-wd-40/轻拍1.png)
+![](https://wiki.bambulab.com/a1/manual/lubricate-y-with-wd-40/%E8%BD%BB%E6%8B%8D1.png)
 
-### 第 4 步：前后移动热床，使"**WD-40多用途产品"**均匀分布。
+### 第 4 步：前后移动热床，使"\*\*WD-40多用途产品"\*\*均匀分布。
 
-![](https://wiki.bambulab.com/a1/manual/lubricate-y-with-wd-40/前后推动.png)
+![](https://wiki.bambulab.com/a1/manual/lubricate-y-with-wd-40/%E5%89%8D%E5%90%8E%E6%8E%A8%E5%8A%A8.png)
 
 按照相同的方法，对剩余的钢棒区域进行润滑处理。
 
@@ -64,16 +64,14 @@ A1 系列打印机的Y轴采用了全金属导轮，这套导轨系统确保用�
 
 ### 第 5 步：使用干净的无纺布仔细擦拭外壳上的油渍
 
-> **注意：**切勿擦拭到钢轴上的"**WD-40多用途产品"**。
+> \*\*注意：\*\*切勿擦拭到钢轴上的"**WD-40多用途产品"**。
 
 |  |  |
 | --- | --- |
 |  |  |
 
-## **结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

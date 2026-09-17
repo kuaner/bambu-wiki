@@ -4,7 +4,7 @@ title: "模型缺料"
 description: "了解如何识别并解决 3D 打印中的模型缺料问题。本指南介绍了整体缺料和局部缺料两种现象，并详细说明常见原因与解决方法。"
 tags: ["打印质量", "模型缺料"]
 created: 2023-12-10T05:51:53.569Z
-updated: 2026-06-23T06:29:29.955Z
+updated: 2026-08-28T06:20:26.396Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/under-extrusion
 ---
 
@@ -77,6 +77,6 @@ P1P 和 X1 系列打印机的流量标定方法如下图所示。
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

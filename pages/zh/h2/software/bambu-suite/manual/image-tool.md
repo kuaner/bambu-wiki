@@ -4,7 +4,7 @@ title: "Bambu Suite图片工具使用指南"
 description: "本指南介绍了Bambu Suite软件中图片工具的各种基本功能并进行了操作演示。"
 tags: ["h2d", "software"]
 created: 2025-05-27T02:09:37.750Z
-updated: 2025-07-25T08:55:04.999Z
+updated: 2026-08-28T08:38:50.987Z
 source: https://wiki.bambulab.com/zh/h2/software/bambu-suite/manual/image-tool
 ---
 
@@ -245,7 +245,6 @@ Bambu Suite提供了四种风格化滤镜，用户可以通过点击对应的按
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -4,7 +4,7 @@ title: "更换 X2D 打印机线材包 (三合一)"
 description: "介绍线材包内的线缆及其用处，包括 辅助挤出机 连接线、工具头前盖连接线和腔温传感器连接线。"
 tags: []
 created: 2026-04-15T14:23:58.989Z
-updated: 2026-04-16T02:23:35.563Z
+updated: 2026-08-28T08:43:57.960Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-cable-pack
 ---
 
@@ -155,5 +155,5 @@ source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-cable-pack
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系技术支持](https://support.bambulab.cn)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

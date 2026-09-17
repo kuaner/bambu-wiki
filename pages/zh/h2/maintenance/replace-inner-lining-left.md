@@ -4,7 +4,7 @@ title: "更换 H2 系列左内衬"
 description: "本文将详细为您介绍 H2 系列更换左内衬的详细步骤和注意事项。"
 tags: ["h2"]
 created: 2026-01-08T08:44:37.949Z
-updated: 2026-05-09T08:23:30.040Z
+updated: 2026-08-28T06:36:12.534Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-inner-lining-left
 ---
 
@@ -381,6 +381,6 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-inner-lining-left
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

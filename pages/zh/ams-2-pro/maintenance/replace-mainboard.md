@@ -4,7 +4,7 @@ title: "更换 AMS 2 Pro 主板"
 description: "本文介绍了如何更换 AMS 2 Pro 主板"
 tags: []
 created: 2025-03-25T01:27:12.210Z
-updated: 2025-05-19T08:29:20.058Z
+updated: 2026-08-28T08:31:44.886Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/maintenance/replace-mainboard
 ---
 
@@ -184,5 +184,5 @@ AMS主框架安装到位后，锁入2颗螺丝固定。
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请在开始操作前联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

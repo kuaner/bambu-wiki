@@ -4,7 +4,7 @@ title: "更换 P2S AC/MC 板"
 description: "本文介绍了如何更换 P2S 的 MC 板 及 AC 板"
 tags: []
 created: 2025-10-14T12:50:31.109Z
-updated: 2026-06-11T04:00:09.213Z
+updated: 2026-08-28T06:28:33.622Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-mc-and-ac-boards
 ---
 
@@ -107,10 +107,15 @@ AC 板是用于给打印机的热床提供交流电源并实现输出控制的�
 
 ### 步骤 5：移除电源保护盖
 
-用按住热床供电线线缆接头的卡扣，将供电线从 AC 板上依次断开。  
-（从左往右依次将红色、蓝色、灰色线缆。）
+用力按住热床供电线线缆接头的卡扣，将供电线从 AC 板上依次断开。
 
-![12_heated_bed_power_cable_012.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-mc-and-ac-boards/12_heated_bed_power_cable_012.png)  
+> ⚠️ **注意**：P2S 的热床存在两种版本，版本 1 热床有**红、蓝、灰 3 根**供电线，因此需断开这三根线缆；版本 2 热床仅有**红、灰 2 根**供电线，因此需断开这两根线缆。请根据实际情况操作。
+
+|  |  |
+| --- | --- |
+|  |  |
+| 版本1：红、蓝、灰 3 根线缆 | 版本2：红、灰 2 根线缆 |
+
 使用 H1.5 内六角扳手依次移除电源保护盖的五颗固定螺丝（BT2x5），然后将电源保护盖从打印机上取下。
 
 ![13_ac_board_cover_013.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-mc-and-ac-boards/13_ac_board_cover_013.png)
@@ -159,9 +164,14 @@ AC 板是用于给打印机的热床提供交流电源并实现输出控制的�
 
 ![13_ac_board_cover_013.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-mc-and-ac-boards/13_ac_board_cover_013.png)
 
-依次将三根热床供电线插入接口，从左往右依次为：红色、蓝色、灰色
+依次将热床供电线插入接口，根据线缆颜色，按照下图线缆与接口的对应关系插入。
 
-![12_heated_bed_power_cable_012.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-mc-and-ac-boards/12_heated_bed_power_cable_012.png)
+> ⚠️ **注意**：P2S 的热床存在两种版本，版本 1 热床有**红、蓝、灰 3 根**供电线；版本 2 热床仅有**红、灰 2 根**供电线。请根据实际情况操作。
+
+|  |  |
+| --- | --- |
+|  |  |
+| 版本1：红、蓝、灰 3 根线缆 | 版本2：红、灰 2 根线缆 |
 
 ### 步骤 3：安装 MC 板
 
@@ -224,6 +234,6 @@ AC 板是用于给打印机的热床提供交流电源并实现输出控制的�
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

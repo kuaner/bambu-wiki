@@ -4,7 +4,7 @@ title: "激光和刀切"
 description: ""
 tags: []
 created: 2026-06-01T12:53:42.258Z
-updated: 2026-06-01T13:58:04.655Z
+updated: 2026-09-10T11:57:51.671Z
 source: https://wiki.bambulab.com/zh/laser-cutting-module
 ---
 
@@ -110,6 +110,7 @@ source: https://wiki.bambulab.com/zh/laser-cutting-module
 ### 3. 加工教程
 
 - [H2D 打印后刀切功能指南](h2/manual/post-printing-cutting.md)
+- [A2L 打印后刀切功能指南](a2l/manual/post-printing-cutting.md)
 - [基础刀切加工镜像设置指南](h2/software/bambu-suite/manual/mirroring-setting-guide.md)
 - [热转印刻字膜使用指南](h2/blade-cutter/material/use-heat-transfer-vinyl.md)
 - [画笔使用建议](h2/blade-cutter/manual/drawing-pen-suggestions.md)

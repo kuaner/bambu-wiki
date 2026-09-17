@@ -1,10 +1,10 @@
 ---
 path: zh/filament-acc
-title: "耗材 & 配件"
+title: "耗材"
 description: ""
 tags: []
 created: 2023-09-15T09:47:06.270Z
-updated: 2026-06-29T09:11:35.161Z
+updated: 2026-08-21T07:30:48.932Z
 source: https://wiki.bambulab.com/zh/filament-acc
 ---
 
@@ -98,21 +98,4 @@ source: https://wiki.bambulab.com/zh/filament-acc
 
 ## 4. 配件
 
-- [拓竹热端喷嘴介绍](acc/nozzles.md)
-- [拓竹打印板介绍](acc/plates.md)
-- [拓竹胶水使用指南](general/how-to-use-bbl-liquid-glue.md)
-- [拓竹 3D 打印机风扇介绍](acc/fans.md)
-- [拓竹铁氟龙料管介绍](acc/ptfe-tube.md)
-- [拓竹打印机常见螺钉](knowledge-sharing/common-screws.md)
-- [拓竹打印机连接线缆](knowledge-sharing/printer-electronic-connectors-guide.md)
-- [润滑脂和润滑油](acc/lubricant-grease-oil.md)
-- [AMS 干燥剂](knowledge-sharing/desiccant-status.md)
-- [供料缓冲器和 AMS Hub](x1/maintenance/replace-filament-buffer-and-ams-hub.md)
-- [料管拓展口](parts-acc/ptfe_adapter.md)
-- [拓竹产品的 3D 打印配件模型](knowledge-sharing/printed-tools.md)
-- [拓竹清洁湿巾介绍](acc/cleaning-wipes.md)
-- [Fleet Hub 产品介绍](acc/manual/fleet-hub.md)
-- [TPU 送料助力模块组装 & 使用指南](general/manual/tpu-feed-assist-module.md)
-- [P2S 外排风扇加装指南](p2s/manual/external-exhaust-fan-kit.md)
-
-> 更多**打印面板、线轴、胶水、干燥剂**等配件的相关知识请查看 [**Bambu Lab 配件**](acc.md)。
+> **打印板、料盘、胶水、干燥剂**等配件的相关知识请查看 [**Bambu Lab 配件**](acc.md)。

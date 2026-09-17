@@ -4,7 +4,7 @@ title: "P1 系列 USB 端口故障排查指南"
 description: "本指南主要用于 P1 系列 AP 板上的 USB 端口故障排查过程"
 tags: ["p1"]
 created: 2025-02-18T07:56:44.143Z
-updated: 2025-02-28T09:13:19.794Z
+updated: 2026-08-28T08:31:22.967Z
 source: https://wiki.bambulab.com/zh/p1/troubleshooting/AP-board-USB-connector
 ---
 
@@ -85,7 +85,6 @@ USB A 端口无法正常使用，常见的物理损坏主要是插接 USB 线缆
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -4,7 +4,7 @@ title: "更换 H2D Pro WiFi 天线"
 description: "本文介绍了如何更换 H2D Pro WiFi 天线"
 tags: []
 created: 2025-08-08T04:15:40.230Z
-updated: 2025-08-11T11:59:44.141Z
+updated: 2026-08-28T06:23:19.838Z
 source: https://wiki.bambulab.com/zh/h2d-pro/maintenance/replace-wifi-antenna
 ---
 
@@ -118,5 +118,5 @@ WiFi 天线安装在 H2D Pro上框盖中，是用于增强无线网络信号的�
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)；点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

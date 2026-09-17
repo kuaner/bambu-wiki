@@ -4,7 +4,7 @@ title: "圆弧运动"
 description: ""
 tags: ["bambu studio"]
 created: 2023-07-26T13:23:08.666Z
-updated: 2025-05-29T03:44:04.384Z
+updated: 2026-08-28T08:25:30.169Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/acr-move
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/acr-move
 
 3D 模型大多为三角形面组成的，这意味着所有 3D 模型中的圆弧，在STL文件中已经被转化为使用大量的短直线线段模拟而成的曲线。您可以在“简化模型”功能中勾选“显示线框”，就可以看到组成模型的三角形面以及组成圆弧的小线段（详见[简化模型 | Bambu Lab Wiki](simplify-model.md)），如下图所示。
 
-![](https://wiki.bambulab.com/software/bambu-studio/arc-move/线段组成圆弧.png)
+![](https://wiki.bambulab.com/software/bambu-studio/arc-move/%E7%BA%BF%E6%AE%B5%E7%BB%84%E6%88%90%E5%9C%86%E5%BC%A7.png)
 
 这样在最终的切片和实际打印中，也会按照这个规划路径进行运动和打印。当打印机速度较慢时，这些密集的线段对打印质量没有明显的不良影响。但当打印速度较高时，在线段的拐点处会产生大量的瞬态脉冲信号，从而带来噪声和振动。
 
@@ -32,38 +32,36 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/acr-move
 
 ![](https://wiki.bambulab.com/software/bambu-studio/high-speed-at-quality/arc-creation-example.png)
 
-图片来源:  https://plugins.octoprint.org/assets/img/plugins/arc\_welder/arc\_creation\_example.png
+图片来源:  <https://plugins.octoprint.org/assets/img/plugins/arc_welder/arc_creation_example.png>
 
 ## 操作指导
 
 您可以在这里启用/关闭圆弧拟合功能，为了实现高速打印下更好的打印效果，**该功能是默认开启的。**
 
-![](https://wiki.bambulab.com/software/bambu-studio/arc-move/开启圆弧拟合.png)
+![](https://wiki.bambulab.com/software/bambu-studio/arc-move/%E5%BC%80%E5%90%AF%E5%9C%86%E5%BC%A7%E6%8B%9F%E5%90%88.png)
 
 分辨率（精度）即为圆弧拟合路径与原始路径的最大偏差（弓高误差），您可以通过降低分辨率（增加这个值）来使原本精度较低的模型在切片后增加更多的圆弧。不过我们通常不建议把这个值设置太大。如果想要把精度较低的模型去强行成拟合圆弧而设置一个较大的分辨率，模型会出现明显的层间错位，甚至导致模型完全变形。
 
-![](https://wiki.bambulab.com/software/bambu-studio/arc-move/分辨率设置.png)
+![](https://wiki.bambulab.com/software/bambu-studio/arc-move/%E5%88%86%E8%BE%A8%E7%8E%87%E8%AE%BE%E7%BD%AE.png)
 
 以下是调节不同分辨率后模型圆弧表面的对比：
 
-![](https://wiki.bambulab.com/software/bambu-studio/arc-move/默认分辨率拟合.png)
+![](https://wiki.bambulab.com/software/bambu-studio/arc-move/%E9%BB%98%E8%AE%A4%E5%88%86%E8%BE%A8%E7%8E%87%E6%8B%9F%E5%90%88.png)
 
 **默认分辨率**
 
-![](https://wiki.bambulab.com/software/bambu-studio/arc-move/0.03分辨率拟合.png)
+![](https://wiki.bambulab.com/software/bambu-studio/arc-move/0.03%E5%88%86%E8%BE%A8%E7%8E%87%E6%8B%9F%E5%90%88.png)
 
 **分辨率0.03mm**
 
 如果强行降低分辨率，把它设为一个较大值，不同层拟合的弧线会形状不一导致模型表面错位破损：
 
-![](https://wiki.bambulab.com/software/bambu-studio/arc-move/1mm分辨率拟合.png)
+![](https://wiki.bambulab.com/software/bambu-studio/arc-move/1mm%E5%88%86%E8%BE%A8%E7%8E%87%E6%8B%9F%E5%90%88.png)
 
 **分辨率1mm**
 
-## **结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

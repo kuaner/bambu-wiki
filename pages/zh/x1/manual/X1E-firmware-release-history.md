@@ -4,7 +4,7 @@ title: "X1E 固件发布记录"
 description: "本指南提供 X1E 所有固件发布记录。"
 tags: ["x1e", "发布记录", "固件"]
 created: 2023-12-11T04:18:40.589Z
-updated: 2026-08-05T02:04:28.660Z
+updated: 2026-09-11T04:16:03.398Z
 source: https://wiki.bambulab.com/zh/x1/manual/X1E-firmware-release-history
 ---
 
@@ -28,7 +28,7 @@ source: https://wiki.bambulab.com/zh/x1/manual/X1E-firmware-release-history
 
 ### 功能优化
 
-1. 提升 X1E 对低温增稳打印板的识别准确性。
+1. 提升 X1E 对增稳低温打印板的识别准确性。
 2. 优化开始打印流程稳定性：当打印板未识别或识别不一致导致打印暂停后，选择“继续”时减少打印异常的可能性。
 
 ### 已知问题

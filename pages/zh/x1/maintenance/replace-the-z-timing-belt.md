@@ -1,10 +1,10 @@
 ---
 path: zh/x1/maintenance/replace-the-z-timing-belt
-title: "更换 Z 轴同步皮带"
+title: "更换 X1 系列 Z 轴同步皮带"
 description: "本指南提供更换 X1 系列打印机 Z轴同步皮带的详细步骤。"
 tags: ["x1"]
 created: 2022-09-06T11:40:06.393Z
-updated: 2025-12-24T12:18:39.659Z
+updated: 2026-08-28T02:29:52.725Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-the-z-timing-belt
 ---
 
@@ -70,9 +70,9 @@ Z 轴同步皮带是安装在打印机底部、节线长为 1142mm 的闭口皮�
 | --- | --- |
 |  |  |
 
-### 步骤 5 - 移除张紧轮盖子和扭簧
+### 步骤 5 - 移除 Z 惰轮盖和扭簧
 
-取下张紧轮盖子，移除 Z 轴张紧弹簧。
+取下 Z 惰轮盖，移除 Z 轴张紧弹簧。
 
 ![](https://wiki.bambulab.com/x1/maintenance/replace-z-belt/remove_spring.jpg)
 
@@ -104,9 +104,9 @@ Z 轴同步皮带是安装在打印机底部、节线长为 1142mm 的闭口皮�
 | --- | --- |
 |  |  |
 
-### 步骤 10 - 安装扭簧和张紧轮盖子
+### 步骤 10 - 安装扭簧和 Z 惰轮盖
 
-将扭簧安装到相应的立柱上，注意扭簧的长边在左边，然后放上张紧轮盖子，如下图所示。
+将扭簧安装到相应的立柱上，注意扭簧的长边在左边，然后放上 Z 惰轮盖，如下图所示。
 
 |  |  |
 | --- | --- |

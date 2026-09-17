@@ -4,7 +4,7 @@ title: "P1S 多色套装（升级烘干版） 包装清单"
 description: "本文汇总 P1S 多色套装（升级烘干版）的包装配件清单。"
 tags: ["p1s ams 2 pro combo"]
 created: 2026-04-01T04:01:47.353Z
-updated: 2026-05-11T06:26:05.168Z
+updated: 2026-08-28T06:37:40.563Z
 source: https://wiki.bambulab.com/zh/p1/manual/p1s-ams-2-pro-combo-acc-in-the-box
 ---
 
@@ -48,6 +48,6 @@ source: https://wiki.bambulab.com/zh/p1/manual/p1s-ams-2-pro-combo-acc-in-the-bo
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

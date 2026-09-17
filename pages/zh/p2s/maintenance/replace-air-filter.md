@@ -1,10 +1,10 @@
 ---
 path: zh/p2s/maintenance/replace-air-filter
-title: "更换 P2S 空气滤芯盖和空气滤芯"
-description: "本文介绍了如何更换 P2S 空气滤芯盖/空气滤芯"
+title: "更换 P2S/X2D  空气滤芯盖和空气滤芯"
+description: "本文介绍了如何更换 P2S/X2D  空气滤芯盖/空气滤芯"
 tags: []
-created: 2025-10-14T12:55:50.050Z
-updated: 2026-08-28T08:42:16.923Z
+created: 2025-10-14T12:55:50.045Z
+updated: 2026-08-28T08:42:16.197Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-air-filter
 ---
 

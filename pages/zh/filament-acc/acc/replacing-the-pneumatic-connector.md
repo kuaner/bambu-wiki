@@ -4,7 +4,7 @@ title: "更换气动接头"
 description: "这篇Wiki介绍了如何更换打印机和AMS上的气动接头"
 tags: []
 created: 2023-12-11T03:30:29.108Z
-updated: 2026-05-14T10:31:07.283Z
+updated: 2026-09-17T03:28:20.445Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/replacing-the-pneumatic-connector
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/replacing-the-pneumatic-co
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| [霍尔开关](#霍尔开关的气动接头) | [X/P 系列缓冲器](#缓冲器的气动接头) | [H 系列缓冲器](#H缓冲器的气动接头) | [AMS 集线器](#AMS集线器的气动接头) | [AMS 五通](#AMS五通的气动接头) | [AMS 2 Pro 五通](#AMS_2_Pro五通的气动接头) | [AMS HT 上下料组件](https://wiki.bambulab.com/zh/filament-acc/acc/replacing-the-pneumatic-connector#%E6%9B%B4%E6%8D%A2-ams-ht-%E4%B8%8A%E4%B8%8B%E6%96%99%E7%BB%84%E4%BB%B6%E7%9A%84%E6%B0%94%E5%8A%A8%E6%8E%A5%E5%A4%B4) |
+| [霍尔开关](#霍尔开关的气动接头) | [X1/P1 系列缓冲器](#缓冲器的气动接头) | [H 系列缓冲器](#H缓冲器的气动接头) | [AMS 集线器](#AMS集线器的气动接头) | [AMS 五通](#AMS五通的气动接头) | [AMS 2 Pro 五通](#AMS_2_Pro五通的气动接头) | [AMS HT 上下料组件](https://wiki.bambulab.com/zh/filament-acc/acc/replacing-the-pneumatic-connector#%E6%9B%B4%E6%8D%A2-ams-ht-%E4%B8%8A%E4%B8%8B%E6%96%99%E7%BB%84%E4%BB%B6%E7%9A%84%E6%B0%94%E5%8A%A8%E6%8E%A5%E5%A4%B4) |
 |  |  | h2_系列_气动接头位置.jpg |  |  |  |  |
 
 ## 何时需要更换？
@@ -54,6 +54,9 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/replacing-the-pneumatic-co
 
 [霍尔开关板组件 | P1](../../p1/maintenance/extruder-filament-sensor.md)
 
+> **ℹ️ 提示**：P2S 霍尔开关上的气动接头采用黑胶固定，拆卸难度较大，不建议单独更换气动接头。建议整体更换霍尔开关： [更换 P2S 霍尔开关板组件](../../p2s/maintenance/replace-hall-switch-board.md)  
+> ![p2s_extruder_filament_sensor1.png](https://wiki.bambulab.com/p2s/maintenance/replace_filament_sensor/p2s_extruder_filament_sensor1.png)
+
 ### 2. 用手将从侧边将气动接头从卡扣中推出（如果难以取出，可以使用铲刀来撬出）
 
 |  |  |  |
@@ -78,13 +81,13 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/replacing-the-pneumatic-co
 
 [霍尔开关板组件 | P1](../../p1/maintenance/extruder-filament-sensor.md)
 
-## 更换 X/P 系列缓冲器的气动接头
+## 更换 X1/P1 系列缓冲器的气动接头
 
 在缓冲器上有两个气动接头，**以下图为参考**，分别为左右两个气动接头：
 
 ![](https://wiki.bambulab.com/filament-acc/acc/replacing-the-pneumatic-connector/08-%E7%BC%93%E5%86%B2%E5%99%A8%E5%B7%A6%E5%8F%B3%E4%B8%A4%E4%B8%AA%E6%B0%94%E5%8A%A8%E6%8E%A5%E5%A4%B4%E4%BD%8D%E7%BD%AE%E7%A4%BA%E6%84%8F.png)
 
-## 更换 X/P 系列缓冲器右侧气动接头
+## 更换 X1/P1 系列缓冲器右侧气动接头
 
 ### 1. 将缓冲器从打印机背面取下
 
@@ -116,7 +119,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/replacing-the-pneumatic-co
 
 [拆除供料缓冲器](../../x1/manual/using-a-large-spool-on-the-spool-holder.md)
 
-## 更换 X/P 系列缓冲器左侧的气动接头
+## 更换 X1/P1 系列缓冲器左侧的气动接头
 
 ### 1. 将缓冲器从打印机背面取下
 
@@ -500,5 +503,5 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/replacing-the-pneumatic-co
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请在开始操作前联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

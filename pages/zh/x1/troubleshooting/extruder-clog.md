@@ -4,7 +4,7 @@ title: "挤出机维护指南：X1 系列挤出机维护"
 description: "本指南提供 X1 系列挤出机堵塞清理、挤出机拆解与组装的详细步骤。"
 tags: []
 created: 2022-07-31T11:32:53.494Z
-updated: 2026-06-04T08:39:57.422Z
+updated: 2026-08-28T08:23:13.299Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/extruder-clog
 ---
 
@@ -108,6 +108,27 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/extruder-clog
 旋转齿轮，将其取出。
 
 ![removing_gears.png](https://wiki.bambulab.com/x1/maintenance/extruder-clog/removing_gears.png)
+
+**若大齿轮无法取出，请参考该步骤。**
+
+拧出一点侧边的压紧螺丝。
+
+![pixpin_2026-08-26_18-09-53.jpg](https://wiki.bambulab.com/x1/troubleshooting/extruder-clog/pixpin_2026-08-26_18-09-53.jpg)
+
+将挤出机放在料盘中心孔上。
+
+![pixpin_2026-08-26_18-10-05.jpg](https://wiki.bambulab.com/x1/troubleshooting/extruder-clog/pixpin_2026-08-26_18-10-05.jpg)
+
+使用螺丝刀对准大齿轮的中轴。
+
+![pixpin_2026-08-26_18-09-43.jpg](https://wiki.bambulab.com/x1/troubleshooting/extruder-clog/pixpin_2026-08-26_18-09-43.jpg)
+
+轻轻按压或用其他工具敲击，取下齿轮。
+
+> 敲击过程请观察螺丝刀，避免接触轴承，轴承受损可能导致挤出缺陷。  
+> ![pixpin_2026-08-26_18-09-19.jpg](https://wiki.bambulab.com/x1/troubleshooting/extruder-clog/pixpin_2026-08-26_18-09-19.jpg)
+
+![pixpin_2026-08-26_18-09-33.jpg](https://wiki.bambulab.com/x1/troubleshooting/extruder-clog/pixpin_2026-08-26_18-09-33.jpg)
 
 挤出机拆解完成。
 
@@ -224,10 +245,8 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/extruder-clog
 重新组装后，开启打印机并手动挤出耗材。  
 若耗材流动顺畅且稳定，说明挤出机工作正常。
 
-## **结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。
->
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

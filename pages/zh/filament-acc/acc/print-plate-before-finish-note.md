@@ -4,7 +4,7 @@ title: "打印板使用前后注意事项"
 description: ""
 tags: ["打印前", "打印板", "注意事项", "打印后"]
 created: 2023-09-15T09:58:55.648Z
-updated: 2025-03-07T10:39:28.461Z
+updated: 2026-08-28T08:25:54.126Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/print-plate-before-finish-note
 ---
 
@@ -49,7 +49,6 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/print-plate-before-finish-
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

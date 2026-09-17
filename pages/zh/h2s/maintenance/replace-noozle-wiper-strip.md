@@ -4,7 +4,7 @@ title: "H2S 擦嘴刮片更换指南"
 description: "本文将介绍如何更换H2S擦嘴刮片。"
 tags: []
 created: 2025-10-23T02:55:51.810Z
-updated: 2026-02-11T08:50:06.611Z
+updated: 2026-08-28T08:42:47.893Z
 source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-noozle-wiper-strip
 ---
 
@@ -77,7 +77,6 @@ source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-noozle-wiper-strip
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

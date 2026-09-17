@@ -4,7 +4,7 @@ title: "P2S"
 description: ""
 tags: []
 created: 2025-10-14T13:07:42.724Z
-updated: 2026-06-24T06:39:34.711Z
+updated: 2026-08-30T09:23:49.292Z
 source: https://wiki.bambulab.com/zh/p2s
 ---
 
@@ -132,6 +132,7 @@ source: https://wiki.bambulab.com/zh/p2s
 - [更换 P2S X/Y 皮带 (皮带断裂时)](knowledge-sharing/replace_the_xy_belts.md)
 - [更换 P2S XY 电机](maintenance/replace-xy-motor.md)
 - [更换 P2S Z 张紧器](maintenance/replace-z-belt-tensioner.md)
+- [更换 P2S Z 惰轮盖](x1/maintenance/replace-z-tensioner-cover.md)
 - [更换 P2S Z 皮带](maintenance/replace-z-belt.md)
 - [更换 P2S Z 同步轮](maintenance/replace-z-belt-timing-pulley.md)
 - [更换 P2S Z 电机](maintenance/replace-z-motor.md)

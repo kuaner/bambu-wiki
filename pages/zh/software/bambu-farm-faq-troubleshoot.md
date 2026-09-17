@@ -4,7 +4,7 @@ title: "拓竹农场管家常见问答"
 description: "本文包含了拓竹农场管家的一些常见问答"
 tags: ["software"]
 created: 2024-11-11T08:08:12.617Z
-updated: 2026-04-22T07:45:28.508Z
+updated: 2026-09-07T08:01:22.680Z
 source: https://wiki.bambulab.com/zh/software/bambu-farm-faq-troubleshoot
 ---
 
@@ -97,13 +97,8 @@ source: https://wiki.bambulab.com/zh/software/bambu-farm-faq-troubleshoot
 ![image_-_2025-05-26t190559.267.png](https://wiki.bambulab.com/software/bambu-farm-faq/image_-_2025-05-26t190559.267.png)  
 ![image_-_2025-05-26t190601.102.png](https://wiki.bambulab.com/software/bambu-farm-faq/image_-_2025-05-26t190601.102.png)
 
-## 多平台支持
-
-服务器端将推出 x86 架构的 Linux Docker 版本，客户端也将支持 Mac OS 系统。
-
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

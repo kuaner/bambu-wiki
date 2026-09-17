@@ -4,7 +4,7 @@ title: "Bambu Studio 触碰裹头检测功能"
 description: "本文介绍了 Bambu Studio 中的触碰裹头检测功能"
 tags: []
 created: 2025-08-04T03:16:04.272Z
-updated: 2026-06-23T03:17:13.042Z
+updated: 2026-08-28T06:23:06.478Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/nozzle-clumping-detection-by-probing
 ---
 
@@ -27,7 +27,6 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/nozzle-clumping-detec
 - **H2S：** 01.01.60.00 Public Beta 或更高版本
 - **H2C：** 全固件支持
 - **P2S：** 01.01.00.00 或更高版本
-- **X2D：** 01.01.00.00 或更高版本
 - **A 系列：** 裹头检测无需在 Bambu Studio 中开启，请在屏幕上点击**设置——打印选项**开启，详情请参考：[A1系列裹头检测功能介绍](../../a1-mini/manual/nozzle-warp-detection.md) 或 [A2L 裹头检测介绍](../../a2l/manual/nozzle-clumping-detection.md)
 
 ## 检测原理与执行方式
@@ -57,12 +56,6 @@ H2S 打印机触碰裹头检测动作如下动图所示：
 P2S 打印机触碰裹头检测位置为擦嘴片螺丝孔位置，检测动作如下动图所示：
 
 ![触碰裹头检测校准2.webp](https://wiki.bambulab.com/software/bambu-studio/nozzle-clumping-detection-by-probing/%E8%A7%A6%E7%A2%B0%E8%A3%B9%E5%A4%B4%E6%A3%80%E6%B5%8B%E6%A0%A1%E5%87%862.webp)
-
-### **X2D**
-
-X2D 打印机触碰裹头检测动作如下动图所示：
-
-![nozzle_clumping_detection_by_probing6.gif](https://wiki.bambulab.com/software/bambu-studio/nozzle-clumping-detection-by-probing/nozzle_clumping_detection_by_probing6.gif)
 
 **触碰裹头检测校准**
 
@@ -150,5 +143,5 @@ X2D 打印机触碰裹头检测动作如下动图所示：
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)，点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -4,7 +4,7 @@ title: "耗材变轨器使用指南 - H2 系列"
 description: "本指南涵盖耗材变轨器的详细介绍，以及 H2 系列打印机搭配耗材变轨器进行打印的具体操作步骤。"
 tags: []
 created: 2026-05-12T04:18:47.643Z
-updated: 2026-06-16T02:35:37.800Z
+updated: 2026-08-28T06:42:17.841Z
 source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch-h2
 ---
 
@@ -18,7 +18,7 @@ source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch-h2
 
 ### 适配机型
 
-- H2C
+- H2C、H2D
 - X2D：请参考 [X2D 耗材变轨器使用指南](filament-track-switch.md)
 
 > 更多机型正在适配中，计划将于今年陆续支持其他 H2 系列机型，请关注固件更新获取最新适配进展。
@@ -86,9 +86,8 @@ source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch-h2
 
 #### 固件/软件版本说明
 
-- H2C：01.01.50.00 beta 及以上
-- Bambu Studio：2.5.3.60
-- Bambu Handy：3.18.0
+- H2C：01.01.50.00 beta 及以上；Bambu Studio：V2.5.3.60 及以上；Bambu Handy：V3.18.0 及以上
+- H2D：01.04.00.00 及以上；Bambu Studio：V2.8.1.55 及以上；Bambu Handy：V3.24.0 及以上
 
 ### 耗材变轨器安装
 
@@ -284,6 +283,6 @@ source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch-h2
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

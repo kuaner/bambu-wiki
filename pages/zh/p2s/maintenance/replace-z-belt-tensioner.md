@@ -4,7 +4,7 @@ title: "更换 P2S/X2D Z 张紧器"
 description: "本文介绍了如何更换 P2S Z 张紧器"
 tags: []
 created: 2025-10-14T13:13:45.929Z
-updated: 2026-05-06T06:48:18.323Z
+updated: 2026-08-28T08:42:24.730Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-z-belt-tensioner
 ---
 
@@ -55,7 +55,7 @@ Z 轴张紧器是安装在打印机底部，用于张紧 Z 轴皮带的零件。
 
 ![17_017.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/17_017.png)
 
-### 步骤 3：移除张紧轮盖子和扭簧
+### 步骤 3：移除 Z 惰轮盖和扭簧
 
 释放弹簧，用 H1.5 内六角扳手移除 3 颗螺丝，用 H2.0 内六角扳手移除黑色的螺丝（绿色方框标记）。
 
@@ -63,7 +63,7 @@ Z 轴张紧器是安装在打印机底部，用于张紧 Z 轴皮带的零件。
 
 ![02_002.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/02_002.png)
 
-取下张紧轮盖子，移除 Z 轴张紧弹簧。
+取下 Z 惰轮盖，移除 Z 轴张紧弹簧。
 
 ![03_003.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/03_003.png)
 
@@ -93,7 +93,7 @@ Z 轴张紧器是安装在打印机底部，用于张紧 Z 轴皮带的零件。
 
 ![10_010.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/10_010.png)
 
-### 步骤 2：安装皮带和张紧轮盖子
+### 步骤 2：安装皮带和惰轮盖
 
 将扭簧安装到相应的立柱上，注意扭簧的长边在左边，如下图所示。
 
@@ -105,7 +105,7 @@ Z 轴张紧器是安装在打印机底部，用于张紧 Z 轴皮带的零件。
 
 ![12_012.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/12_012.png)
 
-放上张紧器盖子，用 H1.5 内六角扳手锁入 3 颗螺丝固定张紧轮盖子，用 H2.0 内六角扳手拧入黑色螺丝（绿色方框标记），但不要拧紧，然后将弹簧的两侧分别卡入对应槽中。
+放上 Z 惰轮盖，用 H1.5 内六角扳手锁入 3 颗螺丝固定惰轮盖，用 H2.0 内六角扳手拧入黑色螺丝（绿色方框标记），但不要拧紧，然后将弹簧的两侧分别卡入对应槽中。
 
 ![02_002.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/02_002.png)
 
@@ -134,5 +134,5 @@ Z 轴张紧器是安装在打印机底部，用于张紧 Z 轴皮带的零件。
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系技术支持](https://support.bambulab.cn)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

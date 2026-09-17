@@ -4,7 +4,7 @@ title: "H2 系列打印机上电异常排查指南-下篇"
 description: "本指南将引导您完成打印机开机后无法正常工作的故障排查。"
 tags: ["h2c", "h2d"]
 created: 2026-01-19T04:29:09.727Z
-updated: 2026-07-29T04:37:32.760Z
+updated: 2026-08-28T06:36:29.221Z
 source: https://wiki.bambulab.com/zh/h2d/troubleshooting/h2/failure-to-power-on-part2
 ---
 
@@ -114,6 +114,6 @@ AP 板指示灯快速闪烁（左）、常亮（右）
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的客户支持团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn?from=5)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

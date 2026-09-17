@@ -4,7 +4,7 @@ title: "耗材打结/缠料的处理方法"
 description: "本文介绍了如何处理耗材打结或卡住的状况"
 tags: ["料盘", "耗材"]
 created: 2023-09-13T04:17:26.518Z
-updated: 2026-06-11T01:52:17.644Z
+updated: 2026-08-28T06:20:11.238Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/tangle-stuck-filament
 ---
 

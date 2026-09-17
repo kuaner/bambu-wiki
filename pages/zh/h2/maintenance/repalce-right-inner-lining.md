@@ -4,7 +4,7 @@ title: "更换 H2 系列右内衬上盖/腔温加热组件/腔温加热循环风
 description: ""
 tags: []
 created: 2025-04-09T10:30:02.323Z
-updated: 2026-03-13T03:14:04.308Z
+updated: 2026-09-07T08:30:42.933Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/repalce-right-inner-lining
 ---
 
@@ -135,6 +135,8 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/repalce-right-inner-lining
 | 三个螺丝版本 | 五个螺丝版本 | 取出线缆 |
 
 2. 先将右内衬底部往外掰，将两卡扣取出，然后将右内衬往打印机腔内推，将右内衬从打印机上取下。
+
+> ℹ️ 右内衬上有对位卡扣，用于组装时辅助定位，如下图红色箭头所示。拆卸时如果未能正确对齐，卡扣可能会意外断裂。即使卡扣断裂，也不会影响机器正常运行或右内衬的安装，无需担心。
 
 |  |  |  |
 | --- | --- | --- |
@@ -368,5 +370,5 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/repalce-right-inner-lining
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请在开始操作前联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

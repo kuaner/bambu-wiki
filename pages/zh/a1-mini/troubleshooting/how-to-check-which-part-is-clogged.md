@@ -4,7 +4,7 @@ title: "A1 系列打印机挤出异常故障排查"
 description: "本文介绍了对 A1 系列打印机挤出异常的问题排查指引"
 tags: ["a1", "挤出"]
 created: 2023-11-08T08:24:21.273Z
-updated: 2025-09-24T08:47:37.412Z
+updated: 2026-08-28T08:26:31.791Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/how-to-check-which-part-is-clogged
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/how-to-check-which-
 
 在 3D 打印中，挤出不良是非常常见的一种现象。在打印中，如果喷嘴没有顺利挤出耗材丝，或者打印的模型表面出现明显的缺料（挤出不足），说明打印挤出出现了异常，可能是挤出机或热端堵塞，或者耗材丝打滑等原因造成的。这篇WIKI将指引大家对 A1 系列打印机挤出异常的问题进行排查。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/空打.gif)
+![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/%E7%A9%BA%E6%89%93.gif)
 
 ## **注意事项**
 
@@ -26,11 +26,11 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/how-to-check-which-
 
 1. 打印首层的时候，喷嘴太靠近热床了，喷嘴几乎贴着热床表面，导致几乎无法挤出耗材。我们可以看到首层有明显的挤出不足。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/首层太低.gif)
+![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/%E9%A6%96%E5%B1%82%E5%A4%AA%E4%BD%8E.gif)
 
 这时候可以尝试把工具头移动到吐料组件的位置，然后设置好喷嘴温度后点击挤出，如果在吐料组件位置能够顺利挤出，那基本上可以确认是因为打印首层时喷嘴高度太低导致挤出不足。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/正常挤出.gif)
+![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/%E6%AD%A3%E5%B8%B8%E6%8C%A4%E5%87%BA.gif)
 
 对此我们建议参考以下步骤排查：
 
@@ -47,7 +47,7 @@ b. 若完整调平后仍未解决，有可能是热端加热组件的合成石�
 
 c.重新装上热端时，**请务必正确地扣好加热组件的卡扣（请参考下图），并手动检查热端是否有明显晃动。注意，如果加热组件没有正确扣好或者夹子损坏导致无法固定住热端，依然会导致打印时喷嘴太靠近热床甚至刮蹭打印板。**
 
-![](https://wiki.bambulab.com/a1m/troubleshooting/nozzle-clog/扣紧卡扣.webp)
+![](https://wiki.bambulab.com/a1m/troubleshooting/nozzle-clog/%E6%89%A3%E7%B4%A7%E5%8D%A1%E6%89%A3.webp)
 
 |  |  |
 | --- | --- |
@@ -56,7 +56,7 @@ c.重新装上热端时，**请务必正确地扣好加热组件的卡扣（请�
 
 ### 热端堵塞
 
-如果把工具头移动到吐料组件位置单独测试挤出，仍然无法顺利挤出耗材丝，只能挤出少量的耗材丝甚至没有耗材挤出，通常还可以观察到挤出机齿轮转动不顺畅且不停发出“咔哒”跳齿的声音，这很可能是热端堵塞了。您可以先取下热端，**在打印机的设置——维护页面，启用维护模式。然后再设置喷嘴温度至170℃（最低的可挤出温度），并手动测试挤出。**如果在没有热端的时候，挤出机能顺利地挤出耗材丝，说明是热端堵塞了**，**建议您参考这篇wiki重新冷拔疏通热端：[A1系列打印机热端堵塞清理 | Bambu Lab Wiki](nozzle-clog.md)。若始终无法顺利疏通，可以尝试更换一个热端。
+如果把工具头移动到吐料组件位置单独测试挤出，仍然无法顺利挤出耗材丝，只能挤出少量的耗材丝甚至没有耗材挤出，通常还可以观察到挤出机齿轮转动不顺畅且不停发出“咔哒”跳齿的声音，这很可能是热端堵塞了。您可以先取下热端，\*\*在打印机的设置——维护页面，启用维护模式。然后再设置喷嘴温度至170℃（最低的可挤出温度），并手动测试挤出。**如果在没有热端的时候，挤出机能顺利地挤出耗材丝，说明是热端堵塞了**，\*\*建议您参考这篇wiki重新冷拔疏通热端：[A1系列打印机热端堵塞清理 | Bambu Lab Wiki](nozzle-clog.md)。若始终无法顺利疏通，可以尝试更换一个热端。
 
 |  |  |
 | --- | --- |
@@ -67,7 +67,7 @@ c.重新装上热端时，**请务必正确地扣好加热组件的卡扣（请�
 
 如果在进料或者打印过程中，遇到耗材丝完全无法挤出的现象，但挤出机齿轮能够顺畅地转动，则可能是挤出机齿轮没有完全咬合住耗材丝，或者齿轮和耗材丝打滑了，有以下几种可能。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/空打示意.gif)
+![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/%E7%A9%BA%E6%89%93%E7%A4%BA%E6%84%8F.gif)
 
 1. 齿轮和耗材丝打滑。有可能是耗材丝本身容易磨损；或是热端堵塞，导致向下挤出的阻力过大，耗材丝被齿轮磨出坑。
 
@@ -111,11 +111,11 @@ c.重新装上热端时，**请务必正确地扣好加热组件的卡扣（请�
 
 热端并没有堵塞，但是通过观察挤出机齿轮发现齿轮明显转动异常或者停止转动，导致打印过程中无法顺利挤出耗材丝。可以拆开挤出机，观察挤出电机是否顺利转动，黄色齿轮是否有磨损或者缺齿。请参考wiki：[A1 系列挤出机清理 | Bambu Lab Wiki](extruder-clog.md)。
 
-![](https://wiki.bambulab.com/a1m/troubleshooting/nozzle-clog/控制挤出机.jpg)
+![](https://wiki.bambulab.com/a1m/troubleshooting/nozzle-clog/%E6%8E%A7%E5%88%B6%E6%8C%A4%E5%87%BA%E6%9C%BA.jpg)
 
 **控制挤出机，手动测试挤出。**
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/检查挤出电机1.gif)
+![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/%E6%A3%80%E6%9F%A5%E6%8C%A4%E5%87%BA%E7%94%B5%E6%9C%BA1.gif)
 
 ### 使用 AMS lite 时挤出异常
 
@@ -135,8 +135,6 @@ b.里程轮失效。在使用 AMS lite 进料的时候，是否成功挤出是�
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

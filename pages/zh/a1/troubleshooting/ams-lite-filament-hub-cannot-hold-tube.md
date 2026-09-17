@@ -4,7 +4,7 @@ title: "AMS lite 五通组件/料管拓展口无法固定料管修复指南"
 description: "本文介绍了如何修复 AMS lite 五通组件/料管拓展口无法固定料管的问题"
 tags: ["五通组件", "料管拓展口", "ams lite"]
 created: 2024-07-26T06:56:04.910Z
-updated: 2025-12-08T02:45:39.824Z
+updated: 2026-08-28T08:29:24.240Z
 source: https://wiki.bambulab.com/zh/a1/troubleshooting/ams-lite-filament-hub-cannot-hold-tube
 ---
 
@@ -82,7 +82,7 @@ source: https://wiki.bambulab.com/zh/a1/troubleshooting/ams-lite-filament-hub-ca
 >
 > 料管拓展口的结构与五通组件非常相似，因此您可以按照前述方法撬开外壳，修理金属弹片。但在组装顶盖时有一点点区别。拓竹料管拓展口需要将顶盖的 2 个长钩对准主体上的 2 个槽口，然后按下锁定到位，如图所示。
 >
-> ![](https://wiki.bambulab.com/a1/troubleshooting/ams-lite-hub-holding-tube-fail/料管拓展口.jpg)
+> ![](https://wiki.bambulab.com/a1/troubleshooting/ams-lite-hub-holding-tube-fail/%E6%96%99%E7%AE%A1%E6%8B%93%E5%B1%95%E5%8F%A3.jpg)
 
 ### 3.对齐五通组件卡扣和工具头侧面的槽位
 
@@ -96,8 +96,6 @@ source: https://wiki.bambulab.com/zh/a1/troubleshooting/ams-lite-filament-hub-ca
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

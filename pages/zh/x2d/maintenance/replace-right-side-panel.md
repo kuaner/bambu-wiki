@@ -4,7 +4,7 @@ title: "更换 X2D 右侧板"
 description: "本文介绍了如何更换 X2D 右侧板"
 tags: []
 created: 2026-04-14T13:09:36.114Z
-updated: 2026-08-10T10:16:45.974Z
+updated: 2026-08-28T08:43:36.460Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-right-side-panel
 ---
 
@@ -49,9 +49,13 @@ X2D
 
 您可以参考[更换自适应风道切换组件](../../p2s/maintenance/replace-adaptive-airflow-switching-unit.md)的拆解部份内容，移除自适应风道切换组件。
 
+![remove_the_unit_008.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/adaptive_airflow_switching_unit/remove_the_unit_008.png)
+
 ### 步骤 3. 移除屏幕和前面盖
 
-您可以参考[更换前面盖](replace-front-cover.md)的拆解部份内容，移除屏幕和前面盖。
+您可以参考[更换前面盖](replace-front-cover.md) 的拆解部份内容，移除屏幕和前面盖。
+
+![010_tear_the_led.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_front_cover/010_tear_the_led.png)
 
 ### 步骤 4. 移除右侧板
 
@@ -114,19 +118,27 @@ X2D
 
 ### 步骤 2. 安装前面盖和屏幕
 
-您可以参考[更换前面盖](replace-front-cover.md)装好前面盖和屏幕。
+您可以参考[更换前面盖](replace-front-cover.md) 装好前面盖和屏幕。
+
+![012_install_the_front_cover.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_front_cover/012_install_the_front_cover.png)
 
 ### 步骤 3. 安装自适应风道切换组件
 
 您可以参考[更换自适应风道切换组件](../../p2s/maintenance/replace-adaptive-airflow-switching-unit.md)的内容，安装自适应风道切换组件。
 
+![install_the_unit_009.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/adaptive_airflow_switching_unit/install_the_unit_009.png)
+
 ### 步骤 4. 安装辅助挤出机、背板、缓冲器和料管支架
 
 您可以参考如下 Wiki 的安装部份内容，依次安装背板、缓冲器和料管支架。
 
-- [更换辅助挤出机](replace-auxiliary-extruder.md)
-- [更换缓冲器](replace-filament-buffer.md)
 - [更换背板](replace-rear-panel.md)
+- [更换缓冲器](replace-filament-buffer.md)
+- [更换辅助挤出机](replace-auxiliary-extruder.md)
+
+|  |  |
+| --- | --- |
+|  |  |
 
 ## 如何验证成功
 
@@ -139,5 +151,5 @@ X2D
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系技术支持](https://support.bambulab.cn)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

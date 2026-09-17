@@ -4,7 +4,7 @@ title: "象脚补偿"
 description: "本文介绍了象脚以及如何在 Bambu Studio 中设置象脚补偿。"
 tags: []
 created: 2023-12-03T14:32:20.249Z
-updated: 2026-08-14T03:28:50.406Z
+updated: 2026-08-28T08:26:59.176Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/elephant-foot
 ---
 

@@ -4,7 +4,7 @@ title: "X2D 外排风扇套件安装指南"
 description: "本指南将为您详细介绍为 X2D 打印机安装外排风扇套件的步骤和注意事项。"
 tags: ["x2d"]
 created: 2026-08-12T01:36:21.481Z
-updated: 2026-09-08T06:10:34.991Z
+updated: 2026-09-08T06:10:36.239Z
 source: https://wiki.bambulab.com/zh/x2d/manual/external-exhaust-fan-bundle
 ---
 

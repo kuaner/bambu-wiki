@@ -4,7 +4,7 @@ title: "如何查找序列号及注册新序列号"
 description: "本指南介绍了如何查找新旧序列号（SN）及注册新序列号"
 tags: []
 created: 2023-07-20T11:54:28.441Z
-updated: 2026-08-10T09:20:13.312Z
+updated: 2026-08-28T06:19:41.147Z
 source: https://wiki.bambulab.com/zh/general/find-sn
 ---
 

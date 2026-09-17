@@ -4,7 +4,7 @@ title: "开箱 P1S combo"
 description: "本指南提供开箱 P1S combo 的详细步骤。"
 tags: []
 created: 2023-07-10T04:19:01.449Z
-updated: 2026-06-30T02:03:23.867Z
+updated: 2026-08-28T06:19:39.489Z
 source: https://wiki.bambulab.com/zh/p1/manual/unboxing-p1s_combo
 ---
 
@@ -244,6 +244,6 @@ P1S 套装配件清单中包含屏幕、料盘架、耗材、备用喷嘴组件�
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的技术团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

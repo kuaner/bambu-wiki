@@ -4,7 +4,7 @@ title: "X1 系列通过 microSD 升级支持 AMS 2 Pro 和 AMS-HT 固件"
 description: ""
 tags: ["x1", "固件"]
 created: 2025-04-30T08:03:48.849Z
-updated: 2025-07-25T08:55:04.999Z
+updated: 2026-08-28T08:38:29.271Z
 source: https://wiki.bambulab.com/zh/x1/manual/X1-firmware-update-support-ams2pro-ams-ht
 ---
 
@@ -33,7 +33,6 @@ X1 系列自 01.09.00.00 版本开始支持 AMS 2 Pro 和 AMS HT。
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

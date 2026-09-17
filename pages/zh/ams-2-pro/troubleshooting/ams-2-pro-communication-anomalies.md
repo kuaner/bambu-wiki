@@ -4,7 +4,7 @@ title: "打印机无法检测到 AMS 2 Pro"
 description: "本文将引导您完成AMS 2 Pro 通信异常的故障排查"
 tags: []
 created: 2026-01-12T08:48:03.716Z
-updated: 2026-07-20T02:19:27.123Z
+updated: 2026-08-28T06:36:19.272Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/troubleshooting/ams-2-pro-communication-anomalies
 ---
 

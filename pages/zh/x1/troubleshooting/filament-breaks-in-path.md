@@ -4,7 +4,7 @@ title: "耗材断在管道中间"
 description: ""
 tags: []
 created: 2022-08-01T04:35:14.024Z
-updated: 2026-06-16T09:23:50.120Z
+updated: 2026-08-28T08:23:21.630Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/filament-breaks-in-path
 ---
 
@@ -82,7 +82,7 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/filament-breaks-in-path
 
 可用长耗材顶出断料。
 
-![](https://wiki.bambulab.com/x1/troubleshooting/filament-break-in-path/用耗材顶出.jpg)
+![](https://wiki.bambulab.com/x1/troubleshooting/filament-break-in-path/%E7%94%A8%E8%80%97%E6%9D%90%E9%A1%B6%E5%87%BA.jpg)
 
 ##### 步骤 3. 连接料管
 
@@ -96,10 +96,8 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/filament-breaks-in-path
 
 打印机能够正常进料，并恢复打印。
 
-## **结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。
->
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

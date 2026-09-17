@@ -4,7 +4,7 @@ title: "电源开关座"
 description: "本文章介绍了P1系列电源开关座的更换步骤"
 tags: ["p1", "p1p", "p1s"]
 created: 2023-12-05T03:28:42.130Z
-updated: 2025-12-24T12:18:39.659Z
+updated: 2026-08-28T08:27:02.589Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/power-switch-assembly
 ---
 
@@ -199,10 +199,8 @@ source: https://wiki.bambulab.com/zh/p1/maintenance/power-switch-assembly
 
 ![](https://wiki.bambulab.com/p1/maintenance/boards-on-toolhead/calibration-cn.jpg)
 
-# 结语
+## 结束语
 
-> *我们希望这份指南能为您提供有效信息和有效帮助。*
->
-> *如果您对本文中描述的操作有任何疑虑或疑问，您可以在开始操作前联系我们的客户服务团队。 我们将随时准备为您提供帮助并回答您的任何问题。*
->
-> [*点击这里提交服务工单*](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

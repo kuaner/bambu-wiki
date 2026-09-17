@@ -4,7 +4,7 @@ title: "更换 H2S 部件冷却风扇"
 description: ""
 tags: []
 created: 2025-08-26T09:18:27.789Z
-updated: 2026-01-19T04:20:07.011Z
+updated: 2026-09-14T09:08:58.825Z
 source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-part-cooling-fan
 ---
 
@@ -21,15 +21,16 @@ source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-part-cooling-fan
 ## 所需工具和材料
 
 - 新的 H2S 部件冷却风扇（购买链接：京东 ；天猫）
-- H1.5 内六角扳手
+- H 1.5 内六角扳手
 - 20 分钟
 
 ## 螺丝清单
 
-- 螺丝 A: 部件冷却风扇背面（和后盖共锁）以及工具头后盖螺丝，共 3 颗：BT2x8
-- 螺丝 B: 部件冷却风扇左右两侧螺丝，共 2 颗： BT2x5
+- 螺丝 A：部件冷却风扇背面（和后盖共锁），共 1 颗：BT 2x8
+- 螺丝 B：部件冷却风扇两侧，共 2 颗： BT 2x5（大头）
+- 螺丝 C：工具头后盖螺丝，共 2 颗：BT 2x6.5
 
-![image_18.png](https://public-cdn.bblmw.com/wiki/new/image_18.png)
+![h2s_screw.png](https://wiki.bambulab.com/h2s/maintenance/h2s_screw.png)
 
 ## 安全提示
 
@@ -45,7 +46,9 @@ source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-part-cooling-fan
 
 ### 步骤1：松开部件冷却风扇
 
-拧下部件冷却风扇的 3 颗螺丝，其中背面的 1 颗螺丝与工具头后盖共锁。  
+拧下部件冷却风扇的 3 颗螺丝。  
+其中左右 2 颗螺丝为 BT2x5，背面 1 颗螺丝为 BT 2x8（与工具头后盖共锁）。
+
 ![image_21.png](https://public-cdn.bblmw.com/wiki/new/h2/h2s/maintenance/cutting/image_21.png)  
 ![image_21.png](https://public-cdn.bblmw.com/wiki/new/h2/h2s/maintenance/cutting/image_22.png)  
 ![image_21.png](https://public-cdn.bblmw.com/wiki/new/h2/h2s/maintenance/cutting/image_23.png)
@@ -55,7 +58,7 @@ source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-part-cooling-fan
 
 ### 步骤2：松开工具头后盖
 
-移除工具头后盖上方的 2 颗螺丝，打开模块接口盖子；  
+移除工具头后盖上方的 2 颗螺丝（BT 2x6.5），打开模块接口盖子；  
 ![image_21.png](https://public-cdn.bblmw.com/wiki/new/h2/h2s/maintenance/cutting/image_25.png)  
 ![image_21.png](https://public-cdn.bblmw.com/wiki/new/h2/h2s/maintenance/cutting/image_26.png)
 
@@ -140,7 +143,7 @@ source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-part-cooling-fan
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2/h2s/maintenance/replace-part-cooling-fan/image-17_009.png)
 
-锁入 2 颗后盖固定螺丝。
+锁入 2 颗后盖固定螺丝（BT 2x6.5）。
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2/h2s/maintenance/replace-part-cooling-fan/image-18_010.png)
 
@@ -152,7 +155,8 @@ source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-part-cooling-fan
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2/h2s/maintenance/replace-part-cooling-fan/image-19_011.png)
 
-锁入3颗螺丝，固定部件冷却风扇。
+锁入 3 颗螺丝，固定部件冷却风扇。  
+其中左右 2 颗螺丝为 BT2x5，背面 1 颗螺丝为 BT2x8。
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2/h2s/maintenance/replace-part-cooling-fan/image-20_013.png)
 
@@ -173,5 +177,5 @@ source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-part-cooling-fan
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果您对本文有任何疑问，请联系客户服务团队，我们随时为您解答疑问并提供帮助！  
-> 点击此处进入 [Bambu AI](https://support.bambulab.cn/cn)，点击此处提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)。
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

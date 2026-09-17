@@ -4,7 +4,7 @@ title: "AMS lite 定期维护建议"
 description: "关于 AMS lite 的一些日常维护和保养建议"
 tags: ["ams lite"]
 created: 2024-11-28T02:36:03.975Z
-updated: 2024-12-06T07:59:34.252Z
+updated: 2026-08-28T08:30:57.942Z
 source: https://wiki.bambulab.com/zh/ams-lite/maintenance/basic-maintenance
 ---
 
@@ -53,7 +53,6 @@ PTFE 料管维护更换周期：
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

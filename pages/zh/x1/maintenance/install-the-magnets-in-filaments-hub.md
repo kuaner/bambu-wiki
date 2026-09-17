@@ -4,7 +4,7 @@ title: "移除和安装 AMS 五通磁铁"
 description: "清洁五通组件时候，如果内部磁铁松出，可参考此文进行安装"
 tags: ["ams"]
 created: 2022-10-13T11:07:04.496Z
-updated: 2026-06-30T04:10:12.353Z
+updated: 2026-08-28T08:23:43.466Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/install-the-magnets-in-filaments-hub
 ---
 
@@ -72,7 +72,7 @@ AMS 五通组件的4个进料孔内各有一片磁铁，用于检测料线位置
 
 ### 第 2 步 - 装上弹簧
 
- 将弹簧逐个放置到已安装的磁铁上方。
+将弹簧逐个放置到已安装的磁铁上方。
 
 ![](https://wiki.bambulab.com/x1/maintenance/install-filaments-hub-magnets/install_springs.jpg)
 
@@ -102,10 +102,8 @@ AMS 五通组件的4个进料孔内各有一片磁铁，用于检测料线位置
 
 否则，请检查电缆和PTFE管的连接后重试。如果未发现异常但仍出现故障，请联系 Bambu Lab 服务团队以获得进一步帮助。
 
-## **结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。
->
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -4,7 +4,7 @@ title: "在 Bambu Studio 中使用 AMS"
 description: "介绍如何在 bambu studio 中使用 AMS，包括 AMS 映射和 AMS 操作与设置。"
 tags: ["ams", "bambu studio"]
 created: 2024-09-18T07:35:53.623Z
-updated: 2025-02-20T06:31:56.057Z
+updated: 2026-08-28T08:29:56.377Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/use-ams-on-bambu-studio
 ---
 
@@ -69,7 +69,6 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/use-ams-on-bambu-stud
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们的客户服务团队。我们随时准备为您解答疑问并提供帮助。  
-> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -4,7 +4,7 @@ title: "更换 WIFI 天线"
 description: "本文介绍了如何更换 A1 系列的 Wi-Fi 天线"
 tags: ["a1"]
 created: 2024-11-15T06:37:41.748Z
-updated: 2024-11-15T06:37:54.819Z
+updated: 2026-08-28T08:30:43.014Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/wi-fi-antenna-replacement-guide
 ---
 
@@ -61,13 +61,13 @@ A1 系列
 
 卸下红色标记的 10 颗螺丝，即可拆卸底盖。
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/拆底壳螺丝10.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E6%8B%86%E5%BA%95%E5%A3%B3%E8%9E%BA%E4%B8%9D10.jpg)
 
 ### 4. 取下 Wi-Fi 天线
 
 1. 断开 Wi-Fi 天线与主板的连接。
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/取下接口.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E5%8F%96%E4%B8%8B%E6%8E%A5%E5%8F%A3.jpg)
 
 2. 用平头镊子撬起 Wi-Fi 板，取下 Wi-Fi 天线。
 
@@ -77,7 +77,7 @@ A1 系列
 
 3. 小心将线缆从卡扣中取出。
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/线从卡扣中取出.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E7%BA%BF%E4%BB%8E%E5%8D%A1%E6%89%A3%E4%B8%AD%E5%8F%96%E5%87%BA.jpg)
 
 ## 安装指南
 
@@ -89,18 +89,19 @@ A1 系列
 
 2. 将 Wi-Fi 电缆连接到主板上，并将电缆排进卡扣中。
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/接口、排线.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E6%8E%A5%E5%8F%A3%E3%80%81%E6%8E%92%E7%BA%BF.jpg)
+
 > **注意：安装新的 Wi-Fi天线时，可以不在电子硅胶处进行固定。**
 >
-> ![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/电子硅胶.jpg)
+> ![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E7%94%B5%E5%AD%90%E7%A1%85%E8%83%B6.jpg)
 
 ### 2. 安装底盖
 
-**请注意红色箭头标示的电机线缆。**请务必整理好这束线缆后，才能完全按下底盖。
+\*\*请注意红色箭头标示的电机线缆。\*\*请务必整理好这束线缆后，才能完全按下底盖。
 
 将底盖卡扣到位后，拧入 10 颗螺丝，**请注意不要过度拧紧。**
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/安装底盖.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E5%AE%89%E8%A3%85%E5%BA%95%E7%9B%96.jpg)
 
 ### 3. 安装线缆支架
 
@@ -108,13 +109,13 @@ A1 系列
 
 > **注意：该螺丝是拧入塑料框架的，请避免过度拧紧。**
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/安装支架.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E5%AE%89%E8%A3%85%E6%94%AF%E6%9E%B6.jpg)
 
 2. 重新连接摄像头、X 轴电机和 Z 轴电机线缆以完成安装。
 
 > **注意：右侧较短线缆为 X 轴电机线缆，插入右上方接口；较长线缆为 Z 轴电机线缆，插入右下方接口。**
 
-![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/接线缆.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/wifi-antenna/%E6%8E%A5%E7%BA%BF%E7%BC%86.jpg)
 
 ## 验证功能
 
@@ -150,8 +151,6 @@ USB 电缆可能未完全插入。请松开固定线支架的螺丝，然后重�
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。
->
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

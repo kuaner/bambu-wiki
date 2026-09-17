@@ -4,7 +4,7 @@ title: "PLA Basic 与 PETG HF、PETG Basic 互相支撑打印指南"
 description: "本文介绍了如何使用拓竹耗材 PLA Basic 与 PETG HF / PETG Basic 互相支撑打印，并提供了在 Bambu Studio 中设置参数的教程及预设参数文件的下载链接。"
 tags: ["petg hf"]
 created: 2024-08-02T02:11:38.792Z
-updated: 2026-07-21T09:37:11.555Z
+updated: 2026-09-04T04:26:24.700Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/h2d-pla-and-petg-mutual-support
 ---
 
@@ -62,17 +62,14 @@ PETG HF / PETG Basic 耗材的烘干方式与要求，请参考下表：
 
 根据你的耗材组合，下载并打开下方对应 `.3mf` 文件，然后导入打印模型的 `.stl` 文件，即可应用这些参数，无需再次手动调整。
 
-- [PLA Basic 支撑 PETG HF.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_hf.3mf)
-- [PETG HF 支撑 PLA Basic.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_hf_%E6%94%AF%E6%92%91_pla_basic.3mf)
-- [PETG Basic 支撑 PLA Basic.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_basic_%E6%94%AF%E6%92%91_pla_basic.3mf)
-- [PLA Basic 支撑 PETG Basic.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_basic.3mf)
+| 主体耗材 | 支撑耗材 | 下载链接 | P2S 下载链接\* |
+| --- | --- | --- | --- |
+| PETG HF | PLA Basic | [3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_hf.3mf) | [@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_hf_@p2s.3mf) |
+| PLA Basic | PETG HF | [3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_hf_%E6%94%AF%E6%92%91_pla_basic.3mf) | [@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_hf_%E6%94%AF%E6%92%91_pla_basic_@p2s.3mf) |
+| PLA Basic | PETG Basic | [3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_basic_%E6%94%AF%E6%92%91_pla_basic.3mf) | [@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_basic_%E6%94%AF%E6%92%91_pla_basic@p2s.3mf) |
+| PETG Basic | PLA Basic | [3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_basic.3mf) | [@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_basic@p2s.3mf) |
 
-> 📌 注意：对于 **P2S** 打印机，其 PETG HF / PETG Basic 的**冷却设置**与其他机型略有不同，即特定层冷却风扇速度需保持默认的 40%。**如果您的打印机是 P2S，请下载下方参数文件**。
->
-> - [PLA Basic 支撑 PETG HF\_@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_hf_@p2s.3mf)
-> - [PETG HF 支撑 PLA Basic\_@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_hf_%E6%94%AF%E6%92%91_pla_basic_@p2s.3mf)
-> - [PLA Basic 支撑 PETG Basic@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_basic@p2s.3mf)
-> - [PETG Basic 支撑 PLA Basic@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_basic_%E6%94%AF%E6%92%91_pla_basic@p2s.3mf)
+> 📌 \* **表附注**： **P2S** 打印机请选择末列文件下载，因其 PETG HF / PETG Basic 的**冷却设置**与其他机型略有不同，即特定层冷却风扇速度需保持默认的 40%。其他型号打印机在第三列文件中选择并下载即可。
 
 **如需手动设置参数或了解具体的参数设置**，请阅读下一章节。
 
@@ -102,10 +99,10 @@ PLA Basic 与 PETG HF / PETG Basic 互相支撑的打印参数设置，主要涉
 
 **本章分别介绍：**
 
-1. PLA Basic 支撑 PETG HF / PETG Basic 参数设置
-2. PETG HF / PETG Basic 支撑 PLA Basic 参数设置
+1. 主体耗材为 PETG HF / PETG Basic，支撑耗材为 PLA Basic 时的参数设置
+2. 主体耗材为 PLA Basic，支撑耗材为 PETG HF / PETG Basic 时的参数设置
 
-#### PLA Basic 支撑 PETG HF / PETG Basic 参数设置
+#### 1. 主体耗材为 PETG HF / PETG Basic，支撑耗材为 PLA Basic 时的参数设置
 
 此配置使用的模型主体耗材为 PETG HF、PETG Basic，支撑耗材为 PLA Basic。
 
@@ -137,7 +134,7 @@ PLA Basic 与 PETG HF / PETG Basic 互相支撑的打印参数设置，主要涉
 | --- | --- |
 |  |  |
 
-#### PETG HF / PETG Basic 支撑 PLA Basic 参数设置
+#### 2. 主体耗材为 PLA Basic，支撑耗材为 PETG HF / PETG Basic 时的参数设置
 
 此配置使用的模型主体耗材为 PLA Basic，支撑耗材为 PETG HF / PETG Basic。
 
@@ -196,6 +193,6 @@ PLA Basic 与 PETG HF / PETG Basic 互相支撑的打印参数设置，主要涉
 
 ## 结束语
 
-> 我们希望本指南可以为您提供清晰实用的帮助。  
-> 如果问题仍未解决，请提交[服务工单](https://bambulab.cn/zh-cn/my/support/tickets/create?from=5)并附上您近期的打印机日志，以及相关的照片或其他详细信息，我们的客户支持团队将随时为您答疑解惑并提供支持。  
-> 您也可以访问 [Bambu AI](https://support.bambulab.cn/cn)，它能够即时解答常见问题，并为您提供操作指导。
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

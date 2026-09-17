@@ -4,7 +4,7 @@ title: "U 盘规格要求和使用建议"
 description: "本文介绍了部分机型使用 U 盘时的规格要求和使用建议。"
 tags: []
 created: 2025-04-03T01:22:04.296Z
-updated: 2026-06-18T06:07:37.836Z
+updated: 2026-08-28T08:36:32.731Z
 source: https://wiki.bambulab.com/zh/h2/manual/usb-pecifications-and-usage-recommendations
 ---
 
@@ -102,7 +102,6 @@ source: https://wiki.bambulab.com/zh/h2/manual/usb-pecifications-and-usage-recom
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

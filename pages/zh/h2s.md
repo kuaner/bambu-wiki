@@ -4,7 +4,7 @@ title: "H2S"
 description: "本文提供了所有关于 Bambu Lab H2S 的文章链接。"
 tags: []
 created: 2025-08-26T06:27:25.736Z
-updated: 2026-07-30T11:50:42.552Z
+updated: 2026-08-27T08:20:36.981Z
 source: https://wiki.bambulab.com/zh/h2s
 ---
 
@@ -114,6 +114,7 @@ source: https://wiki.bambulab.com/zh/h2s
 - [启用视频录制功能并导出视频以进行故障排查](x1/troubleshooting/enable-the-video-recording-function.md)
 - [如何检查 H2S 哪个部位堵塞](troubleshooting/clogging.md)
 - [H2S 喷嘴/热端堵塞清理](troubleshooting/nozzle-clog.md)
+- [H2S 挤出机清理指南](troubleshooting/extruder-cleaning-guide.md)
 - [H2S 首层打印优化指南](troubleshooting/first-layer-printing-optimization-guide.md)
 - [H2S 喷嘴冷拔维护与清洁指南](maintenance/nozzle-cold-pull-maintenance-and-cleaning.md)
 - [辅助部件冷却风扇软胶钉脱落安装指南](h2/troubleshooting/reinstall-rubber-screws.md)

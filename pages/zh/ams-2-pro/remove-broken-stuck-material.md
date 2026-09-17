@@ -4,7 +4,7 @@ title: "AMS 2 Pro 断裂耗材移除与五通组件传感器检查"
 description: "学习如何移除 AMS 2 Pro 中的断裂堵塞耗材并检查五通组件传感器。"
 tags: ["ams-2-pro"]
 created: 2025-07-25T06:19:53.087Z
-updated: 2025-10-13T01:55:01.418Z
+updated: 2026-08-26T02:45:40.754Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/remove-broken-stuck-material
 ---
 
@@ -40,14 +40,17 @@ source: https://wiki.bambulab.com/zh/ams-2-pro/remove-broken-stuck-material
 
 一只手按住黑色按钮松开料管，然后另一只手取出料管。
 
-![hands_removing_tubes.png](https://wiki.bambulab.com/ams-2-pro/maintenance/broken-material/hands_removing_tubes.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 ### 第二步：将耗材插入入料口
 
 取一小段耗材，插入 AMS 2 Pro 入料口直至其穿过料管，如下图所示:
 
-![](https://wiki.bambulab.com/ams-2-pro/maintenance/broken-material/removing_stuck_filament.png)  
-![](https://wiki.bambulab.com/ams-2-pro/maintenance/broken-material/pushing_filament_through.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 所有堵塞的耗材应从铁氟龙料管口移除。您可以多次操作，直至确认残留物完全清除。操作时请保持动作轻柔，避免耗材在内部再次断裂。操作完成后，取出耗材，继续组装。
 

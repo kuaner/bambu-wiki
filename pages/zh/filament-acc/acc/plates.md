@@ -4,7 +4,7 @@ title: "拓竹打印板介绍"
 description: "本指南详细介绍 Bambu Lab 3D 打印板，包括打印板的种类、规格尺寸、适配机型、耗材兼容性与清洁维护方法，助您选对打印板、提升打印成功率。"
 tags: []
 created: 2023-09-05T11:48:56.484Z
-updated: 2026-07-15T10:12:19.167Z
+updated: 2026-09-11T04:15:05.270Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/plates
 ---
 

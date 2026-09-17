@@ -4,7 +4,7 @@ title: "H2C 定期清洁维护建议"
 description: "本文将详细为您介绍关于 H2C 日常保养流程和注意事项。"
 tags: []
 created: 2025-11-18T13:18:29.977Z
-updated: 2026-09-14T06:12:27.402Z
+updated: 2026-09-14T06:12:28.662Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/period-maintenance
 ---
 

@@ -4,7 +4,7 @@ title: "开箱&装箱指南"
 description: "本文列举了所有关于拓竹 3D 打印机 及 AMS 开箱和装箱链接。"
 tags: []
 created: 2023-09-07T05:04:28.330Z
-updated: 2026-07-10T03:44:22.453Z
+updated: 2026-08-24T06:11:51.509Z
 source: https://wiki.bambulab.com/zh/general/unboxing-guide
 ---
 
@@ -62,7 +62,7 @@ source: https://wiki.bambulab.com/zh/general/unboxing-guide
 
 ### AMS 系列开箱指南
 
-- [AMS lite 开箱指南](../a1/manual/packing-a1-new.md)
+- [AMS lite 开箱指南](https://wiki.bambulab.com/zh/ams/maintenance/ams-lite-com#%E7%BB%84%E8%A3%85%E6%8C%87%E5%BC%95)
 - [AMS 2 Pro 开箱指南](../ams-2-pro/manual/unboxing-and-setup.md)
 - [AMS HT 开箱指南](../ams-ht/manual/unboxing-and-setup.md)
 - [AMS 开箱指南](../p1/manual/unboxing-p1s_combo.md)

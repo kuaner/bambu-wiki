@@ -4,7 +4,7 @@ title: "Bambu Studio 快速上手教程"
 description: "这篇文章简要介绍了Bambu Studio，并提供了一份指南，帮助您快速安装、设置、切片，并立即开始打印。"
 tags: ["bambu studio"]
 created: 2023-03-23T09:00:57.080Z
-updated: 2026-05-08T12:03:14.777Z
+updated: 2026-08-28T08:24:30.504Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/studio-quick-start
 ---
 
@@ -189,5 +189,5 @@ Bambu Network 插件提供网络功能，例如通过 WAN/LAN 打印、远程控
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们友好的客户服务团队。  
-> 我们随时准备为您解答疑问并提供帮助。[点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

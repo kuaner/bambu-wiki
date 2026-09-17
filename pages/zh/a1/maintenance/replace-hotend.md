@@ -1,10 +1,10 @@
 ---
 path: zh/a1/maintenance/replace-hotend
-title: "更换A1热端"
-description: "本文介绍了如何更换 A1 热端"
+title: "更换 A1 系列热端/喷嘴"
+description: "本文介绍了如何更换 A1 系列的热端/喷嘴"
 tags: []
 created: 2025-07-29T09:31:50.925Z
-updated: 2026-08-03T10:40:39.457Z
+updated: 2026-08-28T08:40:11.699Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/replace-hotend
 ---
 
@@ -13,6 +13,8 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/replace-hotend
 热端安装在工具头上，可用于挤出耗材。对于 A1 打印机，我们提供了 0.2、0.4、0.6 和 0.8mm 四种直径的热端，您可以根据需求来选择。
 
 > **📌 注意**：若您更换了不同规格的喷嘴，请在发起打印前务必在**屏幕上**同步喷嘴信息。
+
+> **📌 注意**：该 Wiki 适用于 A1 系列打印机，如果您需要 A2L 热端（喷嘴）更换指南，请[点击跳转](../../a2l/maintenance/replace-silicone-sock-for-hotend.md)。
 
 ![热端.jpg](https://wiki.bambulab.com/a1/maintenance/replace-hotend/%E7%83%AD%E7%AB%AF.jpg)
 
@@ -112,5 +114,5 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/replace-hotend
 ## 结束语
 
 > 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 为了确保您安全有效地进行操作，如果对指南中的任何步骤有疑虑或问题，请在开始操作前联系我们的客户服务团队，我们随时乐意为您解答疑问并提供支持。  
-> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -4,7 +4,7 @@ title: "AMS 2 Pro 工作流程和功能介绍"
 description: ""
 tags: []
 created: 2025-03-25T08:25:02.694Z
-updated: 2026-07-09T10:36:58.308Z
+updated: 2026-08-28T08:33:36.371Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/manual/setup-and-printting
 ---
 
@@ -254,7 +254,6 @@ AMS 2 Pro 新增了两个主动开关的进出气风门，烘干过程中 AMS �
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[*请点击此处联系在线技术支持（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

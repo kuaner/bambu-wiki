@@ -4,7 +4,7 @@ title: "PVA 打印指南"
 description: ""
 tags: []
 created: 2024-02-20T08:18:56.284Z
-updated: 2026-07-24T07:05:56.183Z
+updated: 2026-08-28T08:27:48.191Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/pva-printing-guide
 ---
 
@@ -105,8 +105,6 @@ PVA ，即聚乙烯醇，是一种柔软且可生物降解的聚合物。它对�
 
 ## 结束语
 
-> 我们希望这份指南为您提供了有效的信息，并真实地帮助了您。
->
-> 如果您对本文中描述的过程有任何疑虑或疑问，您可以在开始操作前联系我们的客户服务团队。 我们随时准备为您提供帮助并回答您的任何问题。
->
-> [点击这里提交服务工单](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

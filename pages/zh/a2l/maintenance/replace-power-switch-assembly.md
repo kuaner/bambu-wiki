@@ -1,10 +1,10 @@
 ---
 path: zh/a2l/maintenance/replace-power-switch-assembly
 title: "A2L 更换电源开关座"
-description: ""
+description: "本文介绍了如何更换 A2L 电源开关座"
 tags: []
-created: 2026-06-01T13:14:11.341Z
-updated: 2026-08-28T08:45:05.818Z
+created: 2026-06-01T13:14:11.044Z
+updated: 2026-08-28T08:45:03.783Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-power-switch-assembly
 ---
 

@@ -4,7 +4,7 @@ title: "A1 初次打印指南（使用外挂料盘）"
 description: "本文介绍了如何在 A1 系列打印机上使用外挂料盘开启首次打印"
 tags: ["a1"]
 created: 2023-12-18T02:48:47.191Z
-updated: 2025-02-28T07:43:02.168Z
+updated: 2026-09-14T08:45:49.864Z
 source: https://wiki.bambulab.com/zh/a1/manual/first-print-with-external-spool
 ---
 
@@ -160,10 +160,8 @@ source: https://wiki.bambulab.com/zh/a1/manual/first-print-with-external-spool
 
 完成退料操作后，按照上述的 **“打印准备”** 操作进料。
 
-**结束语**
+## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南并未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。
->
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

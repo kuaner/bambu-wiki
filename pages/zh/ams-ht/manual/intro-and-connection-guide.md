@@ -4,7 +4,7 @@ title: "AMS HT 模块介绍和连接配置 "
 description: ""
 tags: []
 created: 2025-04-10T09:27:04.415Z
-updated: 2026-06-08T08:36:42.687Z
+updated: 2026-08-28T08:37:29.417Z
 source: https://wiki.bambulab.com/zh/ams-ht/manual/intro-and-connection-guide
 ---
 
@@ -192,7 +192,6 @@ AMS HT 配备 RFID 线圈，可识别 Bambu Lab 官方耗材的 RFID 标签，�
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 如果本指南未解决您的问题，[*请联系在线技术支持**（服务时间 9:00-21:00）*](https://support.bambulab.cn/cn/im)，我们随时准备为您解答疑问并提供帮助。  
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
 > 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

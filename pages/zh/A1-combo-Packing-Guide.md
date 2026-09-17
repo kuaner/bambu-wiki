@@ -4,7 +4,7 @@ title: "A1 Combo 装箱指南（一体化装箱）"
 description: "本指南介绍了如何进行 A1 combo 装箱。"
 tags: []
 created: 2024-09-19T04:11:45.980Z
-updated: 2026-06-24T06:12:12.808Z
+updated: 2026-08-28T08:30:01.265Z
 source: https://wiki.bambulab.com/zh/A1-combo-Packing-Guide
 ---
 
@@ -154,7 +154,6 @@ source: https://wiki.bambulab.com/zh/A1-combo-Packing-Guide
 
 ## 结束语
 
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。
->
-> 我们希望能确保您安全有效地进行操作。如果您对本指南描述的过程有任何疑虑或问题，建议您在开始操作前联系我们的客户服务团队。> 我们随时准备为您解答疑问并提供帮助。  
-> [点击此处联系在线技术支持 （服务时间 9:00-21:00）](https://support.bambulab.cn/cn/im)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

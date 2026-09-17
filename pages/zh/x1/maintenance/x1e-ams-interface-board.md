@@ -4,7 +4,7 @@ title: "X1E AMS 接口板拆装指引"
 description: "本页面主要介绍了 X1E AMS 接口板的拆装步骤"
 tags: ["x1e", "ams 接口板"]
 created: 2023-11-27T03:02:38.324Z
-updated: 2026-01-29T02:03:19.976Z
+updated: 2026-08-28T08:26:47.102Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/x1e-ams-interface-board
 ---
 
@@ -153,10 +153,8 @@ AMS 接口板的电源输出不正常，AMS 出现电源或通信故障的，有
 | --- | --- |
 |  |  |
 
-# 结语
+## 结束语
 
-> *我们希望这份指南能为您提供有效信息和有效帮助。*
->
-> *如果您对本文中描述的操作有任何疑虑或疑问，您可以在开始操作前联系我们的客户服务团队。 我们将随时准备为您提供帮助并回答您的任何问题。*
->
-> [*点击这里提交服务工单*](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！
