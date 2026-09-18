@@ -4,7 +4,7 @@ title: "A2L 更换热床组件"
 description: "本文介绍了如何更换 A2L 热床组件"
 tags: []
 created: 2026-06-01T13:15:06.763Z
-updated: 2026-08-28T06:45:48.764Z
+updated: 2026-09-17T10:52:36.305Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-heatbed-unit
 ---
 
@@ -71,7 +71,7 @@ A2L 热床
 使用 H2.0 螺丝刀拧出图示四颗螺丝，取下热床组件。  
 ![rc007.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/rc007.jpg)
 
-## **拆卸教程**
+## **安装教程**
 
 ### 1. 安装热床
 
