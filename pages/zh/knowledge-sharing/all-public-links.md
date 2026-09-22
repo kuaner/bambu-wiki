@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-09-21T06:05:45.893Z
+updated: 2026-09-22T06:05:57.802Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -185,7 +185,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0700-0200-0001-0001: AMS1 料线速度与长度计算错误，可能是里程轮传感器故障。](../x1/troubleshooting/hmscode/0700_0200_0001_0001.md)  
 [错误代码](../hms/error-code.md)  
 [HMS\_0300-1D00-0001-0001: 挤出电机位置传感器异常，可能是传感器排线松动。](../x1/troubleshooting/hmscode/0300_1D00_0001_0001.md)  
-[Bambu可重复使用料盘](bambu-reusable-spool.md)  
 [高温/光面 PEI 打印板质量与预期不符](../general/high-temperature-plate-not-working-as-expected.md)  
 [A1 热床传感器拆装指引](../a1/maintenance/heatbed-sensor.md)  
 [X1/X1C 网络连接指南](../x1/manual/x1-network-connection-guide.md)  
@@ -1691,7 +1690,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换 P2S 缓冲器](../p2s/maintenance/replace-filament-buffer.md)  
 [更换 P2S/X2D 开门检测开关](../p2s/maintenance/replace-door-sensor.md)  
 [更换 P2S/X2D 屏幕](../p2s/maintenance/replace-screen.md)  
-[更换 P2S AC/MC 板](../p2s/maintenance/replace-mc-and-ac-boards.md)  
 [更换 P2S 背板](../p2s/maintenance/replace-rear-panel.md)  
 [更换 P2S 电源](../p2s/maintenance/replace-power-supply.md)  
 [更换 P2S/X2D 电源开关插座](../p2s/maintenance/replace-power-switch-assembly.md)  
@@ -2524,8 +2522,10 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [X2D 螺丝清单](https://wiki.bambulab.com/zh/filament-acc/acc/screw-kit-x2d)  
 [HMS\_0300-1E00-0001-0007: 左挤出机喷嘴温控异常，温度传感器可能开路。](https://wiki.bambulab.com/zh/h2c/troubleshooting/hmscode/0300_1E00_0001_0007)   
 [更换 P1 系列 WIFI 天线](../p1/maintenance/wifi-antenna.md)  
-[全部公开的链接](.md)  
 [PET-CF / PPA-CF / PPS-CF / PA6-CF 使用指南](../filament/petcf_ppacf.md)  
 [HMS\_0300-1100-0002-0001：Y 轴共振频率偏低，可能是同步带松了。](../p2s/troubleshooting/hmscode/0300_1100_0002_0001.md)  
 [TPU 送料助力模块组装 & 使用指南](../general/manual/tpu-feed-assist-module.md)  
-[HMS\_07FE-8000-0001-0005: 挤出机切换限位角度发生较大偏移，请检查堵嘴片是否卡住或是否有耗材卡在工具头内。](../x2d/troubleshooting/hmscode/07FE_8000_0001_0005.md)
+[HMS\_07FE-8000-0001-0005: 挤出机切换限位角度发生较大偏移，请检查堵嘴片是否卡住或是否有耗材卡在工具头内。](../x2d/troubleshooting/hmscode/07FE_8000_0001_0005.md)  
+[Bambu 可重复使用料盘模型](bambu-reusable-spool.md)  
+[全部公开的链接](.md)  
+[更换 P2S AC/MC 板](../p2s/maintenance/replace-mc-and-ac-boards.md)
