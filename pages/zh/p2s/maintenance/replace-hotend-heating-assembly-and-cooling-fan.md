@@ -4,7 +4,7 @@ title: "更换 P2S 热端加热组件/热端风扇"
 description: "本文介绍如何更换 P2S 的热端加热组件和热端风扇"
 tags: []
 created: 2025-10-14T14:25:05.604Z
-updated: 2026-08-28T08:42:37.946Z
+updated: 2026-09-18T09:55:24.294Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-hotend-heating-assembly-and-cooling-fan
 ---
 
@@ -47,6 +47,8 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-hotend-heating-asse
 > 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生电路短路从而引起额外的电子设备损坏和安全隐患。
 >
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
+## 视频指南
 
 ## 移除热端加热组件/热端风扇
 
@@ -98,7 +100,9 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-hotend-heating-asse
 | --- | --- |
 |  |  |
 
-![0010.png](https://public-cdn.bblmw.com/wiki/new/0010.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 ## 安装热端加热组件/热端风扇
 

@@ -4,9 +4,35 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-09-11T09:01:55.911Z
+updated: 2026-09-18T09:37:04.218Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 2026-W38
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [HMS\_0300-1E00-0001-0007: 左挤出机喷嘴温控异常，温度传感器可能开路。](h2c/troubleshooting/hmscode/0300_1E00_0001_0007.md) | 介绍左热端喷嘴温控异常报错的可能原因，并提供重启、拔插接头与电阻测量等排查方法。 | H2D,H2C |
+| [纹理转涂色](software/bambu-studio/texture-to-color.md) | 介绍 Bambu Studio 的“纹理转涂色”功能，包括导入纹理模型、耗材映射、添加耗材与拆解颜色混色。 | / |
+| [P2S 螺丝清单](filament-acc/acc/screw-kit-p2s.md) | 汇总 P2S 螺丝套装中各规格螺丝的图片、名称与对应安装用途，便于维修、装配和识别。 | 配件,换件 |
+| [X2D 螺丝清单](filament-acc/acc/screw-kit-x2d.md) | 汇总 X2D 设备各类螺丝的规格、图片与用途，便于维修、更换和装配时快速查找对应螺丝。 | 配件,换件 |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [Cyberbrick-PC 版本说明](software/cyberbrick-apps/PC-release-notes.md) | 补充 0.6.1 版本，优化固件升级提醒功能。 | 0.6.1 | / |
+| [更换 H2D & H2C 热端风扇及其支架](h2/maintenance/replace-cooling-fan-for-hotend.md) | 更新 H2C 更换步骤说明，并补充 H2C 接口板与 TH 板插头拆装内容。 | H2C | H2D,H2C |
+| [线宽设置](software/bambu-studio/parameter/line-width.md) | 补充首层填充线宽的作用、影响范围及默认继承关系，并更新部分线宽说明表述与配图。 | 首层填充线宽 | / |
+| [混色打印](bambu-studio/color-mixing.md) | 补充纹理转涂色在混色打印中的用法，包括拆解颜色与自动混色模式说明。 | 纹理转涂色 | / |
+| [更换气动接头](filament-acc/acc/replacing-the-pneumatic-connector.md) | 补充 P2S 霍尔开关气动接头不建议单独更换的提示 | P2S | 耗材 |
+| [刀切/画笔主要部件和使用流程介绍](h2/manual/cutter-setup.md) | 补充刀切模组包装清单及配件数量说明。 | 刀切模组包装清单 | H2D,H2D Pro,H2S,H2C |
+| [切割工具](software/bambu-studio/cut-tool.md) | 补充切割后三个及以上零件可右键重新分配至对象 A/B 的说明。 | 右键分配零件 | / |
+| [填充图案介绍](software/bambu-studio/fill-patterns.md) | 补充次顶面图案默认设置说明及跨页跳转锚点 | 次顶面图案 | / |
+| [强度高级设置](software/bambu-studio/parameter/strength-advance-settings.md) | 补充“次顶面图案”参数说明、作用条件及效果示例。 | 次顶面图案 | / |
+| [更换 X2D 热端风扇](x2d/maintenance/replace-cooling-fan-for-hotend.md) | 补充断开 TH 板线缆时的受力方向及防损坏操作提醒。 | TH板线缆 | X2D |
 
 ## 2026-W37
 

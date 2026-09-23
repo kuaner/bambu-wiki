@@ -4,11 +4,13 @@ title: "Bambu Suite 版本说明"
 description: ""
 tags: []
 created: 2025-03-26T03:37:10.764Z
-updated: 2026-08-12T10:33:23.356Z
+updated: 2026-09-23T01:12:44.710Z
 source: https://wiki.bambulab.com/zh/software/bambu-suite/release-notes
 ---
 
 ## Bambu Suite 版本说明
+
+[Bambu Suite V1.5.0.00 版本说明](v01-05-00-00.md)
 
 [Bambu Suite V1.4.0.00 版本说明](v01-04-00-00.md)
 
@@ -43,6 +45,11 @@ source: https://wiki.bambulab.com/zh/software/bambu-suite/release-notes
 [Bambu Suite V1.0.0.0 版本说明](V1-0-0-0.md)
 
 ## Bambu Suite 历史版本下载链接
+
+### V1.4.0.00 版本
+
+- [点击此处](https://public-cdn.bblmw.cn/general_pkg/prod/setup/20260812_162821_286/BambuSuite_Public_Win_01.04.00.00.exe)下载 Windows 版本
+- [点击此处](https://public-cdn.bblmw.cn/general_pkg/prod/setup/20260812_163020_210/Bambu_Suite_Public_MAC_01.04.00.00.dmg)下载 macOS版本
 
 ### V1.3.0.00 版本
 

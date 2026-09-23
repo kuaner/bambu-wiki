@@ -4,11 +4,18 @@ title: "开箱&装箱指南"
 description: "本文列举了所有关于拓竹 3D 打印机 及 AMS 开箱和装箱链接。"
 tags: []
 created: 2023-09-07T05:04:28.330Z
-updated: 2026-08-24T06:11:51.509Z
+updated: 2026-09-22T14:13:29.469Z
 source: https://wiki.bambulab.com/zh/general/unboxing-guide
 ---
 
 ## 开箱
+
+### R1 开箱指南
+
+- [R1 开箱指南](../r1/manual/unboxing.md)
+- [增高底座开箱指南](../r1/manual/riser-base-unboxing.md)
+- [滚轮送料机开箱指南](../r1/manual/conveyor-unboxing.md)
+- [E1 Pro 净化器开箱指南](../r1/manual/air-purifier-unboxing.md)
 
 ### A2L 开箱指南
 
@@ -68,6 +75,12 @@ source: https://wiki.bambulab.com/zh/general/unboxing-guide
 - [AMS 开箱指南](../p1/manual/unboxing-p1s_combo.md)
 
 ## 装箱
+
+### R1 装箱指南
+
+- [R1 装箱指南](../r1/manual/packing.md)
+- [增高底座装箱指南](../r1/manual/riser-base-packing.md)
+- [滚轮送料机装箱指南](../r1/manual/conveyor-packing.md)
 
 ### A2L 装箱指南
 

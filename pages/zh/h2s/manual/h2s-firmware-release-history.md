@@ -4,9 +4,39 @@ title: "H2S 固件发布记录"
 description: "本指南提供 H2S 所有固件发布记录。"
 tags: []
 created: 2025-08-26T12:08:07.268Z
-updated: 2026-05-21T03:08:19.503Z
+updated: 2026-09-18T09:19:46.583Z
 source: https://wiki.bambulab.com/zh/h2s/manual/h2s-firmware-release-history
 ---
+
+## 01.03.00.00（20260916）
+
+### 新功能
+
+1. 支持将 AMS 内已读取的多色耗材信息加入颜色编辑列表  
+   ![add_ams_color_zh.png](https://wiki.bambulab.com/h2/releasenote/add_ams_color_zh.png)
+2. 增加异物检测开关  
+   ![foreign_object_detection_zh.png](https://wiki.bambulab.com/h2/releasenote/foreign_object_detection_zh.png)
+3. 支持 XYZ 电机空闲自由移动模式，方便维护维修  
+   ![xyz_move_zh.png](https://wiki.bambulab.com/h2/releasenote/xyz_move_zh.png)
+4. 支持 E3D 高流量集成热端，需配合 `Bambu Studio 2.8.3.66` 及以上版本使用
+
+### 功能优化
+
+1. 优化升级页面
+2. 优化打印板在位检测，增加了对无打印板的场景检测
+3. 优化炒面、堆料检测的准确度
+4. 优化剩余材料量预估的准确度，需配合 `AMS 01.00.07.00` 及以上版本， `AMS 2 Pro 05.00.22.22` 及以上版本，`AMS-HT 05.00.22.19` 及以上版本使用
+5. 优化视觉检测展示效果，可在实景图上展示异常发生位置
+6. 优化打印后刀切功能，提升了刀切偏移检测的成功率，带来更优秀的加工质量
+
+### 问题修复
+
+1. 修复热床抬升到辅助部件风扇同一高度时，打印件因风扇冷却导致温度变化可能产生微小形变的问题，需要配合 `Bambu Studio 2.8.4` 及以上版本
+
+### 已知问题
+
+1. 料管脱落检测该版本暂时关闭
+2. 升级至 `01.02.50.00` 版本后，外挂耗材信息将被清除，请重新进行设置
 
 ## 01.02.00.00 (20260331)
 

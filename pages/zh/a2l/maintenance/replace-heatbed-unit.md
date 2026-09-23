@@ -4,7 +4,7 @@ title: "A2L 更换热床组件"
 description: "本文介绍了如何更换 A2L 热床组件"
 tags: []
 created: 2026-06-01T13:15:06.763Z
-updated: 2026-09-17T10:52:36.305Z
+updated: 2026-09-17T10:52:37.435Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-heatbed-unit
 ---
 

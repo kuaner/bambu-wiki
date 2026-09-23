@@ -4,7 +4,7 @@ title: "打印机连接线缆的插头拆装"
 description: "本文将介绍打印机上常见的线缆插头拆装方式"
 tags: []
 created: 2026-03-04T03:43:19.227Z
-updated: 2026-08-28T06:37:09.465Z
+updated: 2026-09-18T10:09:10.926Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-electronic-connectors-guide
 ---
 
@@ -136,8 +136,8 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-electronic-connec
 | --- | --- |
 |  |  |
 
-\*\*拆除方式：\*\* 按下顶部卡扣后向外缓慢拉出。
-\*\*安装方式：\*\* 对齐后直接插入。
+**拆除方式：** 按下顶部卡扣后向外缓慢拉出。  
+**安装方式：** 对齐后直接插入。
 
 ![1.webp](https://wiki.bambulab.com/knowledge-sharing/printer-electronic-connectors-guide/1.webp)
 

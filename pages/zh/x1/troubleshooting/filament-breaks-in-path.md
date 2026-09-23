@@ -4,7 +4,7 @@ title: "耗材断在管道中间"
 description: ""
 tags: []
 created: 2022-08-01T04:35:14.024Z
-updated: 2026-08-28T08:23:21.630Z
+updated: 2026-09-18T01:47:10.974Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/filament-breaks-in-path
 ---
 

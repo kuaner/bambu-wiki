@@ -4,7 +4,7 @@ title: "更换气动接头"
 description: "这篇Wiki介绍了如何更换打印机和AMS上的气动接头"
 tags: []
 created: 2023-12-11T03:30:29.108Z
-updated: 2026-09-17T03:28:20.445Z
+updated: 2026-09-17T03:28:21.657Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/replacing-the-pneumatic-connector
 ---
 

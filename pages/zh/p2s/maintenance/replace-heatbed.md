@@ -4,7 +4,7 @@ title: "更换 P2S 热床"
 description: "本文介绍了如何更换 P2S 热床"
 tags: []
 created: 2025-10-14T12:55:26.370Z
-updated: 2026-09-08T09:59:55.305Z
+updated: 2026-09-18T10:06:13.114Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-heatbed
 ---
 
@@ -52,6 +52,8 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-heatbed
 ![01_heated_bed_thermistor_cable_001.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-heatbed/01_heated_bed_thermistor_cable_001.png)
 
 2. 从 AC 板上断开热床供电线。在断开热床供电线时，需先按下接口处的卡扣解锁，然后即可拔出线缆；
+
+![webp_(7).webp](https://wiki.bambulab.com/knowledge-sharing/printer-electronic-connectors-guide/webp_(7).webp)
 
 > ⚠️ **注意**：P2S 的热床存在两种版本，版本 1 热床有**红、蓝、灰 3 根**供电线，因此需断开这三根线缆；版本 2 热床仅有**红、灰 2 根**供电线，因此需断开这两根线缆。请根据实际情况操作。
 
