@@ -4,7 +4,7 @@ title: "增高底座安装指南"
 description: "本文介绍了增高底座的开箱和组装流程。"
 tags: []
 created: 2026-09-22T13:10:05.633Z
-updated: 2026-09-23T02:45:12.701Z
+updated: 2026-09-24T01:53:15.101Z
 source: https://wiki.bambulab.com/zh/r1/manual/riser-base-unboxing
 ---
 
@@ -18,8 +18,6 @@ source: https://wiki.bambulab.com/zh/r1/manual/riser-base-unboxing
 > - 如需安装滚轮送料机或旋转轴附件，请先完成本产品的组装（无需放置主机）后，再安装其他配件。
 
 ## 视频指南
-
-即将发布。
 
 ## 包装内配件
 
