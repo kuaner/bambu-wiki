@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-09-25T06:05:57.596Z
+updated: 2026-09-26T06:05:57.487Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -2597,7 +2597,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [R1 聚焦镜更换指南](../r1/maintenance/replace-focusing-lens.md)  
 [R1 滚轮送料维护指南](../r1/maintenance/conveyor-roller.md)  
 [耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水的兼容性、适配性及参数设置](../general/filament-guide-material-table.md)  
-[全部公开的链接](.md)  
 [H2S 固件发布记录](../h2s/manual/h2s-firmware-release-history.md)  
 [P2S 固件发布记录](../p2s/manual/p2s-firmware-release-history.md)  
 [打印中挤出失败故障排查](https://wiki.bambulab.com/zh/general/troubleshooting/extrusion-failure)  
@@ -2605,4 +2604,5 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [R1 首次使用](../r1/manual/first-setup-guide.md)  
 [增高底座安装指南](../r1/manual/riser-base-unboxing.md)  
 [E1 Pro 净化器安装使用指南](../r1/manual/air-purifier-unboxing.md)  
-[滚轮送料机安装指南](../r1/manual/conveyor-unboxing.md)
+[滚轮送料机安装指南](../r1/manual/conveyor-unboxing.md)  
+[全部公开的链接](.md)
