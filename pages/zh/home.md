@@ -4,7 +4,7 @@ title: "主页"
 description: ""
 tags: []
 created: 2022-07-27T15:03:58.612Z
-updated: 2026-09-22T15:28:37.026Z
+updated: 2026-09-28T07:13:49.149Z
 source: https://wiki.bambulab.com/zh/home
 ---
 
@@ -45,7 +45,7 @@ A 系列](https://wiki.bambulab.com/zh/a-series)
 
 ### Bambu Lab 激光类产品
 
-[![AMS lite](https://wiki.bambulab.com/r1/homepage/bambu-lab-r1.png)
+[![AMS lite](https://wiki.bambulab.com/r1/homepage/bambu-lab-r1end.png)
   
 R1](https://wiki.bambulab.com/zh/r1)
 
