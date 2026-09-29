@@ -4,7 +4,7 @@ title: "R1 可加工材料清单"
 description: "本文列出了 R1 可加工材料清单"
 tags: []
 created: 2026-09-22T12:47:44.224Z
-updated: 2026-09-23T08:46:34.982Z
+updated: 2026-09-29T04:03:41.098Z
 source: https://wiki.bambulab.com/zh/r1/manual/processable-materials-list
 ---
 
@@ -41,8 +41,8 @@ source: https://wiki.bambulab.com/zh/r1/manual/processable-materials-list
 | **金属类** |  |  |  |
 | 不锈钢 | ❌ | ❌ | ❌ |
 | 铝 | ❌ | ❌ | ❌ |
-| 带电镀层的金属 | ✅ | ✅ | ✅ |
-| 喷漆处理的金属 | ✅ | ✅ | ✅ |
+| 带电镀层的金属 | ✅ | ✅ | ❌ |
+| 喷漆处理的金属 | ✅ | ✅ | ❌ |
 | 黄铜 | ❌ | ❌ | ❌ |
 | 铬 | ❌ | ❌ | ❌ |
 | 钛 | ❌ | ❌ | ❌ |

@@ -4,7 +4,7 @@ title: "主页"
 description: ""
 tags: []
 created: 2022-07-27T15:03:58.612Z
-updated: 2026-09-28T07:13:49.149Z
+updated: 2026-09-28T07:13:50.253Z
 source: https://wiki.bambulab.com/zh/home
 ---
 
