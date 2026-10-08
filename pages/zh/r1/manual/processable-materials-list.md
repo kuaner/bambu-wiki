@@ -4,7 +4,7 @@ title: "R1 可加工材料清单"
 description: "本文列出了 R1 可加工材料清单"
 tags: []
 created: 2026-09-22T12:47:44.224Z
-updated: 2026-09-29T04:03:41.098Z
+updated: 2026-09-29T04:03:42.367Z
 source: https://wiki.bambulab.com/zh/r1/manual/processable-materials-list
 ---
 

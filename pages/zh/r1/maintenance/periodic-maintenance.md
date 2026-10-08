@@ -4,7 +4,7 @@ title: "R1 定期维护建议"
 description: "本文将介绍设备上需要定期维护的部件以及方式。"
 tags: []
 created: 2026-09-22T12:51:34.323Z
-updated: 2026-09-28T01:41:17.653Z
+updated: 2026-09-28T01:41:18.725Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/periodic-maintenance
 ---
 
