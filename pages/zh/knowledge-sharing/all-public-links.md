@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-10-09T08:06:04.571Z
+updated: 2026-10-10T08:06:39.022Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -92,7 +92,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [HMS\_0300-1300-0001-0001: 电机-A电流传感器异常。这可能是硬件采样电路故障引起的。](../x1/troubleshooting/hmscode/0300_1300_0001_0001.md)  
 [HMS\_0700-2000-0003-0001: AMS 1号料槽料线已用完。请稍候，正在冲刷旧料线。](../x1/troubleshooting/hmscode/0700_2000_0003_0001.md)  
 [HMS\_0300\_9100\_0001\_0003：加热器1过温](../x1/troubleshooting/hmscode/0300_9100_0001_0003.md)  
-[HMS\_0300-9400-0003-0001: 腔体散热可能过慢。如腔内气体无害，可开箱辅助散热。](../x1/troubleshooting/hmscode/0300_9400_0003_0001.md)  
 [HMS\_0700-2000-0003-0002: AMS1 料槽1料线用完并已自动切换到有相同料线的料槽。](../x1/troubleshooting/hmscode/0700_2000_0003_0002.md)  
 [HMS\_1200-5100-0003-0001: AMS已禁用，请从料盘支架加载耗材。](../x1/troubleshooting/hmscode/0700_5100_0003_0001.md)  
 [HMS\_12FF-2000-0003-0007: 正在检查AMS各个槽中的料线位置，请稍等。](../x1/troubleshooting/hmscode/12FF_2000_0003_0007.md)  
@@ -446,7 +445,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
   
   
 [A1 mini 产品保养与维修](../A1-mini/maintenance.md)  
-[更换AMS主框架](../x1/maintenance/replace-the-ams-main-frame.md)  
 [连接 AMS Hub 和多台 AMS](../x1/manual/Connect-AMS-Hub-and-multi-AMS.md)  
 [HMS\_0300-9000-0001-0010: 腔温控制器通信异常。](../x1/troubleshooting/hmscode/0300_9000_0001_0010.md)  
 [HMS\_0700-0100-0002-0002: AMS1 助力电机过载，可能供料路径阻力大或料线缠绕。](../x1/troubleshooting/hmscode/0700_0100_0002_0002.md)  
@@ -516,7 +514,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [Bambu Suite连接打印机失败](../software/bambu-suite/troubleshooting/failed-to-connect-to-printer.md)  
 [CyberBrick 桌面软件](../software/cyberbrick-apps/desktop.md)  
 [AMS HT工作流程和功能介绍](../ams-ht/Intr-to-ams-ht-workflow-and-features.md)  
-[更换 AMS 顶盖及下盖组件](../x1/maintenance/replace-ams-bottom-cover.md)  
 [更换辅助部件冷却风扇](../x1/maintenance/replace-aux-part-cooling-fan.md)  
 [P1 系列打印机 WIFI/蓝牙/实况摄像头故障排查](../p1/troubleshooting/wifi-bt-liveview.md)  
 [HMS\_0300-1600-0001-0001：挤出电机电流传感器异常，可能是硬件采样电路故障。](../p2s/troubleshooting/hmscode/0300_1600_0001_0001.md)  
@@ -2605,4 +2602,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [接缝](../filament-acc/filament/print-quality/seam.md)  
 [全部公开的链接](.md)  
 [AMS 2 Pro 与 H2D 料管中断裂耗材的移除](../h2d/troubleshooting/remove-broken-filament-in-ams-2-pro-and-h2d-tubes.md)   
-[更换 P2S/X2D Z 张紧器](../p2s/maintenance/replace-z-belt-tensioner.md)
+[更换 P2S/X2D Z 张紧器](../p2s/maintenance/replace-z-belt-tensioner.md)  
+[更换 AMS 顶盖及下盖组件](../x1/maintenance/replace-ams-bottom-cover.md)  
+[更换 AMS 主框架](../x1/maintenance/replace-the-ams-main-frame.md)  
+[HMS\_0300-9400-0003-0001: 腔体散热可能过慢。如腔内气体无害，可开箱辅助散热。](../x1/troubleshooting/hmscode/0300_9400_0003_0001.md)
