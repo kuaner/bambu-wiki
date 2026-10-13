@@ -9,7 +9,7 @@
   "zh/h2/troubleshooting/hmscode/0500_0400_0002_0035": "2026-08-28T08:39:14.307Z",
   "zh/p2s/maintenance/belt-tension": "2026-08-28T06:29:38.509Z",
   "zh/x1/manual/printing-on-cool-plate": "2026-08-05T01:43:23.165Z",
-  "zh/knowledge-sharing/all-public-links": "2026-10-12T08:06:15.303Z",
+  "zh/knowledge-sharing/all-public-links": "2026-10-13T08:06:07.523Z",
   "zh/x2d/troubleshooting/hmscode/0700_8900_0002_0004": "2026-08-28T06:39:18.855Z",
   "zh/p1": "2026-09-11T02:27:01.960Z",
   "zh/x2d/troubleshooting/hmscode/0300_C000_0001_0001": "2026-08-28T06:39:20.500Z",
@@ -2629,5 +2629,7 @@
   "zh/r1/maintenance/replace-left-shell": "2026-10-10T10:07:38.850Z",
   "zh/r1/maintenance/replace-front-rear-panel-set": "2026-10-10T12:27:37.612Z",
   "zh/r1/maintenance/replace-water-tank": "2026-10-10T09:57:56.086Z",
-  "zh/software/bambu-studio/how-to-change-dns": "2026-10-09T10:15:15.485Z"
+  "zh/software/bambu-studio/how-to-change-dns": "2026-10-09T10:15:15.485Z",
+  "zh/r1/maintenance/replace-air-pump": "2026-10-10T12:29:07.885Z",
+  "zh/r1/maintenance/replace-y-axis-belt": "2026-10-12T03:28:45.615Z"
 }
