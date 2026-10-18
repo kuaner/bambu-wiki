@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-10-17T06:06:10.566Z
+updated: 2026-10-18T06:06:08.500Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -2605,10 +2605,10 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [Wiki 新页面和内容更新](../new-and-updates.md)  
 [A1 主板更换指南](../a1/maintenance/mainboard-replacement-guide.md)  
 [如何创建工单及上传日志](../x1/troubleshooting/how-to-upload-log.md)  
-[全部公开的链接](.md)  
 [更换 H2S AP 板](../h2s/maintenance/replace-ap-board.md)  
 [更换 P2S 挤出机配件](../p2s/maintenance/replace-extruder-components.md)  
 [更换 X2D 挤出机配件](../x2d/maintenance/replace-extruder-components.md)  
 [更换 X1E 线材包](../x1e/maintenance/printer-cables.md)  
 [X2D 辅助挤出机堵塞清洁维护](../x2d/maintenance/auxiliary-extruder-cleaning-guide.md)  
-[A2L 更换主板](../a2l/maintenance/replace-mainboard.md)
+[A2L 更换主板](../a2l/maintenance/replace-mainboard.md)  
+[全部公开的链接](.md)
