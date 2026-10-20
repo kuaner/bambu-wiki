@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-10-19T04:06:14.950Z
+updated: 2026-10-20T06:06:08.896Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -679,7 +679,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [MakerWorld 独家模型版权支持 FAQ（中国站）](../makerworld/exclusive-model-copyright-support-faq.md)  
 [PLA Basic 与 PETG HF、PETG Basic 互相支撑打印指南](../filament-acc/filament/pla-basic-and-petg-hf.md)  
 [使用外部存储开始打印](../x1/manual/print-from-sd-card.md)  
-[A1用户手册](../a1/manual.md)  
 [如何切换打印机语言](how-to-switch-languages-in-the-printer-screen.md)  
 [模型翘边、脱落或倒塌](../filament-acc/filament/print-quality/warping-falling-off-collapsing.md)  
 [开机校准过程故障排查](../h2/troubleshooting/calibrate-failed.md)  
@@ -898,7 +897,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [绒毛表面](../software/bambu-studio/parameter/fuzzy-skin.md)  
 [A1 X轴组件拆装指引](../a1/maintenance/x-axis.md)  
 [A1 mini 装箱指南](../a1-mini/manual/pack-a1-mini.md)  
-[A 系列打印机热端裹头处理指引](../a1-mini/maintenance/hotend_blob.md)  
 [Bambu Handy 快速入门指南](../studio-handy/handy/bambu-handy-quick-start.md)  
 [X1E AMS 接口板拆装指引](../x1/maintenance/x1e-ams-interface-board.md)  
 [回抽设置](../software/bambu-studio/parameter/retraction.md)  
@@ -2611,4 +2609,6 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换 X1E 线材包](../x1e/maintenance/printer-cables.md)  
 [X2D 辅助挤出机堵塞清洁维护](../x2d/maintenance/auxiliary-extruder-cleaning-guide.md)  
 [A2L 更换主板](../a2l/maintenance/replace-mainboard.md)  
-[全部公开的链接](.md)
+[全部公开的链接](.md)  
+[A 系列打印机热端裹头处理指引](../a1-mini/maintenance/hotend_blob.md)  
+[A1用户手册](../a1/manual.md)
