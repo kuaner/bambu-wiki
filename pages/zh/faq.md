@@ -4,7 +4,7 @@ title: "常见问题"
 description: ""
 tags: []
 created: 2022-08-03T03:01:56.447Z
-updated: 2026-09-09T02:33:48.079Z
+updated: 2026-09-28T06:22:01.726Z
 source: https://wiki.bambulab.com/zh/faq
 ---
 
@@ -15,6 +15,10 @@ source: https://wiki.bambulab.com/zh/faq
 ## FAQ 链接集合
 
 以下是关于 Bambu Lab 打印机常见问题的链接集合。每个链接都将重定向到相应打印机的专用页面，并提供与该机型相关的问题和解答：
+
+**R1:**
+
+- [R1 常见问答（FAQ）](r1/manual/faq.md)
 
 **H2 系列:**
 
@@ -205,7 +209,7 @@ source: https://wiki.bambulab.com/zh/faq
 
 ▸ 使用 Bambu PA-CF 耗材时如何保证良好的打印质量？
 
-我们推荐您使用高温打印板打印此类型耗材，另外，请参阅 Wiki [高温耗材、工程材料打印小贴示](filament/petcf_ppacf.md)
+具体打印技巧请参阅 Wiki [高温耗材、工程材料打印小贴示](filament/petcf_ppacf.md)。
 
 ▸ 有用于食品安全的耗材吗？
 

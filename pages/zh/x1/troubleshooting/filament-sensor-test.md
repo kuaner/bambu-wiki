@@ -4,7 +4,7 @@ title: "霍尔开关故障排查指南"
 description: "本文介绍了如何对霍尔开关进行检测"
 tags: ["霍尔板"]
 created: 2024-11-26T04:10:37.813Z
-updated: 2026-08-28T06:20:59.908Z
+updated: 2026-10-20T08:02:47.647Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/filament-sensor-test
 ---
 

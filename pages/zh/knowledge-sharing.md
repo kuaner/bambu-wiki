@@ -4,14 +4,13 @@ title: "知识分享"
 description: ""
 tags: []
 created: 2022-07-28T10:19:10.545Z
-updated: 2026-07-13T09:13:06.664Z
+updated: 2026-10-22T08:16:58.373Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing
 ---
 
 ## 3D 实用打印技巧
 
 - [混色打印](bambu-studio/color-mixing.md)
-- [如何使用激光夹具进行批量激光雕刻](laser/material/how-to-use-laser-jigs-for-batch-engraving.md)
 - [3 种优化平顶结构中桥接的方法](https://makerworld.com.cn/zh/community/post/110657)
 - [3 种解决悬空孔结构走线塌落的方法](https://makerworld.com.cn/zh/community/post/110643)
 - [3 种解决穹顶结构走线脱落的方法](https://makerworld.com.cn/zh/community/post/111028)

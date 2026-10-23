@@ -4,7 +4,7 @@ title: "滚轮送料机安装指南"
 description: "本文介绍了滚轮送料机的开箱和组装流程。"
 tags: []
 created: 2026-09-22T13:10:36.468Z
-updated: 2026-09-22T13:10:37.730Z
+updated: 2026-09-24T01:58:08.926Z
 source: https://wiki.bambulab.com/zh/r1/manual/conveyor-unboxing
 ---
 

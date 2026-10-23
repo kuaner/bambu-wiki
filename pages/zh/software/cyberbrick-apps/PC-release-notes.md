@@ -4,9 +4,16 @@ title: "Cyberbrick-PC 版本说明"
 description: ""
 tags: []
 created: 2025-09-02T06:51:14.667Z
-updated: 2026-09-16T04:58:10.677Z
+updated: 2026-09-28T07:09:07.331Z
 source: https://wiki.bambulab.com/zh/software/cyberbrick-apps/PC-release-notes
 ---
+
+## V0.6.2 (20260926)
+
+### 改进
+
+- 优化了 USB 升级功能（原线刷）和检查更新功能；
+- 更新了证书；
 
 ## 0.6.1 (20260916)
 

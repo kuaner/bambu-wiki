@@ -4,7 +4,7 @@ title: "打印机无法检测到AMS lite"
 description: ""
 tags: []
 created: 2024-01-10T13:07:05.602Z
-updated: 2024-11-15T06:43:57.786Z
+updated: 2026-10-10T03:41:14.507Z
 source: https://wiki.bambulab.com/zh/ams-lite/manual/ams-lite-cannot-be-detected
 ---
 
@@ -12,10 +12,10 @@ source: https://wiki.bambulab.com/zh/ams-lite/manual/ams-lite-cannot-be-detected
 
 在使用AMS lite过程中，您可能会遇到AMS lite无法被打印机识别的问题，具体分为以下两种情况：
 
-1. **AMS lite上电失败。**在给打印机通电开机后，打印机正常启动，但AMS lite上电失败，**四个槽的灯都不亮，屏幕上也未显示AMS 页面。**正常情况下，如果AMS lite四个槽都没插入耗材丝，四个槽应该依次闪烁白色走马灯。
-2. **AMS lite通信丢失。**开机后，打印机和AMS lite都正常启动，但是AMS lite与打印机之间的通信丢失。**现象为AMS lite的4个槽同时闪红灯，且打印机屏幕上未显示AMS页面。**
+1. \*\*AMS lite上电失败。\*\*在给打印机通电开机后，打印机正常启动，但AMS lite上电失败，\*\*四个槽的灯都不亮，屏幕上也未显示AMS 页面。\*\*正常情况下，如果AMS lite四个槽都没插入耗材丝，四个槽应该依次闪烁白色走马灯。
+2. \*\*AMS lite通信丢失。\*\*开机后，打印机和AMS lite都正常启动，但是AMS lite与打印机之间的通信丢失。**现象为AMS lite的4个槽同时闪红灯，且打印机屏幕上未显示AMS页面。**
 
-![](https://wiki.bambulab.com/f1/ams-lite-not-detected/屏幕ams页面.png)
+![](https://wiki.bambulab.com/f1/ams-lite-not-detected/%E5%B1%8F%E5%B9%95ams%E9%A1%B5%E9%9D%A2.png)
 
 如果您遇到上面这两种情况，可以参考本文的方法进行故障排查。
 
@@ -42,7 +42,7 @@ source: https://wiki.bambulab.com/zh/ams-lite/manual/ams-lite-cannot-be-detected
 
 #### 测量 AMS lite 的电阻
 
-**首先请将连接AMS lite和打印机的4pin线缆拔出，将AMS lite断电超过1分钟。**然后通过AMS lite的4pin线缆测量电阻值，若以下两组数据出现异常，则说明是AMS主板故障：
+\*\*首先请将连接AMS lite和打印机的4pin线缆拔出，将AMS lite断电超过1分钟。\*\*然后通过AMS lite的4pin线缆测量电阻值，若以下两组数据出现异常，则说明是AMS主板故障：
 
 1. R4短路，或者电阻很小（＜500Ω）；
 2. D、C两点对其他点是断路；
@@ -60,25 +60,25 @@ source: https://wiki.bambulab.com/zh/ams-lite/manual/ams-lite-cannot-be-detected
 | **编号** | **R1** | **R2** | **R3** | **R4** | **R5** | **R6** |
 | **阻值** | **320Ω** | **130KΩ** | **2.7KΩ** | **130KΩ** | **2.7KΩ** | **130KΩ** |
 
-若测的电阻值出现异常，则说明是AMS主板故障导致AMS通信不良。请提供测量的电阻值联系我们的[在线技术支持](hhttps://support.bambulab.cn/cn/im)进一步确认。
+若测的电阻值出现异常，则说明是AMS主板故障导致AMS通信不良。请提供测量的电阻值联系我们的[在线技术支持](https://support.bambulab.cn/cn/im)进一步确认。
 
 ### AMS lite通信丢失
 
 #### 测量AMS lite的电阻
 
-和上述的步骤一致，通过4pin线缆测量AMS lite的电阻。若有任何异常，请提供测量的电阻值联系我们的[在线技术支持](hhttps://support.bambulab.cn/cn/im)。
+和上述的步骤一致，通过4pin线缆测量AMS lite的电阻。若有任何异常，请提供测量的电阻值联系我们的[在线技术支持](https://support.bambulab.cn/cn/im)。
 
 #### **测量打印机电阻**
 
 ##### **A1 mini打印机**
 
-**断开打印机电源（若未断电测得的电阻会不准确）**，然后**测量打印机4pin接口的AC和AD这两组电阻，看看是否都在4.5KΩ~5KΩ之间。**如果电阻异常，则说明是主板故障，请提供测量的电阻值联系我们的[在线技术支持](https://wiki.bambulab.com/e/zh/ams-lite/manual/ams-lite-cannot-be-detected#)。
+**断开打印机电源（若未断电测得的电阻会不准确）**，然后\*\*测量打印机4pin接口的AC和AD这两组电阻，看看是否都在4.5KΩ~5KΩ之间。\*\*如果电阻异常，则说明是主板故障，请提供测量的电阻值联系我们的[在线技术支持](https://support.bambulab.cn/cn/im)。
 
 ![](https://wiki.bambulab.com/f1/ams-lite-not-detected/abcd4%E4%B8%AApin.png)
 
 ##### **A1打印机**
 
-**1. 同样把打印机断电（若未断电测得的电阻会不准确）**，然后**测量打印机4pin接口的AC和AD这两组电阻，看看是否都在4.5KΩ~5KΩ之间。**若电阻值异常，则需要拆开打印机的底壳，进一步测量打印机主板上的AC和AD的电阻值。若从主板测得的电阻值也不在正常范围内，则需要更换打印机主板。
+**1. 同样把打印机断电（若未断电测得的电阻会不准确）**，然后\*\*测量打印机4pin接口的AC和AD这两组电阻，看看是否都在4.5KΩ~5KΩ之间。\*\*若电阻值异常，则需要拆开打印机的底壳，进一步测量打印机主板上的AC和AD的电阻值。若从主板测得的电阻值也不在正常范围内，则需要更换打印机主板。
 
 |  |  |
 | --- | --- |
@@ -92,4 +92,4 @@ source: https://wiki.bambulab.com/zh/ams-lite/manual/ams-lite-cannot-be-detected
 | **测量连接线的电阻值** | **测4pin接口电阻值** |
 |  |  |
 
-确认故障后，请提供测量的电阻值联系我们的[在线技术支持](https://wiki.bambulab.com/e/zh/ams-lite/manual/ams-lite-cannot-be-detected#)。
+确认故障后，请提供测量的电阻值联系我们的[在线技术支持](https://support.bambulab.cn/cn/im)。

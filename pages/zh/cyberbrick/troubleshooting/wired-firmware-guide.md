@@ -4,11 +4,17 @@ title: "CyberBrick USB 升级工具指南"
 description: "本文将详细讲述如何使用CyberBrick USB 升级工具。"
 tags: []
 created: 2025-07-17T12:49:41.230Z
-updated: 2026-08-28T06:22:56.584Z
+updated: 2026-09-23T04:30:16.815Z
 source: https://wiki.bambulab.com/zh/cyberbrick/troubleshooting/wired-firmware-guide
 ---
 
-> 本指南详细说明了如何使用 CyberBrick USB 升级工具来更新 CyberBrick 硬件设备的固件或恢复出厂设置。CyberBrick 是一个基于微控制器的多功能平台，适用于遥控（RC）套件和延时摄影套件等应用。本指南涵盖了执行固件更新或重置的步骤。
+> 本指南说明了如何使用 CyberBrick 软件内置的 「USB 升级工具」功能，为 CyberBrick 核心板更新固件或恢复出厂设置。CyberBrick 是一个基于微控制器的多功能平台，适用于遥控（RC）套件和延时摄影套件等应用。
+
+## 开始前准备
+
+- **软件：** 打开 [CyberBrick 桌面应用](https://bambulab.com/zh/download/cyberbrick-apps) 的 「**USB 升级工具**」  
+  ![](https://wiki.bambulab.com/cyberbrick/troubleshooting/wired-firmware-guide/cyberbrick_zh_usbtool.jpg)
+- **硬件：** CyberBrick 多功能主控板（核心板）和数据线
 
 ## 软件界面
 

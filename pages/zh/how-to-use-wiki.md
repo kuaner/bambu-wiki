@@ -4,7 +4,7 @@ title: "如何使用 Wiki？"
 description: "本指南将帮助您快速了解并高效使用Bambu Lab Wiki。"
 tags: ["wiki指南"]
 created: 2024-09-02T10:16:16.645Z
-updated: 2026-09-22T12:50:59.798Z
+updated: 2026-10-10T10:21:26.591Z
 source: https://wiki.bambulab.com/zh/how-to-use-wiki
 ---
 

@@ -4,7 +4,7 @@ title: "更换 P2S XY 皮带"
 description: ""
 tags: []
 created: 2025-10-14T13:13:15.561Z
-updated: 2026-08-28T08:42:23.137Z
+updated: 2026-10-12T03:00:45.081Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-xy-belt
 ---
 
@@ -13,7 +13,7 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-xy-belt
 P2S 3D 打印机上使用的 X/Y 皮带是节线长为 1444mm，宽 7mm 的开口皮带，一共有两条。 它们将 X/Y 电机和工具头连接起来并驱动工具头在 X/Y 方向的移动。  
 ![fac173.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/fac169.jpg)
 
-> 本指南采用牵引式的方法来更换 X/Y 皮带，这是最为高效、轻松的拆装方法，为确保操作顺利进行，请严格按照流程执行。您需要提前准备速干胶。
+> 本指南采用牵引式的方法来更换 X/Y 皮带，这是最为高效、轻松的拆装方法，为确保操作顺利进行，请严格按照流程执行。您需要提前准备速干胶。当同步带完全断裂，无法通过本文方法更换时，请参考这篇指南进行手动穿装：[P2S/X2D 同步带更换教程](../../knowledge-sharing/replace_the_xy_belts.md)
 
 X/Y 皮带的备件包含以下：
 

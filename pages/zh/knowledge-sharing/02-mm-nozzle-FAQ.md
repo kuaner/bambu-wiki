@@ -4,7 +4,7 @@ title: "使用 0.2mm 喷嘴打印 - FAQ"
 description: "本文收集了使用 0.2mm 喷嘴打印时的常见问题"
 tags: ["nozzle"]
 created: 2024-07-02T09:39:17.631Z
-updated: 2025-05-19T13:52:54.466Z
+updated: 2026-10-14T02:56:30.756Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/02-mm-nozzle-FAQ
 ---
 
@@ -46,7 +46,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/02-mm-nozzle-FAQ
 
 > ### 喷嘴堵塞后如何清理？
 >
-> 由于通针无法通过 0.2mm 喷嘴，所以喷嘴堵塞后的清理步骤稍微有点复杂。最佳方法是先[使用内六角扳手拔出耗材](https://wiki.bambulab.com/zh/x1/troubleshooting/nozzle-clog#h-3-%E4%BD%BF%E7%94%A8%E5%86%85%E5%85%AD%E8%A7%92%E6%89%B3%E6%89%8B%E6%8B%94%E5%87%BA%E8%80%97%E6%9D%90)，然后进行几次[冷拔](https://wiki.bambulab.com/zh/x1/troubleshooting/nozzle-clog#h-4-%E5%86%B7%E6%8B%94)。请勿使用火焰直接过度加热喷嘴，这会对热端造成不可逆的损坏。
+> 由于通针无法通过 0.2mm 喷嘴，所以喷嘴堵塞后的清理步骤稍微有点复杂。您可以参考这篇指南：[各机型喷嘴清理指南](https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/clog#clog-cleaning-guide)，进行手动挤出或冷拔。
 
 > ### 最高打印速度是多少？
 >

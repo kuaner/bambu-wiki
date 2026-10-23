@@ -4,7 +4,7 @@ title: "堵头"
 description: ""
 tags: ["堵头", "打印质量"]
 created: 2023-12-10T05:32:58.252Z
-updated: 2026-08-28T06:20:24.698Z
+updated: 2026-10-14T03:00:39.198Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/clog
 ---
 
@@ -59,25 +59,18 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/clog
 
 - **打印含纤维颗粒的耗材后**
 
-打印含纤维等颗粒的耗材（如 PAHT-CF、PA-GF 等）后，颗粒易在喷嘴内部残留、积累，造成部分堵塞，因此需经常疏通、清理喷嘴。清理方法如下：
-
-1. 卸下热端螺钉。
-2. 升温至 250 ~ 280 ℃，用内六角扳手等金属件刮擦喷嘴内部。
-3. 用普通耗材冲刷，并用通针疏通，直到出料顺畅为止。
-4. 以在 220 ℃ 下手推 PLA 耗材进料的方式判断是否已疏通到位。
-
-具体步骤详见：
+打印含纤维等颗粒的耗材（如 PAHT-CF、PA-GF 等）后，颗粒易在喷嘴内部残留、积累，造成部分堵塞，因此需经常疏通、清理喷嘴。具体步骤详见：
 
 | 链接 | 内容简介 |
 | --- | --- |
-| [X1/P1 喷嘴/热端堵塞](../../../x1/troubleshooting/nozzle-clog.md) | 演示了清理 X1/P1 系列热端/喷嘴堵塞的几个方法。 |
-| [H2D 喷嘴/热端堵塞清理](../../../h2/troubleshooting/unclogging.md) | 介绍当 H2D 热端堵塞时如何清理。 |
-| [H2S热端堵塞清理](../../../h2s/troubleshooting/nozzle-clog.md) | 系统介绍 H2S 热端堵塞时的故障排除方法及详细操作步骤。 |
-| [H2C 喷嘴堵塞清理](../../../h2c/troubleshooting/unclogging.md) | 介绍当 H2C 热端堵塞时如何清理 |
-| [P2S 喷嘴堵塞清理指南](../../../p2s/maintenance/cold-pull-maintenance-hotend.md) | 详细介绍 P2S 打印机喷嘴堵塞的清理方法。 |
-| [X2D 喷嘴堵塞清理指南](../../../x2d/maintenance/cold-pull-maintenance-hotend.md) | 详细介绍 X2D 打印机喷嘴堵塞的清理方法。 |
-| [A1 系列打印机热端堵塞清理](../../../a1-mini/troubleshooting/nozzle-clog.md) | 介绍当 A1 系列打印机热端堵塞时如何清理。 |
-| [A2L 打印机热端堵塞清理](../../../a2l/maintenance/cold-pull-maintenance-hotend.md) | 介绍当 A2L 系列打印机热端堵塞时如何清理。 |
+| [X1/P1 喷嘴/热端堵塞清理指南](../../../x1/troubleshooting/nozzle-clog.md) | 演示了清理 X1/P1 系列热端/喷嘴堵塞的几个方法。 |
+| [H2D 喷嘴/热端堵塞清理指南](../../../h2/troubleshooting/unclogging.md) | 介绍当 H2D 热端堵塞时如何清理。 |
+| [H2S 喷嘴/热端堵塞清理指南](../../../h2s/troubleshooting/nozzle-clog.md) | 系统介绍 H2S 热端堵塞时的故障排除方法及详细操作步骤。 |
+| [H2C 喷嘴/热端堵塞清理指南](../../../h2c/troubleshooting/unclogging.md) | 介绍当 H2C 热端堵塞时如何清理 |
+| [P2S 喷嘴/热端堵塞清理指南](../../../p2s/maintenance/cold-pull-maintenance-hotend.md) | 详细介绍 P2S 打印机喷嘴堵塞的清理方法。 |
+| [X2D 喷嘴/热端堵塞清理指南](../../../x2d/maintenance/cold-pull-maintenance-hotend.md) | 详细介绍 X2D 打印机喷嘴堵塞的清理方法。 |
+| [A1 系列喷嘴/热端堵塞清理指南](../../../a1-mini/troubleshooting/nozzle-clog.md) | 介绍当 A1 系列打印机热端堵塞时如何清理。 |
+| [A2L 喷嘴/热端堵塞清理指南](../../../a2l/maintenance/cold-pull-maintenance-hotend.md) | 介绍当 A2L 系列打印机热端堵塞时如何清理。 |
 
 若喷嘴已无法疏通，则需更换新喷嘴。
 

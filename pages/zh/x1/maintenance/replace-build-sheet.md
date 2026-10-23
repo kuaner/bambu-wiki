@@ -4,7 +4,7 @@ title: "如何更换 Bambu Lab 打印板替换膜"
 description: "简单介绍了更换打印面板贴膜的操作"
 tags: []
 created: 2022-07-30T11:02:30.433Z
-updated: 2026-09-11T04:06:33.228Z
+updated: 2026-09-28T06:17:39.166Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-build-sheet
 ---
 
@@ -15,6 +15,8 @@ source: https://wiki.bambulab.com/zh/x1/maintenance/replace-build-sheet
 > - ***纹理 PEI 打印板**：不锈钢板上喷涂了一层 PEI 粉末，表面具有特殊的粗糙纹理，不可贴膜。*
 > - ***增稳低温打印板**：弹簧钢板上喷涂了 SuperTack，不可贴膜。*
 > - ***光面 PEI 打印板**：PEI 膜通过高耐热的 3M 胶贴合在弹簧钢板上，难以拆除，不建议更换。*
+>
+> 此外，高温打印板和低温打印板已停产，此页面仅供仍在使用该产品的用户参考。
 
 以下是更换**高温打印板**和**低温打印板**的替换膜的方法：
 

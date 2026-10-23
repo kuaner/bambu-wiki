@@ -4,7 +4,7 @@ title: "P2S 喷嘴堵塞清理指南"
 description: "本文将详细为您介绍 P2S 打印机喷嘴堵塞的清理方法。"
 tags: []
 created: 2025-10-14T14:51:14.961Z
-updated: 2026-08-28T06:29:40.185Z
+updated: 2026-10-14T03:08:04.056Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/cold-pull-maintenance-hotend
 ---
 
@@ -31,15 +31,14 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/cold-pull-maintenance-hoten
 - 钳子
 - 耐温手套
 - 一段耗材
-- H1.5和H2.0内六角螺丝刀
 
-![](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/cold-pull-maintenance-hotend/005.png)
+![nozzle_cleaning_tool.jpg](https://wiki.bambulab.com/x1/maintenance/cold-pull/nozzle_cleaning_tool.jpg)
 
-## 冷拔操作指南
+## 操作指南
 
-### 1. 使用通针进行疏通
+### 方法 1. 使用通针进行疏通
 
-> 通针疏通时会释放喷嘴内部压力，喷嘴可能突然喷出高温杂质，因此务必佩戴手套，且清理时禁止将头伸入机箱观察。
+> **❗ 警示**：操作时**请务必佩戴隔热手套，并使头部、面部远离打印机**。此时喷嘴温度高，且疏通中堵塞物可能在喷嘴内积压，导致熔融耗材突然喷溅烫伤。
 
 当喷嘴无法冲刷出任何耗材时，建议使用通针疏通并冷拔喷嘴。  
 以PLA为例，等待喷嘴温度为220℃后，使用通针伸入喷嘴并上下来回疏通多次。
@@ -53,7 +52,7 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/cold-pull-maintenance-hoten
 ![](https://public-cdn.bblmw.com/wiki/new/p2s/troubleshooting/clogging/down.png)  
 ![20251113-142241.jpg](https://wiki.bambulab.com/p2s/maintenance/cold-pull-maintenance-hotend/20251113-142241.jpg)
 
-### 2. 冷拔
+### 方法 2. 冷拔
 
 打印机提供了喷嘴冷拔维护功能，帮助您完成冷拔操作。本文以PLA进行冷拔为例。
 
@@ -86,50 +85,6 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/cold-pull-maintenance-hoten
 观察耗材末端是否有杂质残留，冷拔质量已经达到要求后点击“完成”，并装回料管以及前盖组件。
 
 ![](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/cold-pull-maintenance-hotend/003.png)
-
-## 热六角扳手疏通（适用于冷端堵塞）
-
-> 注意：此方法只能使用 H1.5 及以下扳手。
-
-少部分堵塞现象是耗材由于热蠕变问题而卡在热端散热片位置。这篇文章 [热蠕变](../../filament-acc/filament/heat-creep.md)详细介绍了这种现象，我们建议您阅读这篇文章，了解如何避免此类堵塞。
-
-接下来的步骤需要拆下喷嘴。 这个wiki页面涵盖了  [H2D 喷嘴的完整拆卸和重新安装步骤](../../h2/maintenance/replace-hotend.md)，以备您随时查阅。
-
-> 注意：**我们建议在操作过程中佩戴防护手套** 。  
-> 熔化的耗材可能会滴到您的手指上，造成灼伤。
-
-### 步骤 1. 加热六角扳手
-
-首先**加热六角扳手**约 10 s 。用钳子牢牢夹住六角扳手，以免烫伤自己。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/heat_up_allen_key.jpg)
-
-### 步骤2. 将六角扳手插入喷嘴入口
-
-当扳手尖端还热的时候，快速将其推入热端，穿过散热器的顶端。
-
-将热扳手插入耗材内部，如下图所示。然后等待约 30 s ，让六角扳手冷却。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/insert_the_hex_wrench.jpg)
-
-### 步骤 3. 加热喷嘴尖端并拉出耗材堵塞物
-
-六角扳手现在卡在喷嘴里了，耗材也卡在了它周围。要取出卡住喷嘴的六角扳手，你需要加热喷嘴的尖端。
-
-首先，取下热端的硅胶套，然后使用打火机对喷嘴尖端加热约 20 s（使用普通打火机时）。
-
-> **警告！** **避免长时间加热喷嘴或使用高功率丁烷喷灯。**  
-> 建议使用普通气体打火机。
->
-> 喷嘴的热侧只需足够热，以便您可以取出带有耗材的六角工具。
->
-> 喷嘴过热会导致耗材从喷嘴尖端滴落或爆裂。请仔细按照说明操作，操作时请勿将喷嘴尖端朝向自己。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/heat_up_hot_end.jpg)
-
-将喷嘴尖端加热 20 s 后，慢慢拉动扳手。你会发现耗材可以从喷嘴中完整地拔出，堵塞的部位也随之清除。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/pulled_filament.jpg)
 
 ## 验证喷嘴是否正常
 

@@ -4,7 +4,7 @@ title: "H2D 螺丝包"
 description: "本文旨在系统整理的 H2D 螺丝包规格及其应用位置，为维修、组装提供标准化参考。"
 tags: []
 created: 2025-04-21T01:46:13.275Z
-updated: 2026-08-28T06:21:51.986Z
+updated: 2026-10-13T09:19:40.939Z
 source: https://wiki.bambulab.com/zh/part-acc/screw-kit-h2d
 ---
 
@@ -65,8 +65,8 @@ source: https://wiki.bambulab.com/zh/part-acc/screw-kit-h2d
 
 | 规格 | 图片 | 用途 |
 | --- | --- | --- |
-| MG 2.5×26 | mg25-26.png | 锁 40W 激光内置风扇 |
-| MG 2.5×26 | mg25-26（2）.png | 锁 40W 顶盖 |
+| MG 2.5×26 | mg25-26.png | 锁 10W 激光内置风扇 |
+| MG 2.5×26 | mg25-26（2）.png | 锁 10W 顶盖 |
 
 ---
 

@@ -4,7 +4,7 @@ title: "耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水�
 description: "耗材指南可帮助您选择合适的耗材打印材料，包括喷嘴和打印面板的兼容性、打印设置及存储办法。"
 tags: []
 created: 2023-05-12T03:43:34.799Z
-updated: 2026-09-08T01:42:22.243Z
+updated: 2026-10-14T03:17:15.137Z
 source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 ---
 
@@ -79,15 +79,16 @@ source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 >
 > ![filament_undried_vs_dried](https://wiki.bambulab.com/filament-acc/filament/filament-guide-material-table/bambu_nozzle_size.png )
 
-使用上述耗材前，建议将喷嘴温度设定为 280 ℃，随后用内六角扳手配合通针清洁喷嘴内部，彻底清除残留杂质，从源头降低堵头风险；若打印过程中出现喷嘴堵塞，请按上述方法清理喷嘴内部，确认清洁后再恢复打印。具体参考如下连接：
+使用上述耗材前，建议将喷嘴温度设定为 280 ℃，随后用通针清洁喷嘴内部，彻底清除残留杂质，从源头降低堵头风险；若打印过程中出现喷嘴堵塞，请按上述方法清理喷嘴内部，确认清洁后再恢复打印。具体操作参考以下链接：
 
-- [X1/P1 喷嘴/热端堵塞](../x1/troubleshooting/nozzle-clog.md)
+- [X1/P1 喷嘴/热端堵塞清理指南](../x1/troubleshooting/nozzle-clog.md)
 - [H2D 喷嘴/热端堵塞清理指南](../h2/troubleshooting/unclogging.md)
-- [H2S 喷嘴/热端堵塞清理](../h2s/troubleshooting/nozzle-clog.md)
+- [H2S 喷嘴/热端堵塞清理指南](../h2s/troubleshooting/nozzle-clog.md)
 - [H2C 喷嘴/热端堵塞清理指南](../h2c/troubleshooting/unclogging.md)
-- [P2S 喷嘴堵塞清理指南](../p2s/maintenance/cold-pull-maintenance-hotend.md)
-- [X2D 喷嘴堵塞清理指南](../x2d/maintenance/cold-pull-maintenance-hotend.md)
-- [A2L 喷嘴堵塞清理](../a2l/maintenance/cold-pull-maintenance-hotend.md)
+- [P2S 喷嘴/热端堵塞清理指南](../p2s/maintenance/cold-pull-maintenance-hotend.md)
+- [X2D 喷嘴/热端堵塞清理指南](../x2d/maintenance/cold-pull-maintenance-hotend.md)
+- [A1 系列喷嘴/热端堵塞清理指南](../a1-mini/troubleshooting/nozzle-clog.md)
+- [A2L 喷嘴/热端堵塞清理指南](../a2l/maintenance/cold-pull-maintenance-hotend.md)
 
 ### 3. 耗材与 AMS、AMS lite 的兼容性
 
@@ -97,11 +98,7 @@ AMS 与 AMS Lite 对耗材物理特性有明确要求，不推荐使用以下三
 - **❌ 太脆的线材** （部分品牌 PET-CF、PLA Wood、PA-CF/GF、PAHT-CF/GF）：容易断在 AMS、AMS lite 的通道中。
 - **❌ 太硬且表面粗糙的线材** （部分品牌 PET-CF、PA-CF/GF、PAHT-CF/GF、PLA-CF/GF）：**容易磨损 AMS、AMS lite 内部送线通道**。
 
-此外，与 AMS Lite 相比，AMS 配备额外送料齿轮，可与挤出机齿轮配合提供更强的进退料助力，能克服更大的送料阻力，因此可适配部分较软或较粗糙、进料阻力较大的耗材。而 AMS Lite 无额外送料助力结构，装载此类耗材时极易出现进退料失败，不推荐使用，这类耗材包括：
-
-- 大部分品牌 PLA 夜光款（PLA Glow）
-- PETG-CF
-- PLA 木质款
+此外，与 AMS Lite 相比，AMS 配备额外送料齿轮，可与挤出机齿轮配合提供更强的进退料助力，能克服更大的送料阻力，因此可适配部分较软或较粗糙、进料阻力较大的耗材。而 AMS Lite 无额外送料助力结构，装载此类耗材时极易出现进退料失败，不推荐使用，这类耗材包括：PETG-CF，PLA 木质款。
 
 > **💡 重要提示：**  
 > 在使用工程耗材之前需要对耗材进行干燥处理,您可参考如下文章：
@@ -118,7 +115,7 @@ AMS 与 AMS Lite 对耗材物理特性有明确要求，不推荐使用以下三
 | **PLA\*** | 可用 | 可用 | 可用 |
 | **PLA Metal / Wood / Marble** | 可用 | 可用 | 可用 |
 | **PLA-CF/GF** | 可用 | 可用 | 拓竹 PLA-CF：可用 |
-| **PLA 夜光（Glow）** | 可用 | 可用 | AMS：可用    **AMS lite：不推荐** |
+| **PLA 夜光（Glow）** | 可用 | 可用 | 不推荐 |
 | **PVA、BVOH**  **（干燥的）** | 可用 | 可用 | 可用 |
 | **Support for PLA、Support for PLA/PETG** | 可用 | 可用 | 可用 |
 | **PETG** | 可用 | 可用    **推荐** | 可用 |

@@ -4,7 +4,7 @@ title: "Y 轴光轴更换指南"
 description: ""
 tags: []
 created: 2026-09-22T13:30:08.519Z
-updated: 2026-09-22T13:30:09.823Z
+updated: 2026-10-10T09:58:03.143Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-y-axis-linear-rod
 ---
 
@@ -27,7 +27,7 @@ Y 轴光轴共有 2 根，从设备正面看，左侧的光轴同步轮端有一
 
 ### 步骤 1.移除冷却模组
 
-参照[水箱更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-water-tank)中的移除冷却模组步骤移除冷却模组（无需拆卸水箱）。
+参照[水箱更换指南](replace-water-tank.md)中的移除冷却模组步骤移除冷却模组（无需拆卸水箱）。
 
 ### 步骤 2.移除 Y 电机编码板
 
@@ -97,7 +97,7 @@ Y 轴光轴共有 2 根，从设备正面看，左侧的光轴同步轮端有一
 
 ### 步骤 3.安装冷却模组
 
-参照[水箱更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-water-tank)装回冷却模组。
+参照[水箱更换指南](replace-water-tank.md)装回冷却模组。
 
 ## 功能验证
 

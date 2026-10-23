@@ -4,7 +4,7 @@ title: "A1 主板更换指南"
 description: "介绍更换 A1 主板的步骤。"
 tags: []
 created: 2024-08-16T06:39:18.713Z
-updated: 2026-09-02T07:00:19.275Z
+updated: 2026-10-16T01:41:11.973Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/mainboard-replacement-guide
 ---
 
@@ -27,6 +27,13 @@ A1
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 >
 > 如果您对本指南有任何疑问，请[*点击提交服务工单*](https://bambulab.cn/zh/sign-in?to=%2Fmy%2Fsupport%2Ftickets)，我们将及时回复并为您提供所需的帮助。
+
+> ⚠️ **重要提醒**：  
+> 新 SN 注册成功后，旧 SN 将会作废，旧的主板也将不能再被注册或绑定。
+
+更换了主板的机器，由于新的 SN 未注册，无法进行绑定操作。因此，在更换主板后首次开机时，可跳过绑定机器的步骤，并检验更换主板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录 [拓竹科技官网](https://bambulab.com/zh/support) 申请绑定新序列号，或联系拓竹科技客服注册新 SN。详细说明可参考：[**如何查找序列号及注册新序列号**](../../general/find-sn.md)
+
+![register_sn.jpg](https://wiki.bambulab.com/x2d/maintenance/ap-board/register_sn.jpg)
 
 ## 工具和材料
 
@@ -241,10 +248,8 @@ A1 系列 3D 打印机**不支持热插拔卡**，因此请在打印机断电情
 
 ## 联系客户支持注册序列号
 
-> 重要提醒：  
-> 新 SN 注册成功后，旧 SN 将会作废，旧的主板也将不能再被注册或绑定。
+更换了主板的机器，由于新的 SN 未注册，无法进行绑定操作。因此，在更换主板后首次开机时，可跳过绑定机器的步骤，并检验更换主板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录 [拓竹科技官网](https://bambulab.com/zh/support) 申请绑定新序列号，或联系拓竹科技客服注册新 SN。详细说明可参考：[**如何查找序列号及注册新序列号**](../../general/find-sn.md)
 
-更换了主板的机器，由于新的 SN 未注册，无法进行绑定操作。因此，在更换主板后首次开机时，可跳过绑定机器的步骤，并检验更换 AP 板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录拓竹官网 <https://bambulab.com/zh/support> 申请绑定新序列号（SN），或联系拓竹科技客服注册新 SN。  
 ![register_sn.jpg](https://wiki.bambulab.com/x2d/maintenance/ap-board/register_sn.jpg)
 
 ## 功能校验

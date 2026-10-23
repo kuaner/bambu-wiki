@@ -4,7 +4,7 @@ title: "H2D & H2C 热床手动调平"
 description: ""
 tags: []
 created: 2025-03-30T15:18:31.743Z
-updated: 2026-08-28T08:35:03.602Z
+updated: 2026-09-30T04:18:28.830Z
 source: https://wiki.bambulab.com/zh/h2/manual-bed-leveling
 ---
 

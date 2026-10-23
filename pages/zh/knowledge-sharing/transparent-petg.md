@@ -4,7 +4,7 @@ title: "透明/半透明 PLA/PETG 耗材打印指南"
 description: "了解如何使用透明或半透明的 PLA 和 PETG 耗材打印高透明度模型。本指南涵盖关键切片技巧、Bambu Studio 参数设置，以及预设 3MF 配置文件下载。"
 tags: ["petg", "透明料"]
 created: 2023-06-17T17:00:48.000Z
-updated: 2026-08-28T06:19:34.457Z
+updated: 2026-10-15T09:38:44.976Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/transparent-petg
 ---
 
@@ -103,7 +103,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/transparent-petg
 
 下载预设 `3MF` 文件，并替换为您想打印的模型即可。
 
-> **ℹ️ 说明：** 使用其他机型打印时，可迁移下述 `X1C` 的相应工艺参数和耗材丝参数。
+> **ℹ️ 说明：** 使用其他机型打印时，可迁移下述 `X1C` 的相应工艺参数和耗材丝参数。您可以参考[这篇指南](https://wiki.bambulab.com/zh/software/bambu-studio/studio-quick-start#add-model)，在 Bambu Studio 中使用这些配置文件。
 
 | 机型 | 喷嘴 | 下载链接 |
 | --- | --- | --- |

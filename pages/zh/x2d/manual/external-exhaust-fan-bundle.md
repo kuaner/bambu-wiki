@@ -4,7 +4,7 @@ title: "X2D 外排风扇套件安装指南"
 description: "本指南将为您详细介绍为 X2D 打印机安装外排风扇套件的步骤和注意事项。"
 tags: ["x2d"]
 created: 2026-08-12T01:36:21.481Z
-updated: 2026-09-08T06:10:36.239Z
+updated: 2026-10-22T07:14:12.865Z
 source: https://wiki.bambulab.com/zh/x2d/manual/external-exhaust-fan-bundle
 ---
 
@@ -30,6 +30,9 @@ source: https://wiki.bambulab.com/zh/x2d/manual/external-exhaust-fan-bundle
 |  |  |
 | --- | --- |
 |  |  |
+
+> **ℹ️ 提示**：由于工艺迭代，外排风扇套件和打印机背板各有两个版本：外排风扇一侧卡扣由 3 个减为 2 个（取消 2 卡扣）；背板的外排风扇左侧开孔由 3 孔减为 2 孔（取消中间孔位）。该变更不影响功能，通常也不影响拆装。若需将 3 卡扣的风扇套件装到 2 孔背板上，掰断 2 卡扣即可。  
+> ![x2d_external_exhaust_fan.png](https://wiki.bambulab.com/x2d/maintenance/replace-rear-panel/x2d_external_exhaust_fan.png)
 
 - 将 6-pin 连接线的两端分别插入打印机缓冲器和外排风扇的 6-pin 接口。
 

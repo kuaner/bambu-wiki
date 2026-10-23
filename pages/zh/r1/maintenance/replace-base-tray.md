@@ -4,7 +4,7 @@ title: "托盘更换指南"
 description: ""
 tags: []
 created: 2026-09-22T12:58:57.390Z
-updated: 2026-09-22T12:58:58.582Z
+updated: 2026-09-28T02:55:47.473Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-base-tray
 ---
 

@@ -4,18 +4,15 @@ title: "A1 热床更换指引"
 description: "本文提供将 A1 热床拆装指引及注意事项。"
 tags: ["热床"]
 created: 2024-03-23T10:27:23.797Z
-updated: 2026-08-28T08:27:58.420Z
+updated: 2026-10-14T09:24:11.602Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/heatbed
 ---
 
 ## **A1 热床拆装指引**
 
-本文将提供完整的更换 A1热床的操作指引。（白色硅胶挡块已取消，后续批次的热床单品将变为星型后档）
+本文将提供完整的更换 A1热床的操作指引。
 
-![](https://wiki.bambulab.com/a1/maintenance/new-heatbed/heatbed.png)
-
-星型后档：  
-![星挡板.jpg](https://wiki.bambulab.com/a1/maintenance/heatbed/%E6%98%9F%E6%8C%A1%E6%9D%BF.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/new-heatbed/heatbed.png)、
 
 安装配件及其存在位置示图：
 
@@ -23,21 +20,17 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/heatbed
 | --- | --- | --- |
 | 安装配件 | 后挡配件及螺丝存放位置（首批） | 后挡配件及螺丝存放位置（新包装） |
 
-**注意：**
-
-**目前最新版本的热床已取消软胶塞，同时修改为 1 个螺丝孔。新旧版本热床随机发货。**
-
-新旧版本热床仅软胶塞和螺丝孔存在差异，不影响正常工作。热床更新旨在防止更换时误装。
-
-![](https://wiki.bambulab.com/a1/maintenance/heatbed/new-heatbed.png)
-
-### 螺丝清单
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 型号 | 位置 | 规格/图纸 | 型号 | 位置 | 规格/图纸 |
-| BT3-27 | 理线盒  (1PCS) |  | BT3-8 | 底板  （16PCS） |  |
-|  | 地线  (1PCS) |  | M3-6 | 热床  (4PCS) |  |
+> **注意**：该单品不同批次细节有所变化，不影响其功能和使用。
+>
+> 1. 白色硅胶挡块已取消，后续批次的热床单品将变为星型后档。星型后档如下图所示：  
+>    ![星挡板.jpg](https://wiki.bambulab.com/a1/maintenance/heatbed/%E6%98%9F%E6%8C%A1%E6%9D%BF.jpg)
+> 2. **目前最新版本的热床已取消软胶塞，同时修改为 1 个螺丝孔。新旧版本热床随机发货。** 新旧版本热床仅软胶塞和螺丝孔存在差异，不影响正常工作。热床更新旨在防止更换时误装。  
+>    ![](https://wiki.bambulab.com/a1/maintenance/heatbed/new-heatbed.png)
+> 3. 新版本热床底壳改为拆件式，并将 NTC 外移安装。
+>
+> |  |  |
+> | --- | --- |
+> | new_version.png  新版本 | pre_version.png  旧版本 |
 
 ### 工具
 
@@ -228,6 +221,14 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/heatbed
 更换好新热床后，为保证打印机能有良好地打印质量，您需要进行一次手动调平，相关的Gcode文件请点击  [A1 热床手动调平Gcode文件](https://wiki.bambulab.com/a1/maintenance/bed-tramming/a1_manual_bed_screws_adjust_assist.gcode) 进行下载，具体的操作请参考以下视频。
 
 关于A1热床手动调平更具体的操作和说明，请点击  [A1 热床手动调平](manual-bed-tramming.md) 进行查阅。
+
+## 螺丝清单
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 型号 | 位置 | 规格/图纸 | 型号 | 位置 | 规格/图纸 |
+| BT3-27 | 理线盒  (1PCS) |  | BT3-8 | 底板  （16PCS） |  |
+|  | 地线  (1PCS) |  | M3-6 | 热床  (4PCS) |  |
 
 ## 结束语
 

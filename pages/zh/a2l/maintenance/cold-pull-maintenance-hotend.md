@@ -4,7 +4,7 @@ title: "A2L 喷嘴堵塞清理"
 description: "本文介绍了 A2L 喷嘴堵塞时应如何清理"
 tags: []
 created: 2026-06-01T13:32:08.482Z
-updated: 2026-08-28T08:46:20.231Z
+updated: 2026-10-14T03:10:01.404Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hotend
 ---
 
@@ -26,9 +26,10 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hoten
 
 - 通针
 - 钳子
-- H1.5 内六角扳手
 - 隔热手套
 - 一小段耗材
+
+![nozzle_cleaning_tool.jpg](https://wiki.bambulab.com/x1/maintenance/cold-pull/nozzle_cleaning_tool.jpg)
 
 ## 安全提示
 
@@ -80,9 +81,9 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hoten
 
 温度达到后，将通针插入喷嘴口，反复上下疏通数次。
 
-![nozzle.webp](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/cold-pull-maintenance-hotend/nozzle.webp)
+> **❗ 警示**：操作时**请务必佩戴隔热手套，并使头部、面部远离打印机**。此时喷嘴温度高，且疏通中堵塞物可能在喷嘴内积压，导致熔融耗材突然喷溅烫伤。
 
-> 拔出通针时，喷嘴内的耗材可能突然喷溅，请佩戴隔热手套，注意安全。
+![nozzle.webp](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/cold-pull-maintenance-hotend/nozzle.webp)
 
 ### 步骤 3 ：手动挤出
 
@@ -110,36 +111,6 @@ source: https://wiki.bambulab.com/zh/a2l/maintenance/cold-pull-maintenance-hoten
 > 冷拔过程中设备会自动冲刷耗材，若冲刷过程中耗材无法从喷嘴挤出，请根据方法二使用通针将堵塞物从喷嘴口推向喷嘴内部。
 
 ![1.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/nozzl-cold-pull-cleaning/1.jpg)
-
-## 方法四：使用内六角扳手拔出堵塞耗材
-
-> 操作时请佩戴隔热手套，防止高温灼伤手指。
-
-### 步骤 1 ： 加热内六角扳手
-
-首先将内六角扳手加热约 10s。使用钳子牢牢夹住扳手，注意不要被烫伤。
-
-![1.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/cold-pull-maintenance-hotend/1.jpg)
-
-### 步骤 2 ：将内六角扳手插入热端顶部
-
-从热端顶部插入加热后的内六角扳手，扳手会插入堵塞的耗材中，如下图所示。  
-等待大约 30s，让内六角扳手自然冷却。
-
-![2.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/cold-pull-maintenance-hotend/2.jpg)
-
-### 步骤 3 ： 加热热端，拔出堵塞的耗材
-
-使用打火机对喷嘴尖端加热约 20s。
-
-> 请避免长时间加热喷嘴或使用高功率丁烷喷枪。建议使用普通燃气打火机进行加热。  
-> 只需将喷嘴加热至能够将内六角扳手连同堵塞的耗材一并拔出的温度即可。过度加热可能导致耗材从喷嘴尖端滴落或突然喷出。请严格按照说明操作，并确保加热时喷嘴尖端不要朝向自己。
-
-![3.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/cold-pull-maintenance-hotend/3.jpg)
-
-3. 缓慢拔出内六角扳手，热端里被堵塞的耗材会附着在内六角扳手上被带出。
-
-![4.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/maintenance/cold-pull-maintenance-hotend/4.jpg)
 
 ## 验证功能
 

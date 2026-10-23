@@ -4,7 +4,7 @@ title: "更换 P2S X 轴组件"
 description: "更换 P2S 打印机 X 轴组件的操作流程"
 tags: []
 created: 2025-12-11T07:11:52.223Z
-updated: 2026-08-28T06:35:15.700Z
+updated: 2026-10-12T06:50:54.618Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-x-axis-assembly
 ---
 
@@ -24,11 +24,16 @@ X 轴组件是工具头载体，工具头安装在X轴上，通过电机的驱�
 - H1.5 内六角扳手
 - H2.0 内六角扳手
 
+## 安全提示
+
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
+> 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
 ## 移除工具头滑车与 X 轴组件
 
 ### 步骤 1. 移除工具头滑车
 
-请参考 [更换 P2S 工具头滑车](../../../en/p2s/maintenance/replace-toolhead-carriage.md) 移除工具头滑车。
+请参考 [更换 P2S 工具头滑车](replace-toolhead-carriage.md) 移除工具头滑车。
 
 ### 步骤 2. 移除 AP 板盖板与打印机外壳
 
@@ -40,19 +45,24 @@ X 轴组件是工具头载体，工具头安装在X轴上，通过电机的驱�
 
 ### 步骤 3. 移除 XY 皮带
 
-使用内六角扳手顶住皮带固定座，将皮带固定座顶出一点，然后将皮带固定块从皮带上取下，即可将皮带取出。如果皮带固定的比较松，您可以直接推动皮带取出固定块，无需使用内六角扳手顶出。
+使用内六角扳手顶住皮带固定座，将皮带固定块顶出一点，然后将皮带固定块从皮带上取下，即可将皮带取出。
 
-![](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-xy-belt/03_003.png)
+|  |  |
+| --- | --- |
+|  |  |
 
-将皮带固定块从皮带上拆下，使皮带能够完全脱离。
-
-![](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-xy-belt/04_004.png)
+> **ℹ️ 提示**：
+>
+> 1. 需要移除工具头左右的两个皮带固定座。
+> 2. 如果皮带固定的比较松，您可以直接推动皮带取出固定块，无需使用内六角扳手顶出。
+> 3. XY 皮带分为上下 2 条，左右两侧固定座上共 4 个固定点：上同步带 1 2 ；下同步带 3 4 。  
+>    ![p2s-x2d_xy_belt1.jpg](https://wiki.bambulab.com/x2d/maintenance/x-axis-assembly/p2s-x2d_xy_belt0.jpg)
 
 拉动 X 轴左右两侧的皮带。
 
 ![09_009.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-x-axis-assembly-and-toolhead-carriage/09_009.png)
 
-将皮带从两个 Y 滑车上取下。
+将皮带从左右两个 Y 滑车上取下。
 
 ![11_011.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-x-axis-assembly-and-toolhead-carriage/11_011.png)
 
@@ -92,33 +102,36 @@ X 轴组件是工具头载体，工具头安装在X轴上，通过电机的驱�
 
 ![14_014.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-x-axis-assembly-and-toolhead-carriage/14_014.png)
 
-参考下图将皮带穿过 Y 滑车上的惰轮
+> **ℹ️ XY 皮带示意图**：同步带分为上下 2 条，工具头左右两侧各有 1 个皮带固定座，每个固定座含 2 个固定点。
+>
+> - 上同步带固定点： 1 2
+> - 下同步带固定点：3 4
+> - Y 滑车位置示意：5 6  
+>   ![p2s-x2d_xy_belt1.jpg](https://wiki.bambulab.com/x2d/maintenance/x-axis-assembly/p2s-x2d_xy_belty.jpg)
 
-![15_015.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-x-axis-assembly-and-toolhead-carriage/15_015.png)
+先穿工具头左侧的皮带。如下图所示，将 1 侧的上同步带穿过 Y 滑车顶部的惰轮，将 3 的下同步带穿过 Y 滑车底部的惰轮。
 
-将皮带穿过 Y 滑车。
+|  |  |
+| --- | --- |
+|  |  |
 
-![16_016.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-x-axis-assembly-and-toolhead-carriage/16_016.png)
+将下同步带依次穿过机身前方的惰轮和 Y 滑车底部的惰轮。
 
-将皮带穿过前方的惰轮
+|  |  |
+| --- | --- |
+|  |  |
 
-![17_017.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-x-axis-assembly-and-toolhead-carriage/17_017.png)
-
-将皮带穿过 Y 滑车底部的惰轮。
-
-![18_018.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-x-axis-assembly-and-toolhead-carriage/18_018.png)
-
-将皮带穿入皮带固定座，使固定块的齿与皮带的齿准确对齐，确保凸起的点位于皮带的末端。
+将工具头左侧两根皮带分别穿入皮带固定座，使固定块的齿与皮带的齿准确对齐，确保凸起的点位于皮带的末端。
 
 ![](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-xy-belt/08_008.png)
 
-拉动皮带，将固定快和皮带一起卡入固定座中。
+拉动皮带，将固定块和皮带一起卡入固定座中。
 
-![19_019.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-x-axis-assembly-and-toolhead-carriage/19_019.png)
+|  |  |
+| --- | --- |
+|  |  |
 
-![08_008.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-x-axis-assembly-and-toolhead-carriage/08_008.png)
-
-相同的方法装好另外一侧的皮带。
+用相同的方法穿好工具头右侧的皮带。
 
 ### 步骤 3. 安装 AP 板盖板与打印机外壳
 
@@ -130,7 +143,7 @@ X 轴组件是工具头载体，工具头安装在X轴上，通过电机的驱�
 
 ### 步骤 4. 安装工具头滑车
 
-请参考 [更换 P2S 工具头滑车](../../../en/p2s/maintenance/replace-toolhead-carriage.md) 安装工具头滑车。
+请参考 [更换 P2S 工具头滑车](replace-toolhead-carriage.md) 安装工具头滑车。
 
 ## 成功验证
 

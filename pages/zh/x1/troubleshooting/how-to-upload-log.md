@@ -4,7 +4,7 @@ title: "如何创建工单及上传日志"
 description: "本指南将引导您通过 Bambu Handy 或在 Bambu Lab 官网创建工单及上传日志，以及上传日志常见问题。"
 tags: []
 created: 2024-10-08T04:14:08.421Z
-updated: 2026-09-01T06:59:35.741Z
+updated: 2026-10-15T09:05:46.846Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 ---
 
@@ -20,7 +20,7 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 
 选择遇到[问题类型](../../create-support-ticket.md)，这里以**打印机**类型为例，点击 “**下一步**” 按钮以进入工单提交页面。
 
-![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/3-portrait.png)
+![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/hardware_update_zh.png)
 
 选择打印机对应的**地区**、[**序列号**](../../general/find-sn.md)、**机型**。若 Bambu Handy 中绑定了对应打印机，可通过点击右侧箭头选择对应打印机，系统将自动填写 SN 号。完成后，点击 “**下一步**” 按钮。
 
@@ -49,9 +49,9 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 
 ### 提交工单
 
-点击服务工单页面右侧 “**创建工单**” 按钮，选择遇到问题类型，这里以**打印机**类型为例，点击以进入工单提交页面。
+点击服务工单页面右侧 “**创建工单**” 按钮，选择遇到问题类型，这里以**硬件**类型为例，点击以进入工单提交页面。
 
-![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/official_web_1.jpg)
+![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/web_update.jpg)
 
 选择打印机对应的**地区**、[**序列号**](../../general/find-sn.md)、**机型**。在问题描述中添加详细描述，以帮助我们更准确地了解问题；选择问题类型，您可通过点击 “**自动识别**” 按钮，系统将自动识别问题类型并填入。同时，可上传相关图片和视频及故障发生时间。
 
@@ -72,7 +72,8 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 [X2D 打印机](#jump1)  
 [X1 系列打印机](#jump2)  
 [P1 系列打印机](#jump3)  
-[A 系列打印机](#jump4)
+[A 系列打印机](#jump4)  
+[R1 激光切割机](#jump7)
 
 点击所需机型名字，跳转至对应指南：
 
@@ -130,6 +131,35 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 > **注意**：  
 > 移除打印机 SD 卡前，**建议在打印机的设置中进行 SD 卡弹出**，避免造成文件损坏。  
 > **导出打印机日志时请勿更改文件名。**
+
+  
+
+#### R1 激光切割机
+
+支持**通过 USB-C 或局域网连接**，从 **Bambu Suite** 中导出日志。
+
+1. 通过 USB-C 或局域网连接 R1。
+
+- USB-C 接口位于 R1 侧面，通过 USB-C 线连接 R1 与电脑。
+
+![usb_connect.jpg](https://wiki.bambulab.com/create-ticket/usb_connect_1.jpg)
+
+- 点击**设置 - 仅局域网 - 开启**  即可开启局域网模式。
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+
+2. **登录账号**，选择**新建项目**或打开项目，打开 Bambu Suite **设备**页面。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+3. 在**设置**页面确定选择设备 **R1**，找到**日志导出**板块，点击**立即导出**。  
+   ![](https://wiki.bambulab.com/create-ticket/r1_log_3.jpg)
+4. 勾选全部选项，点击**浏览**以选择日志导出文件夹，然后点击**确认**，等待提示日志下载完成即可。  
+   ![](https://wiki.bambulab.com/create-ticket/r1_log_4.jpg)
 
 ## **FAQ**
 

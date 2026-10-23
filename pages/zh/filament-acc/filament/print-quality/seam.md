@@ -4,15 +4,16 @@ title: "接缝"
 description: ""
 tags: ["打印质量", "接缝"]
 created: 2023-12-10T06:02:40.137Z
-updated: 2024-05-28T11:05:42.869Z
+updated: 2026-10-08T01:13:10.240Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/seam
 ---
 
 # 接缝
 
-**在 FDM 3D 打印中，每层打印的起始点和终点的走线交界处都会形成一个接缝，这是正常的现象。要了解更多关于接缝的知识，可以点击这个 wiki 链接：**[**Seam | Bambu Lab Wiki。**](../../../../en/software/bambu-studio/Seam.md)
+**在 FDM 3D 打印中，每层打印的起始点和终点的走线交界处都会形成一个接缝，这是正常的现象。要了解更多关于接缝的知识，可以点击这个 wiki 链接：**[**接缝设置 | Bambu Lab Wiki。**](../../../software/bambu-studio/Seam.md)
 
 ![](https://wiki.bambulab.com/knowledge-sharing/print-quality/%E5%88%87%E7%89%87%E6%8E%A5%E7%BC%9D.jpeg)
+
 ![](https://wiki.bambulab.com/knowledge-sharing/print-quality/%E5%9C%86%E6%9F%B1%E6%8E%A5%E7%BC%9D.png)
 
 **可以采用以下方法来适当改善接缝的质量：**

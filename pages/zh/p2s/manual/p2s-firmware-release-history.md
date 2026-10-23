@@ -4,9 +4,24 @@ title: "P2S 固件发布记录"
 description: "本指南提供 P2S 所有固件发布记录。"
 tags: []
 created: 2025-10-14T13:12:41.186Z
-updated: 2026-08-28T06:28:58.621Z
+updated: 2026-09-24T02:00:46.349Z
 source: https://wiki.bambulab.com/zh/p2s/manual/p2s-firmware-release-history
 ---
+
+## 01.03.00.00（20260921）
+
+### 新增功能
+
+1. 支持 E3D 高流量集成热端，需配合 `Bambu Studio 2.8.3.66` 及以上版本使用。  
+   ![e3d_zh.png](https://wiki.bambulab.com/p2s/release-note/u3/e3d_zh.png)
+2. 新增 Z 轴电机降噪功能。  
+   ![zaxis_motor_noise_zh.png](https://wiki.bambulab.com/p2s/release-note/u3/zaxis_motor_noise_zh.png)
+
+### 功能优化
+
+1. 打印时空驶速度提升至`1000 mm/s`，缩短打印时间，需配合 `Bambu Studio 2.8.3.66` 及以上版本使用。
+2. 优化延时摄影的加载速度，减少 Bambu Handy 中查看视频时的等待时间，需配合 `Bambu Handy 4.0.0` 及以上版本使用。
+3. 设置菜单中新增使用条款、隐私政策和用户改善计划的查看入口。
 
 ## 01.02.00.00（20260409）
 

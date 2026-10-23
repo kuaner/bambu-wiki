@@ -1,10 +1,10 @@
 ---
 path: zh/h2s/maintenance/replace-ap-board
-title: "AP 板更换指南"
-description: ""
-tags: []
+title: "更换 H2S AP 板"
+description: "本文介绍 H2S 更换 AP 板的操作步骤与注意事项。"
+tags: ["h2s"]
 created: 2025-08-24T10:45:32.515Z
-updated: 2026-08-28T06:23:49.517Z
+updated: 2026-10-16T01:34:55.884Z
 source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-ap-board
 ---
 

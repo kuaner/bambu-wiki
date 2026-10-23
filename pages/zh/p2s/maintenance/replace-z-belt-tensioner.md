@@ -4,7 +4,7 @@ title: "更换 P2S/X2D Z 张紧器"
 description: "本文介绍了如何更换 P2S Z 张紧器"
 tags: []
 created: 2025-10-14T13:13:45.929Z
-updated: 2026-08-28T08:42:24.730Z
+updated: 2026-10-08T02:27:56.205Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-z-belt-tensioner
 ---
 
@@ -32,8 +32,8 @@ Z 轴张紧器是安装在打印机底部，用于张紧 Z 轴皮带的零件。
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 
 > **关于 X2D Z 张紧器变更的说明：**  
-> 由于 X2D 新增了主动腔温功能,打印机底座在高温环境下会产生微小的物理形变。为确保Z轴在不同温度下均能正常回中并避免运动阻力异常，X2D 已取消张紧器的锁定螺丝,使其能够根据环境温度动态自适应皮带张紧状态。因此,X2D 的 Z 轴皮带在日常使用中无需进行额外张紧处理。  
-> ![tensioner.png](https://wiki.bambulab.com/x2d/maintenance/z-tensioner/tensioner.png)
+> 由于 X2D 新增了主动腔温功能，打印机底座在高温环境下会产生微小的物理形变。为确保 Z 轴在不同温度下均能正常回中并避免运动阻力异常，X2D 已取消张紧器的锁定螺丝，使其能够根据环境温度动态自适应皮带张紧状态。因此，X2D 的 Z 轴皮带在日常使用中无需进行额外张紧处理，其 Z 张紧器的**更换步骤比 P2S 少一颗螺丝**（图中红色标注）。  
+> ![tensioner.png](https://wiki.bambulab.com/x1/maintenance/replace-z-tensioner/x2d_tensioner_screw.png)
 
 ## 移除 Z 轴张紧器
 
@@ -41,9 +41,9 @@ Z 轴张紧器是安装在打印机底部，用于张紧 Z 轴皮带的零件。
 
 在显示屏上操作，将热床下降到底部，使用 H2.0 内六角扳手将 3 颗螺丝（开箱时固定热床的螺丝）分别拧入 3 个 Z 滑块，将 Z 滑块和底座固定在一起。然后关闭打印机，断开电源连接。
 
-![15_015.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/15_015.png)
-
-![16_016.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/16_016.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 > 锁定热床是一个关键预备步骤，此操作能有效固定三根Z轴丝杆的相对位置，防止在松开皮带时，丝杆因外力或床身自重而发生意外旋转或位移。从而使热床的基准面得以维持，避免产生超出允许范围的倾斜，保证打印平台的初始水平度。
 
@@ -57,17 +57,21 @@ Z 轴张紧器是安装在打印机底部，用于张紧 Z 轴皮带的零件。
 
 ### 步骤 3：移除 Z 惰轮盖和扭簧
 
-释放弹簧，用 H1.5 内六角扳手移除 3 颗螺丝，用 H2.0 内六角扳手移除黑色的螺丝（绿色方框标记）。
+释放弹簧。释放后，弹簧位置由图中标记 1 移动至标记 2。
 
 ![01_001.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/01_001.png)
 
+用 H1.5 内六角扳手移除 3 颗惰轮盖的固定螺丝（红色标记），用 H2.0 内六角扳手移除 1 颗张紧器螺丝（绿色标记）。
+
 ![02_002.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/02_002.png)
+
+> **✅ 说明**：X2D 已取消张紧器的锁定螺丝（绿色标记），故此步骤只需移除 3 颗螺丝（红色标记）。
 
 取下 Z 惰轮盖，移除 Z 轴张紧弹簧。
 
-![03_003.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/03_003.png)
-
-![04_004.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/04_004.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 ### 步骤 4：移除 Z 轴张紧器
 
@@ -87,9 +91,9 @@ Z 轴张紧器是安装在打印机底部，用于张紧 Z 轴皮带的零件。
 
 先确认前面提到的螺母有在组件上，将张紧器组件安装到相应位置，注意根据卡扣位完成安装。
 
-![06_006.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/06_006.png)
-
-![09_009.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/09_009.png)
+|  |  |
+| --- | --- |
+|  |  |
 
 ![10_010.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/10_010.png)
 
@@ -107,9 +111,11 @@ Z 轴张紧器是安装在打印机底部，用于张紧 Z 轴皮带的零件。
 
 放上 Z 惰轮盖，用 H1.5 内六角扳手锁入 3 颗螺丝固定惰轮盖，用 H2.0 内六角扳手拧入黑色螺丝（绿色方框标记），但不要拧紧，然后将弹簧的两侧分别卡入对应槽中。
 
-![02_002.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/02_002.png)
+|  |  |
+| --- | --- |
+|  |  |
 
-![13_013.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-z-belt-tensioner/13_013.png)
+> **✅ 说明**：X2D 已取消张紧器的锁定螺丝（绿色标记），故此步骤只需拧入 3 颗螺丝（红色标记）。
 
 ### 步骤 3：解除 Z 滑块锁定
 

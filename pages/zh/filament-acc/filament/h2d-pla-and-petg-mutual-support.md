@@ -4,7 +4,7 @@ title: "PLA Basic 与 PETG HF、PETG Basic 互相支撑打印指南"
 description: "本文介绍了如何使用拓竹耗材 PLA Basic 与 PETG HF / PETG Basic 互相支撑打印，并提供了在 Bambu Studio 中设置参数的教程及预设参数文件的下载链接。"
 tags: ["petg hf"]
 created: 2024-08-02T02:11:38.792Z
-updated: 2026-09-04T04:26:24.700Z
+updated: 2026-10-13T07:40:00.785Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/h2d-pla-and-petg-mutual-support
 ---
 
@@ -40,7 +40,7 @@ PETG HF / PETG Basic 耗材的烘干方式与要求，请参考下表：
 
 1. **打印板要求**
 
-   必须使用光面 PEI 打印板、高温打印板或纹理 PEI 打印板。
+   请使用光面 PEI 打印板或纹理 PEI 打印板。
 
 - **散热要求**
 
@@ -50,28 +50,13 @@ PETG HF / PETG Basic 耗材的烘干方式与要求，请参考下表：
   2. 模型主体耗材为 PETG HF / PETG Basic，支撑耗材为 PLA Basic，且模型首层存在 PLA 耗材时：打印过程中需要打开打印机的前门和（或）顶盖。
 - **参数设置**
 
-  在 Bambu Studio 中，默认支撑参数并不适合作为 PLA Basic 与 PETG HF / PETG Basic 互相支撑的参数。因此，打印前，需要在 Bambu Studio 中调整耗材与支撑的参数，才能获得更好的打印质量。你可以直接下载"预设配置文件"章节的参数文件，也可以参考"切片参数设置"章节进行手动调参。
+  在 Bambu Studio 中，默认支撑参数并不适合作为 PLA Basic 与 PETG HF / PETG Basic 互相支撑的参数。因此，打印前，需要在 Bambu Studio 中调整耗材与支撑的参数，才能获得更好的打印质量。你可以参考"切片参数设置"章节进行手动调参。
 
   > 📌 **注意：**
   >
   > - **使用 0.2 mm 喷嘴**进行 PLA / PETG 互相支撑打印时，建议参考下图增加线宽，以增加粘性，否则可能会导致炒面。此外，也可以使用修改器来修改支撑接触面附近的区域。  
   >   ![printing_parameters_for_0.2mm_nozzle.png](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/printing_parameters_for_0.2mm_nozzle.png)
   > - **热床温度说明：** 参数中热床温度提高为 60 ℃，这是因为 PETG 耗材使用 PLA 耗材的热床温度时，粘附力会降低，适当升温能够增加打印板粘附力。
-
-### 预设配置文件
-
-根据你的耗材组合，下载并打开下方对应 `.3mf` 文件，然后导入打印模型的 `.stl` 文件，即可应用这些参数，无需再次手动调整。
-
-| 主体耗材 | 支撑耗材 | 下载链接 | P2S 下载链接\* |
-| --- | --- | --- | --- |
-| PETG HF | PLA Basic | [3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_hf.3mf) | [@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_hf_@p2s.3mf) |
-| PLA Basic | PETG HF | [3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_hf_%E6%94%AF%E6%92%91_pla_basic.3mf) | [@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_hf_%E6%94%AF%E6%92%91_pla_basic_@p2s.3mf) |
-| PLA Basic | PETG Basic | [3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_basic_%E6%94%AF%E6%92%91_pla_basic.3mf) | [@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/petg_basic_%E6%94%AF%E6%92%91_pla_basic@p2s.3mf) |
-| PETG Basic | PLA Basic | [3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_basic.3mf) | [@p2s.3mf](https://wiki.bambulab.com/filament-acc/filament/pla-basic-petg-hf-support-each-other/pla_basic_%E6%94%AF%E6%92%91_petg_basic@p2s.3mf) |
-
-> 📌 \* **表附注**： **P2S** 打印机请选择末列文件下载，因其 PETG HF / PETG Basic 的**冷却设置**与其他机型略有不同，即特定层冷却风扇速度需保持默认的 40%。其他型号打印机在第三列文件中选择并下载即可。
-
-**如需手动设置参数或了解具体的参数设置**，请阅读下一章节。
 
 ### 切片参数设置
 

@@ -4,7 +4,7 @@ title: "打印结束后的工作（取下模型、清洁打印板、外观处理
 description: "本文介绍了 3D 打印完成后的全套收尾与后处理操作。"
 tags: []
 created: 2023-09-08T02:59:40.384Z
-updated: 2026-08-28T06:20:09.599Z
+updated: 2026-09-28T06:29:46.460Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/print-finish-adv
 ---
 
@@ -44,10 +44,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/print-finish-adv
 | --- | --- |
 |  |  |
 
-详细清洁指南请参考：
-
-- [**纹理 PEI 板打印清洁**](pei-plate-clean-guide.md)
-- [高温打印面板清洁](../../general/high-temperature-plate-not-working-as-expected.md)
+详细清洁指南请参考：[**纹理 PEI 板打印清洁**](pei-plate-clean-guide.md)
 
   
 

@@ -4,7 +4,7 @@ title: "H2D 打印后刀切功能指南"
 description: ""
 tags: []
 created: 2025-04-29T13:21:46.596Z
-updated: 2026-08-28T08:38:26.073Z
+updated: 2026-10-21T02:45:58.693Z
 source: https://wiki.bambulab.com/zh/h2/manual/post-printing-cutting
 ---
 
@@ -122,7 +122,7 @@ source: https://wiki.bambulab.com/zh/h2/manual/post-printing-cutting
 ##### 切割标定线的刀压
 
 - 使用官方材料：为了保证能切出这两道参考线，切割使用的是**当前所选材料的内置刀压，用户是无法更改的。**
-- 使用自定义材料：由于自定义材料没有内置的刀压，所以切割参考线时会参考用户设置的**切穿刀压。若未设置切穿刀压，或者设置的切穿刀压小于普通切割刀压，则扔会采用切割刀压来切割标定线（注：只有在Bambu suite 进入专家模式后才会显示切穿刀压参数）。**
+- 使用自定义材料：由于自定义材料没有内置的刀压，所以切割参考线时会参考用户设置的**切穿刀压。若未设置切穿刀压，或者设置的切穿刀压小于普通切割刀压，则仍会采用切割刀压来切割标定线（注：只有在Bambu suite 进入专家模式后才会显示切穿刀压参数）。**
 
 ![](https://wiki.bambulab.com/h2/post-printing-cutting/image-10.png)
 

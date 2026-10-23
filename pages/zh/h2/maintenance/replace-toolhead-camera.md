@@ -4,7 +4,7 @@ title: "更换 H2D & H2C 工具头摄像头"
 description: "本文介绍如何更换 H2D & H2C 工具头摄像头"
 tags: []
 created: 2025-03-25T08:32:11.183Z
-updated: 2026-08-28T08:33:38.035Z
+updated: 2026-10-10T09:19:54.545Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-toolhead-camera
 ---
 
@@ -106,7 +106,9 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-toolhead-camera
 
 ## 如何验证成功
 
-连接电源，打开打印机。报错消失即可。
+连接电源，启动打印机，没有摄像头关联的报错信息即可。
+
+如果您遇到任何问题，请先回溯您的步骤并检查所有连接以重试。 如果问题仍然存在，请联系 Bambu Lab 服务团队寻求进一步帮助。
 
 ## 结束语
 

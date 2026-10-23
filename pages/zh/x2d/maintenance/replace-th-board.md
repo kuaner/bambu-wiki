@@ -4,7 +4,7 @@ title: "更换 X2D 工具头电路板"
 description: "本文介绍了如何更换 X2D 挤出主板（TH 板）、工具头接口板、热端加热组件接口板"
 tags: []
 created: 2026-04-14T13:08:30.420Z
-updated: 2026-08-28T06:38:30.168Z
+updated: 2026-10-10T08:17:27.031Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-th-board
 ---
 
@@ -52,7 +52,7 @@ X2D
 
 ### **第 2 步 - 移除 TH 板（挤出主板）**
 
-用镊子依次断开连接到 TH 板（挤出主板）上的热端加热组件接口板排线、工具头接口板排线、挤出电机排线、工具头摄像头排线、辅助热端风扇线缆、堵嘴组件排线、左热端风扇线缆。
+用镊子依次断开连接到 TH 板（挤出主板）上的热端加热组件接口板排线 1 、工具头接口板排线 2、挤出电机排线 3、工具头摄像头排线 4、辅助热端风扇线缆 5、堵嘴组件排线 6、左热端风扇线缆 7。
 
 ![003_disconnect_the_th_board_cable_connection.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_th_board/003_disconnect_the_th_board_cable_connection.png)
 
@@ -90,9 +90,17 @@ X2D
 
 ![connector.jpg](https://wiki.bambulab.com/x2d/maintenance/replace-th-board/connector.jpg)
 
-涡流线圈可参考下图拆装。  
-![](https://public-cdn.bblmw.com/wiki/new/x2d/replace_eddy_sensor/remove_right_eddy_sensor_connector_001.webp)  
-![](https://public-cdn.bblmw.com/wiki/new/x2d/replace_eddy_sensor/remove_eddy_sensor_connector_001.webp)
+- 涡流线圈 1 4 请参考下图拆除。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+- 霍尔检测板 2 3 请参考下图拆除。注意左侧霍尔为翻盖式连接器，需**先翘起黑色压块**再小心抽出，切勿直接拉扯。
+
+|  |  |
+| --- | --- |
+|  |  |
 
 用 H1.5 内六角扳手拆下两颗螺丝，取下工具头接口板。
 
@@ -164,7 +172,7 @@ X2D
 
 ![004_remove_th_board_screws.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_th_board/004_remove_th_board_screws.png)
 
-依次连接工具头接口板排线、热端加热组件接口板排线、挤出电机排线、工具头摄像头排线、堵嘴组件排线、左热端风扇线缆、辅助热端风扇线缆。
+依次连接热端加热组件接口板排线 1 、工具头接口板排线 2、挤出电机排线 3、工具头摄像头排线 4、辅助热端风扇线缆 5、堵嘴组件排线 6、左热端风扇线缆 7。
 
 ![003_disconnect_the_th_board_cable_connection.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/replace_th_board/003_disconnect_the_th_board_cable_connection.png)
 

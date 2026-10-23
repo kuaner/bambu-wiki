@@ -4,7 +4,7 @@ title: "X2D 耗材变轨器使用指南"
 description: "本指南涵盖耗材变轨器的详细介绍，以及 X2D 搭配耗材变轨器进行打印的具体操作步骤。"
 tags: []
 created: 2026-03-16T02:50:15.541Z
-updated: 2026-08-28T06:37:16.238Z
+updated: 2026-09-28T02:36:21.797Z
 source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch
 ---
 
@@ -67,6 +67,8 @@ source: https://wiki.bambulab.com/zh/general/manual/filament-track-switch
 
 - 额外的 6-pin 线 \* 2
 - H1.5 & H2.0 内六角扳手
+
+> **注意**：耗材变轨器需要配合 **AMS** 使用，不支持连接外挂料盘，也**不适用**于 AMS 不支持或不推荐使用的耗材，例如 TPU，PA6-CF/GF，PET-CF/GF，PPA-CF/GF，PPS-CF/GF，PLA Glow 等。
 
 #### 支架打印
 

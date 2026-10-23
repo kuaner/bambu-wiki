@@ -4,7 +4,7 @@ title: "H2C 喷嘴/热端堵塞清理指南"
 description: "本文介绍当 H2C 热端堵塞时如何清理"
 tags: []
 created: 2025-11-18T13:15:29.348Z
-updated: 2026-08-28T06:32:06.671Z
+updated: 2026-10-14T03:07:07.446Z
 source: https://wiki.bambulab.com/zh/h2c/troubleshooting/unclogging
 ---
 
@@ -21,7 +21,8 @@ source: https://wiki.bambulab.com/zh/h2c/troubleshooting/unclogging
 - 钳子
 - 防烫手套
 - 耗材
-- H1.5或H2.0螺丝刀
+
+![nozzle_cleaning_tool.jpg](https://wiki.bambulab.com/x1/maintenance/cold-pull/nozzle_cleaning_tool.jpg)
 
 ## 操作前的注意事项及机器状态
 
@@ -182,62 +183,6 @@ source: https://wiki.bambulab.com/zh/h2c/troubleshooting/unclogging
 我们强烈建议您建议多次重复冷拔直至挤出的耗材丝达到表面洁净无异常物质残留（如下图所示为 HF 喷嘴）。
 
 ![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/24.png)
-
-## 4. 热六角扳手疏通法（适用于冷端堵塞）
-
-H2 系列打印机常见的堵塞问题，多因耗材热蠕变现象导致耗材卡在热端内部。关于热蠕变的详细原理及预防方法，可参考 [热蠕变](../../filament-acc/filament/heat-creep.md)，建议优先阅读了解，从源头减少堵塞情况发生。
-
-> 注意：操作全程请务必佩戴防护手套！热端及熔化的耗材温度极高，若不慎接触可能造成严重灼伤。
-
-### 步骤 1. 加热喷嘴尖端
-
-1. 在打印机触控屏主界面，依次点击 “**控制**” → “**喷嘴和挤出机**”，进入挤出机控制界面。
-
-![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/25.png)
-
-2. 选择 “**右边**”（针对右喷嘴），接着将右喷嘴温度设为略高于耗材的正常打印温度。（以 PLA 为例，可将温度设置为 220 ℃。）
-
-![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/26.png)
-
-### 步骤 2. 移除喷嘴
-
-1. 在屏幕上依次点击 “**热端 & 挂架**”→ 左侧面板的感应热端→“**放置**”。
-
-![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/compressed_file/27.webp)
-
-2. 此时设备将自动将感应热端停放到空闲的感应热端泊位组件上。
-
-![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/compressed_file/28.webp)
-
-> **注意：** 若未执行“放置”操作，则需要触碰喷嘴尖端才能取下感应热端。但步骤 1 中已将其加热至 220 ℃，直接用手操作存在严重烫伤风险，不建议采用此方法。
-
-3. 将工具头移动到便于操作的位置，以便顺利取下感应热端。
-
-![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/29.png)
-
-4. 从对应的感应热端泊位组件取下待疏通的感应热端，仅握住散热片部位，避免触碰喷嘴尖端。
-
-![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/compressed_file/30.webp)
-
-> 注意： 请勿触碰喷嘴尖端，以免烫伤。
-
-### 步骤 3. 加热六角扳手
-
-用钳子牢牢夹住六角扳手的尾部，对扳手尖端均匀加热约 10 秒，确保充分升温。
-
-> **注意：** 全程使用钳子夹持，勿徒手触碰六角扳手的金属部位，防止烫伤。
-
-![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/31.jpg)
-
-### 步骤 4. 插入喷嘴入口并冷却
-
-1. 趁扳手尖端仍处于高温状态，迅速对准喷嘴入口，从散热器顶端的通道垂直插入至堵塞耗材内部。插入到位后保持静止约 30 秒，让六角扳手自然冷却，与周围耗材牢固咬合。
-
-![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/32.webp)
-
-2. 待冷却完成后，沿原方向缓慢、平稳将六角扳手向外拔出。此时，堵塞的耗材会随扳手一同从喷嘴中完整带出，堵塞部位也将被清除。
-
-![](https://wiki.bambulab.com/h2c/troubleshoting/unclogging/compressed_file/33.webp)
 
 ## 如何验证完成/成功
 

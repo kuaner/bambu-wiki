@@ -1,10 +1,10 @@
 ---
 path: zh/x1/maintenance/replace-ap-board
-title: "更换 AP 主板 -- X1 系列"
+title: "更换  X1 系列 AP 主板"
 description: "本指南介绍更换 X1 系列打印机 AP 板的详细步骤。"
 tags: ["x1", "ap 板"]
 created: 2022-08-05T03:07:18.696Z
-updated: 2026-08-28T08:23:31.957Z
+updated: 2026-10-15T02:48:02.316Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-ap-board
 ---
 
@@ -42,7 +42,19 @@ AP 板上的连接器
 > 注意：在开始安装前，请先拍照并留存 AP 板上的序列号（即背面二维码），以便在后续注册流程中使用。  
 > ![qr-x1--.png](https://wiki.bambulab.com/x1/maintenance/replace-ap-board/qr-x1--.png)
 
-## 操作指南
+## 安全提示
+
+> 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
+> 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
+> ⚠️ **重要提醒**：  
+> 新 SN 注册成功后，旧 SN 将会作废，旧的 AP 板也将不能再被注册或绑定。
+
+更换了 AP 板的机器，由于新的 SN 未注册，无法进行绑定操作。因此，在更换 AP 板后首次开机时，可跳过绑定机器的步骤，并检验更换 AP 板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录 [拓竹科技官网](https://bambulab.com/zh/support) 申请绑定新序列号，或联系拓竹科技客服注册新 SN。详细说明可参考：[**如何查找序列号及注册新序列号**](../../general/find-sn.md)
+
+![register_sn.jpg](https://wiki.bambulab.com/x2d/maintenance/ap-board/register_sn.jpg)
+
+## 移除 AP 板
 
 ### 步骤 1 - 关闭电源
 
@@ -92,6 +104,8 @@ AP 板上的连接器
 | --- | --- |
 |  |  |
 
+## 安装 AP 板
+
 ### 步骤 7 - (装配) 连接 FPC
 
 准备好替换的 AP 主板，将 FPC 接入到 AP 主板上的连接器。按下连接器锁扣，锁定 FPC。
@@ -140,10 +154,8 @@ AP 板上的连接器
 
 ### 步骤 13 - 绑定新序列号（SN）
 
-> 重要提醒：  
-> 新 SN 注册成功后，旧 SN 将会作废，旧的 AP 板也将不能再被注册或绑定。
+更换了 AP 板的机器，由于新的 SN 未注册，无法进行绑定操作。因此，在更换 AP 板后首次开机时，可跳过绑定机器的步骤，并检验更换 AP 板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录 [拓竹科技官网](https://bambulab.com/zh/support) 申请绑定新序列号，或联系拓竹科技客服注册新 SN。详细说明可参考：[**如何查找序列号及注册新序列号**](../../general/find-sn.md)
 
-更换了 AP 板的机器，由于新的 SN 未注册，无法进行绑定操作。因此，在更换 AP 板后首次开机时，可跳过绑定机器的步骤，并检验更换 AP 板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录拓竹官网 <https://bambulab.com/zh/support> 申请绑定新序列号（SN），或联系拓竹科技客服注册新 SN。  
 ![register_sn.jpg](https://wiki.bambulab.com/x2d/maintenance/ap-board/register_sn.jpg)
 
 ## 如何验证成功

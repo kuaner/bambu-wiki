@@ -4,7 +4,7 @@ title: "多机型 AMS 连接指南"
 description: "本文主要介绍不同代 AMS 与不同打印机机型的兼容性和最大连接数量，以及带烘干功能的 AMS 对供电的要求。"
 tags: []
 created: 2025-03-25T15:14:57.250Z
-updated: 2026-08-28T06:21:31.350Z
+updated: 2026-09-23T09:01:33.467Z
 source: https://wiki.bambulab.com/zh/ams/manual/multi-model-AMS-compatibility-guide
 ---
 

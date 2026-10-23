@@ -4,7 +4,7 @@ title: "AMS 2 Pro 与 H2D 料管中断裂耗材的移除 "
 description: "学习如何从 AMS 2 Pro 和 H2D 的料管中安全移除断裂耗材。"
 tags: ["ams 2 pro", "h2d"]
 created: 2025-07-31T10:26:17.256Z
-updated: 2025-12-24T12:18:39.725Z
+updated: 2026-10-08T10:20:18.479Z
 source: https://wiki.bambulab.com/zh/h2d/troubleshooting/remove-broken-filament-in-ams-2-pro-and-h2d-tubes
 ---
 
@@ -59,7 +59,7 @@ source: https://wiki.bambulab.com/zh/h2d/troubleshooting/remove-broken-filament-
 
 按住黑色外圈，解锁挤出机上方的两个气动接头。
 
-![移除背部料管.gif](https://wiki.bambulab.com/h2/troubleshooting/%E7%A7%BB%E9%99%A4%E8%83%8C%E9%83%A8%E6%96%99%E7%AE%A1.gif)
+![](https://wiki.bambulab.com/h2/maintenance/disassemble-and-install-h2d-toolhead/image-6.png)
 
 ### 第三步：断开与耗材缓冲器连接的料管
 

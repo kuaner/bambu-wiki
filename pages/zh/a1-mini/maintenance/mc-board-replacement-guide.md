@@ -4,7 +4,7 @@ title: "A1 mini 主板更换指南"
 description: "本指南详细介绍了如何卸下和安装A1 mini的主板。"
 tags: ["a1 mini", "主板"]
 created: 2024-05-24T09:32:38.525Z
-updated: 2026-09-02T07:00:10.288Z
+updated: 2026-09-29T04:52:40.314Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/mc-board-replacement-guide
 ---
 
@@ -23,7 +23,9 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/mc-board-replacement-gu
 A1 mini 主板
 
 - H2.0 六角扳手
+- H1.5 六角扳手
 - PH2 十字螺丝刀
+- 尖嘴钳和撬棒（建议使用，便于更轻松地断开接头和撬开盖子）
 - 30 分钟
 
 ### **安全警告**
@@ -80,7 +82,11 @@ Bambu Lab A1 系列 3D 打印机**不支持热插拔卡**，因此每次取出 M
 
 ![](https://wiki.bambulab.com/a1m/replace-mc-board-fan/remove_bottom_cover_screws_for_a1_mini.jpeg)
 
-卸下螺丝后，从右上方开始，绕着打印机轻轻撬动，直到底盖松动。
+> **ℹ️ 提示**：下图中蓝色标示的两颗螺丝无需移除。
+>
+> ![a1mini_part_screw.png](https://wiki.bambulab.com/a1m/remove-mc-board/a1mini_part_screw.png)
+
+卸下螺丝后，建议使用撬棒从右上角开始，绕着打印机轻轻撬动，直到底盖松动。
 
 ### 3. 移除主板风扇
 
@@ -88,7 +94,7 @@ Bambu Lab A1 系列 3D 打印机**不支持热插拔卡**，因此每次取出 M
 
 ![](https://wiki.bambulab.com/a1m/replace-mc-board-fan/remove_a1_mini_mc_board_fan_screws.jpeg)
 
-卸下螺丝后，将风扇轻轻拉向您的方向，找到风扇电缆的接头，轻轻将其拉动，断开电缆与主板的连接。
+卸下螺丝后，将风扇轻轻拉向您的方向，露出风扇线缆接头，然后断开其与主板的连接。建议使用尖嘴钳夹住接头拔出，避免直接拉扯线缆。
 
 ![](https://wiki.bambulab.com/a1m/replace-mc-board-fan/disconnect_mc_fan_connector.jpeg)
 
@@ -98,7 +104,7 @@ Bambu Lab A1 系列 3D 打印机**不支持热插拔卡**，因此每次取出 M
 
 ![](https://wiki.bambulab.com/a1m/replace-usb-c-cable/unscrew_the_usb_cable_bracket.jpeg)
 
-卸下螺丝后，可以轻轻断开 USB-C 数据线。请确保向右拉，并不要将其弯曲，否则可能会损坏主板上的 USB-C 接口。
+卸下螺丝后，可以轻轻断开 USB-C 数据线。请确保向右拉，并不要将其弯曲，否则可能会损坏主板上的 USB-C 接口。建议使用撬棒辅助松开接头。
 
 ![](https://wiki.bambulab.com/a1m/replace-usb-c-cable/remove_the_a1_mini_usb_cable.jpeg)
 
@@ -116,7 +122,7 @@ Bambu Lab A1 系列 3D 打印机**不支持热插拔卡**，因此每次取出 M
 
 ### 7. 断开主板上的其他线缆
 
-断开标号为 4 和 5 的电缆时，请格外小心。它们的底部有一个小夹子，取下时需要按住。
+断开主板上其余线缆。断开标号为 4 和 5 的线缆时请格外小心：它们的底部各有一个小卡扣，需先按下卡扣才能松开接头。建议使用尖嘴钳，一边按住卡扣、一边将接头拔出，操作更为顺手。
 
 ![](https://wiki.bambulab.com/a1m/remove-mc-board/disconnect_the_remaining_wires.jpeg)
 
@@ -142,7 +148,7 @@ Bambu Lab A1 系列 3D 打印机**不支持热插拔卡**，因此每次取出 M
 
 ### 11. 从主板上移除热床电缆
 
-电缆上有一个安全闩锁，用于将其固定，因此在拉动线缆时需要按住金属夹。
+线缆上有安全闩锁将其牢牢固定，因此拉动线缆时需按住金属卡扣。可先将橡胶绝缘层轻轻上推，露出卡扣。建议使用尖嘴钳，一边按住卡扣、一边将线缆拔出，操作更为顺手。
 
 ![](https://wiki.bambulab.com/a1m/remove-mc-board/remove_the_heatbed_wires_on_a1.jpeg)
 
@@ -158,9 +164,12 @@ Bambu Lab A1 系列 3D 打印机**不支持热插拔卡**，因此每次取出 M
 
 ![](https://wiki.bambulab.com/a1m/remove-mc-board/ap_board_a1_sn.jpeg)
 
-用 3 颗螺丝将主板固定在框架上。
+将新主板放到框架上。
 
 ![](https://wiki.bambulab.com/a1m/remove-mc-board/mc_board_a1_mini_screws.jpeg)
+
+> **ℹ️ 提示**  
+> 此时**请先不要拧紧 3 颗固定螺丝**。让主板暂不固定，可以更方便地重新连接各线缆，尤其是较小的接头。待**所有线缆连接完成后**，再在最后一步固定主板。
 
 ### 2. 将热床电缆重新连接至主板
 
@@ -170,19 +179,19 @@ Bambu Lab A1 系列 3D 打印机**不支持热插拔卡**，因此每次取出 M
 
 ### 3. 连接主板电源端子线缆
 
-如下图所示，小心地重新连接电源端子线缆并拧紧螺丝：   
-1.  -V 主板线缆（黑）  
+如下图所示，小心地重新连接电源端子线缆并拧紧螺丝：  
+1. -V 主板线缆（黑）  
 2. +V 主板线缆（红）
 
 ![](https://wiki.bambulab.com/a1m/remove-mc-board/mc_board_power_wires_on_a1_mini.jpeg)
 
 > 重要提醒
 >
-> 如下图所示，连接所有线缆后，**确保线缆不会移动并固定到位**。
+> 走线十分关键。连接完成后，**确保线缆固定、不会移动**，并将其顺势收入盖板的线槽中。若线缆未嵌入线槽，盖板将无法正常合上，且在拧回底座时可能压伤线缆。
 
 ### 4. 安装固定塑料电线盖的螺丝
 
-将热床电缆和电源电缆按图中所示排列，然后用 3 颗螺钉将塑料盖重新装回打印机。**请避免过度拧紧，以免损坏塑料螺纹**。
+将热床电缆和电源电缆按图中所示排列，并将电源线顺势走入盖板的线槽内，然后用 3 颗螺钉将塑料盖重新装回打印机。**请避免过度拧紧，以免损坏塑料螺纹**，拧紧时也请注意不要压伤线缆。
 
 ![](https://wiki.bambulab.com/a1m/power-supply/remove_the_plastic_wire_cover.jpeg)
 
@@ -230,15 +239,19 @@ Bambu Lab A1 系列 3D 打印机**不支持热插拔卡**，因此每次取出 M
 
 ![](https://wiki.bambulab.com/a1m/replace-mc-board-fan/disconnect_mc_fan_connector.jpeg)
 
-然后，用 2 颗螺丝将风扇固定在主板散热片上。
+然后，用 2 颗螺丝将风扇固定在主板散热片上。若风扇附带了新螺丝，建议使用新螺丝，其长度与风扇的安装高度相匹配。
 
 ![](https://wiki.bambulab.com/a1m/replace-mc-board-fan/remove_a1_mini_mc_board_fan_screws.jpeg)
 
-### 10. 将线缆排列整洁
+### 10. 将线缆排列整洁并固定主板
 
 如下图所示，在装回底盖之前，确保主板电线走线正确，以免干扰主板风扇。
 
 ![](https://wiki.bambulab.com/a1m/replace-usb-c-cable/a1_mini_board_and_wire_managemet.jpg)
+
+线缆整理妥当后，拧紧 3 颗固定螺丝，将主板固定到框架上。
+
+![](https://wiki.bambulab.com/a1m/remove-mc-board/mc_board_a1_mini_screws.jpeg)
 
 ### 11. 安装底盖
 

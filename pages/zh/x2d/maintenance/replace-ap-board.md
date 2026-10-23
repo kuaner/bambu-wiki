@@ -4,7 +4,7 @@ title: "更换 X2D AP 板"
 description: "本文介绍了如何更换 X2D AP 板"
 tags: []
 created: 2026-04-14T13:08:24.256Z
-updated: 2026-08-28T06:38:28.565Z
+updated: 2026-10-15T02:46:40.104Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-ap-board
 ---
 
@@ -31,6 +31,13 @@ X2D
 
 > 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。  
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
+> ⚠️ **重要提醒**：  
+> 新 SN 注册成功后，旧 SN 将会作废，旧的 AP 板也将不能再被注册或绑定。
+
+更换了 AP 板的机器，由于新的 SN 未注册，无法进行绑定操作。因此，在更换 AP 板后首次开机时，可跳过绑定机器的步骤，并检验更换 AP 板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录 [拓竹科技官网](https://bambulab.com/zh/support) 申请绑定新序列号，或联系拓竹科技客服注册新 SN。详细说明可参考：[**如何查找序列号及注册新序列号**](../../general/find-sn.md)
+
+![register_sn.jpg](https://wiki.bambulab.com/x2d/maintenance/ap-board/register_sn.jpg)
 
 ## 视频教程
 
@@ -128,12 +135,10 @@ AP 板线缆说明如下：
 将辅助挤出机放置到位，并固定好卡扣。  
 ![002_lift_auxiliary_extruder.png](https://public-cdn.bblmw.com/wiki/new/x2d/maintenance/ap_board/002_lift_auxiliary_extruder.png)
 
-### 步骤 4. 绑定新序列号（SN）
+### 步骤 4：绑定新序列号（SN）
 
-> 重要提醒：  
-> 新 SN 注册成功后，旧 SN 将会作废，旧的 AP 板也将不能再被注册或绑定。
+更换了 AP 板的机器，由于新的 SN 未注册，无法进行绑定操作。因此，在更换 AP 板后首次开机时，可跳过绑定机器的步骤，并检验更换 AP 板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录 [拓竹科技官网](https://bambulab.com/zh/support) 申请绑定新序列号，或联系拓竹科技客服注册新 SN。详细说明可参考：[**如何查找序列号及注册新序列号**](../../general/find-sn.md)
 
-更换了 AP 板的机器，由于新的 SN 未注册，无法进行绑定操作。因此，在更换 AP 板后首次开机时，可跳过绑定机器的步骤，并检验更换 AP 板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录拓竹官网 <https://bambulab.com/zh/support> 申请绑定新序列号（SN），或联系拓竹科技客服注册新 SN。  
 ![register_sn.jpg](https://wiki.bambulab.com/x2d/maintenance/ap-board/register_sn.jpg)
 
 ## 功能验证

@@ -4,11 +4,13 @@ title: "高温/光面 PEI 打印板质量与预期不符"
 description: ""
 tags: []
 created: 2023-03-14T13:06:44.921Z
-updated: 2024-07-31T08:33:52.791Z
+updated: 2026-09-28T06:12:14.647Z
 source: https://wiki.bambulab.com/zh/general/high-temperature-plate-not-working-as-expected
 ---
 
 ## 高温 PEI 打印板介绍
+
+> ℹ️ **注意**：本产品已停产，此页面相关内容仅供仍在使用该产品的用户参考。
 
 高温打印板是由高温打印膜和工程打印板组成，两面都可以用于打印。  
 高温膜的材质是 PEI，表面光滑且有细哑的质感，PEI 膜通过 3M 高耐热双面胶贴在工程板上。相比于低温打印板的 PC 膜，PEI 材料有更好的耐热性，在高温下不易蠕变，故材料的兼容性会比较好。  

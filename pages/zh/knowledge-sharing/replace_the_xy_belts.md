@@ -4,13 +4,13 @@ title: "P2S/X2D 同步带更换教程"
 description: "当同步带断裂导致无法牵引旧同步带进行更换时，可参考本文手动穿装完成更换。"
 tags: ["p2s", "x2d"]
 created: 2026-06-18T08:03:35.748Z
-updated: 2026-08-28T06:47:32.044Z
+updated: 2026-10-12T02:57:08.561Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/replace_the_xy_belts
 ---
 
 ## 何时使用
 
-当同步带完全断裂、或无法通过“新旧皮带牵引”完成更换时，可根据本文更换 XY 同步带。本文将针对 X2D 与 P2S 机型，演示 CoreXY 结构的同步带重新布线与穿装流程。
+当同步带完全断裂、或无法通过“[新旧皮带牵引](../p2s/maintenance/replace-xy-belt.md)”完成更换时，可根据本文更换 XY 同步带。本文将针对 X2D 与 P2S 机型，演示 CoreXY 结构的同步带重新布线与穿装流程。
 
 ## 适用打印机型号
 

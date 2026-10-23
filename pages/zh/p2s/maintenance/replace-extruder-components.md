@@ -4,18 +4,24 @@ title: "更换 P2S 挤出机配件"
 description: "挤出机相关部件的拆解和安装指引"
 tags: []
 created: 2025-10-14T12:50:05.307Z
-updated: 2026-08-28T06:28:28.649Z
+updated: 2026-10-23T03:59:40.157Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-extruder-components
 ---
 
 ## 挤出机
 
-P2S 的挤出机，设置了3个独立的配件，分别是：
+P2S 的挤出机，设置了 3 个独立的配件，分别是：
 
-- 霍尔开关板组件：安装在挤出机的上部，具有检测耗材功能的配件。
-- 挤出机齿轮组件：安装在挤出机内部，经挤出电机带动后，能实现将耗材输送到热端或退出挤出机的齿轮组件。
-- 挤出机前盖组件：挤出机的外壳。  
-  ![dlb055.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/dlb055.jpg)![fae035.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/fae035.jpg)![fae039.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/fae039.jpg)
+- **霍尔开关板组件**：安装在挤出机的上部，具有检测耗材功能的配件。
+- **挤出机齿轮组件**（[与 X2D 通用](.md)）：安装在挤出机内部，经挤出电机带动后，能实现将耗材输送到热端或退出挤出机的齿轮组件。
+- **挤出机前盖组件**：挤出机的外壳。
+
+> **✅ 说明**： X2D 挤出机齿轮的拆装步骤与 P2S 相同，详细拆装可参考：[**更换 X2D 挤出机配件**](../../x2d/maintenance/replace-extruder-components.md)
+
+![dlb055.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/dlb055.jpg)![fae035.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/fae035.jpg)![p2s_old_version.jpg](https://wiki.bambulab.com/p2s/maintenance/extruder_unit/p2s_old_version.jpg)
+
+> 挤出机前盖不同批次细节有所变化，新版如下图。  
+> ![p2s_new_version.jpg](https://wiki.bambulab.com/p2s/maintenance/extruder_unit/p2s_new_version.png)
 
 ## 何时更换
 

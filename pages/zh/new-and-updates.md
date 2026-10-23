@@ -4,9 +4,92 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-09-18T09:37:04.218Z
+updated: 2026-10-16T10:01:20.520Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 2026-W42
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [水箱更换指南](r1/maintenance/replace-water-tank.md) | 介绍激光设备水箱的更换时机、所需工具及拆卸排液、更换安装步骤。 | R1 |
+| [气泵更换指南](r1/maintenance/replace-air-pump.md) | 介绍设备气泵的拆卸与更换步骤，帮助用户完成维护更换操作。 | R1 |
+| [Y 皮带更换指南](r1/maintenance/replace-y-axis-belt.md) | 介绍设备 Y 皮带的作用、何时需要更换，以及更换步骤与安装后的功能验证方法。 | R1 |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [如何查找序列号及注册新序列号](general/find-sn.md) | 更新 AP 板二维码示意图，并补充仅新 AP 板带 SN 标签的说明 | 序列号 | X2D,X1 |
+| [Bambu Lab 打印机的直播功能](software/bambu-studio/virtual-camera.md) | 更新直播功能支持机型说明，改为除 P1 系列、A1 系列和 A2L 外均支持。 | 直播功能 | A1 系列,P1 系列,A2L,P2S,X1C,X1E,H2D,H2S,X1 |
+| [如何创建工单及上传日志](x1/troubleshooting/how-to-upload-log.md) | 补充 R1 激光切割机通过 USB-C 或局域网在 Bambu Suite 导出日志的方法。 | R1 激光切割机 | R1 |
+| [如何将日志文件上传到现有工单](x1/troubleshooting/update-log-to-a-ticket.md) | 补充 R1 激光切割机通过 USB-C 或局域网在 Bambu Suite 导出日志的方法。 | R1 激光切割机 | R1 |
+| [混色打印](bambu-studio/color-mixing.md) | 补充渐变效果会自动开启混色子层及失败排查说明 | 混色子层 | / |
+| [Bambu Studio 快速上手教程](software/bambu-studio/studio-quick-start.md) | 补充中国香港、中国澳门及中国台湾地区用户登录区域选择说明。 | 亚太 | / |
+| [A1 mini 产品维护与保养](a1-mini/maintenance/period-maintenance.md) | 更新润滑 X 轴导轨视频展示方式，并补充润滑油包装与勿用润滑脂提示 | 润滑 X 轴导轨 | A1 mini,A1 |
+| [A1 产品维护与保养](a1/maintenance/basic-maintenance.md) | 补充X/Y轴导轨润滑油包装识别说明，并更新工具头滑动风险处理指引 | 润滑油 | A1 系列,A1 |
+| [堵头](filament-acc/filament/print-quality/clog.md) | 删除打火机加热内六角扳手疏通方法 | 堵塞清理指南 | 耗材 |
+| [打印机网络端口](general/printer-network-ports.md) | 补充端口/IP 含义说明及网络阻止排查指引，优化大陆与全球用户列表展示 | 网络端口 | / |
+| [HMS\_0700-2000-0001-0086：读取AMS A槽位1的耗材信息失败，可能是进退料过程卡住导致RFID标签无法转动，请拔出耗材重试。](h2/troubleshooting/hmscode/0700_2000_0001_0086.md) | 补充无法拔出耗材的情况 | AMS | AMS,X1 |
+| [使用 0.2mm 喷嘴打印 - FAQ](knowledge-sharing/02-mm-nozzle-FAQ.md) | 更新喷嘴堵塞清理的参考指南链接为各机型喷嘴清理指南。 | 喷嘴清理指南 | X1 |
+| [透明/半透明 PLA/PETG 耗材打印指南](knowledge-sharing/transparent-petg.md) | 补充在 Bambu Studio 中添加并使用 X1C 配置文件的参考指南链接。 | Bambu Studio | 耗材 |
+| [更换 P1 系列工具头数据线](p1/maintenance/toolhead-cable.md) | 补充拆装拖链的参考操作说明 | 工具头数据线 | P1 系列,P1P,P1S |
+| [更换 P2S X 轴组件](p2s/maintenance/replace-x-axis-assembly.md) | 补充 XY 皮带固定点示意、左右侧拆装说明及安全提示 | XY皮带 | P2S,X2D |
+| [更换 P2S X 轴组件/工具头滑车组件](p2s/maintenance/replace-x-axis-assembly-and-toolhead-carriage.md) | 补充 XY 皮带固定点与 Y 滑车位置示意图说明。 | XY皮带示意图 | P2S,X2D |
+| [更换 P2S XY 皮带](p2s/maintenance/replace-xy-belt.md) | 补充同步带完全断裂时的手动穿装替代教程链接。 | 同步带更换教程 | P2S,X2D |
+| [更换 X2D 工具头电路板](x2d/maintenance/replace-th-board.md) | 补充霍尔检测板拆除说明及翻盖式连接器操作提示，更新排线拆装标注。 | 霍尔检测板 | X2D |
+| [HMS\_0300-9100-0001-000A: 腔温加热器1温控异常，AC 板可能故障。](x2d/troubleshooting/hmscode/0300_9100_0001_000A.md) | 补充故障成因说明，并新增排查电网问题与更换 AC 板指引。 | AC板 | X2D |
+
+## 2026-W41
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [HMS\_0300-9400-0003-0001: 腔体散热可能过慢。如腔内气体无害，可开箱辅助散热。](x1/troubleshooting/hmscode/0300_9400_0003_0001.md) | 更新告警说明表述，并将辅助散热方式改为开启打印机前门。 | 腔体散热 | X1 系列 |
+| [A1 mini 主板更换指南](a1-mini/maintenance/mc-board-replacement-guide.md) | 补充所需工具、拆装接头技巧并优化更换流程（先连线再锁主板螺丝）。 | 主板更换 | A1 mini |
+| [A1 系列打印机热端堵塞清理](a1-mini/troubleshooting/nozzle-clog.md) | 取消打火机加热内六角扳手疏通的方法，通针冷拔加强安全警示。 | 冷拔 | A1 系列,A1 |
+| [A1 产品维护与保养](a1/maintenance/basic-maintenance.md) | 补充X惰轮润滑时工具头限位与防脱轨安全提醒。 | X惰轮润滑 | A1 |
+| [包装清单补充说明](a1/manual/acc-in-the-box.md) | 补充 A1 单机版与 Combo 版包装清单中的电源线信息。 | 电源线 | A1,AMS |
+| [A2L 喷嘴堵塞清理](a2l/maintenance/cold-pull-maintenance-hotend.md) | 取消打火机加热内六角扳手疏通的方法，通针冷拔加强安全警示。 | 安全警示 | A2L |
+| [H2D 包装清单](h2/manual/acc-in-the-box.md) | 补充 H2D 多色套装搭配 AMS 2 Pro/AMS HT 的包装清单 | AMS 2 Pro | H2D,H2C,AMS 2 Pro,AMS HT,AMS |
+| [H2D 喷嘴/热端堵塞清理指南](h2/troubleshooting/unclogging.md) | 更新：删除“热六角扳手疏通法”整节内容。 | 热六角扳手疏通法 | H2D |
+| [H2C 喷嘴/热端堵塞清理指南](h2c/troubleshooting/unclogging.md) | 更新：删除“热六角扳手疏通法（适用于冷端堵塞）”整节内容。 | 热六角扳手疏通法 | H2C |
+| [H2S 喷嘴/热端堵塞清理指南](h2s/troubleshooting/nozzle-clog.md) | 更新并删除“热六角扳手疏通法”相关步骤说明。 | 热六角扳手疏通法 | H2S |
+| [使用 0.2mm 喷嘴打印 - FAQ](knowledge-sharing/02-mm-nozzle-FAQ.md) | 更新喷嘴堵塞清理说明，删除“热六角扳手疏通法” | 喷嘴堵塞 | X1 |
+| [P2S 喷嘴堵塞清理指南](p2s/maintenance/cold-pull-maintenance-hotend.md) | 更新堵塞清理章节结构，删除热六角扳手疏通内容并改写通针警示。 | 喷嘴堵塞 | P2S,H2D |
+| [更换 P2S/X2D Z 张紧器](p2s/maintenance/replace-z-belt-tensioner.md) | 更新 X2D 张紧器更换说明，明确比 P2S 少一颗螺丝及对应拆装差异。 | X2D | P2S,X2D |
+| [更换 AMS 顶盖及下盖组件](x1/maintenance/replace-ams-bottom-cover.md) | 更新线缆名称表述为“485总线和电源连接线” | 485总线 | AMS,X1 系列 |
+| [更换 AMS 主框架](x1/maintenance/replace-the-ams-main-frame.md) | 明确“485总线”连接说明。 | AMS主框架 | AMS,X1 系列 |
+| [HMS\_0500-0300-0001-0002: 工具头发生故障，请重新启动设备。](x1/troubleshooting/hmscode/0500_0300_0001_0002.md) | 补充 X2D 机型 | USB-C 数据线 | X2D |
+| [X1/P1 喷嘴/热端堵塞](x1/troubleshooting/nozzle-clog.md) | 更新喷嘴堵塞清理说明，删除“热六角扳手疏通法” | 喷嘴堵塞 | X1 系列,P1 系列 |
+| [X2D 喷嘴/热端堵塞清理指南](x2d/maintenance/cold-pull-maintenance-hotend.md) | 更新喷嘴堵塞清理说明，删除“热六角扳手疏通法” | 通针疏通 | X2D |
+
+## 2026-W39
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [R1](r1.md) | R1 Wiki 导航页，汇总维护指南与部件保养入口，如激光管、排烟风扇、滚轮送料、导轨等。 | / |
+| [打印中挤出失败故障排查](general/troubleshooting/extrusion-failure.md) | 介绍打印过程中挤出失败的排查流程，涵盖齿轮转动、挤出机堵塞、热端堵塞等常见原因。 | / |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [术语表](glossary.md) | 补充 R1 设备术语与部件说明。 | R1 | R1 |
+| [HMS\_0300-1100-0002-0001：Y 轴共振频率偏低，可能是同步带松了。](p2s/troubleshooting/hmscode/0300_1100_0002_0001.md) | 更新故障排查描述，将 X 轴清洁与张紧改为 Y 轴/导轨清洁和皮带张紧。 | Y轴 | P2S,X2D |
+| [Bambu Suite 版本说明](software/bambu-suite/release-notes.md) | 补充 V1.5.0.00 版本说明入口及 V1.4.0.00 的下载链接。 | Bambu Suite | / |
+| [CyberBrick USB 升级工具指南](cyberbrick/troubleshooting/wired-firmware-guide.md) | 更新工具说明，并补充开始前的软件与硬件准备信息。 | USB 升级工具 | / |
+| [更换 P2S AC/MC 板](p2s/maintenance/replace-mc-and-ac-boards.md) | 补充热床供电线缆的拆装方式说明，并调整相关图文版式。 | 线缆拆除方式 | P2S |
+| [P2S 固件发布记录](p2s/manual/p2s-firmware-release-history.md) | 补充 01.03.00.00 固件新增热端支持、Z轴降噪及多项功能优化 | 01.03.00.00 | P2S |
+| [PET-CF / PPA-CF / PPS-CF / PA6-CF 使用指南](filament/petcf_ppacf.md) | 更新烘干参考链接，并调整标签页版式。 | 烘干 | 耗材 |
+| [耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水的兼容性、适配性及参数设置](general/filament-guide-material-table.md) | 更新 PLA 夜光在 AMS/AMS Lite 中的兼容性表述，并调整相关说明。 | PLA夜光 | AMS |
+| [如何使用 Wiki？](how-to-use-wiki.md) | 更新 Wiki 使用指南，并补充 A1 mini、A1、A2L 等机型的按场景推荐文档入口。 | Wiki | A1 mini,A1,A2L,X1,AMS |
+| [Bambu 可重复使用料盘模型](knowledge-sharing/bambu-reusable-spool.md) | 补充临时料盘的使用风险与禁用于耗材烘干的说明 | 料盘 | AMS |
 
 ## 2026-W38
 

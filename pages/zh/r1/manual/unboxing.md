@@ -4,7 +4,7 @@ title: "R1 开箱指南"
 description: "本文介绍了 R1 的开箱指南，包含解锁固定件、安装排烟风扇、首次注水等流程。"
 tags: []
 created: 2026-09-22T13:09:34.418Z
-updated: 2026-09-22T13:10:27.842Z
+updated: 2026-09-24T01:48:46.077Z
 source: https://wiki.bambulab.com/zh/r1/manual/unboxing
 ---
 
@@ -19,8 +19,6 @@ source: https://wiki.bambulab.com/zh/r1/manual/unboxing
 > - 首次安装前，需提前准备约 **1500 mL 蒸馏水**（请勿使用自来水或矿泉水）。
 
 ## 视频指南
-
-即将发布。
 
 ## 包装内配件
 

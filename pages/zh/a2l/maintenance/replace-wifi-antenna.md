@@ -4,7 +4,7 @@ title: "A2L 更换 WIFI 天线"
 description: "本文介绍了如何更换 A2L WIFI 天线"
 tags: []
 created: 2026-06-01T13:16:31.043Z
-updated: 2026-08-28T06:46:08.554Z
+updated: 2026-10-22T02:34:15.862Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-wifi-antenna
 ---
 
@@ -38,7 +38,12 @@ A2L AC 板
 
 参照此教程移除前底盖：[更换底盖](replace-bottom-cover.md)
 
-### 2. 移除主板线缆
+### 2. 移除WiFi天线
+
+使用镊子或铲刀从底座上移除 WiFi 天线。  
+![wifi001.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/wifi001.webp)
+
+### 3. 移除主板线缆
 
 使用 H1.5 内六角螺丝刀拆下图示两颗螺丝，拔除工具头线缆。  
 ![dz005.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dz005.jpg)![dz006.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-bottom-cover/dz006.jpg)
@@ -55,15 +60,19 @@ A2L AC 板
 | 2 | AC 板 | 5 | 屏幕组件 |
 | 3 | Z 电机 |  |  |
 
-### 3. 移除主板上防火盖
+> \*\*注意：\*\*在拆卸主板上防火盖前，请先拆下固定主板上下防火盖的 4 颗螺丝。若未先拆下这 4 颗螺丝，直接打开卡扣或强行取出，可能导致主板的上下防火盖断裂。
 
-主板的上下防火盖通过四个卡扣固定，一手捏住上防火盖凸起部分，另一手使用镊子轻轻向外撬开四个卡扣即可取下上防火盖。  
+### 4. 移除主板上防火盖
+
+使用 H1.5 内六角螺丝刀移除主板上的 4 颗固定螺丝。  
+![ap005.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/ap005.jpg)  
+再拆卸上防火盖。主板的上下防火盖通过四个卡扣固定，一手捏住上防火盖凸起部分，另一手使用镊子轻轻向外撬开四个卡扣即可取下上防火盖。  
 ![wifi001.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/test/wifi001.jpg)  
 ![wifi002.webp](https://public-cdn.bblmw.com/wiki/new/a2l/test/wifi002.webp)
 
-> 撬动卡扣时请勿过分用力，以免损坏卡扣。
+> 撬动卡扣前，请确认 4 颗固定螺丝已拆除；撬动卡扣时请勿过分用力，以免损坏卡扣或导致主板上下防火盖断裂。
 
-### 4. 移除 WiFi 天线
+### 5. 移除 WiFi 天线
 
 用手指甲或镊子捏住插头侧的小凸起，沿垂直于PCB平面向上方向拔出插头。  
 ![wifi003.webp](https://public-cdn.bblmw.com/wiki/new/a2l/test/wifi003.webp)
@@ -83,6 +92,9 @@ A2L AC 板
 
 安装时注意 WiFi 天线需要放置在槽位内，不要挤压到。
 
+装回主板上防火盖后，使用 H1.5 内六角螺丝刀安装主板上的 4 颗固定螺丝。  
+![ap005.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/ap005.jpg)
+
 ### 3. 安装主板线缆
 
 **确保插头凸起面向上**，将其插入AP板插座，然后用H1.5内六角螺丝刀锁入两颗固定螺丝。  
@@ -91,7 +103,12 @@ A2L AC 板
 将剩余插头依次装回主板，插头均有防呆措施，请仔细核对方向并安装到位。  
 ![ap001.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-mainboard/ap001.jpg)
 
-### 4. 安装前底盖
+### 4. 安装WiFi天线
+
+将天线粘贴到图示位置。  
+![wifi002.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-printer-frame/wifi002.webp)
+
+### 5. 安装前底盖
 
 参照此教程装回前底盖：[更换底盖](replace-bottom-cover.md)
 

@@ -4,13 +4,15 @@ title: "H2D 包装清单"
 description: "本文汇总 H2D多色打印套装\ H2D 激光全能套装\H2D单机版本的包装配件清单"
 tags: []
 created: 2025-04-01T13:06:45.557Z
-updated: 2026-09-02T07:43:59.332Z
+updated: 2026-09-30T14:29:06.975Z
 source: https://wiki.bambulab.com/zh/h2/manual/acc-in-the-box
 ---
 
 ## 包装清单
 
 **配件的种类、数量可能会随时发生变化，请您以实际收到的为准。**
+
+> 下方包装清单对应 **H2D 多色打印套装（标准版）**。若为 **H2D 多色打印套装 + AMS 2 Pro** 或 **H2D 多色打印套装 + AMS HT** 版本，请参见表格下方的说明。
 
 |  |  |  |
 | --- | --- | --- |
@@ -24,6 +26,17 @@ source: https://wiki.bambulab.com/zh/h2/manual/acc-in-the-box
 | 快速入门指南  保修条款  免责声明和安全指引 | 快速入门指南  保修条款  免责声明和安全指引 | 快速入门指南  保修条款  免责声明和安全指引 |
 | **耗材盒**  - 激光垫板 - 刀切垫板 - 高粘性刀切粘板（已预装至刀切垫板） - 低粘性刀切粘板（已预装至刀切垫板） - 激光垫板支撑条组 - 耗材压紧块 - 椴木胶合板 - 软木片 - 热转印刻字膜 - 珠光白贺卡套装 - 矩形激光变色 PU 热熔贴片 - 圆形不锈钢吊牌（大号和小号） - 清洁刷 | / | / |
 | **以下配件出厂时包装在 AMS 2 Pro 内**：  排烟管  排烟管转接件  排烟管卡箍  排烟管转接件固定螺丝  气泵进气管 | / | / |
+
+### 其他版本
+
+- **H2D 多色打印套装 + AMS 2 Pro** = H2D 多色打印套装（Combo） + AMS 2 Pro  
+  其中 AMS 2 Pro 包含：Bambu AMS 2 Pro、干燥剂、铁氟龙料管、6-pin 连接线。  
+  ![ams_2_pro_list.png](https://wiki.bambulab.com/h2/h2d-to-h2c-acc-in-the-box/ams_2_pro.png)
+- **H2D 多色打印套装 + AMS HT** = H2D 多色打印套装（Combo） + AMS HT  
+  其中 AMS HT 包含：Bambu AMS HT、干燥剂、铁氟龙料管、6-pin 连接线、电源线（仅适用于 AMS HT）。  
+  ![ams_ht_list.png](https://wiki.bambulab.com/h2/h2d-to-h2c-acc-in-the-box/ams_ht_box.png)
+
+> H2D 连接多台 AMS 2 Pro 同时烘干耗材时，仅其中 1 台可由打印机供电，其余需通过[电源适配器](../../ams-2-pro/maintenance/replace-switching-adapter.md)独立供电。**H2D 多色打印套装 + AMS 2 Pro** 只包含一条电源适配器，如需同时为第 2 台 AMS 2 Pro 烘干，请单独购买。
 
 ## 配件介绍
 

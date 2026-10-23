@@ -4,7 +4,7 @@ title: "混色打印"
 description: "学习如何使用 Bambu Studio 的颜色混合功能，在单次打印中通过双色混合或三色混合，实现自定义的色调和渐变效果。"
 tags: []
 created: 2026-07-02T09:02:15.300Z
-updated: 2026-09-15T01:59:11.546Z
+updated: 2026-10-14T01:40:50.506Z
 source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 ---
 
@@ -58,6 +58,9 @@ source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 
 ![](https://wiki.bambulab.com/software/bambu-studio/color-mixing/gradient-effect_zh.png)
 
+> **注意**：勾选**渐变效果**后，将自动开启**混色子层**功能。若渐变效果开启失败，请检查**混色子层**功能是否开启。  
+> ![mixed_color_sublayer_zh.png](https://wiki.bambulab.com/software/bambu-studio/color-mixing/mixed_color_sublayer_zh.png)
+
 **功能原理**：通过在打印件垂直方向上，改变两种颜色各层的相对厚度，实现视觉上的渐变效果。具体效果可通过在渐变颜色曲线图上自定义控制点来调整。
 
 ![](https://wiki.bambulab.com/software/bambu-studio/color-mixing/edit-material-ratio_zh.png)
@@ -97,7 +100,7 @@ source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 
 ### 耗材要求
 
-仅支持==相同类型的耗材==相互混色（例如全部为 PLA 耗材）。不支持 PLA 与 PETG 或其他类型耗材之间互相混色。
+仅支持**相同类型的耗材**相互混色（例如全部为 PLA 耗材）。不支持 PLA 与 PETG 或其他类型耗材之间互相混色。
 
 ### 层高设置
 

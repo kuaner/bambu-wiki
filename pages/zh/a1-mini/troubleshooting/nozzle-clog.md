@@ -1,10 +1,10 @@
 ---
 path: zh/a1-mini/troubleshooting/nozzle-clog
 title: "A1 系列打印机热端堵塞清理"
-description: "本指南介绍 A1 系列打印机热端堵塞清理的 4 种方法。"
+description: "本指南介绍 A1 系列打印机热端堵塞清理的 3 种方法。"
 tags: ["a1", "a1 mini", "热端堵塞"]
 created: 2023-11-07T08:08:56.580Z
-updated: 2026-08-28T08:26:29.715Z
+updated: 2026-10-14T03:09:22.898Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 **部分堵塞会导致模型打印异常、挤出不均，打印质量明显下降。**  
 此外，喷嘴内部压力和流量不稳定，也会使[动态流量](../../software/bambu-studio/calibration_pa.md)的 K 值校准不准确，进一步影响打印质量。
 
-![](https://wiki.bambulab.com/流量校准问题.png)
+![](https://wiki.bambulab.com/%E6%B5%81%E9%87%8F%E6%A0%A1%E5%87%86%E9%97%AE%E9%A2%98.png)
 
 ## 堵塞原因
 
@@ -32,16 +32,15 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 
 - 通针
 - 钳子
-- H1.5/H2.0 内六角扳手
 - 隔热手套
 - 一小段耗材
 
-![](https://wiki.bambulab.com/堵塞清理工具.png)
+![nozzle_cleaning_tool.jpg](https://wiki.bambulab.com/x1/maintenance/cold-pull/nozzle_cleaning_tool.jpg)
 
 ## 安全提示
 
 > 本指南中的部分操作涉及高温喷嘴，具有一定危险性，请务必采取必要的安全防护措施。部分操作需要在**机器断电**并且**喷嘴完全冷却**的情况下进行。  
-> 当需要手持热端时，请务必佩戴隔热手套；并确保热端下方的地面或桌面上没有可燃物，以及易被高温损坏的家具和地板。
+> 当需要手持热端时，请**务必佩戴隔热手套**；并确保热端下方的地面或桌面上没有可燃物，以及易被高温损坏的家具和地板。
 
 ## 方法一：手动挤出耗材
 
@@ -49,16 +48,16 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 
 ### 步骤 1 ：加热喷嘴
 
-将喷嘴温度提高到略高于耗材要求的温度（以PLA为例，设置热端温度为250℃）。
+将喷嘴温度提高到略高于耗材要求的温度（以 PLA 为例，设置热端温度为 250℃）。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/nozzle-clog/02_屏幕喷嘴温度设置界面.jpg)
+![](https://wiki.bambulab.com/n1/troubleshooting/nozzle-clog/02_%E5%B1%8F%E5%B9%95%E5%96%B7%E5%98%B4%E6%B8%A9%E5%BA%A6%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2.jpg)
 
-#### 步骤 2 ：手动挤出
+### 步骤 2 ：手动挤出
 
 点击屏幕上的“进料”按钮挤出耗材。  
 **若使用 TPU 材料，“进料”按钮最多只能点击三次。同时避免快速连续点击“退料”按钮，以防出现卡料或缠料。**
 
-![](https://wiki.bambulab.com/n1/troubleshooting/nozzle-clog/04_屏幕参数控制界面.jpg)
+![](https://wiki.bambulab.com/n1/troubleshooting/nozzle-clog/04_%E5%B1%8F%E5%B9%95%E5%8F%82%E6%95%B0%E6%8E%A7%E5%88%B6%E7%95%8C%E9%9D%A2.jpg)
 
 观察耗材是否正确挤出。耗材应呈直线状连续流出，如下图所示：
 
@@ -77,8 +76,9 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 
 温度达到后，将通针插入喷嘴口，反复上下疏通数次。
 
-![](https://wiki.bambulab.com/a1m/troubleshooting/nozzle-clog/铜针.webp)
-> 使用通针时，堵塞可能会在喷嘴内部累积压力，导致熔融耗材突然喷溅。请佩戴隔热手套，并在清洁过程中保持头部远离打印机。
+![](https://wiki.bambulab.com/a1m/troubleshooting/nozzle-clog/%E9%93%9C%E9%92%88.webp)
+
+> **❗ 警示**：操作时**请务必佩戴隔热手套，并使头部、面部远离打印机**。此时喷嘴温度高，且疏通中堵塞物可能在喷嘴内积压，导致熔融耗材突然喷溅烫伤。图中未佩戴手套仅为疏通动作示意，请勿效仿。
 
 ### 步骤 3 ：手动挤出
 
@@ -86,17 +86,17 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 
 ## 方法三：使用通针进行冷拔
 
-以下视频演示了使用通针进行冷拔的具体步骤：  
-[Click here](https://public-cdn.bblmw.com/wiki/A1-mini/A1-mini-nozzle-clogging-en.mp4)  
+以下视频演示了使用通针进行冷拔的具体步骤：
+
 您也可以参考下面的图文步骤清理堵塞：
 
-#### 步骤 1 ：开始前的准备
+### 步骤 1 ：开始前的准备
 
 将 Z 轴移动到合适的高度，同时将工具头也移动到合适的高度；并将工具头前壳拆掉，以便于进行下一步的操作。
 
 ![](https://wiki.bambulab.com/n1/troubleshooting/nozzle-clog/06_a1_mini%E6%AD%A3%E9%9D%A2.png)
 
-#### 步骤 2 ：加热热端并移除料线
+### 步骤 2 ：加热热端并移除料线
 
 将热端加热至 100℃（以 PLA 为例），在加热的状态下将热端取下（**请带好防烫手套操作！**）
 
@@ -108,7 +108,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 
 ![](https://wiki.bambulab.com/a1m/troubleshooting/nozzle-clog/%E9%92%B3%E5%AD%90%E6%8B%94%E4%B8%8B.webp)
 
-#### 步骤 3 ：装回热端并重新加热
+### 步骤 3 ：装回热端并重新加热
 
 将热端装回。
 
@@ -120,7 +120,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 | --- | --- |
 |  |  |
 
-#### 步骤 4 ：手动挤出并冷拔
+### 步骤 4 ：手动挤出并冷拔
 
 如果从喷嘴挤出的料线完全变成了新加载的料线，则可以将热端温度降为100℃，并开始冷拔。
 
@@ -128,48 +128,13 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 | --- | --- |
 |  |  |
 
-#### 步骤 5 ：重新连接 PTFE 管，检验挤出效果
+### 步骤 5 ：重新连接 PTFE 管，检验挤出效果
 
 重新连接 PTFE 管，装载耗材并测试挤出情况。若仍然无法挤出或挤出不足，则需要重复多次喷嘴疏通操作。
 
 ![](https://wiki.bambulab.com/a1m/troubleshooting/nozzle-clog/%E9%93%9C%E9%92%88.webp)
 
-## 方法四：使用内六角扳手拔出堵塞耗材
-
-以下图片以 H2 系列喷嘴为例进行展示，其结构与 A1 喷嘴非常相似，操作步骤完全一致。
-
-> 操作时请佩戴隔热手套，防止高温耗材滴落灼伤手指。
-
-### 步骤 1 ： 加热内六角扳手
-
-首先将内六角扳手加热约 10s。使用钳子牢牢夹住扳手，注意不要被烫伤。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/heat_up_allen_key.jpg)
-
-### 步骤 2 ：将内六角扳手插入热端顶部
-
-从热端顶部插入加热后的内六角扳手，扳手会插入堵塞的耗材中，如下图所示。  
-等待大约 30s，让内六角扳手自然冷却。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/insert_the_hex_wrench.jpg)
-
-### 步骤 3 ： 加热热端，拔出堵塞的耗材
-
-1. 取下热端的硅胶套；
-2. 使用打火机对喷嘴尖端加热约 20s（以普通打火机为例）。
-
-> 请避免长时间加热喷嘴或使用高功率丁烷喷枪。建议使用普通燃气打火机进行加热。  
-> 只需将喷嘴加热至能够将内六角扳手连同堵塞的耗材一并拔出的温度即可。过度加热可能导致耗材从喷嘴尖端滴落或突然喷出。请严格按照说明操作，并确保加热时喷嘴尖端不要朝向自己。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/heat_up_hot_end.jpg)
-
-3. 缓慢拔出内六角扳手，热端里被堵塞的耗材会附着在内六角扳手上被带出。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/pulled_filament.jpg)
-
-### 步骤 4 ：装回喷嘴
-
-您可以参考[更换 A1 热端 | Bambu Lab Wiki](../../a1/maintenance/replace-hotend.md) 了解重新安装热端的详细步骤。
+> **❗ 警示**：操作时**请务必佩戴隔热手套，并使头部、面部远离打印机**。此时喷嘴温度高，且疏通中堵塞物可能在喷嘴内积压，导致熔融耗材突然喷溅烫伤。图中未佩戴手套仅为疏通动作示意，请勿效仿。
 
 ## 验证功能
 

@@ -4,7 +4,7 @@ title: "USB 接口板更换指南"
 description: ""
 tags: []
 created: 2026-09-22T13:19:35.535Z
-updated: 2026-09-22T13:19:36.756Z
+updated: 2026-10-10T10:06:48.499Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-usb-port-board
 ---
 
@@ -25,7 +25,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-usb-port-board
 
 ### 步骤 1.移除前后盖板组
 
-参照[前后盖板组更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-front-rear-panel-set)移除前后盖板组。
+参照[前后盖板组更换指南](replace-front-rear-panel-set.md)移除前后盖板组。
 
 ### 步骤 2.断开所有对外接口
 
@@ -113,7 +113,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-usb-port-board
 
 ### 步骤 4.安装前后盖板
 
-参照[前后盖板组更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-front-rear-panel-set)装回前后盖板组。
+参照[前后盖板组更换指南](replace-front-rear-panel-set.md)装回前后盖板组。
 
 ## 结束语
 

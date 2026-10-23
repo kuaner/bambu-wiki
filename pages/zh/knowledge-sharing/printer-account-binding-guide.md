@@ -4,7 +4,7 @@ title: "Bambu Lab 打印机账号绑定指南"
 description: ""
 tags: []
 created: 2025-04-16T09:20:39.869Z
-updated: 2026-06-02T03:08:00.951Z
+updated: 2026-10-19T12:40:32.962Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-binding-guide
 ---
 
@@ -50,7 +50,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-binding-g
 
 ### 账号绑定
 
-进入“设置”点击“账户”,使用 **Bambu Hadny** 手机 APP 根据提示为设备绑定网络和账号。
+进入“设置”点击“账户”,使用 **Bambu Handy** 手机 APP 根据提示为设备绑定网络和账号。
 
 |  |  |
 | --- | --- |

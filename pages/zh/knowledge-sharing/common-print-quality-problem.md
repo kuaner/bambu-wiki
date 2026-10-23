@@ -4,7 +4,7 @@ title: "常见打印质量问题和解决办法"
 description: ""
 tags: ["打印质量", "翘边", "拉丝", "漏料", "首层不粘"]
 created: 2023-03-26T06:01:12.450Z
-updated: 2026-08-28T08:24:32.466Z
+updated: 2026-10-14T03:01:26.196Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/common-print-quality-problem
 ---
 
@@ -47,7 +47,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/common-print-quality-prob
 
 **2. 喷嘴内部空腔过小导致耗材熔体无法顺利挤出**
 
-- 打印含纤维等颗粒的耗材（如 PAHT-CF、PA-GF 等）后，喷嘴内部可能会因为颗粒残留、积累而造成部分堵塞，需要经常疏通、清理喷嘴。疏通、清理方法为：卸下热端螺钉，升温到 250 ~ 280 ℃ 之间后用内六角扳手等金属件刮擦喷嘴内部，用普通耗材冲刷，并用通针疏通，直到可顺畅出料为止（用在 220 ℃ 下手推 PLA 耗材进料的方法来判断）[喷嘴堵塞](../x1/troubleshooting/nozzle-clog.md)。如果喷嘴已无法疏通，则需要更换新喷嘴。**（**[更换热端及其相关组件 | Bambu Lab Wiki](../x1/maintenance/replace-hotend.md)**）**  另外，打印这类耗材时，推荐使用 0.6 mm 或 0.8 mm 口径的喷嘴来降低喷嘴堵塞的风险；严禁使用 0.2 mm 喷嘴，否则喷嘴堵塞风险极高。要把这类耗材打印得更好，可以参考 wiki：[工程材料打印小贴示 | Bambu Lab Wiki](../filament/petcf_ppacf.md)。
+- 打印含纤维等颗粒的耗材（如 PAHT-CF、PA-GF 等）后，喷嘴内部可能会因为颗粒残留、积累而造成部分堵塞，需要经常疏通、清理喷嘴（具体操作请参考：[各机型喷嘴清理指南](https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/clog#clog-cleaning-guide)）。如果喷嘴已无法疏通，则需要更换新喷嘴。**（**[更换热端及其相关组件 | Bambu Lab Wiki](../x1/maintenance/replace-hotend.md)**）** 另外，打印这类耗材时，推荐使用 0.6 mm 或 0.8 mm 口径的喷嘴来降低喷嘴堵塞的风险；严禁使用 0.2 mm 喷嘴，否则喷嘴堵塞风险极高。要把这类耗材打印得更好，可以参考 wiki：[工程材料打印小贴示 | Bambu Lab Wiki](../filament/petcf_ppacf.md)。
 - 喷嘴使用较久后，内部会有较多残渣，这也可能会导致挤出不顺畅，需要清理喷嘴内部至挤出顺畅后再使用（操作方法与前述相同）。如果无法清洁至挤出顺畅，建议更换新喷嘴。
 - 打印完 PAHT-CF、PET-CF、PPA-CF、PPA-GF、PPS、PPS-CF 等熔融温度较高的高温耗材后，要打印 PLA、TPU、PETG 等打印温度较低、硬度较低的低温耗材时，建议先把喷嘴温度设为 250 ~ 300 ℃ ，其次把高温耗材手动退出，接着把要打印的低温料放入，再手动挤出，确保高温料的残余料和新低温料都已流出喷嘴后，然后把喷嘴温度设置为 220 ~ 240 ℃，降温期间继续挤出，直到温度稳定，确保新低温料已经能顺利流出喷嘴，最后准备下一次打印。如果用新料冲刷旧料时，发现无法挤出，则需要采取调高喷嘴温度和使用通针疏通喷嘴等方法。
 

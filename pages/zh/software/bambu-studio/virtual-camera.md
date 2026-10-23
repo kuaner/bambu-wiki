@@ -4,7 +4,7 @@ title: "Bambu Lab 打印机的直播功能"
 description: ""
 tags: ["bambu studio"]
 created: 2023-08-29T04:30:56.320Z
-updated: 2025-10-23T02:46:50.930Z
+updated: 2026-10-13T09:57:49.511Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/virtual-camera
 ---
 
@@ -12,9 +12,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/virtual-camera
 
 ### **支持机型**
 
-X1、X1C、X1E
-
-部分地区的 H2D、H2S 、P2S暂不支持直播功能（后续会通过软件更新支持）
+除了 P1 系列、A1 系列和 A2L 外，其他机型均支持直播功能。
 
 ### 准备虚拟摄像头工具
 

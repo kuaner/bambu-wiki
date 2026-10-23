@@ -4,7 +4,7 @@ title: "P2S"
 description: ""
 tags: []
 created: 2025-10-14T13:07:42.724Z
-updated: 2026-08-30T09:23:49.292Z
+updated: 2026-10-12T08:50:21.805Z
 source: https://wiki.bambulab.com/zh/p2s
 ---
 
@@ -111,6 +111,7 @@ source: https://wiki.bambulab.com/zh/p2s
 - [更换 P2S 热端加热组件/热端风扇](maintenance/replace-hotend-heating-assembly-and-cooling-fan.md)
 - [更换 P2S 挤出电机](maintenance/replace-3508-extruder-servo-motor.md)
 - [更换 P2S 涡流线圈](maintenance/replace-eddy-sensor.md)
+- [更换 P2S 霍尔开关板组件](maintenance/replace-hall-switch-board.md)
 
 ### 电源/电路板/线缆
 

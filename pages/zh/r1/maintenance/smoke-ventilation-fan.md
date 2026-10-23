@@ -4,7 +4,7 @@ title: "R1 排烟风扇和滤网维护指南"
 description: "本文介绍了如何进行 R1 排烟风扇和滤网维护"
 tags: []
 created: 2026-09-22T13:09:18.521Z
-updated: 2026-09-22T13:09:19.740Z
+updated: 2026-09-28T01:43:51.742Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/smoke-ventilation-fan
 ---
 
@@ -26,6 +26,8 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/smoke-ventilation-fan
 ## 安全提示
 
 > 在对激光切割机及其电子设备（包括工具头线缆）进行任何维护前，请先关闭设备电源并断开电源连接，以防屏幕误触或电路短路造成额外的设备损坏与安全隐患。维护或排查故障前，请确认相关部件已冷却。
+
+## 视频教程
 
 ## 维护步骤
 

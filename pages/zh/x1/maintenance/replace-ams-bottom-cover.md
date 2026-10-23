@@ -4,7 +4,7 @@ title: "更换 AMS 顶盖及下盖组件"
 description: ""
 tags: []
 created: 2022-09-02T06:54:11.373Z
-updated: 2026-04-02T03:52:51.708Z
+updated: 2026-10-09T00:25:18.504Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-ams-bottom-cover
 ---
 
@@ -52,7 +52,7 @@ AMS下盖组件是指已安装所有密封件的AMS底壳。
 
 ### 步骤3 - 移除AMS主框架组件
 
-将Bambu总线电缆和电源电缆从AMS电源板上断开，现在，您可以取出AMS主框架组件了。
+将 485 总线和电源连接线从 AMS 电源板上断开，现在，您可以取出 AMS 主框架组件了。
 
 ![](https://wiki.bambulab.com/x1/maintenance/replace-ams-power-board/377px-2_cables_ams_power_board.png)
 
@@ -92,7 +92,7 @@ AMS下盖组件是指已安装所有密封件的AMS底壳。
 
 ### 步骤8 -安装AMS主框架组件
 
-将AMS主框架组件装入AMS外壳，并将Bambu总线电缆和电源电缆连接到AMS电源板。
+将AMS主框架组件装入AMS外壳，并将 485 总线和电源连接线连接到AMS电源板。
 
 |  |  |
 | --- | --- |

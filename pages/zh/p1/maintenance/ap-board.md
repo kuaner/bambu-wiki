@@ -1,10 +1,10 @@
 ---
 path: zh/p1/maintenance/ap-board
 title: "更换 P1 系列 AP 板"
-description: "拆装P1P打印机AP主板的操作步骤"
-tags: ["p1"]
+description: "本文介绍 P1 系列打印机更换 AP 板的操作步骤与注意事项。"
+tags: ["p1", "p1p", "p1s"]
 created: 2022-12-11T15:08:13.008Z
-updated: 2026-08-28T06:19:12.655Z
+updated: 2026-10-16T01:55:38.336Z
 source: https://wiki.bambulab.com/zh/p1/maintenance/ap-board
 ---
 
@@ -99,7 +99,7 @@ AP 板的全称为应用处理器主板（Application Processor Main Board），
 > **注意：**  
 > 新 SN 注册成功后，旧 SN 将会作废，旧的 AP 板也将不能再被注册或绑定。
 
-更换 AP 板后，由于新的 SN 未注册，无法进行绑定操作。因此，在更换 AP 板后首次开机时，可跳过绑定机器步骤，并检验更换 AP 板是否解决问题（网络连接问题除外）。确认问题解决后，您可登录拓竹官网 <https://bambulab.com/zh/support> 申请绑定新序列号（SN），或联系拓竹科技客服注册新 SN。
+更换 AP 板后，由于新的 SN 未注册，无法进行绑定操作。因此，更换后首次开机时，可跳过绑定机器的步骤，并检验更换 AP 板是否解决问题 （网络连接问题除外）。确认问题解决后，您可登录 [拓竹科技官网](https://bambulab.com/zh/support) 申请绑定新序列号，或联系拓竹科技客服注册新 SN。详细说明可参考：[**如何查找序列号及注册新序列号**](../../general/find-sn.md)
 
 ![register_sn.jpg](https://wiki.bambulab.com/x2d/maintenance/ap-board/register_sn.jpg)
 

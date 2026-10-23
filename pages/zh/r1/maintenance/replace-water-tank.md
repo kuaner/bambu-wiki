@@ -4,7 +4,7 @@ title: "水箱更换指南"
 description: ""
 tags: []
 created: 2026-10-10T09:57:56.086Z
-updated: 2026-10-10T09:57:56.086Z
+updated: 2026-10-10T09:57:57.141Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-water-tank
 ---
 

@@ -4,7 +4,7 @@ title: "E1 Pro 净化器安装使用指南"
 description: "本文介绍了 E1 Pro 净化器的开箱步骤和使用方式，包含与 R1 激光切割机的连接指南、按钮介绍和显示屏图标等。"
 tags: []
 created: 2026-09-22T13:10:20.311Z
-updated: 2026-09-22T13:10:21.564Z
+updated: 2026-09-24T10:02:52.273Z
 source: https://wiki.bambulab.com/zh/r1/manual/air-purifier-unboxing
 ---
 
@@ -15,8 +15,6 @@ source: https://wiki.bambulab.com/zh/r1/manual/air-purifier-unboxing
 > - 为优化用户体验，部分图示可能更新，请以实际为准。
 
 ## 视频指南
-
-即将发布。
 
 ## 安全提示
 
@@ -136,7 +134,7 @@ source: https://wiki.bambulab.com/zh/r1/manual/air-purifier-unboxing
 ### 开/关按钮
 
 - 按一下可唤醒或熄灭屏幕。
-- 开机状态下长按，净化器会停止运行并待机，再次长按即可唤醒（默认重置为自动模式）。
+- 开机状态下长按，净化器会停止运行并待机，再次长按即可唤醒。
 
 ### 风速按钮
 

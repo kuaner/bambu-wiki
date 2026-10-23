@@ -2,15 +2,17 @@
 path: zh/h2s/maintenance/replace-toolhead-camera
 title: "更换 H2S 工具头摄像头"
 description: ""
-tags: []
+tags: ["h2s"]
 created: 2025-08-26T02:41:07.662Z
-updated: 2026-08-28T08:40:53.355Z
+updated: 2026-10-10T09:23:18.365Z
 source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-toolhead-camera
 ---
 
 > **隐私提示**：请确保摄像头已正确安装，使摄像头视野正确朝向打印机腔体，以避免对打印区域或喷嘴的检测出现问题。
 
 工具头摄像头安装在工具头的右侧，可用于运动精度校准，打印板与激光垫板标识码识别。工具头摄像头以及配件明细如下：
+
+![h2s_toolhead_camera.png](https://wiki.bambulab.com/h2s/maintenance/replace-toolhead-camera/h2s_toolhead_camera.png)
 
 1. 工具头摄像头 \* 1
 2. BT2x8 螺丝 \* 2
@@ -217,40 +219,11 @@ source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-toolhead-camera
 
 ![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/replace-toolhead-camera/image-28.png)
 
-## 功能确认
+## 如何验证成功
 
-为确保一切正常运行，需将热端温度设置为 100℃。如设置成功，屏幕上将会显示相应温度。
+连接电源，启动打印机，没有摄像头关联的报错信息即可。
 
-## 设备校准
-
-建议在此操作后对打印机进行全面校准。
-
-> 强烈建议[在使用前清洗 PEI 纹理板](../../general/textured-PEI-plate-not-working-as-expected.md)，因为打印板可能在此过程中受到污染。
-
-## 潜在问题和解决方案
-
-如果在安装新的热端加热组件过程中遇到问题，请检查下列潜在问题和解决方案：
-
-### 热端温度为 0℃
-
-- 检查热端加热组件连接器，确保正确插入。
-- 请参考**步骤 5 连接线缆**。
-- 必须仔细将连接器 pin 对准 [TH 板](../../a1-mini/th-board-replacement-guide.md)。
-
-*如果问题仍然存在，热敏电阻线可能已损坏（白线）。*
-
-### 热端无法加热
-
-- 检查热端加热组件连接器，确保正确插入。
-- 请参考**步骤 5 连接线缆**。
-- 必须仔细将连接器 pin 对准 [TH 板](../../a1-mini/th-board-replacement-guide.md) 。
-
-*如果问题仍然存在，加热器电线可能已损坏（半透明电线）。*
-
-### 首层问题
-
-- 确保热端加热器组件的螺丝已拧紧，并在开始打印前已启用热床调平功能。
-- 请参考[A1系列打印首层打印质量问题及对应方案](../../a1-mini/troubleshooting/print-issues-troubleshooting.md) 获取更多相关问题及解决方案。
+如果您遇到任何问题，请先回溯您的步骤并检查所有连接以重试。 如果问题仍然存在，请联系 Bambu Lab 服务团队寻求进一步帮助。
 
 ## 结束语
 

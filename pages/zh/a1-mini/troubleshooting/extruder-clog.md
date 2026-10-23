@@ -4,7 +4,7 @@ title: "A1 系列挤出机清理"
 description: "本文介绍如何对 A1 系列挤出机进行清洁"
 tags: ["挤出机", "a1"]
 created: 2023-11-10T03:46:55.154Z
-updated: 2026-08-28T08:26:33.465Z
+updated: 2026-09-23T09:04:25.545Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/extruder-clog
 ---
 
@@ -27,7 +27,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/extruder-clog
 
 #### 步骤1: 移除喷嘴组件
 
-（如果挤出机处于咬合料线的状态，请使用切刀手动切断料线）从侧面用力按压工具头前盖，解锁并移除工具头前盖，用手扣热端硅胶套侧面的凸起，移除热端硅胶套。
+（如果挤出机处于咬合料线的状态，请使用切刀手动切断料线）扣住前盖的底部，缓慢地按图示方向把它拉向自己。固定前盖的卡扣会松开，您即可将其取下。用手扣热端硅胶套侧面的凸起，移除热端硅胶套。
 
 |  |  |
 | --- | --- |

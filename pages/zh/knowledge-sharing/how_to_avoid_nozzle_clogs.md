@@ -4,7 +4,7 @@ title: "如何有效防止喷嘴堵塞"
 description: "本指南介绍了预防3D打印喷嘴堵塞的实用方法，包括耗材选择、存储、维护和故障排除，帮助确保打印顺畅、效果可靠。"
 tags: []
 created: 2025-09-15T04:01:07.252Z
-updated: 2026-08-28T06:25:19.255Z
+updated: 2026-10-10T03:34:55.428Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/how_to_avoid_nozzle_clogs
 ---
 
@@ -131,7 +131,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/how_to_avoid_nozzle_clogs
 | [H2S热端堵塞清理](../h2s/troubleshooting/nozzle-clog.md) | 系统介绍 H2S 热端堵塞时的故障排除方法及详细操作步骤。 |
 | [H2C 喷嘴堵塞排查](../h2c/troubleshooting/clogging.md) | 介绍当 H2C 热端堵塞时如何清理 |
 | [P2S 喷嘴堵塞清理指南](../p2s/maintenance/cold-pull-maintenance-hotend.md) | 详细介绍 P2S 打印机喷嘴堵塞的清理方法。 |
-| [X2D 喷嘴堵塞清理指南](https://wiki.bambulab.com/e/zh/x2d/maintenance/cold-pull-maintenance-hotend) | 详细介绍 X2D 打印机喷嘴堵塞的清理方法。 |
+| [X2D 喷嘴堵塞清理指南](../x2d/maintenance/cold-pull-maintenance-hotend.md) | 详细介绍 X2D 打印机喷嘴堵塞的清理方法。 |
 | [A1 系列打印机热端堵塞清理](../a1-mini/troubleshooting/nozzle-clog.md) | 介绍当 A1 系列打印机热端堵塞时如何清理。 |
 | [A2L 系列打印机热端堵塞清理](../a2l/maintenance/cold-pull-maintenance-hotend.md) | 介绍当 A2L 系列打印机热端堵塞时如何清理。 |
 

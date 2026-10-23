@@ -4,7 +4,7 @@ title: "H2S 喷嘴/热端堵塞清理指南"
 description: "本文介绍当 H2S 热端堵塞时如何清理"
 tags: ["h2s", "热端堵塞"]
 created: 2025-08-26T02:19:58.844Z
-updated: 2026-08-28T06:24:09.434Z
+updated: 2026-10-14T03:06:36.521Z
 source: https://wiki.bambulab.com/zh/h2s/troubleshooting/nozzle-clog
 ---
 
@@ -17,13 +17,12 @@ source: https://wiki.bambulab.com/zh/h2s/troubleshooting/nozzle-clog
 
 为了解决大部分的堵塞问题，你可能会用到以下工具：
 
-- H1.5 或 H2.0 内六角扳手
 - 通针
 - 钳子
 - 防烫手套
 - 耗材
 
-![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/troubleshooting/nozzle-clog/image.png)
+![nozzle_cleaning_tool.jpg](https://wiki.bambulab.com/x1/maintenance/cold-pull/nozzle_cleaning_tool.jpg)
 
 ## 操作前的注意事项及机器状态
 
@@ -134,50 +133,6 @@ source: https://wiki.bambulab.com/zh/h2s/troubleshooting/nozzle-clog
 |  |  |
 | --- | --- |
 |  |  |
-
-## 4. 热六角扳手疏通法（适用于冷端堵塞）
-
-> 注意：此方法只能使用 H1.5 及以下扳手。
-
-少部分堵塞现象是耗材由于热蠕变问题而卡在热端散热片位置。这篇文章详细介绍了[热蠕变](../../filament-acc/filament/heat-creep.md)，我们建议您阅读，并了解如何避免此类堵塞。
-
-接下来的步骤需要拆下喷嘴。 这篇文章涵盖了 [H2S 喷嘴的拆卸和重新安装步骤](../maintenance/replace-silicone-sock-and-hotend.md) ，以备您随时查阅。
-
-> ⚠️**警告**：操作过程中请**佩戴防护手套**，避免熔化的耗材滴到手指上造成灼伤。
-
-### 步骤 1. 加热六角扳手
-
-首先**加热六角扳手**约 10 s 。用钳子牢牢夹住六角扳手，以免烫伤自己。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/heat_up_allen_key.jpg)
-
-### 步骤2. 将六角扳手插入喷嘴入口
-
-当扳手尖端还热的时候，快速将其推入热端，穿过散热器的顶端。
-
-将热扳手插入耗材内部，如下图所示。然后等待约 30 s ，让六角扳手冷却。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/insert_the_hex_wrench.jpg)
-
-### 步骤 3. 加热喷嘴尖端并拉出耗材堵塞物
-
-六角扳手现在卡在喷嘴里了，耗材也卡在了它周围。要取出卡住喷嘴的六角扳手，你需要加热喷嘴的尖端。
-
-取下热端的硅胶套，使用打火机对喷嘴尖端加热约 20 s（建议使用普通打火机）。
-
-> **警告**：**避免长时间加热喷嘴**或**使用高功率丁烷喷灯**，建议使用普通打火机。  
-> 喷嘴的热侧只需足够热，以便您可以取出带有耗材的六角工具。  
-> 喷嘴过热会导致耗材从喷嘴尖端滴落或爆裂。请仔细按照说明操作，操作时**请勿将喷嘴尖端朝向自己**。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/heat_up_hot_end.jpg)
-
-将喷嘴尖端加热 20 s 后，慢慢拉动扳手。你会发现耗材可以从喷嘴中完整地拔出，堵塞的部位也随之清除。
-
-![](https://wiki.bambulab.com/h2/troubleshooting/clogging/pulled_filament.jpg)
-
-### 步骤 4. 重新安装喷嘴
-
-现在您可以重新安装喷嘴了。这篇文章涵盖了 [H2S 喷嘴的拆卸和重新安装步骤](../maintenance/replace-silicone-sock-and-hotend.md) ，以备您随时查阅。
 
 ## 如何验证完成/成功
 

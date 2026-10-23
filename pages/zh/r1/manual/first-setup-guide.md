@@ -4,12 +4,12 @@ title: "R1 首次使用"
 description: "本文介绍了 R1 的首次使用流程，包含必要的校准任务、软件使用和清理托盘等流程，并展示了材料固定夹的使用场景和使用方式。"
 tags: []
 created: 2026-09-22T13:09:53.745Z
-updated: 2026-09-22T14:02:55.920Z
+updated: 2026-10-09T12:03:50.681Z
 source: https://wiki.bambulab.com/zh/r1/manual/first-setup-guide
 ---
 
 > **危险**  
-> 使用产品前，务必阅读激光使用安全相关文档，并按照《快速入门指南》或《[开箱指南](unboxing.md)》完成必要的初始安装和设置。
+> 使用产品前，务必阅读激光使用安全相关文档，并按照《[快速入门指南](https://bambulab.cn/zh-cn/support/documentation/1154897064687935488)》或《[开箱指南](unboxing.md)》完成必要的初始安装和设置。
 
 > **说明**  
 > 为优化用户体验，部分图示可能更新，请以实际为准。
@@ -21,8 +21,6 @@ source: https://wiki.bambulab.com/zh/r1/manual/first-setup-guide
 3. 按下机身的启停按钮，**开启加工任务**。等待加工完成后，取出作品并**清理托盘**内的碎屑。
 
 ## 视频指南
-
-即将发布。
 
 ## 工具准备
 
@@ -174,7 +172,7 @@ source: https://wiki.bambulab.com/zh/r1/manual/first-setup-guide
 
 - 若使用材料固定夹，向下推动固定夹两侧的手柄，即可释放材料。
 
-![026.png](https://public-cdn.bblmw.com/wiki/new/r1/manual/first-setup-guide/zh/026.png)
+![release_material_pin.gif](https://wiki.bambulab.com/r1/manual/first-setup-guide/release_material_pin.gif)
 
 ### 清理托盘
 

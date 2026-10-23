@@ -4,7 +4,7 @@ title: "R1 配件安装指南"
 description: "本文将介绍刀条和托盘的安装方法、适用场景及注意事项。"
 tags: []
 created: 2026-09-22T12:58:56.289Z
-updated: 2026-09-22T12:58:57.515Z
+updated: 2026-10-09T12:01:38.794Z
 source: https://wiki.bambulab.com/zh/r1/manual/accessory-installation-guide
 ---
 
@@ -65,27 +65,21 @@ source: https://wiki.bambulab.com/zh/r1/manual/accessory-installation-guide
 
 ### 安装步骤
 
-- **将材料固定夹卡入刀条的底部**。
+- 首先，**将材料固定夹卡入刀条的底部**。
 
-![008.gif](https://public-cdn.bblmw.com/wiki/new/r1/manual/accessory-installation-guide/zh/008.gif)
+![005.gif](https://public-cdn.bblmw.com/wiki/new/r1/manual/first-setup-guide/zh/005.gif)
 
-- 适当移动木板，让翘曲位置覆盖在固定夹内，并**确保材料边缘与固定夹内侧贴合**。
+- 适当移动木板，让翘曲位置覆盖在固定夹内，并**确保材料边缘与固定夹内侧贴合**。向下按压固定夹，直到完全压紧。
 
-|  |  |
-| --- | --- |
-| 009.png | 010.png |
+![006.gif](https://public-cdn.bblmw.com/wiki/new/r1/manual/first-setup-guide/zh/006.gif)
 
-**提示**
+- 使用轻薄的材料时，可以**向上推动**两侧的手柄，同时按压顶部压块，以更好地压紧材料。
 
-若材料宽度不够，无法卡入固定夹，可以将材料斜放后再夹紧固定。
+![007.gif](https://public-cdn.bblmw.com/wiki/new/r1/manual/first-setup-guide/zh/007.gif)
 
-- 向下按压固定夹，直到完全压紧。
+- 完成加工后，向下推动固定夹两侧的手柄，即可释放材料。
 
-![011.gif](https://public-cdn.bblmw.com/wiki/new/r1/manual/accessory-installation-guide/zh/011.gif)
-
-- 使用轻薄的材料时，单次压紧可能无法完全固定。请**向上推动**两侧的手柄，同时按压顶部压块，以更好地压紧材料。
-
-![012.gif](https://public-cdn.bblmw.com/wiki/new/r1/manual/accessory-installation-guide/zh/012.gif)
+![release_material_pin.gif](https://wiki.bambulab.com/r1/manual/first-setup-guide/release_material_pin.gif)
 
 ## 注意事项
 

@@ -4,13 +4,14 @@ title: "0300-4016： P2S"
 description: ""
 tags: []
 created: 2025-12-23T08:26:22.561Z
-updated: 2026-08-28T06:35:52.281Z
+updated: 2026-09-28T01:50:17.331Z
 source: https://wiki.bambulab.com/zh/p2s/troubleshooting/nozzle-cleaning-failure
 ---
 
 ## 故障描述
 
-喷嘴在热床后侧擦嘴钢片上摩擦，用于清除喷嘴上的残留耗材。  
+喷嘴在热床后侧擦嘴钢片表面摩擦，用于清除喷嘴上的残留耗材。当出现该报错时，擦嘴钢片可能凹陷或松动，导致擦拭出现异常。
+
 ![触碰裹头检测校准2.webp](https://wiki.bambulab.com/software/bambu-studio/nozzle-clumping-detection-by-probing/%E8%A7%A6%E7%A2%B0%E8%A3%B9%E5%A4%B4%E6%A3%80%E6%B5%8B%E6%A0%A1%E5%87%862.webp)
 
 ### 导致该故障的原因可能是：

@@ -4,7 +4,7 @@ title: "H2 系列实况摄像头连接线更换指引"
 description: "本wiki介绍了怎样更换 H2 系列实况摄像头的连接线，不包括更换摄像头（文中另有链接）。"
 tags: []
 created: 2025-04-30T08:55:05.182Z
-updated: 2026-08-28T08:38:31.022Z
+updated: 2026-10-10T03:36:03.019Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-live-view-camera-connector
 ---
 
@@ -32,7 +32,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-live-view-camera-con
 
 实况摄像头连接线断裂或损坏
 
-> 此wiki只介绍了怎样更换摄像头连接线，如果是摄像头损坏需要更换请[参考此wiki](https://wiki.bambulab.com/e/zh/h2/maintenance/replace-live-view-camera)。
+> 此wiki只介绍了怎样更换摄像头连接线，如果是摄像头损坏需要更换请[参考此wiki](replace-live-view-camera.md)。
 
 ## 所需的工具和材料
 

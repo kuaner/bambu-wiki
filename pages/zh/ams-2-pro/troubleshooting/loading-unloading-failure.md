@@ -4,7 +4,7 @@ title: "AMS 2 Pro 进退料失败故障排查"
 description: "本文将总结 AMS  2 Pro 进退料失败的故障排查方法。"
 tags: ["ams 2 pro"]
 created: 2026-06-15T08:45:59.989Z
-updated: 2026-08-28T06:47:25.632Z
+updated: 2026-09-30T12:55:46.184Z
 source: https://wiki.bambulab.com/zh/ams-2-pro/troubleshooting/loading-unloading-failure
 ---
 

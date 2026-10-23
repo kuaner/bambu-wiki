@@ -4,7 +4,7 @@ title: "A1用户手册"
 description: ""
 tags: ["a1", "用户手册"]
 created: 2023-12-15T01:27:23.946Z
-updated: 2026-07-01T01:56:18.847Z
+updated: 2026-10-19T13:00:44.897Z
 source: https://wiki.bambulab.com/zh/a1/manual
 ---
 
@@ -16,7 +16,7 @@ source: https://wiki.bambulab.com/zh/a1/manual
 - [打印板检测](../a1-mini/manual/build-plate-detection.md)
 - [空打检测](../ams-lite/manual/air-printing-detection.md)
 
-**产品快速指南(**[**点击此处跳转下载页面**](https://bambulab.cn/zh-cn/support/documentation)**)**
+**产品快速指南**([点击此处跳转下载页面](https://bambulab.cn/zh-cn/support/documentation/961671146726150144))
 
 # 开箱配置
 

@@ -4,7 +4,7 @@ title: "如何将日志文件上传到现有工单"
 description: "本指南将引导您在现有工单中上传日志或其他附件"
 tags: []
 created: 2023-03-22T07:18:36.217Z
-updated: 2026-08-28T08:24:27.122Z
+updated: 2026-10-15T09:09:57.559Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 ---
 
@@ -42,7 +42,8 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 [X2D 打印机](#jump1)  
 [X1 系列打印机](#jump2)  
 [P1 系列打印机](#jump3)  
-[A 系列打印机](#jump4)
+[A 系列打印机](#jump4)  
+[R1 激光切割机](#jump7)
 
 点击所需机型名字，跳转至对应指南：
 
@@ -120,6 +121,33 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
    ![image1.png](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/image1.png)
 
 > 可全选所有日志文件，系统将自动将其打包成一个文件。
+
+### R1 激光切割机
+
+支持**通过 USB-C 或局域网连接**，从 **Bambu Suite** 中导出日志。
+
+1. 通过 USB-C 或局域网连接 R1。
+
+- USB-C 接口位于 R1 侧面，通过 USB-C 线连接 R1 与电脑。
+
+![usb_connect.jpg](https://wiki.bambulab.com/create-ticket/usb_connect_1.jpg)
+
+- 点击**设置 - 仅局域网 - 开启**  即可开启局域网模式。
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+
+2. **登录账号**，选择**新建项目**或打开项目，打开 Bambu Suite **设备**页面。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+3. 在**设置**页面确定选择设备 **R1**，找到**日志导出**板块，点击**立即导出**。  
+   ![](https://wiki.bambulab.com/create-ticket/r1_log_3.jpg)
+4. 勾选全部选项，点击**浏览**以选择日志导出文件夹，然后点击**确认**，等待提示日志下载完成即可。  
+   ![](https://wiki.bambulab.com/create-ticket/r1_log_4.jpg)
 
 ## 其他附件
 

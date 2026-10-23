@@ -4,7 +4,7 @@ title: "A1 mini 产品维护与保养"
 description: "关于打印机的一些日常维护和保养建议"
 tags: []
 created: 2023-10-01T05:11:41.113Z
-updated: 2026-08-28T08:26:11.094Z
+updated: 2026-10-12T08:44:13.647Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/period-maintenance
 ---
 
@@ -59,12 +59,9 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/period-maintenance
 - **保养方案**：清洁，涂润滑油
 - **操作说明**：用镊子清理导轨上的块状、 丝状异物，用无尘布擦拭颗粒状异物和污渍；重新给Y线轨打上润滑油，打油后沿Y方向滑动热床，保证润滑油润滑整个导轨。
 
-润滑X轴导轨视频指南：
+润滑 X 轴导轨视频指南：[A1 润滑 X 轴导轨操作指南](https://public-cdn.bblmw.com/wiki/A1-mini/x_guide_rail_lubrication.mp4)
 
-[
-
-视频无法播放：您的浏览器不支持MP4格式或视频链接无效。
-](https://public-cdn.bblmw.com/wiki/A1-mini/x_guide_rail_lubrication.mp4)
+> **⚠️ 注意**：视频以黑色包装的**润滑油**示意，新版本润滑油为**绿色包装**，使用时请注意核对，**切勿误用润滑脂**。
 
 |  |  |
 | --- | --- |

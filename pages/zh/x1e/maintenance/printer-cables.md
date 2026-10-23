@@ -4,11 +4,11 @@ title: "更换 X1E 线材包"
 description: "本文将介绍如何更换 X1E 线材包中的线缆。"
 tags: ["x1e"]
 created: 2026-04-21T10:47:27.724Z
-updated: 2026-08-28T08:43:59.718Z
+updated: 2026-10-16T08:55:34.691Z
 source: https://wiki.bambulab.com/zh/x1e/maintenance/printer-cables
 ---
 
-X1E 的单独线材包主要包含如下 4 根线缆（从左到右）。
+X1E 线材包主要包含如下 4 根线缆（从左到右）和一小段醋酸胶布。
 
 1. 接口板(AMS 接口和网口)到网卡的连接线；
 
@@ -18,7 +18,9 @@ X1E 的单独线材包主要包含如下 4 根线缆（从左到右）。
 
 4. 接口板(AMS 接口和网口)到加热模块连接线；
 
-![4.jpg](https://wiki.bambulab.com/x1e/printer-cables/4.jpg)
+5. 一小段醋酸胶布
+
+![x1e_cables_kit.png](https://wiki.bambulab.com/x1e/printer-cables/x1e_cables_kit.png)
 
 ## 何时更换
 

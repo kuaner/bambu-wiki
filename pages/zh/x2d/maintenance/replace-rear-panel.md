@@ -4,14 +4,17 @@ title: "更换 X2D 的背板"
 description: "本文介绍了如何更换 X2D 的背板"
 tags: []
 created: 2026-04-14T13:09:00.907Z
-updated: 2026-08-28T06:38:41.987Z
+updated: 2026-10-22T07:27:05.461Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-rear-panel
 ---
 
 ## 背板
 
-安装在打印机背面的金属板，起到封闭作用。  
-![fas081.png](https://public-cdn.bblmw.com/wiki/new/x2d/sku_pics/fas081.png)
+安装在打印机背面的金属板，起到封闭作用。
+
+![x2d_rear_panel.png](https://wiki.bambulab.com/x2d/maintenance/replace-rear-panel/x2d_rear_panel.png)
+
+> **ℹ️ 提示**：由于工艺迭代，新版本的背板取消左侧外排风扇的开孔（图中蓝框所示）。该变更不影响背板功能与拆装步骤。
 
 ## 适用打印机型号
 
@@ -128,6 +131,9 @@ X2D
 |  |  |
 | --- | --- |
 |  |  |
+
+> **ℹ️ 提示**：外排风扇套件存在两个版本，新版本取消了 2 卡扣。若需将 3 卡扣版本的外排风扇安装到 2 孔位的背板上，掰断外排风扇的 2 卡扣即可。  
+> ![x2d_external_exhaust_fan.png](https://wiki.bambulab.com/x2d/maintenance/replace-rear-panel/x2d_external_exhaust_fan.png)
 
 ## 功能验证
 

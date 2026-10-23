@@ -4,7 +4,7 @@ title: "电源更换指南"
 description: ""
 tags: []
 created: 2026-09-22T13:19:45.765Z
-updated: 2026-09-22T13:19:47.000Z
+updated: 2026-10-10T10:06:48.499Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-power-supply
 ---
 
@@ -28,7 +28,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-power-supply
 
 ### 步骤 1.移除前后盖板组
 
-参照[前后盖板组更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-front-rear-panel-set)移除前后盖板组。
+参照[前后盖板组更换指南](replace-front-rear-panel-set.md)移除前后盖板组。
 
 ### 步骤 2.移除右侧板
 
@@ -90,7 +90,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-power-supply
 
 ### 步骤 3.安装前后盖板组
 
-参照[前后盖板组更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-front-rear-panel-set)装回前后盖板组。
+参照[前后盖板组更换指南](replace-front-rear-panel-set.md)装回前后盖板组。
 
 ## 功能验证
 

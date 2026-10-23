@@ -4,7 +4,7 @@ title: "排烟风扇安装座更换指南"
 description: ""
 tags: []
 created: 2026-09-22T13:30:18.372Z
-updated: 2026-09-22T13:30:19.582Z
+updated: 2026-10-12T03:28:45.615Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-ventilation-fan-mounting-base
 ---
 
@@ -45,7 +45,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-ventilation-fan-moun
 
 > 如果线缆没有异常则可以跳过此步骤。
 
-参照[左壳体更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-left-shell)移除左壳体（无需移除左侧上盖）。  
+参照[左壳体更换指南](replace-left-shell.md)移除左壳体（无需移除左侧上盖）。  
 断开图示主板端插头，将排烟风扇安装座连接线取出。
 
 ![005.png](https://public-cdn.bblmw.com/wiki/new/r1/maintenance/replace-ventilation-fan-mounting-base/zh/005.png)
@@ -60,7 +60,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-ventilation-fan-moun
 
 ![006.png](https://public-cdn.bblmw.com/wiki/new/r1/maintenance/replace-ventilation-fan-mounting-base/zh/006.png)
 
-参照[左壳体更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-left-shell)装回左壳体及前后盖板。
+参照[左壳体更换指南](replace-left-shell.md)装回左壳体及前后盖板。
 
 ### 步骤 2.安装排烟风扇安装座
 

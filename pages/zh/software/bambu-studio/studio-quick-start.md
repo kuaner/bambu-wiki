@@ -4,7 +4,7 @@ title: "Bambu Studio 快速上手教程"
 description: "这篇文章简要介绍了Bambu Studio，并提供了一份指南，帮助您快速安装、设置、切片，并立即开始打印。"
 tags: ["bambu studio"]
 created: 2023-03-23T09:00:57.080Z
-updated: 2026-08-28T08:24:30.504Z
+updated: 2026-10-15T09:46:33.183Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/studio-quick-start
 ---
 
@@ -32,6 +32,8 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/studio-quick-start
 ### 选择登录地区设置登录区域为 **“中国内地（大陆）”**
 
 ![](https://wiki.bambulab.com/software/bambu-studio/quick-start/%E7%99%BB%E5%BD%95%E5%8C%BA%E5%9F%9F-cn.jpeg)
+
+> 注：中国香港、中国澳门及中国台湾地区用户请选择“亚太”作为登录区域。
 
 ### 打印机选择
 

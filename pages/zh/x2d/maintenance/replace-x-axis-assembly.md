@@ -1,10 +1,10 @@
 ---
 path: zh/x2d/maintenance/replace-x-axis-assembly
-title: "更换 X 轴组件"
+title: "更换 X2D X 轴组件"
 description: ""
-tags: []
+tags: ["x2d"]
 created: 2026-05-06T14:49:30.853Z
-updated: 2026-08-28T06:42:06.250Z
+updated: 2026-10-12T07:18:09.357Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-x-axis-assembly
 ---
 
@@ -40,6 +40,13 @@ X 轴组件是工具头载体，工具头安装在X轴上，通过电机的驱�
    [更换 X2D 右侧板](replace-right-side-panel.md)
 
 ### 步骤 3. 将 XY 同步皮带从 Y 滑车上移除
+
+> **ℹ️ XY 皮带示意图**：同步带分为上下 2 条，工具头左右两侧各有 1 个皮带固定座，每个固定座含 2 个固定点。
+>
+> - 上同步带固定点： 1 2
+> - 下同步带固定点：3 4
+> - Y 滑车位置示意：5 6  
+>   ![p2s-x2d_xy_belt1.jpg](https://wiki.bambulab.com/x2d/maintenance/x-axis-assembly/p2s-x2d_xy_belty.jpg)
 
 用力推动 XY 同步皮带，将同步皮带的固定块顶出一点，然后移除固定块，即可将皮带取出。  
 ![](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-xy-belt/03_003.png)  
@@ -81,7 +88,14 @@ X 轴组件是工具头载体，工具头安装在X轴上，通过电机的驱�
 
 ### 步骤 2. 穿 XY 皮带
 
-> 这里以 Y 轴左侧滑块为例进行说明，右侧滑块可以参考，只是上下位置有调换。
+> **ℹ️ XY 皮带示意图**：同步带分为上下 2 条，工具头左右两侧各有 1 个皮带固定座，每个固定座含 2 个固定点。
+>
+> - 上同步带固定点： 1 2
+> - 下同步带固定点：3 4
+> - Y 滑车位置示意：5 6  
+>   ![p2s-x2d_xy_belt1.jpg](https://wiki.bambulab.com/x2d/maintenance/x-axis-assembly/p2s-x2d_xy_belty.jpg)
+
+> 这里以 Y 轴左侧滑块（Y 轴滑车）为例进行说明，右侧滑块可以参考，只是上下位置有调换。
 
 首先将皮带末端对折，使皮带有弯折的状态，方便穿过 Y 滑车。
 

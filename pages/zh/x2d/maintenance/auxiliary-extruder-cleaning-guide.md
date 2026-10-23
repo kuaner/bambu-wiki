@@ -4,7 +4,7 @@ title: "X2D 辅助挤出机堵塞清洁维护"
 description: "本文将为您介绍 X2D 辅助挤出机清洁的详细步骤。"
 tags: ["x2d"]
 created: 2026-05-22T08:23:29.440Z
-updated: 2026-08-28T06:42:39.514Z
+updated: 2026-10-16T08:06:32.413Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/auxiliary-extruder-cleaning-guide
 ---
 
@@ -90,11 +90,13 @@ source: https://wiki.bambulab.com/zh/x2d/maintenance/auxiliary-extruder-cleaning
 
 ![](https://wiki.bambulab.com/x2d/maintenance/auxiliary-extruder-cleaning-guide/8.jpg)
 
-按顺序装回料管接头、铁片。
+按顺序装回料管接头、2 个小铁片。
 
-![](https://wiki.bambulab.com/x2d/maintenance/auxiliary-extruder-cleaning-guide/9.jpg)  
-![](https://wiki.bambulab.com/x2d/maintenance/auxiliary-extruder-cleaning-guide/10.jpg)  
-![](https://wiki.bambulab.com/x2d/maintenance/auxiliary-extruder-cleaning-guide/11.jpg)
+![](https://wiki.bambulab.com/x2d/maintenance/auxiliary-extruder-cleaning-guide/9.jpg)
+
+|  |  |
+| --- | --- |
+|  |  |
 
 拧紧固定螺丝。
 
