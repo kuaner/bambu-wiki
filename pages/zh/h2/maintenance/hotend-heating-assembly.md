@@ -4,7 +4,7 @@ title: "更换 H2D/H2C 左右热端加热组件"
 description: "本文介绍如何更换 H2D/H2C 左右热端加热组件"
 tags: []
 created: 2025-03-25T08:46:41.904Z
-updated: 2026-09-16T07:10:44.027Z
+updated: 2026-10-23T04:02:17.101Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/hotend-heating-assembly
 ---
 
@@ -19,8 +19,9 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/hotend-heating-assembly
 - 左热端加热组件（预装理线片） × 1
 - 挡风片 × 1
 - M1.6×4 螺丝（用于固定理线片和挡风片） × 2
-- M2.5×7 螺丝（用于固定左热端加热组件） × 4  
-  ![pixpin_2025-07-11_21-53-17.png](https://wiki.bambulab.com/h2/maintenance/hotend-heating-assembly-new/pixpin_2025-07-11_21-53-17.png)
+- M2.5×7 螺丝（用于固定左热端加热组件） × 4
+
+![pixpin_2025-07-11_21-53-17.png](https://wiki.bambulab.com/h2/maintenance/hotend-heating-assembly-new/pixpin_2025-07-11_21-53-17.png)
 
 **右热端加热组件：**
 
@@ -35,7 +36,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/hotend-heating-assembly
 
 > 部分批次的备件配套有新版泡棉，其功能与现有泡棉保持一致，仅外观有所调整。  
 > 若原有泡棉在拆卸过程中未受损，可继续使用原有泡棉。  
-> 若原有泡棉在拆卸过程中出现损坏，可更换为新版泡棉。  
+> 若原有泡棉在拆卸过程中出现损坏，可更换为新版泡棉；若新版泡棉尺寸偏大，可将其裁剪至与原有泡棉相匹配的尺寸。  
 > ![20250911-101347.jpg](https://wiki.bambulab.com/h2/maintenance/hotend_blob/20250911-101347.jpg)
 
 > **注意：**请使用 H2D 热端加热组件；H2D 和 A1 系列的热端加热组件**无法兼容**。H2D 加热组件专为 H2D 打印机优化设计，具有更高的适配性。

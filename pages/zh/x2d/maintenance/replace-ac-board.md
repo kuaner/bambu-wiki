@@ -4,7 +4,7 @@ title: "更换  X2D AC 板"
 description: "本文介绍了如何更换 X2D AC 板"
 tags: []
 created: 2026-04-14T14:02:11.043Z
-updated: 2026-08-28T06:41:37.553Z
+updated: 2026-10-23T03:11:13.886Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-ac-board
 ---
 
@@ -14,6 +14,9 @@ AC 板是用于给打印机的热床提供交流电源并实现输出控制的�
 ![dlb072.png](https://public-cdn.bblmw.com/wiki/new/x2d/sku_pics/dlb072.png)
 
 > AC 板有区分高压版本和低压版本，与热床组件和腔温加热组件要配套使用，不可用错！
+
+> 产品工艺变更，不同批次细节有所变化，新版 AC 板增加一圈胶带。  
+> ![ac_upgrade.png](https://wiki.bambulab.com/x2d/maintenance/replace-ac-board/ac_upgrade.png)
 
 ## 适用打印机型号
 

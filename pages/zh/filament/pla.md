@@ -4,7 +4,7 @@ title: "PLA 使用指南"
 description: ""
 tags: ["耗材"]
 created: 2025-09-30T07:37:50.780Z
-updated: 2026-08-28T06:26:11.141Z
+updated: 2026-10-23T03:47:39.548Z
 source: https://wiki.bambulab.com/zh/filament/pla
 ---
 
@@ -42,10 +42,10 @@ PLA 全系机型均适配，更多兼容性可参考下表：
 
 | 材料 | 喷嘴兼容性（说明） | 打印板兼容性（说明） | 配件兼容性（说明） |
 | --- | --- | --- | --- |
-| PLA Basic / Matte / Translucent / Tough+ / Lite / Metal | 全部常规喷嘴兼容（无特别限制） | 全部打印板兼容 | AMS 系列全兼容 |
+| PLA Basic / Matte / Tough+ / Lite / Metal | 全部常规喷嘴兼容（无特别限制） | 全部打印板兼容 | AMS 系列全兼容 |
 | PLA Silk / Silk+ | 常规喷嘴均可（推荐 0.4 mm 喷嘴） | 不推荐使用低温增稳板 | AMS 系列全兼容 |
 | PLA-CF | 兼容硬化钢喷嘴；不建议使用 0.4 mm 高流量喷嘴 | 全部打印板兼容 | 仅拓竹版 PLA-CF 可适配 AMS 全系列 |
-| PLA Galaxy / Wood / Marble / Sparkle | 常规喷嘴均可（不含 0.2 mm） | 全部打印板兼容 | AMS 系列全兼容 |
+| PLA Galaxy / Wood / Translucent / Marble / Sparkle | 常规喷嘴均可（不含 0.2 mm） | 全部打印板兼容 | AMS 系列全兼容 |
 | PLA Glow | 只兼容硬化钢与高流量喷嘴（不兼容 0.2 mm 喷嘴） | 全部打印板兼容 | AMS lite 不兼容 |
 | PLA Aero | 只兼容 0.4 mm 喷嘴 | 全部打印板兼容 | AMS 系列全兼容 |
 | PLA Pure | 兼容除铜制喷嘴以外的全部常规喷嘴 | 全部打印板兼容 | AMS 系列全兼容 |

@@ -4,7 +4,7 @@ title: "更换 P2S 涡流线圈"
 description: ""
 tags: []
 created: 2025-10-14T13:14:20.770Z
-updated: 2026-08-28T06:29:10.376Z
+updated: 2026-10-23T10:39:54.848Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-eddy-sensor
 ---
 
@@ -34,7 +34,7 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-eddy-sensor
 
 ### 步骤 1：移除工具头外壳
 
-请参考 [更换工具头外壳](replace-toolhead-housing.md)这篇WIKI，将工具头的外壳拆除。  
+请参考 [更换工具头外壳](replace-toolhead-housing.md)这篇WIKI，将工具头的前盖和后盖拆除。  
 ![toolhead_housing_001.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/extruder_unit/toolhead_housing_001.png)
 
 ### 步骤 2：移除热端

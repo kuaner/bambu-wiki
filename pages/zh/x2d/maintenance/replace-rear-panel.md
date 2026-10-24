@@ -4,7 +4,7 @@ title: "更换 X2D 的背板"
 description: "本文介绍了如何更换 X2D 的背板"
 tags: []
 created: 2026-04-14T13:09:00.907Z
-updated: 2026-10-22T07:27:05.461Z
+updated: 2026-10-22T07:27:06.530Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-rear-panel
 ---
 

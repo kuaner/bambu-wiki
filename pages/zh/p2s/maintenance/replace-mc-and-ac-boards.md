@@ -4,7 +4,7 @@ title: "更换 P2S AC/MC 板"
 description: "本文介绍了如何更换 P2S 的 MC 板 及 AC 板"
 tags: []
 created: 2025-10-14T12:50:31.109Z
-updated: 2026-09-21T03:27:20.240Z
+updated: 2026-10-23T03:13:13.680Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-mc-and-ac-boards
 ---
 
@@ -33,6 +33,9 @@ AC 板是用于给打印机的热床提供交流电源并实现输出控制的�
 
 1. AC 板 \* 1；
 2. BT2x5 螺丝 \* 3- 用于固定 AC 板。
+
+> 产品工艺变更，不同批次细节有所变化，新版 AC 板增加一圈胶带。  
+> ![ac_upgrade.png](https://wiki.bambulab.com/x2d/maintenance/replace-ac-board/ac_upgrade.png)
 
 ## 何时更换
 

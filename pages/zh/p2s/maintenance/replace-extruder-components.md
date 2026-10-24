@@ -4,7 +4,7 @@ title: "更换 P2S 挤出机配件"
 description: "挤出机相关部件的拆解和安装指引"
 tags: []
 created: 2025-10-14T12:50:05.307Z
-updated: 2026-10-23T03:59:40.157Z
+updated: 2026-10-23T03:59:41.249Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-extruder-components
 ---
 

@@ -4,9 +4,36 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-10-16T10:01:20.520Z
+updated: 2026-10-23T10:22:11.053Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 2026-W43
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [MakerWorld 打印里程碑勋章（星火奖）发放 Guideline](makerworld/print-spark-award-guidelines.md) | 介绍 MakerWorld 打印里程碑勋章（星火奖）的发放规则、达成条件与说明。 | / |
+| [R1 通过 LightBurn 切片发起加工任务](r1/manual/lightburn-job-setup.md) | 介绍如何在 LightBurn 中完成切片设置并向 R1 发起加工任务。 | R1 |
+| [拓竹农场管家客户端 V3.1.0 & 服务器端 V3.1.0.0 版本说明](software/bambu-farm-release-notes/3-1-0.md) | 介绍拓竹农场管家客户端 V3.1.0 与服务器端 V3.1.0.0 的版本更新内容与功能改动。 | / |
+| [HMS\_07FF-2000-0002-0004：请从挤出机中拉出外部挂载的耗材。](a1/troubleshooting/hmscode/07FF_2000_0002_0004.md) | 介绍 A1/A2L HMS\_07FF-2000-0002-0004 报错的含义及处理方法。 | A1 / A2L |
+| [HMS\_0300-1200-0002-0001: 工具头前盖脱落。](x2d/troubleshooting/hmscode/0300_1200_0002_0001.md) | 介绍 HMS 0300-1200-0002-0001 报错的排查方法，检查工具头前盖磁铁、线缆连接与安装状态。 | X2D |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [HMS\_0700-2000-0002-0009: AMS A槽位1耗材挤出异常，可能堵头或耗材过细导致挤出机打滑。](x2d/troubleshooting/hmscode/0700_2000_0002_0009.md) | 更新耗材前端异常检查与切断说明，并补充 AMS 2 Pro 五通组件清理指引。 | AMS 2 Pro 五通组件清理 | X2D,AMS 2 Pro,AMS |
+| [A2L 更换 WIFI 天线](a2l/maintenance/replace-wifi-antenna.md) | 补充拆装顺序、4颗固定螺丝要求及WiFi天线拆装说明 | WiFi天线 | A2L |
+| [更换 P2S 挤出机配件](p2s/maintenance/replace-extruder-components.md) | 补充挤出机前盖新旧版本外观差异说明与示意图 | 挤出机前盖 | P2S,X2D |
+| [更换 P2S AC/MC 板](p2s/maintenance/replace-mc-and-ac-boards.md) | 补充新版 AC 板增加一圈胶带的批次差异说明。 | AC板 | P2S,X2D |
+| [更换 P2S/X2D 电源开关插座](p2s/maintenance/replace-power-switch-assembly.md) | 补充电源开关插座新版取消一根地线且不影响使用的说明。 | 地线 | P2S,X2D |
+| [拓竹农场管家软件快速入门](software/bambu-farm-manager.md) | 更新农场管家服务器与客户端下载版本至 03.01.00。 | 农场管家 | / |
+| [更换 X2D AC 板](x2d/maintenance/replace-ac-board.md) | 补充新版 AC 板增加一圈胶带的批次差异说明 | AC板 | X2D |
+| [更换 H2D/H2C 左右热端加热组件](h2/maintenance/hotend-heating-assembly.md) | 更新泡棉更换说明，补充新版泡棉过大时可裁剪适配。 | 泡棉 | H2D,H2C |
+| [更换 X2D 的背板](x2d/maintenance/replace-rear-panel.md) | 补充 X2D 背板孔位迭代及外排风扇两版本兼容安装说明 | 背板 | X2D |
+| [X2D 外排风扇套件安装指南](x2d/manual/external-exhaust-fan-bundle.md) | 补充外排风扇与背板 2/3 卡扣版本差异及兼容安装说明 | 外排风扇套件 | X2D |
 
 ## 2026-W42
 

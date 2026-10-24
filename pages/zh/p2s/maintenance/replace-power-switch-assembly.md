@@ -4,7 +4,7 @@ title: "更换 P2S/X2D  电源开关插座"
 description: "本文介绍了如何更换 P2S/X2D  电源开关插座"
 tags: []
 created: 2025-10-14T12:55:03.474Z
-updated: 2026-08-28T08:42:04.119Z
+updated: 2026-10-23T04:15:02.735Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-power-switch-assembly
 ---
 
@@ -81,6 +81,9 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-power-switch-assemb
 
 使用十字螺丝刀分别拧松 AC 板和电源上的螺丝，将线缆抽出。
 
+> **注意**：该单品不同批次细节有所变化，新版本取消一根地线（下图绿色标注），不影响其功能和使用。  
+> ![power_switch_wires.png](https://wiki.bambulab.com/p2s/maintenance/power_switch_wires.png)
+
 ![01_ac_board_power_cable_connector_1_001.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-power-switch-assembly/01_ac_board_power_cable_connector_1_001.png)
 
 ![03_power_supply_connector_1_003.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-power-switch-assembly/03_power_supply_connector_1_003.png)
@@ -140,6 +143,9 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-power-switch-assemb
 ![05_grounding_screw_005.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-power-switch-assembly/05_grounding_screw_005.png)
 
 将线缆插入 AC 板和电源，并使用十字螺丝刀拧紧螺丝。
+
+> **注意**：该单品不同批次细节有所变化，新版本取消一根地线（下图绿色标注），不影响其功能和使用。  
+> ![power_switch_wires.png](https://wiki.bambulab.com/p2s/maintenance/power_switch_wires.png)
 
 ![18_connect_the_wires_018.png](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/replace-power-switch-assembly/18_connect_the_wires_018.png)
 

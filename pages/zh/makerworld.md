@@ -4,7 +4,7 @@ title: "MakerWorld"
 description: ""
 tags: ["makerworld"]
 created: 2023-11-14T01:31:46.524Z
-updated: 2026-05-06T03:14:49.467Z
+updated: 2026-10-23T02:10:58.566Z
 source: https://wiki.bambulab.com/zh/makerworld
 ---
 
@@ -36,6 +36,10 @@ source: https://wiki.bambulab.com/zh/makerworld
 - [如何上传模型和打印配置](tutorials/how-to-upload-models.md)
 - [Bambu Handy 打印教程](tutorials/printing-tutorial-on-bambu-handy.md)
 - [知识产权投诉说明与FAQ](tutorials/IP-Report-FAQ.md)
+
+### 创作者荣誉
+
+- [MakerWorld 打印里程碑勋章（星火奖）发放 Guideline](print-spark-award-guidelines.md)
 
 ### 创作者激励
 
