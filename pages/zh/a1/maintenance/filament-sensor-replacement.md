@@ -4,7 +4,7 @@ title: "A1 系列进料霍尔板更换指南"
 description: "本指南演示如何更换 A1 系列进料霍尔板。"
 tags: []
 created: 2024-05-11T02:13:59.044Z
-updated: 2026-08-28T08:28:15.176Z
+updated: 2026-11-02T02:08:07.554Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/filament-sensor-replacement
 ---
 
@@ -66,7 +66,7 @@ A1 进料霍尔板（购买链接：[京东](https://item.jd.com/10086620804757.
 
 抓住接头小心将线缆拔出，请勿直接拔动线缆。
 
-我们建议使用扁平工具将其轻轻撬出，以避造成免任何损坏。
+我们建议使用扁平工具将其轻轻撬出，以避免造成任何损坏。
 
 ![](https://wiki.bambulab.com/a1m/replace-th-board/disconnect_the_th_board_cables.jpeg)
 
@@ -164,11 +164,11 @@ A1 进料霍尔板（购买链接：[京东](https://item.jd.com/10086620804757.
 
 将挤出主板放回原位后，您可以按照下图重新连接所有线缆。
 
-- 热端加热组件（购买链接：[京东](https://item.jd.com/10086621431814.html) [天猫](https://detail.tmall.com/item.htm?abbucket=19&id=742608647813&rn=85cf658c1b1b317c1571024be894ae11&spm=a1z10.3-b-s.w4011-25177047232.13.352f1c79UnoIGf&skuId=5293816695460)）
-- 挤出机电机
-- 热端冷却风扇（购买链接：[京东](https://item.jd.com/10085237113101.html) [天猫](https://detail.tmall.com/item.htm?abbucket=19&id=742494478597&rn=50348b313765fa58496bd7e872f33726&spm=a1z10.3-b-s.w4011-25177047232.13.2b001c79zzjU9Z&skuId=5122905509690)）
-- 部件冷却风扇（购买链接：[京东](https://item.jd.com/10085237672213.html) [天猫](https://detail.tmall.com/item.htm?abbucket=19&id=742158008755&rn=e96fdc9668de1bfe06ae88dd77fe78a2&spm=a1z10.3-b-s.w4011-25177047232.29.69711c792eXiBU&skuId=5122266397335)）
-- 涡流传感器
+- 1# 热端加热组件（购买链接：[京东](https://item.jd.com/10086621431814.html) [天猫](https://detail.tmall.com/item.htm?abbucket=19&id=742608647813&rn=85cf658c1b1b317c1571024be894ae11&spm=a1z10.3-b-s.w4011-25177047232.13.352f1c79UnoIGf&skuId=5293816695460)）
+- 2# 挤出机电机
+- 3# 热端冷却风扇（购买链接：[京东](https://item.jd.com/10085237113101.html) [天猫](https://detail.tmall.com/item.htm?abbucket=19&id=742494478597&rn=50348b313765fa58496bd7e872f33726&spm=a1z10.3-b-s.w4011-25177047232.13.2b001c79zzjU9Z&skuId=5122905509690)）
+- 4# 部件冷却风扇（购买链接：[京东](https://item.jd.com/10085237672213.html) [天猫](https://detail.tmall.com/item.htm?abbucket=19&id=742158008755&rn=e96fdc9668de1bfe06ae88dd77fe78a2&spm=a1z10.3-b-s.w4011-25177047232.29.69711c792eXiBU&skuId=5122266397335)）
+- 5# 6# 涡流传感器
 
 ![](https://wiki.bambulab.com/a1m/replace-th-board/th_board_cables_on_a1.jpeg)
 

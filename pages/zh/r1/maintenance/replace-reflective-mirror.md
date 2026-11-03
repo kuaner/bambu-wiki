@@ -4,7 +4,7 @@ title: "R1 反射镜更换指南"
 description: ""
 tags: []
 created: 2026-10-27T07:26:47.614Z
-updated: 2026-10-27T07:26:47.614Z
+updated: 2026-10-27T07:26:48.640Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-reflective-mirror
 ---
 

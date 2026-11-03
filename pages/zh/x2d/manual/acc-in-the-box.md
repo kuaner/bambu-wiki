@@ -4,7 +4,7 @@ title: "X2D 包装清单"
 description: "本文汇总 X2D AMS 套装和单机的包装配件清单"
 tags: []
 created: 2026-04-14T13:19:46.415Z
-updated: 2026-08-28T06:41:16.483Z
+updated: 2026-10-30T08:37:54.522Z
 source: https://wiki.bambulab.com/zh/x2d/manual/acc-in-the-box
 ---
 
@@ -38,7 +38,7 @@ source: https://wiki.bambulab.com/zh/x2d/manual/acc-in-the-box
 | screw-for-scraper.jpg | 螺丝（用于刮刀） | 用于组装刮刀。 |
 | ptfe-locking-nut.png | 辅助料管夹紧螺母 | 用于固定辅助挤出机连接的料管，确保耗材顺畅传输。 |
 | allen-key.jpg | 内六角扳手（H1.5 和 H2.0） | 拆装工具。 |
-| open-end-wrench.png | 开口六角扳手（银色或黑色） | 用于拆装辅助挤出机和辅助热端上的螺母。 |
+| open-end-wrench.png | 8 mm 开口六角扳手（银色或黑色） | 用于拆装辅助挤出机和辅助热端上的螺母。 |
 | flow-blocker.png | 堵嘴片 | 位于喷嘴下方，堵住非工作状态的喷嘴，防止漏料。 |
 | lubricant-oil.png | 润滑油 | 用于润滑光杆、惰轮。 |
 | lubricant-grease.png | 润滑脂 | 用于润滑丝杆和挤出轮组件。 |

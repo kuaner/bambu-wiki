@@ -4,13 +4,20 @@ title: "A1 mini 挤出主板更换指南"
 description: "本指南演示了如何更换A1 mini上的挤出主板（TH板）。"
 tags: []
 created: 2024-02-28T06:58:02.483Z
-updated: 2026-02-11T08:50:06.499Z
+updated: 2026-11-02T03:29:24.084Z
 source: https://wiki.bambulab.com/zh/a1-mini/th-board-replacement-guide
 ---
 
 在本指南中，我们将演示更换A1 mini 挤出主板（TH板）的步骤。
 
 ![](https://wiki.bambulab.com/a1m/replace-th-board/a1_mini_th_board.jpg)
+
+> 注意：不同批次单品细节可能略有不同。
+>
+> 1. 新挤出主板上缺少两个接线柱（红圈处），仅剩焊盘。  
+>    ![](https://wiki.bambulab.com/a1/maintenance/toolhead-board/20250123-153719.jpg)
+> 2. 新旧挤出主板背面均需安装绝缘片。不同版本绝缘片稍有不同，请注意分辨。  
+>    ![a1_th_comp.jpg](https://wiki.bambulab.com/a1/maintenance/toolhead-board/a1_th_comp.jpg)
 
 ## 何时更换
 
@@ -87,9 +94,15 @@ A1 mini 挤出主板需要更换的常见情况有：
 
 ![](https://wiki.bambulab.com/a1m/replace-th-board/remove_the_filament_sensor_ribbon_cable.jpeg)
 
+> **注意**： 请妥善保管绝缘片，以免丢失。不同版本绝缘片稍有不同。  
+> ![a1_th_comp.jpg](https://wiki.bambulab.com/a1/maintenance/toolhead-board/a1_th_comp.jpg)
+
 ## 安装新挤出主板
 
 ### 1. 将挤出主板安装到工具头上
+
+> **注意**： 请先安装绝缘片于挤出主板背部。在安装的时候，请检查您使用的 TH 板与绝缘片是相匹配的，以免导致安装失败。  
+> ![a1_th_comp.jpg](https://wiki.bambulab.com/a1/maintenance/toolhead-board/a1_th_comp.jpg)
 
 将挤出主板安装回打印头外壳中。首先，将耗材传感器的 FPC 排线重新安装到板子的顶部。轻轻地将 FPC 排线插入接口中，拨下黑色夹子，请确保排线安装到位。
 
@@ -158,12 +171,8 @@ A1 mini 挤出主板需要更换的常见情况有：
 
 此外，强烈建议在进行打印之前[清洗PEI构建板](../general/textured-PEI-plate-not-working-as-expected.md)，因为在更换挤出主板的过程中，构建板可能会受到污染。
 
-## **结束语**
+## 结束语
 
-> *希望这篇指南能对您有所帮助。*
->
-> *我们希望确保您能够安全有效地进行操作。如果您对本文描述的过程有任何疑问，我们建议您在开始操作前联系我们的技术支持团队。我们的团队会随时帮助您，并解答您可能会遇到的问题。*
->
-> *您可以*[*点击此处开启新的工单*](https://bambulab.com/zh/my/support/tickets?from=5)*。*
->
-> *我们将尽力及时回复并为您提供您所需的帮助。*
+> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
+> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
+> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

@@ -1,10 +1,10 @@
 ---
 path: zh/a1/maintenance/th-board-replacement-guide
-title: "更换挤出主板-A1"
+title: "A1 更换挤出主板"
 description: "本指南介绍如何更换 A1系列打印机上的挤出主板。"
 tags: ["a1", "a1 mini", "挤出主板"]
 created: 2024-04-25T03:21:02.371Z
-updated: 2026-08-28T08:28:05.198Z
+updated: 2026-11-02T03:30:38.848Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/th-board-replacement-guide
 ---
 
@@ -12,9 +12,12 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/th-board-replacement-guide
 
 ![](https://wiki.bambulab.com/a1m/replace-th-board/a1_mini_th_board.jpg)
 
-> 注意：新挤出主板上缺少两个接线柱（红圈处），仅剩焊盘。
+> 注意：不同批次单品细节可能略有不同。
 >
-> ![](https://wiki.bambulab.com/a1/maintenance/toolhead-board/20250123-153719.jpg)
+> 1. 新挤出主板上缺少两个接线柱（红圈处），仅剩焊盘。  
+>    ![](https://wiki.bambulab.com/a1/maintenance/toolhead-board/20250123-153719.jpg)
+> 2. 新旧挤出主板背面均需安装绝缘片。不同版本绝缘片稍有不同，请注意分辨。  
+>    ![a1_th_comp.jpg](https://wiki.bambulab.com/a1/maintenance/toolhead-board/a1_th_comp.jpg)
 
 ## 何时使用？
 
@@ -84,13 +87,19 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/th-board-replacement-guide
 
 如果它损坏了，您可以在[这里](https://detail.tmall.com/item.htm?abbucket=8&id=742413890652&rn=fdccba1f0182bc3695d538e65c3b3337&spm=a1z10.3-b-s.w4011-25177047232.53.1e811c79Wuo3TI&skuId=5118758836326)购买。
 
-![a1_霍尔板线座.webp](https://wiki.bambulab.com/a1/troubleshooting/hms/1200_4500_0002_0003/a1_%E9%9C%8D%E5%B0%94%E6%9D%BF%E7%BA%BF%E5%BA%A7.webp)
+|  |  |
+| --- | --- |
+| a1_霍尔板线座.webp |  |
 
-![](https://wiki.bambulab.com/a1m/replace-th-board/remove_the_filament_sensor_ribbon_cable.jpeg)
+> **注意**： 请妥善保管绝缘片，以免丢失。不同版本绝缘片稍有不同。  
+> ![a1_th_comp.jpg](https://wiki.bambulab.com/a1/maintenance/toolhead-board/a1_th_comp.jpg)
 
 ## 安装新的挤出主板
 
 ### 1. 将挤出主板安装到中框上
+
+> **注意**： 请先安装绝缘片于挤出主板背部。在安装的时候，请检查您使用的 TH 板与绝缘片是相匹配的，以免导致安装失败。  
+> ![a1_th_comp.jpg](https://wiki.bambulab.com/a1/maintenance/toolhead-board/a1_th_comp.jpg)
 
 安装新的挤出主板时，请先连接进料霍尔板线缆。
 

@@ -4,7 +4,7 @@ title: "挤出机更换指南 - A1 系列"
 description: "本指南演示如何更换 A1 系列的挤出机。"
 tags: []
 created: 2024-05-11T02:12:34.642Z
-updated: 2026-08-28T08:28:13.497Z
+updated: 2026-11-02T02:03:04.458Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/extruder-replacement-guide
 ---
 
@@ -68,7 +68,7 @@ A1 mini 挤出机（购买链接：[京东](https://item.jd.com/10088164799110.h
 
 抓住接头小心将线缆拔出，请勿直接拔动线缆。
 
-我们建议使用扁平工具将其轻轻撬出，以避造成免任何损坏。
+我们建议使用扁平工具将其轻轻撬出，以避免造成任何损坏。
 
 ![](https://wiki.bambulab.com/a1m/replace-th-board/disconnect_the_th_board_cables.jpeg)
 

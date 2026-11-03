@@ -4,7 +4,7 @@ title: "AMS lite 常见问答（FAQ）"
 description: ""
 tags: []
 created: 2023-09-24T14:57:43.443Z
-updated: 2025-01-13T08:51:55.280Z
+updated: 2026-10-27T04:00:00.492Z
 source: https://wiki.bambulab.com/zh/ams-lite/manual/faq
 ---
 
@@ -34,7 +34,7 @@ AMS lite单品赠送的管子长度与A1 combo套装的尺寸一致，即730 mm 
 
 ## AMS lite兼容含碳纤(CF)类的耗材吗？
 
-Bambu PLA-CF、Bambu PETG-CF，可以适配 AMS lite。部分品牌的 CF、GF 耗材太脆、太硬或太粗糙，它们容易断在 AMS lite 的进料通道中，或磨伤进料通道，故不推荐使用。
+Bambu PLA-CF 可以适配 AMS lite。部分品牌的 CF、GF 耗材太脆、太硬或太粗糙，它们容易断在 AMS lite 的进料通道中，或磨伤进料通道，故不推荐使用。
 
 ## X1 和P1打印机可以使用AMS lite吗？
 

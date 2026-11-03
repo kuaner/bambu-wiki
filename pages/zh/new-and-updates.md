@@ -4,9 +4,30 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-10-23T10:22:11.053Z
+updated: 2026-10-30T09:38:47.719Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 2026-W44
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [R1 液冷风扇更换指南](r1/maintenance/replace-radiator-fan.md) | 介绍 R1 液冷风扇的适用更换情形、所需工具及拆卸更换步骤，包含排液与冷却模组拆装说明。 | R1 |
+| [R1 反射镜更换指南](r1/maintenance/replace-reflective-mirror.md) | 介绍 R1 三处反射镜的更换步骤、注意事项及更换后的光路校准验证。 | R1 |
+| [部分批次 AMS 2 Pro 上下料组件售后方案常见问题](ams-2-pro/troubleshooting/feeder-unit-after-sales-faq.md) | 汇总部分批次 AMS 2 Pro 上下料组件售后方案的常见问题，包含处理范围、通知查询及序列号查看说明。 | AMS 2 Pro |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [A1 mini 挤出主板更换指南](a1-mini/th-board-replacement-guide.md) | 补充新旧挤出主板差异及绝缘片安装/保管说明 | 挤出主板 | A1 mini |
+| [A1 更换挤出主板](a1/maintenance/th-board-replacement-guide.md) | 补充新旧挤出主板绝缘片差异及安装提醒 | 挤出主板绝缘片 | A1 |
+| [AMS lite 常见问答（FAQ）](ams-lite/manual/faq.md) | 更新 AMS lite 适配耗材说明，移除 PETG-CF 可适配表述 | AMS lite | AMS lite |
+| [如何查找序列号及注册新序列号](general/find-sn.md) | 补充 Bambu Suite、R1 及其主控板序列号查看位置。 | R1 序列号 | R1 |
+| [R1 前后盖板组更换指南](r1/maintenance/replace-front-rear-panel-set.md) | 补充前后盖板组更换所需工具、安全提示及拆卸步骤。 | 前后盖板组 | R1 |
+| [R1 通过 LightBurn 切片发起加工任务](r1/manual/lightburn-job-setup.md) | 更新 R1 配置文件下载链接中的文件名 | R1 配置文件 | R1 |
 
 ## 2026-W43
 

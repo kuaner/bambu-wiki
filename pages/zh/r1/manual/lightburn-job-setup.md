@@ -4,14 +4,14 @@ title: "R1 通过 LightBurn 切片发起加工任务"
 description: ""
 tags: []
 created: 2026-10-22T09:47:37.192Z
-updated: 2026-10-22T11:51:00.274Z
+updated: 2026-10-26T01:47:43.456Z
 source: https://wiki.bambulab.com/zh/r1/manual/lightburn-job-setup
 ---
 
 ## 免责声明与注意事项
 
 - LightBurn 是第三方软件，不对因使用 LightBurn 造成的任何损失负责；
-- LightBurn 仅支持 R1 完成**平面加工**，并不完全支持 R1 的所有功能。例如：**精细拍照、标定加工区域、曲面加工，旋转体加工**等功能均不支持。如需体验全部功能，请使用拓竹官方软件 Bambu Suite（[点击下载](https://bambulab.cn/zh-cn/download/suite)）。
+- LightBurn 仅支持 R1 完成**平面加工**，并不完全支持 R1 的所有功能。例如：**精细拍照、标定加工区域、曲面加工、旋转体加工**等功能均不支持。如需体验全部功能，请使用拓竹官方软件 Bambu Suite（[点击下载](https://bambulab.cn/zh-cn/download/suite)）。
 
 ## 第一步：下载并安装 LightBurn
 
@@ -23,7 +23,7 @@ source: https://wiki.bambulab.com/zh/r1/manual/lightburn-job-setup
 
 ## 第二步：导入 R1 设备配置
 
-1. 点击[下载 R1 配置文件](https://wiki.bambulab.com/r1/manual/lightburn-job-setup/Bambu_Lab_R1_01.04.00.45%201.lbvendor)
+1. 点击[下载 R1 配置文件](https://wiki.bambulab.com/r1/manual/lightburn-job-setup/bambu_lab_r1_01.04.00.45.lbvendor)
 2. 打开 LightBurn，在软件**右下角**的 **Laser（激光器）** 面板中点击 **Devices（设备）**。
 
 ![在 LightBurn 中打开 R1 设备面板](https://wiki.bambulab.com/r1/manual/lightburn-job-setup/r1-lightburn-devices-panel-zh.png)

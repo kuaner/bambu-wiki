@@ -4,7 +4,7 @@ title: "更换主控板（MC 板）"
 description: "本指南介绍更换 X1 系列打印机 MC 板的详细步骤。"
 tags: ["x系列主控板", "mc板"]
 created: 2022-08-05T02:58:05.982Z
-updated: 2026-08-24T08:00:54.329Z
+updated: 2026-10-29T08:06:02.560Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-mc-board
 ---
 

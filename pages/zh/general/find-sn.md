@@ -4,7 +4,7 @@ title: "如何查找序列号及注册新序列号"
 description: "本指南介绍了如何查找新旧序列号（SN）及注册新序列号"
 tags: []
 created: 2023-07-20T11:54:28.441Z
-updated: 2026-10-16T03:26:25.016Z
+updated: 2026-10-28T06:33:53.252Z
 source: https://wiki.bambulab.com/zh/general/find-sn
 ---
 
@@ -35,6 +35,19 @@ source: https://wiki.bambulab.com/zh/general/find-sn
 
 ![sn-studio-cn-changed.png](https://wiki.bambulab.com/general/find-sn/sn-studio-cn-changed.png)
 
+### Bambu Suite
+
+在 Bambu Suite 中，SN 的查看路径为：**新建项目 >查看设备 > 固件更新**，如下图所示：
+
+1. **登录账号**，选择**新建项目**或打开项目，点击**查看设备**，以打开 Bambu Suite **设备**页面。
+
+|  |  |
+| --- | --- |
+|  |  |
+
+2. 在**固件更新**页面，找到需要查看 SN 的设备即可。（下图以 R1 为例）  
+   ![](https://wiki.bambulab.com/general/find-sn/r1_sn_3_zh.jpg)
+
 ### 打印机屏幕
 
 您可在打印机屏幕查看 SN 号，请根据机型查看对应位置。
@@ -42,3 +55,4 @@ source: https://wiki.bambulab.com/zh/general/find-sn
 - H2 系列/X1 系列/P2S/X2D
 - P1S
 - A 系列
+- R1

@@ -4,7 +4,7 @@ title: "更换 H2 系列左/右侧板"
 description: "本文介绍了如何更换 H2 系列左/右侧板"
 tags: []
 created: 2025-03-25T02:59:23.984Z
-updated: 2026-08-28T08:32:26.453Z
+updated: 2026-10-30T08:52:54.203Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-side-panel-with-glass-window
 ---
 
@@ -15,14 +15,14 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-side-panel-with-glas
 
 **左侧板的备件中包含以下物品：**
 
-1. 左侧板（预装玻璃视窗或激光防护视窗）；
-2. ST3x3 螺丝 - 用于在立柱位置锁侧板 \* 2；
+1. 左侧板（预装玻璃视窗或激光防护视窗） \* 1
+2. ST3x3 螺丝 - 用于在立柱位置锁侧板 \* 2
 3. BT3x8 螺丝 - 用于在上框及辅助部件冷却风扇后面锁左侧板 \* 3
 
 **右侧板的备件包含如下：**
 
-1. 右侧板 - 预装玻璃视窗或激光防护视窗（右）\* 1；
-2. BT3x8 螺丝 - 用于固定右侧板 \* 3；
+1. 右侧板 - 预装玻璃视窗或激光防护视窗（右）\* 1
+2. BT3x8 螺丝 - 用于固定右侧板 \* 2
 3. ST3x3 螺丝 - 用于固定右侧板 \* 2
 
 ## 何时更换

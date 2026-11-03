@@ -4,7 +4,7 @@ title: "滚轮送料机安装指南"
 description: "本文介绍了滚轮送料机的开箱和组装流程。"
 tags: []
 created: 2026-09-22T13:10:36.468Z
-updated: 2026-09-24T01:58:08.926Z
+updated: 2026-11-02T07:36:30.034Z
 source: https://wiki.bambulab.com/zh/r1/manual/conveyor-unboxing
 ---
 
@@ -71,6 +71,9 @@ source: https://wiki.bambulab.com/zh/r1/manual/conveyor-unboxing
 - 打开增高底座的前门上部分、中门和后门，以便安装本产品。
 
 ![008.gif](https://public-cdn.bblmw.com/wiki/new/r1/manual/conveyor-unboxing/zh/008.gif)
+
+> **注意**  
+> 若已将托盘放入增高底座使用，请先将托盘取出，再打开中门，以免中门无法完全打开而触发报错提示。
 
 ### 安装支撑滚轮组件
 

@@ -4,7 +4,7 @@ title: "R1 光学镜组维护指南"
 description: "本文将介绍如何维护反射镜以及聚焦镜。"
 tags: []
 created: 2026-09-22T13:29:59.909Z
-updated: 2026-09-28T01:59:20.980Z
+updated: 2026-10-27T07:26:55.084Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/reflective-mirror
 ---
 
@@ -35,7 +35,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/reflective-mirror
 
 ### 步骤 1. 拆卸反射镜
 
-参考[反射镜更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-reflective-mirror)拆卸三个反射镜。
+参考[反射镜更换指南](replace-reflective-mirror.md)拆卸三个反射镜。
 
 ### 步骤 2. 清洁反射镜
 
@@ -79,7 +79,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/reflective-mirror
 
 ![010.png](https://public-cdn.bblmw.com/wiki/new/r1/maintenance/reflective-mirror/zh/010.png)
 
-再参考 [反射镜更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-reflective-mirror)安装三个反射镜。
+再参考 [反射镜更换指南](replace-reflective-mirror.md)安装三个反射镜。
 
 ## **结束语**
 
