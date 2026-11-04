@@ -4,7 +4,7 @@ title: "拓竹打印机和 AMS 功率参数"
 description: "本文介绍了拓竹打印机和 AMS 的功率参数"
 tags: ["功耗"]
 created: 2024-02-29T11:50:57.158Z
-updated: 2026-08-28T06:20:34.615Z
+updated: 2026-11-04T02:20:59.038Z
 source: https://wiki.bambulab.com/zh/general/power-consumption
 ---
 
@@ -27,6 +27,16 @@ source: https://wiki.bambulab.com/zh/general/power-consumption
 | **烘干功耗** | / | / | 80 W | 170 W |
 
 ## 打印机功耗
+
+### H3C
+
+| 项目 | 参数 |
+| --- | --- |
+| 电压 | 高压版：200-240 VAC, 50/60 Hz  低压版：100-120 VAC, 50/60 Hz |
+| 最大功率 | 高压版：2250 W @ 220 V  低压版：1850 W @ 110 V |
+| 待机功率 | 未连接 Wi-Fi：11.7-12.2 W  连接 Wi-Fi：12.2-12.7 W |
+| 打印稳态功率 | 高压版:  PLA（环境温度 25 °C）240 W @ 220 V  PC（环境温度 25 °C）540 W @ 220 V  低压版:  PLA（环境温度 25 °C）240 W @ 110 V  PC（环境温度 25 °C）540 W @ 110 V |
+| 低功率模式 | 1050 W |
 
 ### H2 系列
 

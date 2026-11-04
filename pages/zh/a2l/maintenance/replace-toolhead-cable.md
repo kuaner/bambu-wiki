@@ -4,7 +4,7 @@ title: "A2L 更换工具头线缆"
 description: "本文介绍了如何更换 A2L 工具头线缆"
 tags: []
 created: 2026-06-01T13:11:02.242Z
-updated: 2026-08-28T06:45:12.666Z
+updated: 2026-11-03T09:37:57.810Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-toolhead-cable
 ---
 
@@ -117,6 +117,8 @@ X 电机盒
 ![gjtxl010.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-x-axis-motor-cover/gjtxl010.webp)![xdjh005.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-x-axis-motor-cover/xdjh005.jpg)
 
 ### 4. 安装摄像头组件
+
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
 
 连接摄像头插头，将摄像头组件推入固定位置。
 

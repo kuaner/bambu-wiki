@@ -4,7 +4,7 @@ title: "AMS HT 开箱指南"
 description: ""
 tags: []
 created: 2025-03-26T07:32:49.491Z
-updated: 2026-08-28T08:34:39.836Z
+updated: 2026-11-03T02:47:15.485Z
 source: https://wiki.bambulab.com/zh/ams-ht/manual/unboxing-and-setup
 ---
 
@@ -46,7 +46,7 @@ source: https://wiki.bambulab.com/zh/ams-ht/manual/unboxing-and-setup
 
 ### 放置干燥剂
 
-1. 撕下从动支撑轴上的贴纸；小心拆下从动支撑轴，避免两侧轴承掉落。
+1. 撕下从动支撑轴上的贴纸；**小心拆下从动支撑轴，避免两侧轴承掉落**。
 
 |  |  |
 | --- | --- |
@@ -57,6 +57,8 @@ source: https://wiki.bambulab.com/zh/ams-ht/manual/unboxing-and-setup
 |  |  |  |
 | --- | --- | --- |
 |  |  |  |
+
+> **ℹ️ 提示**：此处放入一包干燥剂即可，放入两包干燥剂可能会影响从动支撑轴的正常旋转。若收到的干燥剂为两包相连的包装，请小心剪开后仅放入一包。
 
 ### 连接料管
 

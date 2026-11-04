@@ -4,9 +4,11 @@ title: "Bambu Studio 版本说明"
 description: ""
 tags: ["bambu studio", "studio"]
 created: 2023-07-28T04:00:09.579Z
-updated: 2026-08-21T06:23:34.984Z
+updated: 2026-11-03T12:30:35.540Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/release
 ---
+
+[Bambu Studio 2.9.1 版本说明](release-note-2-9-1.md)
 
 [Bambu Studio 2.8.2.61 版本说明](release-note-2-8-2-61.md)
 

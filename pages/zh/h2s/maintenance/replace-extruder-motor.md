@@ -4,7 +4,7 @@ title: "更换 H2S 挤出电机"
 description: ""
 tags: []
 created: 2025-08-26T06:10:47.034Z
-updated: 2026-10-30T03:25:43.990Z
+updated: 2026-10-30T03:25:45.056Z
 source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-extruder-motor
 ---
 

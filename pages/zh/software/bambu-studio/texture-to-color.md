@@ -4,148 +4,172 @@ title: "纹理转涂色"
 description: "本文介绍如何在 Bambu Studio 中应用纹理转涂色功能，将带有纹理贴图的模型转换为多色模型。"
 tags: ["bambu studio"]
 created: 2026-08-31T07:05:15.055Z
-updated: 2026-09-15T01:55:59.538Z
+updated: 2026-11-03T12:53:00.888Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/texture-to-color
 ---
 
 ## 功能介绍
 
-「**纹理转涂色**」可将带有纹理贴图的模型直接导入 Bambu Studio 并转换为多色模型，适用于将彩色图案应用到 3D 模型表面的多色打印场景。您可以自己建模、AI 生成，或从其它模型库中下载包含纹理贴图的模型，导入 Studio 后通过「纹理转涂色」功能将纹理贴图自动转换为模型涂色，减少手动涂色的工作量，让多色打印更轻松。
+「 **纹理转涂色** 」可将带有纹理贴图的模型直接导入 Bambu Studio 并转换为多色模型，适用于将彩色图案应用到 3D 模型表面的多色打印场景。您可以自己建模、AI 生成，或从其他模型库中下载包含纹理贴图的模型，导入 Studio 后通过「纹理转涂色」功能将纹理贴图自动转换为模型涂色，减少手动涂色的工作量，让多色打印更轻松。
 
 |  |  |
 | --- | --- |
 |  |  |
-| 带有纹理贴图的模型 | 导入 Bambu Studio 的多色模型 |
+| 带贴图的纹理模型 | 导入 Bambu Studio 后的多色模型 |
 
 ## 软件版本
 
-- Bambu Studio 2.7.1 版本及以上
+Bambu Studio 2.7.1 版本及以上
 
-> ✅ **说明**： 「纹理转涂色」是 Bambu Studio 2.7.1 版本的新增功能，使用前请将 Bambu Studio 升级至 2.7.1 或更高版本。软件说明详见：[Bambu Studio 2.7.1 版本说明](release/release-note-2-7-1.md)
+> ✅ **说明** ：「纹理转涂色」是 Bambu Studio 2.7.1 版本的新增功能，使用前请将 Bambu Studio 升级至 2.7.1 或更高版本。软件说明详见：[Bambu Studio 2.7.1 版本说明](release/release-note-2-7-1.md)
 
 ## 操作步骤
 
 ### 步骤 1. 导入模型
 
-点击顶部工具栏的「**添加**」，选择模型文件，点击「**打开**」，导入模型。本文以 obj 模型作为示例。
+点击顶部工具栏的「 **添加** 」，选择模型文件后点击「 **打开** 」，导入模型。本教程以 GLB 格式的翠鸟模型为例。
 
-> ℹ️ **目前支持纹理转换的格式**：OBJ、glTF、GLB、FBX（需包含纹理贴图）
+|  |  |
+| --- | --- |
+|  |  |
 
-![1_add_zh.webp](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/1_add_zh1.webp)
-
-> ⚠️**注意事项**：
+> ℹ️ **目前支持纹理转换的格式** ：OBJ、glTF、GLB、FBX（需包含纹理贴图）
+>
+> ⚠️ **注意事项** ：
 >
 > - 暂不支持同时加载多个纹理模型进行转换，请逐个导入。
 > - 暂不支持 Draco 压缩的 glTF / GLB。
-> - 受依赖的第三方库影响，macOS 对压缩 FBX 支持受限。
 
-### 步骤 2. 预览模型
+Bambu Studio 在导入带有纹理贴图的模型后，会自动弹出 **纹理转涂色** 功能设置窗口。
 
-在弹出的窗口中，左侧窗口可以预览导入后的模型。通过鼠标操作，可以在预览窗口对模型进行旋转、缩放、拖动等查看，操作方式与 Bambu Studio 主界面一致。
+窗口设置流程共分为两步：「 **简化颜色** 」与「 **耗材匹配** 」。
 
-![2_import_mode_zh.webp](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/2_import_mode_zh.webp)
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/texture-window.png)
 
-预览窗口左上角有「**原项目**」和「**多色**」两个按钮。预览默认展示处理后的多色模型，您也可以将鼠标悬停在「**原项目**」按钮上，以查看导入的原始纹理模型。
+### 步骤 2. 简化颜色
 
-![3_original_switch__zh.webp](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/3_original_switch__zh.webp)
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/simplify-colors.png)
 
-### 步骤 3. 调整参数
-
-![3_parameter_zh.png](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/3_parameter_ui_zh.png)
-
-在导入模型界面，通过调整「**颜色数目**」1 和「**光滑程度**」2两个参数，可以改变将纹理贴图转换为模型涂色的效果，并在「**耗材映射**」3下以清单形式呈现转换后的所有颜色。接下来将对这两个参数进行详细介绍：
-
-  
-
-#### 1. 颜色数目（Color Count）
+#### 1. 颜色数目
 
 含纹理贴图的模型通常有成千上万种颜色，无法直接打印。此参数会将这些颜色聚类并映射为有限的几种颜色，从而实现可打印。受限于当前打印机的多色打印能力，该功能目前最多支持 32 色。
 
-![3.1_auto_zh.png](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/3.1_color_auto_zh.png)
+- **取值范围** ：1 - 32
+- **调节方式** ：点击「4」「8」「16」按钮快速设置；或拖动滑块；或在右侧直接输入数值
+- **参数效果** ：数值越大，还原纹理越精细，但换色和耗材管理越复杂
 
-- **取值范围**：1 - 32
-- **调节方式**：点击「**4**」「**8**」「**16**」按钮快速设置；或拖动滑块；或在右侧直接输入数值
-- **参数效果**：数值越大，还原纹理越精细，但换色和耗材管理越复杂
+> ℹ️ **提示** ：如果点击「 **自动** 」，软件将自动确定最佳「 **颜色数目** 」并重新计算耗材映射。
 
-> ℹ️ **提示**：如果点击「**自动**」，软件将自动确定最佳「**颜色数目**」并重新计算耗材映射。
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/color-count.png)
 
-下图展示了**不同颜色数目**下的多色模型效果（光滑程度均为 5）：
+下图展示了不同颜色数目下的多色模型效果：
 
 |  |  |  |
 | --- | --- | --- |
-| 颜色数目 = 4 | 颜色数目 = 8 | 颜色数目 = 16 |
+| 颜色数目 4 | 颜色数目 8 | 颜色数目 16 |
 
-  
+#### 2. 高级设置
 
-#### 2. 光滑程度（Smooth Level）
+点击展开「边缘平滑度」和「间隙面积」设置。
+
+#### 3. 边缘平滑度
 
 控制不同颜色交界处的平滑程度。
 
-![3.2_smooth_zh.png](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/3.2_smooth_zh.png)
+- **取值范围** ：0 - 10
+- **调节方式** ：拖动滑块；或在右侧输入数值
+- **参数效果** ：数值越小，边界越锐利；数值越大，边缘越柔和。可根据实际模型效果选择合适的数值
 
-- **取值范围**：0 - 10
-- **调节方式**：拖动滑块；或在右侧输入数值
-- **参数效果**：数值越小，边界越锐利；数值越大，边缘越柔和。可根据实际模型效果选择合适的数值
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/boundary-smoothness.png)
 
-下图展示了**不同光滑程度**下的多色模型效果（颜色数目均为 8）：
+下图展示了不同边缘平滑度下的多色模型效果：
 
 |  |  |  |
 | --- | --- | --- |
-| 光滑程度 = 0 | 光滑程度 = 2 | 光滑程度 = 10 |
+| 边缘平滑度 0 | 边缘平滑度 5 | 边缘平滑度 10 |
 
-  
-> ℹ️ **提示**：每次调整参数后，需要点击「**应用**」按钮，调整后的参数才会生效，并将效果显示在左侧预览窗口。  
-> ![3_apply_zh.png](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/3_apply_zh.png)
+#### 4. 间隙面积（%）
 
-### 步骤 4. 耗材映射
+间隙面积用于控制小面积色块合并至邻接色块的程度。
 
-耗材映射的含义，是将由纹理贴图聚类得到的模型涂色（左列），分配给实际参与打印的耗材（右列）。
+- **取值范围** ：0 - 5
+- **调节方式** ：拖动滑块；或在右侧输入数值
+- **参数效果** ：值越大，越多的小色块被合并
 
-![4_mapping_ui_zh.png](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/4_mapping_ui_zh.png)
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/gap-area.png)
 
-#### 更改耗材映射
+下图展示了不同间隙面积下的多色模型效果：
 
-软件已自动完成默认的耗材映射，**通常无需改动即可打印**。如需调整某个颜色对应的耗材，可点击右侧的下拉菜单进行更改。
+|  |  |  |
+| --- | --- | --- |
+| 0 | 0.4 | 1.8 |
 
-![4_adjust_filament_zh.webp](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/4_adjust_filament_zh.webp)
+#### 5. 模型预览
 
-下拉菜单中的耗材分为三类：
+通过鼠标操作，可以在预览窗口对模型进行旋转、缩放、拖动等查看，操作方式与 Bambu Studio 主界面一致。
 
-- **项目耗材列表** 1：项目中现有的耗材颜色。
-- **新增耗材** 2：纹理转涂色后新增的耗材颜色。
-- **新增混色耗材** 3：使用「拆解颜色」功能后新增的混色耗材，详见下文。
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/model-preview.webp)
 
-![4.1_mapping_list_zh.png](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/4.1_mapping_list_zh.png)
+#### 6. 下一步
 
-> ℹ️ **提示**：如果勾选「**自动合并相同的耗材**」4，软件会自动将新增耗材合并到项目中现有的相同耗材中。
+点击进入「耗材匹配」。
 
-#### 添加耗材（可选）
+### 步骤 3. 耗材匹配
 
-如需使用项目和新增列表之外的颜色，可点击下拉菜单中的「**添加耗材**」，手动添加自定义颜色的耗材。
+在本步骤中，我们需要为模型的每种颜色（左列）匹配实际参与打印的耗材（右列）。
 
-![4.2_add_zh.webp](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/4.2_add_zh.webp)
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/filament-matching.png)
 
-#### 拆解颜色（可选）
+有 4 种匹配方法，请根据实际情况选择：
 
-> **ℹ️ 提示**：拆解颜色属于**进阶功能，仅在需要混色打印时使用**。如果无需混色，可跳过本节。
+#### 方法 1. 点击「 **使用官方混色套装** 」
 
-如果希望用少数几种基础耗材混合出更丰富的颜色，可点击下拉菜单中的「**拆解颜色**」，将选中的模型涂色拆解为可混色的基础色组合（如 CMYW、RYBW 或自定义材料组合）。拆解后新增的耗材会归入「**新增混色耗材**」列表。
+若要进行混色打印，且已备有官方 PLA Palette 的 CMYKW 五色耗材，可点击「 **使用官方混色套装** 」，一键将 CMYKW 五色耗材添加到耗材列表。软件将基于这五种颜色自动混合出模型所需颜色，并匹配到模型对应位置。
 
-关于拆解颜色、一键自动混色等完整说明与操作方法，请参阅：[混色打印-使用纹理转涂色功能](https://wiki.bambulab.com/zh/bambu-studio/color-mixing#color-mixing-texture-to-painting)
+如需了解混色打印的注意事项或 PLA Palette 耗材介绍，请参阅教程：[混色打印](../../bambu-studio/color-mixing.md)。
 
-![4.1_decompose_zh.webp](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/4.1_decompose_zh1.webp)
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/official-mixing-kit.webp)
 
-### 步骤 5. 完成
+#### 方法 2. 勾选 **「混色」**
 
-在参数调整和耗材映射完成后，点击「**确定**」1 ，多色模型就被成功导入 Bambu Studio。
+如果不使用官方混色套装，也可以单独勾选 **「混色」** 进行混色打印。此方式会使用项目耗材列表中 **已有的耗材** 进行混色，生成最接近模型原始颜色的混合颜色。
 
-> ℹ️ **提示**：如果点击「**跳过匹配**」2 ，软件将不再执行贴图转涂色与耗材匹配，并直接导入为**单色模型**。
+由于混色结果基于当前列表中的耗材生成，因此无法保证与模型原色完全一致。建议使用 CMYKW 五色耗材组合进行混色，以获得更接近原色的混色效果。
 
-![5_ok_zh.png](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/5_ok_zh.png)
+如需了解混色打印的注意事项与 CMYKW 五色耗材介绍，请参阅教程：[混色打印](../../bambu-studio/color-mixing.md)。
 
-将多色模型导入 Bambu Studio 之后，可以对模型进行旋转、缩放等调整，并继续接下来的切片打印操作。
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/color-mixing.webp)
 
-![5.2_results.png](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/0_print_model1.png)
+#### 方法 3. 点击「 **一键补全耗材** 」
+
+点击后，软件会自动创建与模型原始颜色一致的单色耗材，并将其匹配到对应颜色。
+
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/complete-filaments.webp)
+
+#### 方法 4. 手动匹配耗材与颜色
+
+如需调整某个颜色对应的耗材，可点击右侧的下拉菜单进行更改。
+
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/manual-match.webp)
+
+**设置耗材匹配颜色误差阈值**
+
+将鼠标悬停在齿轮图标上，即可打开悬浮窗口，并设置耗材匹配颜色误差阈值。
+
+- 耗材匹配颜色误差阈值越大，允许的匹配色差越大，颜色越容易匹配；
+- 耗材匹配颜色误差阈值越小，允许的匹配色差越小，对颜色相似度的要求越高。
+
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/color-threshold.png)
+
+### 步骤 4. 完成
+
+参数调整完成后，点击「 **确定** 」，即可导入多色模型，并进入 Bambu Studio 准备页面。
+
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/confirm.png)
+
+随后可根据模型的实际情况调整打印参数，完成后即可进行切片与打印。
+
+![](https://wiki.bambulab.com/software/bambu-studio/texture%E2%80%91to%E2%80%91color/v2-9/slice-result.png)
 
 ## 结束语
 

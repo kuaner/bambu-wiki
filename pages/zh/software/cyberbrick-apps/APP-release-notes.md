@@ -4,9 +4,15 @@ title: "APP 端 CyberBrick 版本说明"
 description: ""
 tags: []
 created: 2025-09-15T01:47:32.341Z
-updated: 2026-08-28T06:25:09.324Z
+updated: 2026-11-04T06:12:43.565Z
 source: https://wiki.bambulab.com/zh/software/cyberbrick-apps/APP-release-notes
 ---
+
+## 1.8.0 (20261104)
+
+### 改进
+
+- 优化细节体验
 
 ## 1.6.1 (20260626)
 

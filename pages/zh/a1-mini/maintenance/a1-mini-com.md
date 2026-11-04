@@ -2,9 +2,9 @@
 path: zh/a1-mini/maintenance/a1-mini-com
 title: "A1 mini整机拆装指引"
 description: "提供A1 mini 整机（不含工具头）相关联配件的拆解和组装的指引和注意事项。"
-tags: ["x轴", "摄像头", "热床", "a1 mini", "x电机", "usb线", "底板", "y轴导轨"]
+tags: ["摄像头", "热床", "a1 mini", "x电机", "usb线", "底板", "\"x轴", "y轴导轨\""]
 created: 2023-09-13T08:57:52.685Z
-updated: 2026-09-11T03:17:29.789Z
+updated: 2026-11-03T09:43:21.323Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/a1-mini-com
 ---
 
@@ -249,6 +249,8 @@ USB-C电缆有两种磁环版本:一种是图片所示的分体结构,另一种�
 |  |  |
 
 ### 步骤4：安装X电机罩、摄像头、USB线
+
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
 
 安装摄像头到电机罩上，然后穿USB线，并将其扣到电机罩上;
 

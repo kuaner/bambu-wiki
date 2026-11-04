@@ -4,7 +4,7 @@ title: "A1 mini 挤出主板更换指南"
 description: "本指南演示了如何更换A1 mini上的挤出主板（TH板）。"
 tags: []
 created: 2024-02-28T06:58:02.483Z
-updated: 2026-11-02T03:29:24.084Z
+updated: 2026-11-02T03:29:25.112Z
 source: https://wiki.bambulab.com/zh/a1-mini/th-board-replacement-guide
 ---
 

@@ -2,13 +2,13 @@
 path: zh/a1-mini/camera-replacement-guide
 title: "A1 mini更换摄像头组件"
 description: "本指南提供更换 A1 mini 摄像头组件的过程"
-tags: ["a1 mini", "摄像头"]
+tags: ["\"a1 mini", "摄像头\""]
 created: 2024-03-06T12:24:44.690Z
-updated: 2026-08-28T08:27:51.464Z
+updated: 2026-11-03T09:43:19.658Z
 source: https://wiki.bambulab.com/zh/a1-mini/camera-replacement-guide
 ---
 
-> **隐私提示**：请确保摄像头已正确安装，使摄像头视野正确朝向打印机腔体，以避免对打印区域或喷嘴的检测出现问题。
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
 
 在本指南中，我们将展示如何更换 A1 mini 摄像头组件。
 

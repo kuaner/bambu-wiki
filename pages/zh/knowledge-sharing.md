@@ -4,7 +4,7 @@ title: "知识分享"
 description: ""
 tags: []
 created: 2022-07-28T10:19:10.545Z
-updated: 2026-10-22T08:16:59.481Z
+updated: 2026-11-03T11:11:22.742Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing
 ---
 
@@ -96,7 +96,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing
 - [H2 系列前门把手](https://makerworld.com.cn/zh/models/1114250-h2d-h2s-h2c-men-he-gai-zi-ba-shou?from=search#profileId-1166497)
 - [X & P 系列顶盖把手](https://makerworld.com.cn/zh/models/757774-tuo-zhu-ding-gai-ba-shou-3chong-pei-he-yuan-han-m2?from=search#profileId-723068)
 - [AMS 五通料管按钮](https://makerworld.com.cn/zh/models/374915-amswu-tong-liao-guan-an-niu?from=search#profileId-297040)
-- [X & P 系列料管导向](https://makerworld.com.cn/zh/models/374915-amswu-tong-liao-guan-an-niu?from=search#profileId-297040)
+- [X & P 系列料管导向](https://makerworld.com.cn/zh/models/133988-zhong-ji-gong-ju-tou-ptfe-hao-cai-dao-xiang-gua-yo?from=search#profileId-32986)
 
 ## 应用安全
 

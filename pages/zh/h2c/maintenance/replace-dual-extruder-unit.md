@@ -4,7 +4,7 @@ title: "更换 H2C 挤出机组件"
 description: "本文将详细为您介绍更换 H2C 挤出机组件的详细步骤和注意事项。"
 tags: []
 created: 2025-11-18T13:16:53.334Z
-updated: 2026-08-28T06:32:36.542Z
+updated: 2026-11-03T09:26:02.240Z
 source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-dual-extruder-unit
 ---
 
@@ -192,8 +192,10 @@ source: https://wiki.bambulab.com/zh/h2c/maintenance/replace-dual-extruder-unit
 | BT3x20 | 用于固定部件冷却风扇 |  | 2 |
 | M2.5x7 | 用于固定挤出机前盖导向组件 |  | 3 |
 | BT2.6x8 | 用于固定部件冷却风扇 |  | 2 |
-|  | 用于固定挤出机 |  | 2 |
+| BT2.6x8 | 用于固定挤出机 |  | 2 |
 | M2.5x8 | 用于固定挤出机 |  | 4 |
+
+关于螺丝型号的详细信息，请参考 [Bambu Lab 常见螺钉](../../knowledge-sharing/common-screws.md)。
 
 ## 结束语
 

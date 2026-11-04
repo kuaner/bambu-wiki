@@ -4,7 +4,7 @@ title: "H2S X轴线轨组件拆装指南"
 description: "本文将详细为您讲述拓竹 H2S X轴线轨组件拆装步骤。"
 tags: []
 created: 2025-08-25T13:42:34.615Z
-updated: 2026-08-28T06:23:54.674Z
+updated: 2026-11-03T09:48:56.661Z
 source: https://wiki.bambulab.com/zh/h2s/maintenance/replace-x-axis-assembly
 ---
 
@@ -325,6 +325,8 @@ H2S
 ![](https://public-cdn.bblmw.com/wiki/new/aether/h2s/replace-x-axis-assembly/image-50.png)
 
 ### 步骤 5：安装工具头摄像头
+
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
 
 后续步骤仅用于操作动作示意，存在穿帮动作，请忽视，实际上热端风扇，涡流线圈与热端加热组件尚未安装。
 

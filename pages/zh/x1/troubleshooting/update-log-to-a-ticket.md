@@ -4,7 +4,7 @@ title: "如何将日志文件上传到现有工单"
 description: "本指南将引导您在现有工单中上传日志或其他附件"
 tags: []
 created: 2023-03-22T07:18:36.217Z
-updated: 2026-10-15T09:09:57.559Z
+updated: 2026-11-02T11:00:19.139Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 ---
 
@@ -14,21 +14,22 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 
 ## 通过 Bambu Handy 将日志上传到现有工单
 
-打开 Bambu Handy 应用，点击底部导航栏中的 “**我的**”，再选择 “**帮助中心**”，进入帮助中心界面。
+- 打开 Bambu Handy 应用，点击底部导航栏中的 “**我的**”，再选择 “**帮助中心**”，进入帮助中心界面。
+- 在帮助中心页面，找到 “**技术支持**” 区域，点击 “**服务记录**”，进入您的工单列表。然后在技术咨询记录的 “**解决中**” 列表中，找到需要更新的工单，点击 “**回复**” 按钮。
 
-![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/带壳-1-带箭头.png)
+![updatelog_zh1.jpg](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/updatelog_zh1.jpg)
 
-在帮助中心页面，找到 “**工单服务**” 区域，点击 “**历史工单**”，进入您的工单列表。
+添加描述文本及相关图片或视频，在问题描述中添加更多描述，以帮助我们更准确地了解问题。点击“**添加日志**”，选择需要上传日志的打印机（请注意核对序列号）。
 
-![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/带壳-2-带箭头.png)
+![updatelog_zh1.jpg](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/updatelog_zh2.jpg)
 
-在历史工单列表中，找到需要更新的工单，点击 “**回复**” 按钮。
+有两种日志添加方式：
 
-![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/带壳-3-带箭头.png)
+- **关联打印历史**：关联历史打印记录，依据打印记录导出。
+- **手动填写**：手动输入需要导出的日志时间段。
 
-勾选“**打印机日志**”，选择问题发生的时间段。同时，可上传相关图片和视频，在问题描述中添加更多描述，以帮助我们更准确地了解问题。上传完成后，点击“**提交**”。
-
-![](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/带壳-4-带箭头.png)
+选择完毕后，点击 “**确定**”。最后点击“**提交**”。  
+![updatelog_zh1.jpg](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/updatelog_zh3.1.jpg)
 
 返回该工单页面，可查看上传进度。  
 ![上传状态.png](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/%E4%B8%8A%E4%BC%A0%E7%8A%B6%E6%80%81.png)

@@ -4,7 +4,7 @@ title: "更换 H2 系列左/右侧板"
 description: "本文介绍了如何更换 H2 系列左/右侧板"
 tags: []
 created: 2025-03-25T02:59:23.984Z
-updated: 2026-10-30T08:52:54.203Z
+updated: 2026-10-30T08:52:55.268Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-side-panel-with-glass-window
 ---
 

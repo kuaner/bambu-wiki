@@ -4,7 +4,7 @@ title: "X2D 单机开箱指南"
 description: "本文介绍 X2D 单机的开箱步骤及注意事项"
 tags: []
 created: 2026-04-14T13:19:34.458Z
-updated: 2026-08-28T06:40:16.225Z
+updated: 2026-11-04T03:08:32.614Z
 source: https://wiki.bambulab.com/zh/x2d/manual/unboxing-x2d
 ---
 

@@ -4,7 +4,7 @@ title: "更换 H2D & H2C 2004 升降电机组件"
 description: ""
 tags: []
 created: 2025-07-08T09:00:55.033Z
-updated: 2026-08-28T08:40:04.933Z
+updated: 2026-11-03T09:46:19.667Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-2004-lifting-motor-unit
 ---
 
@@ -116,6 +116,8 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-2004-lifting-motor-u
 |  |  |  |
 
 ### 步骤 3：安装喷嘴摄像头
+
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
 
 将喷嘴摄像头对准升降电机组件上的螺丝孔位，使用 H1.5 内六角扳手拧紧两颗固定螺丝。
 

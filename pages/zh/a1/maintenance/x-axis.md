@@ -2,9 +2,9 @@
 path: zh/a1/maintenance/x-axis
 title: "A1 X轴组件拆装指引"
 description: "提供A1 X轴相关联配件的拆解和组装的指引和注意事项。"
-tags: ["a1", "x轴组件"]
+tags: ["\"a1", "x轴组件\""]
 created: 2023-11-22T05:56:07.595Z
-updated: 2026-08-28T08:26:38.381Z
+updated: 2026-11-03T09:41:55.574Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/x-axis
 ---
 
@@ -181,6 +181,8 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/x-axis
 |  |  |
 
 ### 步骤3：安装 USB 摄像头
+
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
 
 穿 USB 摄像头电缆，连接 USB 摄像头，将摄像头装到电机盒子上。
 

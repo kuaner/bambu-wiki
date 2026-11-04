@@ -4,9 +4,15 @@ title: "Cyberbrick-PC 版本说明"
 description: ""
 tags: []
 created: 2025-09-02T06:51:14.667Z
-updated: 2026-09-28T07:09:07.331Z
+updated: 2026-11-04T05:36:32.145Z
 source: https://wiki.bambulab.com/zh/software/cyberbrick-apps/PC-release-notes
 ---
+
+## 0.7.0 (20261104)
+
+### **改进**
+
+- 优化细节体验
 
 ## V0.6.2 (20260926)
 

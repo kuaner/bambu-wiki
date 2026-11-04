@@ -2,9 +2,9 @@
 path: zh/x1/maintenance/replace-the-chamber-led
 title: "更换机箱 LED 灯条"
 description: "介绍如何更换 X1 系列打印机机箱 LED 灯条。"
-tags: ["x1", "机箱led灯条"]
+tags: ["\"x1", "机箱led灯条\""]
 created: 2022-10-27T01:42:59.520Z
-updated: 2026-08-28T08:23:46.774Z
+updated: 2026-11-03T09:26:04.063Z
 source: https://wiki.bambulab.com/zh/x1/maintenance/replace-the-chamber-led
 ---
 
@@ -106,6 +106,8 @@ source: https://wiki.bambulab.com/zh/x1/maintenance/replace-the-chamber-led
 |  |  |  |
 
 ### 步骤 3 - 安装摄像头
+
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
 
 将摄像头放置到下图所示位置上，对齐安装孔，然后按箭头方向推动摄像头，将其安装到位，同时将电缆压入线槽内。
 

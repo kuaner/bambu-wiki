@@ -4,7 +4,7 @@ title: "耗材"
 description: ""
 tags: []
 created: 2023-09-15T09:47:06.270Z
-updated: 2026-08-21T07:30:48.932Z
+updated: 2026-11-03T14:21:44.097Z
 source: https://wiki.bambulab.com/zh/filament-acc
 ---
 
@@ -56,6 +56,7 @@ source: https://wiki.bambulab.com/zh/filament-acc
 - [耗材干燥指南](filament/dry-filament.md)
 - [AMS 2 Pro 和 AMS HT 耗材烘干指南](ams-2-pro/manual/drying-function.md)
 - [Bambu Studio 耗材包更新](software/bambu-studio/filament-package-update.md)
+- [混合耗材类型打印指南](filament/h2d-filament-config-limit.md)
 
 #### 2.2 分耗材类型的知识拓展
 

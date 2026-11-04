@@ -4,7 +4,7 @@ title: "拓竹打印机 LED 指示灯灯语解释"
 description: ""
 tags: []
 created: 2024-06-12T03:28:02.473Z
-updated: 2026-08-10T06:56:18.600Z
+updated: 2026-11-04T03:48:58.792Z
 source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 ---
 
@@ -15,6 +15,53 @@ source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 总之，指示灯的状态可以反映主要硬件模块的供电情况，但并不能完全代表打印机的整体工作状态。用户需要综合考虑各种因素才能判断打印机的实际工作状态。
 
 本指南中的部分视频在手机端的浏览器上可能无法正常加载,建议您改用电脑端浏览器观看。
+
+## H3C
+
+### 正常状态：AP 板指示灯
+
+关机后参考 WIKI: [视窗更换指南](../h3c/maintenance/replace-side-glass-left.md)，移除左侧视窗。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-07.jpg)
+
+用 H1.5 内六角扳手移除 2 颗螺丝，并取下导光板。注意需将导光板向上提，离开卡扣位置后再取下。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-08.jpg)
+
+开机即可观察指示灯状态。3 个常亮，1 个高亮度闪烁，1 个低亮度闪烁  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-11.gif)
+
+### 正常状态：MC 板指示灯
+
+关机后参考[背板更换教程](../h3c/maintenance/replace-back-panel.md)，[废料滑梯更换教程](../h3c/maintenance/replace-purge-chute.md)，拆除背板和废料滑梯，在废料滑梯左侧可开机观察 MC 板。2 个闪烁，1 个常亮。
+
+![](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-05.gif)
+
+### 正常状态：TH 板指示灯
+
+关机状态下参考[工具头外壳更换指南](../h3c/maintenance/replace-toolhead-front-cover.md)拆卸工具头外壳。
+
+完成后通电开机，从工具头背后可观察 TH 板指示灯（正常状态下两个常亮，一个闪烁）。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-13.gif)
+
+工具头顶部可观察接口板指示灯（正常状态下两颗都常亮）。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-15.png)
+
+### 正常状态：打印头控制板
+
+请参考WIKI: [AMS 3H 舱体拆装指南](../h3c/maintenance/replace-chamber.md)，完成将 AMS 舱体从AMS 支架上移除和安装的操作。
+
+开机观察指示灯状态。高亮的 4 个绿色 LED 灯分别为 3 个常亮，1个闪烁；最右侧低亮度的绿色和白色 LED 灯为常亮。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-18.gif)
+
+### 正常状态：热端挂架控制板
+
+用H2.0六角扳手拆掉打印机右侧的四颗螺丝  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-20.png)
+
+用手从机箱内部用力推动将侧板拆下  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-21.png)
+
+开机后观察指示灯。2 个白灯常亮，1 个绿灯低亮度常亮。1 个白灯闪烁。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-22.gif)
 
 ## H2D/H2C 打印机
 

@@ -4,7 +4,7 @@ title: "主页"
 description: ""
 tags: []
 created: 2022-07-27T15:03:58.612Z
-updated: 2026-09-28T07:13:50.253Z
+updated: 2026-11-03T14:36:42.444Z
 source: https://wiki.bambulab.com/zh/home
 ---
 
@@ -27,19 +27,23 @@ source: https://wiki.bambulab.com/zh/home
 
 类似格式展示
 
+[![H3C](https://wiki.bambulab.com/general/widgets/h3c--home.jpg)
+  
+H3C](https://wiki.bambulab.com/zh/h3c)
+
 [![H2 系列](https://wiki.bambulab.com/h2s/h2d1_compressed.png)
   
 H2 系列](https://wiki.bambulab.com/zh/h2)
 
-[![X1 系列](https://wiki.bambulab.com/x2d_main_page_wiki.jpg)
+[![X 系列](https://wiki.bambulab.com/x2d_main_page_wiki.jpg)
   
 X 系列](https://wiki.bambulab.com/zh/x-series)
 
-[![P1 系列](https://wiki.bambulab.com/h2s/test3_compressed.png)
+[![P 系列](https://wiki.bambulab.com/h2s/test3_compressed.png)
   
 P 系列](https://wiki.bambulab.com/zh/p-series)
 
-[![A1](https://wiki.bambulab.com/stock-images/new/a1.png)
+[![A 系列](https://wiki.bambulab.com/stock-images/new/a1.png)
   
 A 系列](https://wiki.bambulab.com/zh/a-series)
 
@@ -50,6 +54,10 @@ A 系列](https://wiki.bambulab.com/zh/a-series)
 R1](https://wiki.bambulab.com/zh/r1)
 
 ### Bambu Lab AMS
+
+[![AMS lite](https://wiki.bambulab.com/wiki/ams_3h_home_page.png)
+  
+AMS 3H](https://wiki.bambulab.com/zh/ams3h)
 
 [![AMS lite](https://wiki.bambulab.com/stock-images/ams_2_pro.jpg)
   

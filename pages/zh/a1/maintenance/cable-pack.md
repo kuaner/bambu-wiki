@@ -4,7 +4,7 @@ title: "更换 A1 线材包"
 description: "本文将介绍如何更换 A1 线材包中的线缆。"
 tags: ["a1"]
 created: 2026-05-08T07:13:01.836Z
-updated: 2026-08-28T06:42:12.713Z
+updated: 2026-11-03T11:12:03.186Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/cable-pack
 ---
 
@@ -76,6 +76,8 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/cable-pack
 ![醋酸胶布.jpg](https://wiki.bambulab.com/a1/maintenance/usb-c-cable-replacement-guide/%E9%86%8B%E9%85%B8%E8%83%B6%E5%B8%83.jpg)
 
 ### 安装新线缆
+
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
 
 将新线缆推入编织网管中，将套管压短后更容易让线缆穿过：
 

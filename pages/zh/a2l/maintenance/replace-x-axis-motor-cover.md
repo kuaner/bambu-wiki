@@ -4,7 +4,7 @@ title: "A2L 更换 X 电机盒"
 description: "本文介绍了如何更换 A2L X 电机盒"
 tags: []
 created: 2026-06-01T13:10:29.041Z
-updated: 2026-08-28T08:44:47.080Z
+updated: 2026-11-03T09:37:54.733Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-x-axis-motor-cover
 ---
 
@@ -97,6 +97,8 @@ X 电机盒
 ![gjtxl003.jpg](https://public-cdn.bblmw.com/wiki/new/a2l/replace-x-axis-motor-cover/gjtxl003.jpg)
 
 ### 4. 安装摄像头组件
+
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
 
 连接摄像头组件插头，将摄像头组件推入固定位置。  
 ![xdjh004.webp](https://public-cdn.bblmw.com/wiki/new/a2l/replace-x-axis-motor-cover/xdjh004.webp)

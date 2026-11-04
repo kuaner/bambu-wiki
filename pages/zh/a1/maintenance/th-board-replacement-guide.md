@@ -4,7 +4,7 @@ title: "A1 更换挤出主板"
 description: "本指南介绍如何更换 A1系列打印机上的挤出主板。"
 tags: ["a1", "a1 mini", "挤出主板"]
 created: 2024-04-25T03:21:02.371Z
-updated: 2026-11-02T03:30:38.848Z
+updated: 2026-11-02T03:30:39.928Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/th-board-replacement-guide
 ---
 

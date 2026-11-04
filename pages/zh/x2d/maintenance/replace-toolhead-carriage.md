@@ -4,7 +4,7 @@ title: "更换 X2D 工具头滑车组件"
 description: ""
 tags: []
 created: 2026-05-20T08:32:10.522Z
-updated: 2026-08-28T06:42:29.356Z
+updated: 2026-11-03T11:16:30.258Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-toolhead-carriage
 ---
 
@@ -131,10 +131,14 @@ source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-toolhead-carriage
 将堵嘴组件安装到工具头滑车前盖上，根据以上的安装提醒，将堵嘴组件安装到位，如果发现 3 颗螺丝对组件安装的位置有影响，可以调整一下螺丝的位置，然后逐个将 3颗螺丝预紧，检查无倾斜等安装不到位的情况后，再将 3 颗螺丝锁紧。  
 ![install_blocker.png](https://wiki.bambulab.com/x2d/maintenance/toolhead-carriage/install_blocker.png)
 
-3. 安装工具头摄像头  
-   将工具头摄像头安装到工具头滑车左侧，注意避让排线，锁入 2 颗螺丝固件工具头摄像头，然后对齐工具头摄像头的上下盖，将上盖安装好。  
-   ![install_the_camera.png](https://wiki.bambulab.com/x2d/maintenance/toolhead-carriage/install_the_camera.png)  
-   ![close_camera_cover.png](https://wiki.bambulab.com/x2d/maintenance/toolhead-carriage/close_camera_cover.png)
+3. 安装工具头摄像头
+
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
+
+将工具头摄像头安装到工具头滑车左侧，注意避让排线，锁入 2 颗螺丝固件工具头摄像头，然后对齐工具头摄像头的上下盖，将上盖安装好。  
+![install_the_camera.png](https://wiki.bambulab.com/x2d/maintenance/toolhead-carriage/install_the_camera.png)  
+![close_camera_cover.png](https://wiki.bambulab.com/x2d/maintenance/toolhead-carriage/close_camera_cover.png)
+
 4. 安装辅助热端风扇  
    将辅助热端风扇压片安装到工具头滑车前盖上，参考下图确保压片的方向正确，然后锁入 2 颗螺丝，不要锁紧。最后再辅助热端的固定支架安装到压片下方，锁紧 2颗螺丝将风扇压紧。
 
@@ -205,9 +209,3 @@ source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-toolhead-carriage
 
 接通电源并启动打印机，运行整机校准流程，确认校准能够顺利完成。  
 如果出现调平失败的问题，可先参考 [X2D 涡流线圈调整](adjust-the-eddy-sensor.md) 调整涡流线圈后重新执行校准。
-
-## 结束语
-
-> 我们希望本指南能为您提供有用的信息，帮助您解决问题。  
-> 如果本指南未解决您的问题，[请联系在线技术支持（服务时间 9:00-21:00）](https://support.bambulab.cn/liveChat/?from=5)，我们随时准备为您解答疑问并提供帮助。  
-> 如果您对本篇 Wiki 有任何建议或反馈，欢迎在评论区留言，感谢您的支持与关注！

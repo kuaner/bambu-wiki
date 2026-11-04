@@ -4,7 +4,7 @@ title: "X2D 包装清单"
 description: "本文汇总 X2D AMS 套装和单机的包装配件清单"
 tags: []
 created: 2026-04-14T13:19:46.415Z
-updated: 2026-10-30T08:37:54.522Z
+updated: 2026-10-30T08:37:55.626Z
 source: https://wiki.bambulab.com/zh/x2d/manual/acc-in-the-box
 ---
 

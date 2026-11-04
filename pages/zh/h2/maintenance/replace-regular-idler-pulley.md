@@ -4,7 +4,7 @@ title: "更换 H2 系列框架惰轮"
 description: "本文提供 H2 系列打印机框架惰轮的更换步骤与关键安全注意事项。"
 tags: []
 created: 2025-09-25T06:06:47.403Z
-updated: 2026-08-28T06:26:00.860Z
+updated: 2026-11-03T11:11:26.754Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-regular-idler-pulley
 ---
 

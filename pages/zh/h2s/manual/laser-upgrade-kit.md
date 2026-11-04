@@ -4,7 +4,7 @@ title: "H2S 激光升级指南"
 description: "本文介绍如何将标准版 H2S 升级为激光版本。"
 tags: []
 created: 2025-11-27T04:14:59.315Z
-updated: 2026-08-28T06:34:57.153Z
+updated: 2026-11-03T09:48:58.256Z
 source: https://wiki.bambulab.com/zh/h2s/manual/laser-upgrade-kit
 ---
 
@@ -109,7 +109,7 @@ source: https://wiki.bambulab.com/zh/h2s/manual/laser-upgrade-kit
 
 ### 安装俯视摄像头
 
-> **隐私提示**：请确保摄像头已正确安装，使摄像头视野正确朝向打印机腔体，以避免对打印区域或喷嘴的检测出现问题。
+> **提示**：摄像头仅用于打印机相关功能。请确保摄像头已正确安装，使摄像头视野正确朝向打印区域，以避免对打印区域或喷嘴的检测出现问题。
 
 #### 固定俯视摄像头
 

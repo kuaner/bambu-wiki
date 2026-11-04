@@ -4,7 +4,7 @@ title: "A1 系列打印机热端堵塞清理"
 description: "本指南介绍 A1 系列打印机热端堵塞清理的 3 种方法。"
 tags: ["a1", "a1 mini", "热端堵塞"]
 created: 2023-11-07T08:08:56.580Z
-updated: 2026-10-14T03:09:22.898Z
+updated: 2026-11-02T11:19:51.751Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 ---
 
@@ -148,7 +148,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 
 ## 注意
 
-0.2 mm 的喷嘴更难清除堵塞物，可能需要多次进行上述步骤。另一方面，大于 0.4 mm 的喷嘴往往比 0.4 mm 的喷嘴更少堵塞，因为喷嘴的口径开口允许更大的颗粒通过。
+一般来说，喷嘴口径越大越不容易堵塞，因为较大的开口能让更大的颗粒顺利通过；口径越小则越容易堵塞，且一旦堵塞也更难疏通。例如 0.2 mm 的喷嘴在清除堵塞物时较为困难，可能需要多次重复上述步骤；而 0.4 mm 及以上的喷嘴相对更不容易发生堵塞。
 
 ## 结束语
 

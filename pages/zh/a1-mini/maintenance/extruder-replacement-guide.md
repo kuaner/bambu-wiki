@@ -4,7 +4,7 @@ title: "挤出机更换指南 - A1 系列"
 description: "本指南演示如何更换 A1 系列的挤出机。"
 tags: []
 created: 2024-05-11T02:12:34.642Z
-updated: 2026-11-02T02:03:04.458Z
+updated: 2026-11-02T02:03:05.538Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/extruder-replacement-guide
 ---
 

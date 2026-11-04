@@ -4,7 +4,7 @@ title: "开箱 A1 mini 套装/单机"
 description: "A1 mini 套装/单机的开箱步骤和注意事项"
 tags: []
 created: 2023-09-17T16:02:52.101Z
-updated: 2026-08-28T08:26:05.751Z
+updated: 2026-11-02T13:14:55.104Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/unboxing-a1-mini-combo
 ---
 
