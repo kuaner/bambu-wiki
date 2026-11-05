@@ -4,7 +4,7 @@ title: "E1 空气净化器开箱和安装指南"
 description: ""
 tags: []
 created: 2026-11-03T13:52:29.027Z
-updated: 2026-11-04T08:18:57.408Z
+updated: 2026-11-05T08:54:30.865Z
 source: https://wiki.bambulab.com/zh/e1/manual/unboxing-installation-guide
 ---
 
