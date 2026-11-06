@@ -4,7 +4,7 @@ title: "H3C 画笔加工介绍"
 description: ""
 tags: []
 created: 2026-11-03T12:12:28.711Z
-updated: 2026-11-03T14:30:18.996Z
+updated: 2026-11-05T01:47:14.666Z
 source: https://wiki.bambulab.com/zh/h3c/manual/drawtool-guide
 ---
 
@@ -34,7 +34,7 @@ H3C 可兼容多种工具，包括打印头和平面加工头（刀切头/画笔
 
 不同颜色画笔带有不同 maker；用于多色 2D 绘画，可按颜色分区上色，完成插画、填色、装饰图案等平面绘制任务。
 
-![003.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/drawtool-guide/zh/003.png)
+![003.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/unboxing-crafttool/zh/007.png)
 
 **画笔补墨**
 

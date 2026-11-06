@@ -4,7 +4,7 @@ title: "AMS 3H 温湿度传感器更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:25:13.091Z
-updated: 2026-11-03T13:25:14.160Z
+updated: 2026-11-06T02:23:27.772Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-temperature-humidity-sensor
 ---
 
@@ -35,14 +35,14 @@ source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-temperature-humidi
 1. 用H1.5 内六角扳手移除 4 颗螺丝，拆开 AMS 主板装饰盖  
    ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-temperature-humidity-sensor/zh/44_ams_3h_rfid_________ams_3h_rfid_reader_replacement_guide_84a2e91957.jpg)
 2. 如果需要与连接线缆一起更换，则需要移除主板装饰盖：用H1.5 内六角扳手移除 4 颗螺丝，拆开 AMS 主板装饰盖  
-   ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-temperature-humidity-sensor/zh/51_ams_3h_____________ams_3h_air_inlet_unit_replacement_guide_1346e88e7d.jpg)
+   ![mainboard-cover-screws.jpeg](https://wiki.bambulab.com/ams-3h/replacement/mainboard-cover-screws.jpeg)
 3. 断开连接线缆，用H1.5 内六角扳手移除 1 颗螺丝，取下AMS 3H 温湿度传感器。  
    ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-temperature-humidity-sensor/zh/83_ams_3h____________ams_3_temperature_humidity_sensor_replacement_guide_6e5d31a428.jpg)
 
 ## 移除 AMS 3H 温湿度传感器（后）
 
 1. 用H1.5 内六角扳手移除 1 颗螺丝，拆开 AMS 主板装饰盖  
-   ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-temperature-humidity-sensor/zh/51_ams_3h_____________ams_3h_air_inlet_unit_replacement_guide_1346e88e7d.jpg)
+   ![mainboard-cover-screws.jpeg](https://wiki.bambulab.com/ams-3h/replacement/mainboard-cover-screws.jpeg)
 2. 断开连接线缆，用H1.5 内六角扳手移除 1 颗螺丝，取下 AMS 3H 温湿度传感器。  
    ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-temperature-humidity-sensor/zh/83_ams_3h____________ams_3_temperature_humidity_sensor_replacement_guide_43cba714cc.jpg)
 
@@ -53,7 +53,7 @@ source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-temperature-humidi
 2. 将短的连接线缆分别连接到主板和传感器上。  
    ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-temperature-humidity-sensor/zh/83_ams_3h____________ams_3_temperature_humidity_sensor_replacement_guide_43cba714cc.jpg)
 3. 安装主板装饰盖。  
-   ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-temperature-humidity-sensor/zh/51_ams_3h_____________ams_3h_air_inlet_unit_replacement_guide_1346e88e7d.jpg)
+   ![mainboard-cover-screws.jpeg](https://wiki.bambulab.com/ams-3h/replacement/mainboard-cover-screws.jpeg)
 
 ## 安装 AMS 3H 温湿度传感器 （前）
 
@@ -62,7 +62,7 @@ source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-temperature-humidi
 2. 将长的连接线缆分别连接到主板和传感器上。  
    ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-temperature-humidity-sensor/zh/83_ams_3h____________ams_3_temperature_humidity_sensor_replacement_guide_c469158406.jpg)
 3. 安装主板装饰盖，锁入 4 颗螺丝固定。  
-   ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-temperature-humidity-sensor/zh/51_ams_3h_____________ams_3h_air_inlet_unit_replacement_guide_1346e88e7d.jpg)
+   ![mainboard-cover-screws.jpeg](https://wiki.bambulab.com/ams-3h/replacement/mainboard-cover-screws.jpeg)
 4. 安装接口板装饰盖。  
    ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-temperature-humidity-sensor/zh/44_ams_3h_rfid_________ams_3h_rfid_reader_replacement_guide_84a2e91957.jpg)
 

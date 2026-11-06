@@ -4,7 +4,7 @@ title: "如何创建工单及上传日志"
 description: "本指南将引导您通过 Bambu Handy 或在 Bambu Lab 官网创建工单及上传日志，以及上传日志常见问题。"
 tags: []
 created: 2024-10-08T04:14:08.421Z
-updated: 2026-10-15T09:05:46.846Z
+updated: 2026-11-06T01:13:48.164Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 ---
 
@@ -73,7 +73,8 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 [X1 系列打印机](#jump2)  
 [P1 系列打印机](#jump3)  
 [A 系列打印机](#jump4)  
-[R1 激光切割机](#jump7)
+[R1 激光切割机](#jump7)  
+[H3C 打印机](#jump8)
 
 点击所需机型名字，跳转至对应指南：
 
@@ -160,6 +161,24 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
    ![](https://wiki.bambulab.com/create-ticket/r1_log_3.jpg)
 4. 勾选全部选项，点击**浏览**以选择日志导出文件夹，然后点击**确认**，等待提示日志下载完成即可。  
    ![](https://wiki.bambulab.com/create-ticket/r1_log_4.jpg)
+
+#### H3C 打印机
+
+1. 点击打印机屏幕进入**设置界面**，选择**导出日志到外部存储**。
+
+![logzh.jpg](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/logzh.jpg)
+
+![settingzh.jpg](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/settingzh.jpg)
+
+2. 点击“导出”。如果遇到的故障类型和 AI 或视觉相关，请务必勾选导出关键图片选项。
+
+![daochuzh.png](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/daochuzh.png)
+
+3. 导出完成后，取出 U 盘并插入电脑，您会发现一个 **.tar 或者 .tar.gz 文件**，即为刚导出的日志。
+
+![日志文件格式.png](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png)
+
+> **注意**：导出打印机日志时请勿更改文件名。
 
 ## **FAQ**
 

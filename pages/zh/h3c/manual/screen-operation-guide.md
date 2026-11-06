@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/screen-operation-guide
 title: "H3C 屏幕操作指南"
-description: ""
+description: "本文介绍了 H3C 屏幕操作"
 tags: []
 created: 2026-11-03T12:26:47.882Z
-updated: 2026-11-03T12:26:48.929Z
+updated: 2026-11-04T09:41:59.331Z
 source: https://wiki.bambulab.com/zh/h3c/manual/screen-operation-guide
 ---
 

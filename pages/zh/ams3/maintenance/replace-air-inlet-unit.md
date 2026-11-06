@@ -4,7 +4,7 @@ title: "AMS 3H 进/出气口组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:25:20.861Z
-updated: 2026-11-03T13:25:21.947Z
+updated: 2026-11-06T02:26:56.328Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-air-inlet-unit
 ---
 
@@ -38,7 +38,7 @@ source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-air-inlet-unit
 ### 第1步 移除 AMS 3H 主板装饰盖
 
 将 AMS 舱体底面朝上放置，使用 H1.5 内六角扳手，拆除固定 AMS 主板装饰盖的 4 颗螺丝，取下装饰盖。  
-![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-air-inlet-unit/zh/51_ams_3h_____________ams_3h_air_inlet_unit_replacement_guide_1346e88e7d.jpg)
+![mainboard-cover-screws.jpeg](https://wiki.bambulab.com/ams-3h/replacement/mainboard-cover-screws.jpeg)
 
 ### 第 2 步 移除 AC 板盖
 
@@ -95,7 +95,7 @@ source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-air-inlet-unit
 ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-air-inlet-unit/zh/51_ams_3h_____________ams_3h_air_inlet_unit_replacement_guide_e763b65c60.jpg)
 
 将 AMS 主板装饰盖对准安装位，锁入 4 颗固定螺丝。  
-![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-air-inlet-unit/zh/51_ams_3h_____________ams_3h_air_inlet_unit_replacement_guide_1346e88e7d.jpg)
+![mainboard-cover-screws.jpeg](https://wiki.bambulab.com/ams-3h/replacement/mainboard-cover-screws.jpeg)
 
 ## 功能验证
 

@@ -4,7 +4,7 @@ title: "AMS 送料电机更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:25:43.992Z
-updated: 2026-11-03T13:25:45.132Z
+updated: 2026-11-06T02:30:00.099Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-feeder-motor
 ---
 
@@ -42,8 +42,8 @@ source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-feeder-motor
 
 ### 第 3 步 移除 AMS 送料电机连接线
 
-翻转 AMS 使其底部朝上，用 H1.5 内六角扳手移除 4 颗螺丝，取下 AMS 主板装饰盖。  
-![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-feeder-motor/zh/51_ams_3h_____________ams_3h_air_inlet_unit_replacement_guide_1346e88e7d.jpg)
+翻转 AMS 使其底部朝上，用 H1.5 内六角扳手移除 3 颗螺丝，取下 AMS 主板装饰盖。  
+![mainboard-cover-screws.jpeg](https://wiki.bambulab.com/ams-3h/replacement/mainboard-cover-screws.jpeg)
 
 断开电机线连接，并将线缆从各卡扣中松出，移除送料电机。  
 ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-feeder-motor/zh/53_ams__________ams_3h_feeder_motor_replacement_guide_b517d142f4.jpg)
@@ -55,8 +55,8 @@ source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-feeder-motor
 将送料电机线缆连接到 AMS 主板的连接器上，整理好线缆。  
 ![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-feeder-motor/zh/53_ams__________ams_3h_feeder_motor_replacement_guide_cd6279e9e5.jpg)
 
-安装主板装饰盖，锁入 4 颗螺丝固定。  
-![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-feeder-motor/zh/51_ams_3h_____________ams_3h_air_inlet_unit_replacement_guide_1346e88e7d.jpg)
+安装主板装饰盖，锁入 3 颗螺丝固定。  
+![mainboard-cover-screws.jpeg](https://wiki.bambulab.com/ams-3h/replacement/mainboard-cover-screws.jpeg)
 
 ### 第 2 步 安装送料电机
 

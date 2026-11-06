@@ -1,10 +1,10 @@
 ---
 path: zh/p2s/maintenance/replace-front-glass-door-handle
-title: "更换前门提手"
-description: ""
-tags: ["front glass door handle", "前门提手", "提手"]
+title: "更换 X1/P 系列前门提手"
+description: "本文介绍 X1/P 系列更换前门提手的操作步骤与注意事项。 "
+tags: ["p1s", "p2s", "x1c", "x1e"]
 created: 2025-11-09T08:55:51.477Z
-updated: 2026-08-28T06:31:14.671Z
+updated: 2026-11-06T08:54:31.517Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-front-glass-door-handle
 ---
 
@@ -12,6 +12,13 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-front-glass-door-ha
 
 前门提手是安装在打印机的前门上，方便打开和关闭玻璃前门的塑料把手。  
 ![front_glass_door_handle_001.png](https://wiki.bambulab.com/p2s/maintenance/replace-front-glass-door-handle/front_glass_door_handle_001.png)
+
+## 适用机型
+
+- X1C
+- X1E
+- P1S
+- P2S
 
 ## 何时更换
 

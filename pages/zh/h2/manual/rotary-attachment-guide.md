@@ -4,9 +4,11 @@ title: "H2 系列激光旋转轴加工指南"
 description: "本文介绍了如何使用激光旋转轴加工功能"
 tags: []
 created: 2026-01-22T02:30:28.157Z
-updated: 2026-08-28T06:36:32.535Z
+updated: 2026-11-05T03:59:58.802Z
 source: https://wiki.bambulab.com/zh/h2/manual/rotary-attachment-guide
 ---
+
+> 如果您需要在 **R1 激光切割机**上使用本配件，请参阅 [R1 旋转轴附件加工指南](https://wiki.bambulab.com/r1/manual/rotary-attachment-guide)。
 
 ## 激光旋转轴加工介绍
 

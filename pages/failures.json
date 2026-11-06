@@ -33,5 +33,6 @@
   "zh/r1/manual/motion-accuracy-calibration": "HTTP 403",
   "zh/r1/maintenance/replace-conveyor-pinch-roller-mount": "HTTP 404",
   "zh/r1/maintenance/replace-mainboard": "HTTP 404",
-  "zh/ams-3h": "HTTP 404"
+  "zh/ams-3h": "HTTP 404",
+  "zh/h3c/maintenance/replace-printtool-base": "HTTP 404"
 }

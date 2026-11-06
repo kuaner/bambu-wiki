@@ -4,7 +4,7 @@ title: "H3C AMS 套装开箱指南"
 description: "本文介绍 H3C 和 AMS 3H 的开箱及安装步骤。"
 tags: []
 created: 2026-11-03T12:11:10.268Z
-updated: 2026-11-04T03:09:11.391Z
+updated: 2026-11-05T12:20:03.898Z
 source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 ---
 
@@ -31,6 +31,12 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 | - 屏幕  - 打印机电源线  - AMS 烘干模块电源线  - 6-pin 连接线  - FEP 料管  - 工具盒 | - 干燥剂\*4  - AMS 3H 安装螺丝 |
 |  |  |
 | \* AMS 3H 安装螺丝的存放位置因包装版本而异，请在 **AMS 3H 包装顶部**或 **H3C 包装内的工具盒**中取用。  \* 工具盒内附赠一块磁铁，请将磁铁吸附在 H1.5/H2.0 内六角扳手长端附近，以防止操作过程中螺丝掉落。 | |
+
+## 温馨提示
+
+出厂标配的 8 号打印头为 2.85 mm 线径专用，仅支持 2.85 mm 线径的 TPU。如需打印 1.75 mm 线径的耗材（包括 PLA、TPU 等），请选购 1.75 mm 线径的打印头，参考[打印头组件更换指南](../maintenance/replace-printtool.md)。
+
+> 2.85 mm 与 1.75 mm 线径用打印头的结构存在差异，不可仅更换热端，必须更换整个打印头组件。
 
 ## H3C 开箱及安装
 

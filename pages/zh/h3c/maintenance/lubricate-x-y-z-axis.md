@@ -4,7 +4,7 @@ title: "H3C XYZ 轴润滑指南"
 description: ""
 tags: []
 created: 2026-11-03T12:49:10.425Z
-updated: 2026-11-03T12:49:11.464Z
+updated: 2026-11-05T02:58:04.046Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/lubricate-x-y-z-axis
 ---
 
@@ -92,8 +92,9 @@ XY 光轴上请勿使用润滑脂。
 
 ### 校准
 
-在屏幕上点击“校准-打印校准-振动补偿”，开始校准。  
-![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/lubricate-x-y-z-axis/zh/05_h3c_xyz_______de2c46dc5e.png)
+在屏幕上点击“校准-打印校准-振动补偿”，开始校准。
+
+![printcali.png](https://wiki.bambulab.com/h3c/maintenance/lubricate-x-y-z-axis/printcali.png)
 
 ## 结束语
 

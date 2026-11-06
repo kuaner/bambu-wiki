@@ -4,13 +4,15 @@ title: "AMS 3H 主板 更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:25:08.635Z
-updated: 2026-11-03T13:25:09.693Z
+updated: 2026-11-06T02:20:31.498Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-mainboard
 ---
 
 ## AMS 3H 主板
 
-![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-mainboard/zh/46_ams_3h_________1d4cc37352.jpg)
+|  |  |
+| --- | --- |
+|  |  |
 
 AMS 3H 主板是 AMS 的核心控制单元，安装于 AMS 中框底部，外部配有装饰盖保护。更换时需先拆除装饰盖并断开所有插头，重新安装时需按根据标识正确连接线缆。
 
@@ -55,7 +57,7 @@ AMS 3H 主板是 AMS 的核心控制单元，安装于 AMS 中框底部，外部
 ### 第1步 移除 AMS 3H 主板装饰盖
 
 将 AMS 舱体底面朝上放置，使用 H1.5 内六角扳手，拆除固定 AMS 主板装饰盖的 3 颗螺丝，取下装饰盖。  
-![图](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-mainboard/zh/46_ams_3h_________86714a7083.jpg)
+![mainboard-cover-screws.jpeg](https://wiki.bambulab.com/ams-3h/replacement/mainboard-cover-screws.jpeg)
 
 ### 第2步 断开连接器
 

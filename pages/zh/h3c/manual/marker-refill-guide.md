@@ -4,7 +4,7 @@ title: "补墨套装使用流程"
 description: ""
 tags: []
 created: 2026-11-03T12:12:11.307Z
-updated: 2026-11-04T07:24:16.189Z
+updated: 2026-11-06T07:11:12.453Z
 source: https://wiki.bambulab.com/zh/h3c/manual/marker-refill-guide
 ---
 
@@ -51,7 +51,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/marker-refill-guide
 
 在进行补墨前，请先打印辅助工具模型。
 
-前往 [MakerWorld](https://makerworld.com.cn/) 或 Bambu Handy，在 Bambu Lab 官方账号内搜索“补墨盒”和“替换笔头推杆”，下载并打印模型后使用。
+前往 [MakerWorld](https://makerworld.com.cn/) 或 Bambu Handy，在 Bambu Lab 官方账号内搜索 **“画笔补墨套装” 辅助工具**，下载并打印模型后使用。
 
 ![004.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/marker-refill-guide/zh/004.png)
 

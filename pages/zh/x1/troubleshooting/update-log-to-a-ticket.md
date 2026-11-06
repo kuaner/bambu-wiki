@@ -4,7 +4,7 @@ title: "如何将日志文件上传到现有工单"
 description: "本指南将引导您在现有工单中上传日志或其他附件"
 tags: []
 created: 2023-03-22T07:18:36.217Z
-updated: 2026-11-02T11:00:19.139Z
+updated: 2026-11-06T01:54:20.510Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 ---
 
@@ -44,7 +44,8 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 [X1 系列打印机](#jump2)  
 [P1 系列打印机](#jump3)  
 [A 系列打印机](#jump4)  
-[R1 激光切割机](#jump7)
+[R1 激光切割机](#jump7)  
+[H3C 打印机](#jump8)
 
 点击所需机型名字，跳转至对应指南：
 
@@ -149,6 +150,29 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
    ![](https://wiki.bambulab.com/create-ticket/r1_log_3.jpg)
 4. 勾选全部选项，点击**浏览**以选择日志导出文件夹，然后点击**确认**，等待提示日志下载完成即可。  
    ![](https://wiki.bambulab.com/create-ticket/r1_log_4.jpg)
+
+### H3C 打印机
+
+1. 点击打印机屏幕进入**设置界面**，选择**导出日志到外部存储**。
+
+![logzh.jpg](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/logzh.jpg)
+
+![settingzh.jpg](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/settingzh.jpg)
+
+2. 点击“导出”。如果遇到的故障类型和 AI 或视觉相关，请务必勾选导出关键图片选项。
+
+![daochuzh.png](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/daochuzh.png)
+
+3. 导出完成后，取出 U 盘并插入电脑，您会发现一个 **.tar 或者 .tar.gz 文件**，即为刚导出的日志。
+
+![日志文件格式.png](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png)
+
+4. 前往[服务工单](https://bambulab.cn/zh-cn/my/support/tickets?from=5)，找到您想要更新的工单，单击**回复** > **回复工单**。  
+   ![查看工单-官网.png](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/%E6%9F%A5%E7%9C%8B%E5%B7%A5%E5%8D%95-%E5%AE%98%E7%BD%91.png)
+5. 单击**上传打印机日志**，可上传打印机的日志文件、相关照片和视频。也可以在问题描述中添加更多描述，以帮助我们更准确地了解问题。上传完成后，单击**提交**。  
+   ![image1.png](https://wiki.bambulab.com/x1/troubleshooting/upload-log-file/image1.png)
+
+> 可全选所有日志文件，系统将自动将其打包成一个文件。
 
 ## 其他附件
 

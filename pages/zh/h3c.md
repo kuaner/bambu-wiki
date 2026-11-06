@@ -4,7 +4,7 @@ title: "H3C"
 description: ""
 tags: []
 created: 2026-11-02T07:17:52.824Z
-updated: 2026-11-03T14:25:55.592Z
+updated: 2026-11-05T13:02:25.816Z
 source: https://wiki.bambulab.com/zh/h3c
 ---
 
@@ -44,6 +44,8 @@ source: https://wiki.bambulab.com/zh/h3c
 - [H3C 部件介绍](manual/main-components.md)
 - [H3C 连接 AMS 指南](manual/ams-connection-guide.md)
 - [H3C 配件模型介绍](manual/internal-print-files.md)
+- [E1 空气净化器常见问答](e1/manual/faq.md)
+- [拓竹工作站 L 常见问答](manual/bambu-station-faq.md)
 
 ### 开箱/装箱
 
@@ -139,14 +141,13 @@ source: https://wiki.bambulab.com/zh/h3c
 - [更换 H3C 锁紧组件](maintenance/replace-toollock-assembly.md)
 - [更换 H3C 工具定位槽](maintenance/replace-tool-holder.md)
 - [更换 H3C 涡流线圈](maintenance/replace-nozzle-eddy-sensor.md)
-- [更换 H3C 从动轮组件（挤出变径组件）](maintenance/replace-idler-assembly.md)
+- [更换 H3C 从动轮组件](maintenance/replace-idler-assembly.md)
 - [更换 H3C 变距电机](maintenance/replace-2012-flexfeed-motor.md)
 - [更换 H3C 锁紧电机](maintenance/replace-2012-toollock-motor.md)
 - [更换 H3C 挤出电机](maintenance/replace-2521-extruder-servo-motor.md)
 - [更换 H3C 泊位标定传感器](maintenance/replace-dock-alignment-sensor.md)
 - [更换 H3C 工具识别传感器](maintenance/replace-tool-reader.md)
 - [更换 H3C 部件冷却风扇](maintenance/replace-part-cooling-fan.md)
-- [更换 H3C 堵嘴组件](maintenance/replace-flow-blocker.md)
 
 ### 闪切挂架
 
@@ -154,6 +155,7 @@ source: https://wiki.bambulab.com/zh/h3c
 - [更换 H3C 热端挂架组件](maintenance/replace-swaptek-rack.md)
 - [更换 H3C 热端挂架电机/热端挂架框架](maintenance/replace-rack-lift-motor.md)
 - [更换 H3C 泊位组件](maintenance/replace-dock-assembly.md)
+- [更换 H3C 堵嘴组件](maintenance/replace-flow-blocker.md)
 
 ### 打印头
 
@@ -219,16 +221,8 @@ source: https://wiki.bambulab.com/zh/h3c
 
 ### 空气净化器
 
-- [更换 E1 风扇](e1/maintenance/replace-purifier-fan.md)
-- [更换 E1 主板](e1/maintenance/replace-purifier-main-board.md)
 - [更换 E1 滤芯](e1/maintenance/replace-purifier-air-filter.md)
-- [更换 E1 前壳](e1/maintenance/replace-purifier-front-cover.md)
 - [更换 E1 后盖](e1/maintenance/replace-purifier-back-cover.md)
-- [更换 E1 电源](e1/maintenance/replace-purifier-power-supply.md)
-- [更换 E1 电源插座](e1/maintenance/replace-purifier-power-socket.md)
-- [更换 E1 按键板](e1/maintenance/replace-purifier-button-assembly.md)
-- [更换 E1 PM2.5 传感器](e1/maintenance/replace-purifier-pm2_5-sensor.md)
 - [更换 E1 外排转接件](e1/maintenance/replace-purifier-exhaust-hose-adapter.md)
 - [更换 E1 风管转接口](e1/maintenance/replace-purifier-exhaust-hose-connector.md)
 - [更换 E1 风管](e1/maintenance/replace-purifier-exhaust-hose.md)
-- [更换 E1 滤芯密封泡棉与脚垫](e1/maintenance/replace-purifier-foam-padding-set-for-filter-machine-feet.md)

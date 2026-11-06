@@ -4,7 +4,7 @@ title: "闪切挂架更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:45:55.368Z
-updated: 2026-11-03T12:48:30.501Z
+updated: 2026-11-05T10:01:32.828Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-swaptek-rack
 ---
 
@@ -175,9 +175,6 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-swaptek-rack
 
 启动打印机，执行一次挂架对位校准，能正常完成却可。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-swaptek-rack/zh/07__________dock_assembly_replacement_guide_d660e36ef0.jpg)
-
-（补张 UI 图，执行一次挂架校准： 下图是英文，转后请删除。）  
-![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-swaptek-rack/zh/20__________swaptek_rack_replacement_guide_88c11da2ba.jpg)
 
 ## 结束语
 

@@ -4,7 +4,7 @@ title: "H2D 打印后刀切功能指南"
 description: ""
 tags: []
 created: 2025-04-29T13:21:46.596Z
-updated: 2026-10-21T02:45:58.693Z
+updated: 2026-11-06T01:51:53.620Z
 source: https://wiki.bambulab.com/zh/h2/manual/post-printing-cutting
 ---
 
@@ -22,20 +22,20 @@ source: https://wiki.bambulab.com/zh/h2/manual/post-printing-cutting
 
 ## 2. 操作流程
 
-### **步骤 1：设计图案**
+### 步骤 1：设计图案
 
 1. 在 Bambu Suite 中导入/绘制 2D 图案（可以是位图或者矢量图）。
 2. 调整图案尺寸，以及对图案进行其他编辑处理，例如去除背景等。
 
 ![](https://wiki.bambulab.com/h2/post-printing-cutting/%E4%BD%8D%E5%9B%BE%E5%8E%BB%E8%83%8C%E6%99%AF.gif)
 
-### **步骤 2：设置打印后刀切工艺类型**
+### 步骤 2：设置打印后刀切工艺类型
 
 将图案的**工艺类型修改为打印后刀切**。如果你使用了贴纸工具，则**软件会自动将贴纸图案设置为打印后刀切的制作工艺，**详情可以参考：[贴纸工具](../../software/bambu-suite/manual/sticker-tool.md)
 
 ![](https://wiki.bambulab.com/h2/post-printing-cutting/20250424151930_rec_.gif)
 
-### **步骤 3：选择材料，发送加工和打印任务**
+### 步骤 3：选择材料，发送加工和打印任务
 
 1. 在材料组选择合适的材料，例如制作贴纸时选择不干胶打印纸。
 
@@ -47,21 +47,25 @@ source: https://wiki.bambulab.com/zh/h2/manual/post-printing-cutting
 
 > **重要提醒！**  
 > 使用 2D 打印机时，请务必将比例设置为 **100%（实际尺寸）**。  
-> 打印前，请检查 2D 打印机的**默认设置**，确保关闭“适应页面”或“缩放以适应”等选项，避免因比例被自动调整而导致后续刀切任务出现尺寸误差或位置偏差。
+> 打印前，请检查 2D 打印机的**默认设置**，确保关闭“适应页面”或“缩放以适应”等选项，避免因比例调整而导致后续刀切任务出现尺寸误差或位置偏差。  
+> 打印后的纸张上有一条**测试线**，可以通过测量其长度是否为 **150 mm**，来判断打印是否符合原尺寸。  
+> ![test_line.png](https://wiki.bambulab.com/h2/post-printing-cutting/test_line.png)
 
-### **步骤 4：开始制作**
+### 步骤 4：开始制作
 
 参考软件和屏幕上的说明，将打印出来的纸张贴在垫板的对应位置，然后在机器上按住按钮启动任务，即可开始。
 
 ![20250617-140848.jpg](https://wiki.bambulab.com/h2/manual/20250617-140848.jpg)
 
-![](https://wiki.bambulab.com/h2/post-printing-cutting/image-1.png)
-
-![](https://wiki.bambulab.com/h2/post-printing-cutting/img_v3_02hv_aeea2915-700b-47c4-b752-4ffd1313225g.jpg)
+|  |  |
+| --- | --- |
+|  |  |
 
 ![](https://wiki.bambulab.com/h2/post-printing-cutting/image-2.png)
 
-## 3. **操作规范**
+  
+
+## 3. 操作规范
 
 ### 2D 打印注意事项
 
@@ -81,13 +85,14 @@ source: https://wiki.bambulab.com/zh/h2/manual/post-printing-cutting
   ![](https://wiki.bambulab.com/h2/post-printing-cutting/image-4.png)
 - **操作要求**：
 
-  - **用户需要将打印出图案的纸沿着第二条虚线框的左上角位置贴好，**如下图所示：
+  - 用户需要将打印出图案的纸沿着**第二条虚线框的左上角**位置贴好，如下图所示：
 
   ![](https://wiki.bambulab.com/h2/post-printing-cutting/image-5.png)
 
-  ![](https://wiki.bambulab.com/h2/post-printing-cutting/image-6.png)
+|  |  |
+| --- | --- |
+|  |  |
 
-  ![](https://wiki.bambulab.com/h2/post-printing-cutting/image-7.png)
 - **注意事项：**
 
   - 若摄像头无法识别全部 4 个 Marker，加工作业将被终止；

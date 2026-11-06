@@ -4,13 +4,35 @@ title: "Bambu Lab 打印机账号绑定指南"
 description: ""
 tags: []
 created: 2025-04-16T09:20:39.869Z
-updated: 2026-10-19T12:40:32.962Z
+updated: 2026-11-06T01:31:36.585Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-binding-guide
 ---
 
 本章节将介绍如何为 Bambu Lab 打印机绑定账号，以实现远程控制、远程发起打印、多设备管理、固件升级等功能。不同系列的打印机绑定方式略有差异，请根据您所使用的设备型号进行操作。
 
 🔗 账号解绑指南请参考：[Bambu Lab 打印机账号解绑指南 | Bambu Lab Wiki](printer-account-unbinding-guide.md)
+
+## H3C
+
+### 连接 Wi-Fi
+
+点击屏幕左侧齿轮图标进入“**设置**”菜单。
+
+![wifi0-zh.jpg](https://wiki.bambulab.com/knowledge-sharing/printer-account-unbinding-guide/wifi0-zh.jpg)
+
+在设置界面找到“**Wi-Fi**”选项，系统将自动扫描可用网络。
+
+![wifi-zh.jpg](https://wiki.bambulab.com/knowledge-sharing/printer-account-unbinding-guide/wifi-zh.jpg)
+
+### 账号绑定
+
+网络连接成功后，返回主界面点击“**登录**”按钮。
+
+![denglu-zh.jpg](https://wiki.bambulab.com/knowledge-sharing/printer-account-unbinding-guide/denglu-zh.jpg)
+
+使用 **Bambu Handy** 手机 APP 扫描设备屏幕显示的二维码，按提示完成账号关联。
+
+![saoma-zh.jpg](https://wiki.bambulab.com/knowledge-sharing/printer-account-unbinding-guide/saoma-zh.jpg)
 
 ## H2 系列 / P2S /X2D
 

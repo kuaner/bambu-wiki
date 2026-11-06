@@ -4,7 +4,7 @@ title: "平面加工头（刀切头/画笔头）安装教程"
 description: "本文将引导您完成平面加工头（即刀切头与画笔头）在打印机上的安装，并说明如何在刀切与绘画功能之间切换。适用于已购买平面加工升级套装、刀切头或画笔头的用户。"
 tags: []
 created: 2026-11-03T12:12:08.326Z
-updated: 2026-11-03T12:12:09.423Z
+updated: 2026-11-05T03:00:01.307Z
 source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-crafttool
 ---
 
@@ -13,6 +13,8 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-crafttool
 - 刀头十分锋利，进行安装、更换或切换时，请小心操作，避免划伤。
 - 拆除 AMS 舱体、拔插线缆前，请先关闭打印机电源。
 - 妥善保管拆下的螺丝与堵嘴硅胶，避免遗失。
+
+## 视频指南
 
 ## 包装内物品
 

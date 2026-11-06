@@ -4,7 +4,7 @@ title: "Bambu Lab 打印机账号解绑指南"
 description: "本文介绍了如何将账号从打印机上解绑。"
 tags: []
 created: 2026-03-23T09:18:01.938Z
-updated: 2026-08-28T06:37:26.418Z
+updated: 2026-11-06T02:08:40.255Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-unbinding-guide
 ---
 
@@ -32,6 +32,16 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-unbinding
 |  |  |  |
 
 ## 从打印机屏幕解绑
+
+### H3C
+
+1. 在打印机屏幕上，点击**左侧齿轮图标进入“设置”菜单**；然后点击 **账号”**。
+
+![loginzh.jpg](https://wiki.bambulab.com/knowledge-sharing/printer-account-unbinding-guide/loginzh.jpg)
+
+2. 进入“账号”界面后，点击 **“登出”**。
+
+![logoutzh.jpg](https://wiki.bambulab.com/knowledge-sharing/printer-account-unbinding-guide/logoutzh.jpg)
 
 ### H2 系列 / P2S / X 系列
 
@@ -81,6 +91,16 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-unbinding
 ## 如何恢复打印机出厂设置（非必需）
 
 恢复出厂设置后，打印机也会与已登录的帐户解绑。
+
+### H3C
+
+在打印机屏幕上，点击左侧 **“设置”** 图标，然后点击 **“设置”**。
+
+![logzh.jpg](https://wiki.bambulab.com/knowledge-sharing/printer-account-unbinding-guide/logzh.jpg)
+
+进入“设置”界面后，点击 **下划箭头**，**下划至界面底部**，点击\*\*“恢复出厂设置”\*\*。
+
+![factory-zh.jpg](https://wiki.bambulab.com/knowledge-sharing/printer-account-unbinding-guide/factory-zh.jpg)
 
 ### H2 系列 / P2S / X 系列
 

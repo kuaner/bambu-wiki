@@ -4,7 +4,7 @@ title: "如何在Bambu Lab打印机上使用局域网模式"
 description: "有关在 Bambu Lab 打印机上使用局域网模式的指南"
 tags: []
 created: 2023-08-30T06:27:06.873Z
-updated: 2026-08-28T08:25:41.908Z
+updated: 2026-11-05T06:01:40.695Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/enable-lan-mode
 ---
 
@@ -26,7 +26,7 @@ X1 系列打印机的处理器芯片支持炒面检测。该系统采用机器�
 
 ## 使用访问码连接打印机
 
-### H2 系列/ P2S / X 系列打印机
+### H 系列/ P2S / X 系列打印机
 
 #### 步骤一：在打印机端启用“仅局域网”模式
 

@@ -4,7 +4,7 @@ title: "悬浮阻尼脚垫更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:44:08.314Z
-updated: 2026-11-03T12:48:30.501Z
+updated: 2026-11-04T11:58:00.515Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-anti-vibration-feet
 ---
 
@@ -27,7 +27,7 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-anti-vibration-feet
 
 ## 工具和材料
 
-- H2.0 内六角扳手
+- [悬浮阻尼脚垫](https://item.jd.com/10238605528199.html?pcdk=hTHwEgiKvGB8m09_c7tPXzYKzJVR_5OLrZijGv8hYwM%3D.M8AW.sbc1)
 
 ## 安全提示
 
