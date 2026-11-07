@@ -4,7 +4,7 @@ title: "更换 P2S/X2D 玻璃前门"
 description: "本文介绍了如何更换 P2S/X2D  玻璃前门"
 tags: []
 created: 2025-10-14T12:55:45.302Z
-updated: 2026-10-22T09:08:24.281Z
+updated: 2026-11-06T08:33:20.965Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-front-glass-door
 ---
 
@@ -13,6 +13,10 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-front-glass-door
 玻璃前门是安装在打印机正面，由深灰色玻璃制成的门，便于观察打印机作业并起防护作用。  
 P2S 的玻璃前门增加了贴膜，提升了安全性。  
 ![fas070.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/fas070.jpg)
+
+## 适用打印机型号
+
+P2S、X2D
 
 ## 何时更换
 

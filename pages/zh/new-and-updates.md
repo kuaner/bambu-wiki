@@ -4,9 +4,50 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-10-30T09:38:49.249Z
+updated: 2026-11-06T10:15:13.201Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 2026-W45
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [HMS\_0700-5200-0003-0001：检测到接入的 AMS 数量或类型异常。请查阅 Wiki 了解支持的 AMS 组合，并调整当前接入方式。](a1/troubleshooting/hmscode/0700_5200_0003_0001.md) | 介绍 HMS 0700-5200-0003-0001 的含义、可能原因及排查方法，帮助处理 AMS 数量或类型异常问题。 | A1 |
+| [钟表机芯创作指南\_ZC037](makerworld/makers_supply/ZC037/Watch_Movement_Design.md) | 介绍如何围绕 ZC037 钟表机芯进行作品设计与创作，帮助用户了解适配思路与制作要点。 | / |
+| [钟表机芯套件\_ZC037使用指南](makerworld/makers_supply/ZC037/user_guide.md) | 介绍 ZC037 钟表机芯套件的参考文件、安装使用方法、拆卸操作及常见问题排查。 | / |
+| [Bambu Suite V1.6.0.00 版本说明](software/bambu-suite/release-notes/v01-06-00-00.md) | 介绍 Bambu Suite V1.6.0.00 的版本更新内容、功能改进与问题修复。 | / |
+| [HMS\_0300-BC00-0001-0001：AC板异常升温，可能由硬件电路损坏导致，请立即断开设备电源并停止使用，联系售后获取排故指引。](a2l/troubleshooting/hmscode/0300_BC00_0001_0001.md) | 本页说明 HMS 0300-BC00-0001-0001 故障码含义，提示 AC 板异常升温的风险及处理建议。 | A2L |
+| [Bambu Studio 2.9.1 版本说明](software/bambu-studio/release/release-note-2-9-1.md) | 介绍 Bambu Studio 2.9.1 的新功能、优化与适配说明，包含混色功能和多头机型支持信息。 | AMS |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [APP 端 CyberBrick 版本说明](software/cyberbrick-apps/APP-release-notes.md) | 补充 1.8.0 版本改进：优化细节体验 | 1.8.0 | / |
+| [Cyberbrick-PC 版本说明](software/cyberbrick-apps/PC-release-notes.md) | 补充 0.7.0 版本发布说明，提到优化细节体验 | 0.7.0 | / |
+| [H2 系列激光旋转轴加工指南](h2/manual/rotary-attachment-guide.md) | 补充 R1 激光切割机对应旋转轴附件指南链接 | R1 旋转轴附件加工指南 | / |
+| [HMS\_0300-0100-0003-0008: 热床设置温度超限，已经自动调整至限制温度。](x1/troubleshooting/hmscode/0300_0100_0003_0008.md) | 补充 A2L、P2S、X2D 机型热床温度上限信息。 | 热床温度上限 | A2L,P2S,X2D |
+| [Bambu Studio 版本说明](software/bambu-studio/release.md) | 补充 Bambu Studio 2.9.1 版本说明入口链接 | 2.9.1 | / |
+| [Bambu Suite 版本说明](software/bambu-suite/release-notes.md) | 补充 Bambu Suite V1.6.0.00 版本说明入口及 V1.5.0.00 下载链接 | Bambu Suite | / |
+| [H2D 固件发布记录](h2d/manual/h2d-firmware-release-history.md) | 补充 01.04.20.00 版本的新功能、优化与修复说明 | 01.04.20.00 | H2D |
+| [A1 mini 挤出主板更换指南](a1-mini/th-board-replacement-guide.md) | 更新绝缘片安装说明，强调 TH 板需与绝缘片匹配。 | 绝缘片 | A1 mini |
+| [A1 更换挤出主板](a1/maintenance/th-board-replacement-guide.md) | 更新绝缘片安装说明，强调 TH 板需与绝缘片匹配。 | 绝缘片 | A1 |
+| [AMS HT 开箱指南](ams-ht/manual/unboxing-and-setup.md) | 补充干燥剂放置数量说明，提示仅放入一包以免影响支撑轴旋转。 | 干燥剂 | AMS HT,AMS |
+| [TPU 送料助力模块组装 & 使用指南](general/manual/tpu-feed-assist-module.md) | 补充 AMS HT 干燥剂摆放对料盘转动的提示。 | AMS HT | 耗材 |
+| [H2D 打印后刀切功能指南](h2/manual/post-printing-cutting.md) | 补充通过测量150 mm测试线校验2D打印原尺寸的方法。 | 测试线 | H2D |
+| [H2S 固件发布记录](h2s/manual/h2s-firmware-release-history.md) | 补充 H2S 固件 01.03.00.00 版本发布说明与功能变更 | 01.03.00.00 | H2S, AMS, AMS 2 Pro |
+| [拓竹农场管家软件快速入门](software/bambu-farm-manager.md) | 更新农场管家服务器下载版本至 03.01.02.00。 | 农场管家服务器 | / |
+| [拓竹农场管家版本说明](software/bambu-farm-release-notes.md) | 更新 V3.1.0 条目中的服务器端版本号为 V3.1.2.0 | V3.1.2.0 | / |
+| [拓竹农场管家客户端 V3.1.0 & 服务器端 V3.1.2.0 版本说明](software/bambu-farm-release-notes/3-1-0.md) | 更新服务器端下载链接，并补充 V03.01.02.00 修复内容 | Bambu Farm Manager 03.01.02.00 | / |
+| [混色打印](bambu-studio/color-mixing.md) | 补充纹理转涂色自动匹配混色耗材及 PLA Palette 套装推荐 | PLA Palette | AMS |
+| [耗材](filament-acc.md) | 补充混合耗材类型打印指南链接 | 混合耗材类型打印指南 | H2D |
+| [拓竹打印板介绍](filament-acc/acc/plates.md) | 补充增稳低温打印板的清洁禁忌与清洁方法说明 | 增稳低温打印板 | 耗材 |
+| [耗材烘干操作指南](filament-acc/filament/dry-filament.md) | 补充 AMS 3H 烘干方式，并更新耗材烘干适配与电源说明 | AMS 3H | 耗材 |
+| [耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水的兼容性、适配性及参数设置](general/filament-guide-material-table.md) | 更新 TPU 85A 的 AMS 兼容性为不可用 | TPU 85A | AMS |
+| [TPU 打印指南](knowledge-sharing/tpu-printing-guide.md) | 补充 TPU 75A/98A HF线径及机型、喷嘴、AMS兼容信息 | TPU 75A | 耗材 |
+| [纹理转涂色](software/bambu-studio/texture-to-color.md) | 更新纹理转涂色界面流程，并补充“间隙面积”等高级设置说明 | 纹理转涂色 | / |
 
 ## 2026-W44
 

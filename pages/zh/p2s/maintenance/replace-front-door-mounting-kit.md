@@ -4,7 +4,7 @@ title: "更换 P2S/X2D  前门安装配件"
 description: "本文介绍了如何更换 P2S/X2D  前门安装配件"
 tags: []
 created: 2025-10-14T13:13:34.391Z
-updated: 2026-08-28T06:29:01.962Z
+updated: 2026-11-06T09:24:56.992Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-front-door-mounting-kit
 ---
 
@@ -12,6 +12,11 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-front-door-mounting
 
 前门安装配件是用来将玻璃前门安装到打印机上的连接配件，包含上、下合页各一个，以及一条硅胶条。  
 ![fas073.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/fas075.jpg)
+
+## 适用机型
+
+- P2S
+- X2D
 
 ## 何时更换
 

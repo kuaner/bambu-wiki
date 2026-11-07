@@ -4,7 +4,7 @@ title: "更换 P2S/X2D  料管支架"
 description: "本文介绍了如何更换 P2S/X2D  料管支架"
 tags: ["料管支架"]
 created: 2025-10-14T12:50:17.758Z
-updated: 2026-08-28T06:28:30.309Z
+updated: 2026-11-06T10:03:51.232Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-ptfe-tube-bracket
 ---
 
@@ -12,6 +12,11 @@ source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-ptfe-tube-bracket
 
 料管支架是安装在打印机背面，用于固定 PTFE 管的配件，两端各安装有一个气动接头。  
 ![fac152.jpg](https://public-cdn.bblmw.com/wiki/new/p2s/maintenance/p2s-sku-pics/fac152.jpg)
+
+## 适用机型
+
+- P2S
+- X2D
 
 ## 何时更换
 

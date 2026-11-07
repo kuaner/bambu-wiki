@@ -4,7 +4,7 @@ title: "H3C 主要部件介绍"
 description: "本文介绍了 H3C 的主要部件及相关功能"
 tags: []
 created: 2026-11-03T13:19:11.731Z
-updated: 2026-11-03T13:19:12.811Z
+updated: 2026-11-06T07:54:54.335Z
 source: https://wiki.bambulab.com/zh/h3c/manual/main-components
 ---
 
@@ -282,8 +282,6 @@ H3C 右侧有一个切刀顶杆，用于触发工具头上的切刀实现切料�
 H3C 打印机随机附赠了一块纹理 PEI 打印板，如下图：
 
 ![035.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/main-components/zh/035.png)
-
-H3C 打印板兼容新旧版本的 H2C/A2L 打印板。推荐搭配新版 H2C/A2L 打印板使用，因其**优化了与刀架的避让间隙**，取放打印板将更加便捷。
 
 > 请查看[打印板介绍](../../filament-acc/acc/plates.md)，获取更多打印板的相关信息。
 

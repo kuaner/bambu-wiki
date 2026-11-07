@@ -4,7 +4,7 @@ title: "H3C TPU 打印指南"
 description: "本文介绍了如何使用 H3C 打印 TPU 耗材。"
 tags: []
 created: 2026-11-03T13:19:28.813Z
-updated: 2026-11-06T08:13:42.454Z
+updated: 2026-11-06T09:11:51.320Z
 source: https://wiki.bambulab.com/zh/h3c/manual/tpu-printing-guide
 ---
 
