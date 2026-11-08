@@ -4,7 +4,7 @@ title: "H3C"
 description: ""
 tags: []
 created: 2026-11-02T07:17:52.824Z
-updated: 2026-11-05T13:02:25.816Z
+updated: 2026-11-07T11:28:07.391Z
 source: https://wiki.bambulab.com/zh/h3c
 ---
 
@@ -152,8 +152,8 @@ source: https://wiki.bambulab.com/zh/h3c
 ### 闪切挂架
 
 - [更换 H3C 闪切挂架控制板](maintenance/replace-swaptek-rack-control-board.md)
-- [更换 H3C 热端挂架组件](maintenance/replace-swaptek-rack.md)
-- [更换 H3C 热端挂架电机/热端挂架框架](maintenance/replace-rack-lift-motor.md)
+- [更换 H3C 闪切挂架组件](maintenance/replace-swaptek-rack.md)
+- [更换 H3C 挂架升降电机/闪切挂架框架](maintenance/replace-rack-lift-motor.md)
 - [更换 H3C 泊位组件](maintenance/replace-dock-assembly.md)
 - [更换 H3C 堵嘴组件](maintenance/replace-flow-blocker.md)
 

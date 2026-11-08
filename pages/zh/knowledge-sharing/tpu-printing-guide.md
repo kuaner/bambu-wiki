@@ -4,7 +4,7 @@ title: "TPU 打印指南"
 description: "本文介绍了打印 TPU 的建议"
 tags: ["tpu"]
 created: 2023-08-02T08:20:33.025Z
-updated: 2026-11-03T13:19:36.243Z
+updated: 2026-11-07T03:25:27.400Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/tpu-printing-guide
 ---
 
@@ -16,7 +16,7 @@ TPU 有多种硬度可选，不同硬度可适配不同的应用场景。其硬�
 
 常见 TPU 硬度从硬到软大致为：77D > 70D > 68D > 55D > 95A > 90A > 85A > 83A > 80A > 75A > 70A。
 
-拓竹 TPU 目前有两种线径，分别是 **1.75 mm** 与 **2.85 mm**。其中，TPU 75A 为 2.85 mm 线径，TPU 98A HF、TPU 85A、TPU 90A、TPU for AMS 为 1.75 mm 线径。
+拓竹 TPU 目前有两种线径，分别是 **1.75 mm** 与 **2.85 mm**。其中，TPU 75A 为 2.85 mm 线径，TPU 95A HF、TPU 85A、TPU 90A、TPU for AMS 为 1.75 mm 线径。
 
 需要注意的是，由于 TPU 柔软易弯曲，所以相比 PLA、PETG 等常见硬质耗材打印难度较高，进料方式也较为特殊，对耗材干燥度、进料稳定性以及硬件适配性要求较高。
 
