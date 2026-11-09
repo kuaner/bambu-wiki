@@ -4,7 +4,7 @@ title: "H3C"
 description: ""
 tags: []
 created: 2026-11-02T07:17:52.824Z
-updated: 2026-11-07T11:28:07.391Z
+updated: 2026-11-09T06:58:07.340Z
 source: https://wiki.bambulab.com/zh/h3c
 ---
 
@@ -98,6 +98,7 @@ source: https://wiki.bambulab.com/zh/h3c
 - [H3C 耗材缠绕解决方法](troubleshooting/tangle-stuck-filament.md)
 - [H3C 平面加工质量指南](manual/crafttool-quality.md)
 - [H3C 空气净化器故障排查指南](e1/troubleshooting/purifier-troubleshooting-guide.md)
+- [H3C 手动解锁工具头上打印头](https://wiki.bambulab.com/zh/h3c/troubleshooting/how-to-place-printtool)
 
 ## 🚧 维护指南
 

@@ -2803,7 +2803,7 @@
   "zh/h3c/maintenance/replace-toolhead-camera": "2026-11-03T12:46:35.628Z",
   "zh/h3c/troubleshooting/hmscode/0800_1A00_0001_0008": "2026-11-03T12:45:15.653Z",
   "zh/h3c/maintenance/replace-nozzle-clumping-sensor-assembly": "2026-11-03T12:47:22.769Z",
-  "zh/h3c/manual/unboxing-h3c-ams-combo": "2026-11-05T12:20:03.898Z",
+  "zh/h3c/manual/unboxing-h3c-ams-combo": "2026-11-09T03:21:32.968Z",
   "zh/h3c/maintenance/replace-hotend-cooling-fan": "2026-11-03T12:46:56.078Z",
   "zh/h3c/troubleshooting/hmscode/1A00_E400_0001_0060": "2026-11-03T12:11:13.073Z",
   "zh/h3c/maintenance/replace-toollock-assembly": "2026-11-03T12:48:45.145Z",
@@ -2833,7 +2833,7 @@
   "zh/h3c/troubleshooting/hmscode/2A00_3500_0001_0002": "2026-11-03T12:11:41.307Z",
   "zh/h3c/maintenance/idle-gear": "2026-11-03T12:49:22.670Z",
   "zh/h3c/maintenance/ams_3h": "2026-11-03T12:49:33.317Z",
-  "zh/h3c/manual/faq": "2026-11-06T02:09:39.327Z",
+  "zh/h3c/manual/faq": "2026-11-09T02:51:45.840Z",
   "zh/h3c/troubleshooting/hmscode/0501_0400_0002_0069": "2026-11-03T12:11:44.761Z",
   "zh/h3c/maintenance/craft-tool": "2026-11-03T12:49:43.808Z",
   "zh/h3c/troubleshooting/hmscode/0700_7000_0002_0003": "2026-11-03T12:57:55.133Z",
@@ -2876,7 +2876,7 @@
   "zh/ams3h": "2026-11-03T14:49:42.978Z",
   "zh/h3c/manual/drawtool-guide": "2026-11-05T01:47:14.666Z",
   "zh/h3c/maintenance/replace-filament-cutter-assembly": "2026-11-03T13:06:50.474Z",
-  "zh/h3c": "2026-11-07T11:28:07.391Z",
+  "zh/h3c": "2026-11-09T06:58:07.340Z",
   "zh/h3c/troubleshooting/hmscode/1A00_0100_0001_006b": "2026-11-03T12:12:30.477Z",
   "zh/h3c/maintenance/replace-2012-toollock-motor": "2026-11-03T13:06:54.865Z",
   "zh/software/bambu-studio/release/release-note-2-9-1": "2026-11-04T03:52:31.609Z",
@@ -3150,5 +3150,6 @@
   "zh/h3c/maintenance/replace-chamber-liner-back-right": "2026-11-06T09:31:45.539Z",
   "zh/h3c/maintenance/replace-printer-cable-pack": "2026-11-06T09:31:59.224Z",
   "zh/ams3/maintenance/replace-main-frame": "2026-11-06T10:12:55.570Z",
-  "zh/ams3/maintenance/replace-cable-pack": "2026-11-06T10:13:06.983Z"
+  "zh/ams3/maintenance/replace-cable-pack": "2026-11-06T10:13:06.983Z",
+  "zh/h3c/troubleshooting/how-to-place-printtool": "2026-11-09T03:03:41.747Z"
 }
