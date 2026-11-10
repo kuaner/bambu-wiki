@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/xy-homing-failed
-title: "03004032：H3C"
+title: "03004032：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T13:00:19.252Z
-updated: 2026-11-03T13:00:20.266Z
+updated: 2026-11-10T08:47:27.179Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/xy-homing-failed
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/h3c/troubleshooting/xy-homing-failed
 
 ## 可能的原因：
 
-- 扎带未拆下
+- 扎带、泡棉未拆下
 - 工具头被卡住
 - X 轴阻力过大
 
@@ -27,7 +27,7 @@ source: https://wiki.bambulab.com/zh/h3c/troubleshooting/xy-homing-failed
 
 ### 步骤1. 外观检查
 
-确保固定工具头的蓝色扎带已经剪断。  
+确保固定工具头的蓝色扎带已经剪断，泡棉已被取下。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/xy-homing-failed/zh/10_03004032_h3c-01.png)
 
 注意请勿剪断一旁的同步带。  

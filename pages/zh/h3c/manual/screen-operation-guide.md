@@ -1,16 +1,16 @@
 ---
 path: zh/h3c/manual/screen-operation-guide
-title: "H3C 屏幕操作指南"
-description: "本文介绍了 H3C 屏幕操作"
+title: "拓竹H3C 屏幕操作指南"
+description: "本文介绍了拓竹H3C 屏幕操作"
 tags: []
 created: 2026-11-03T12:26:47.882Z
-updated: 2026-11-04T09:41:59.331Z
+updated: 2026-11-10T08:47:13.179Z
 source: https://wiki.bambulab.com/zh/h3c/manual/screen-operation-guide
 ---
 
 ## 介绍
 
-本指南旨在介绍 H3C 打印机屏幕按键及功能。
+本指南旨在介绍拓竹H3C 打印机屏幕按键及功能。
 
 ## 主页
 

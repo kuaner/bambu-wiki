@@ -1,16 +1,16 @@
 ---
 path: zh/h3c/manual/drawtool-guide
-title: "H3C 画笔加工介绍"
+title: "拓竹H3C 画笔加工介绍"
 description: ""
 tags: []
 created: 2026-11-03T12:12:28.711Z
-updated: 2026-11-05T01:47:14.666Z
+updated: 2026-11-10T08:47:08.426Z
 source: https://wiki.bambulab.com/zh/h3c/manual/drawtool-guide
 ---
 
 ## 功能简介
 
-H3C 可兼容多种工具，包括打印头和平面加工头（刀切头/画笔头），在平面加工头基座上安装刀座/笔座及对应的刀头和画笔，可执行切割、绘画、烫金、压痕等 2D 任务。用户可根据实际需求安装对应工具，并配合刀切垫板和多种材料完成不同类型的加工操作。
+拓竹H3C 可兼容多种工具，包括打印头和平面加工头（刀切头/画笔头），在平面加工头基座上安装刀座/笔座及对应的刀头和画笔，可执行切割、绘画、烫金、压痕等 2D 任务。用户可根据实际需求安装对应工具，并配合刀切垫板和多种材料完成不同类型的加工操作。
 
 ## 工具介绍
 
@@ -177,7 +177,7 @@ H3C 可兼容多种工具，包括打印头和平面加工头（刀切头/画笔
 
 ![035.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/drawtool-guide/zh/035.png)
 
-> 如果加工效果不佳，可参考 wiki：[H3C 平面加工质量排查](crafttool-quality.md)进行排查。
+> 如果加工效果不佳，可参考 wiki：[拓竹H3C 平面加工质量排查](crafttool-quality.md)进行排查。
 
 ## 校准介绍
 

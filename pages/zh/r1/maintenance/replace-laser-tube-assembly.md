@@ -4,7 +4,7 @@ title: "激光管组件更换指南"
 description: ""
 tags: []
 created: 2026-09-22T13:19:23.643Z
-updated: 2026-10-10T10:06:48.499Z
+updated: 2026-11-09T10:12:22.940Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-laser-tube-assembly
 ---
 
@@ -32,7 +32,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-laser-tube-assembly
 
 ### 步骤 2.移除右壳体
 
-参照[右壳体更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-right-shell)移除右壳体。
+参照[右壳体更换指南](replace-right-shell.md)移除右壳体。
 
 ### 步骤 3.排出冷却液
 
@@ -142,7 +142,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-laser-tube-assembly
 
 ### 步骤 3.安装右壳体
 
-参照[右壳体更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-right-shell)装回右壳体。
+参照[右壳体更换指南](replace-right-shell.md)装回右壳体。
 
 ### 步骤 4.安装前后盖板组
 

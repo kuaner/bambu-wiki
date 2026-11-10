@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/clear-filament-jam
-title: "H3C与AMS料管中断裂耗材的清理"
+title: "拓竹H3C与AMS料管中断裂耗材的清理"
 description: ""
 tags: []
 created: 2026-11-03T12:07:11.841Z
-updated: 2026-11-04T07:19:06.903Z
+updated: 2026-11-10T08:47:15.087Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/clear-filament-jam
 ---
 

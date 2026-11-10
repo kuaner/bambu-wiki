@@ -4,7 +4,7 @@ title: "补墨套装使用流程"
 description: ""
 tags: []
 created: 2026-11-03T12:12:11.307Z
-updated: 2026-11-06T07:11:12.453Z
+updated: 2026-11-10T04:15:18.104Z
 source: https://wiki.bambulab.com/zh/h3c/manual/marker-refill-guide
 ---
 
@@ -51,7 +51,9 @@ source: https://wiki.bambulab.com/zh/h3c/manual/marker-refill-guide
 
 在进行补墨前，请先打印辅助工具模型。
 
-前往 [MakerWorld](https://makerworld.com.cn/) 或 Bambu Handy，在 Bambu Lab 官方账号内搜索 **“画笔补墨套装” 辅助工具**，下载并打印模型后使用。
+前往 [MakerWorld](https://makerworld.com.cn/) 或 Bambu Handy，在 Bambu Lab 官方账号内搜索 [**“画笔补墨套装” 辅助工具**](https://makerworld.com.cn/zh/models/3211434-gua-yong-h3c-hua-bi-bu-mo-tao-zhuang-fu-zhu-gong-j)，下载并打印模型后使用。
+
+> **提示**： 为保证补墨盒密封性，请严格按模型配置中的打印参数（层高：0.08mm）进行打印。
 
 ![004.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/marker-refill-guide/zh/004.png)
 
@@ -78,6 +80,8 @@ source: https://wiki.bambulab.com/zh/h3c/manual/marker-refill-guide
 ### 步骤 3：放置画笔
 
 打开笔盖，将画笔放置在对应槽位上，等待 30 分钟。
+
+> **提示**： 每次使用完毕后请及时清洁补墨盒；勿在盒内长期留存墨水，以免墨水渗漏。
 
 |  |  |
 | --- | --- |

@@ -4,7 +4,7 @@ title: "堵嘴组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:44:51.468Z
-updated: 2026-11-03T12:44:52.517Z
+updated: 2026-11-09T04:21:31.170Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-flow-blocker
 ---
 
@@ -60,15 +60,15 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-flow-blocker
 | --- | --- |
 | 图 | 图 |
 
-用手逐个拉扯硅胶引脚将引脚安装到位，然后拉伸引脚，用剪刀从结节点下方剪断。
+用手逐个拉扯硅胶引脚将引脚安装到位。
 
-|  |  |
-| --- | --- |
-| 图 | 图 |
+|  |
+| --- |
+| 图 |
 
 ### 第 2 步 安装堵嘴支架（组件）到挂架上 （更换支架时适用）
 
-将新的堵嘴硅胶安装到支架上，然后再将支架安装到挂架上，锁入 2 颗螺丝固定，剪掉多余的硅胶引脚。
+将新的堵嘴硅胶安装到支架上，然后再将支架安装到挂架上，锁入 2 颗螺丝固定。
 
 |  |  |
 | --- | --- |

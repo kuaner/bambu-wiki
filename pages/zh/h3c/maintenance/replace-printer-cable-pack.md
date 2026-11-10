@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/maintenance/replace-printer-cable-pack
-title: "H3C 打印机线材包更换指南"
-description: "本文介绍了如何更换 H3C 打印机线材"
+title: "拓竹H3C 打印机线材包更换指南"
+description: "本文介绍了如何更换拓竹H3C 打印机线材"
 tags: []
 created: 2026-11-06T09:31:59.224Z
-updated: 2026-11-06T09:31:59.224Z
+updated: 2026-11-10T09:14:10.711Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-printer-cable-pack
 ---
 

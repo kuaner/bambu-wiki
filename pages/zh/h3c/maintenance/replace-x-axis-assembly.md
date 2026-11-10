@@ -4,7 +4,7 @@ title: "X轴组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:06:43.348Z
-updated: 2026-11-03T13:07:10.345Z
+updated: 2026-11-09T12:58:45.848Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-x-axis-assembly
 ---
 
@@ -114,7 +114,7 @@ X 轴组件是安装了工具头滑车的 X 轴导轨，通过电机和皮带的
 ### 第 6 步 移除 X 轴工具头组件
 
 （左右两侧操作一样）  
-前后移除 X轴，使固定金属盖板的螺丝露出，用 H1.5 内六角扳手移除 4 颗螺丝。
+前后移动 X 轴，使固定金属盖板的螺丝露出，用 H1.5 内六角扳手移除 4 颗螺丝。
 
 |  |  |
 | --- | --- |

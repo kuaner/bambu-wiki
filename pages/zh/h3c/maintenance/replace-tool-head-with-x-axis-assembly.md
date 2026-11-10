@@ -4,7 +4,7 @@ title: "X 轴工具头组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:06:37.668Z
-updated: 2026-11-03T13:06:38.757Z
+updated: 2026-11-09T12:58:24.831Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-tool-head-with-x-axis-assembly
 ---
 
@@ -93,7 +93,7 @@ X轴工具头组件是 X 轴与工具头的复合一体化配件。其中，X轴
 ### 第 5 步 移除 X 轴工具头组件
 
 （左右两侧操作一样）  
-前后移除 X轴，使固定金属盖板的螺丝露出，用 H1.5 内六角扳手移除 4 颗螺丝。
+前后移动 X 轴，使固定金属盖板的螺丝露出，用 H1.5 内六角扳手移除 4 颗螺丝。
 
 |  |  |
 | --- | --- |

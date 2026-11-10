@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/maintenance/replace-chamber-liner-back-right
-title: "H3C 右后内衬更换指南"
-description: "本文介绍了如何更换 H3C 右后内衬"
+title: "拓竹H3C 右后内衬更换指南"
+description: "本文介绍了如何更换拓竹H3C 右后内衬"
 tags: []
 created: 2026-11-06T09:31:45.539Z
-updated: 2026-11-06T09:31:45.539Z
+updated: 2026-11-10T09:14:10.657Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-chamber-liner-back-right
 ---
 

@@ -4,7 +4,7 @@ title: "如何将日志文件上传到现有工单"
 description: "本指南将引导您在现有工单中上传日志或其他附件"
 tags: []
 created: 2023-03-22T07:18:36.217Z
-updated: 2026-11-06T01:54:20.510Z
+updated: 2026-11-10T08:47:32.457Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 ---
 
@@ -45,7 +45,7 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 [P1 系列打印机](#jump3)  
 [A 系列打印机](#jump4)  
 [R1 激光切割机](#jump7)  
-[H3C 打印机](#jump8)
+[拓竹H3C 打印机](#jump8)
 
 点击所需机型名字，跳转至对应指南：
 
@@ -151,7 +151,7 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/update-log-to-a-ticket
 4. 勾选全部选项，点击**浏览**以选择日志导出文件夹，然后点击**确认**，等待提示日志下载完成即可。  
    ![](https://wiki.bambulab.com/create-ticket/r1_log_4.jpg)
 
-### H3C 打印机
+### 拓竹H3C 打印机
 
 1. 点击打印机屏幕进入**设置界面**，选择**导出日志到外部存储**。
 

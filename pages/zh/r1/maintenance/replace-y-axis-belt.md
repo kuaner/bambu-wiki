@@ -4,7 +4,7 @@ title: "Y 皮带更换指南"
 description: ""
 tags: []
 created: 2026-10-10T10:08:14.653Z
-updated: 2026-10-12T03:28:45.615Z
+updated: 2026-11-09T07:42:23.102Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-y-axis-belt
 ---
 
@@ -31,13 +31,13 @@ Y 皮带为闭环同步带，共两条，布置在设备舱内左右，通过同
 
 ### 步骤 1.移除前后盖板组、左壳体
 
-参照[前后盖板组更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-front-rear-panel-set)移除前后盖板组。  
-参照[左壳体更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-left-shell)移除左壳体。
+参照[前后盖板组更换指南](replace-front-rear-panel-set.md)移除前后盖板组。  
+参照[左壳体更换指南](replace-left-shell.md)移除左壳体。
 
 ### 步骤 2.移除冷却模组、气泵组件
 
-参照[水箱更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-water-tank) 移除冷却模组组件（无需拆卸水箱）。  
-参照[气泵更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-air-pump) 移除气泵组件。
+参照[水箱更换指南](replace-water-tank.md) 移除冷却模组组件（无需拆卸水箱）。  
+参照[气泵更换指南](replace-air-pump.md) 移除气泵组件。
 
 ### 步骤 3.移除 Y 轴装饰片
 
@@ -178,13 +178,13 @@ Y 皮带为闭环同步带，共两条，布置在设备舱内左右，通过同
 
 ### 步骤 5.安装冷却模组、气泵组件
 
-参照[水箱更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-water-tank)装回冷却模组组件。  
-参照[气泵更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-air-pump)装回气泵组件。
+参照[水箱更换指南](replace-water-tank.md)装回冷却模组组件。  
+参照[气泵更换指南](replace-air-pump.md)装回气泵组件。
 
 ### 步骤 6.安装前后盖板组、气泵组件
 
-参照[前后盖板组更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-front-rear-panel-set)装回前后盖板组。  
-参照[左壳体更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-left-shell)装回左壳体。
+参照[前后盖板组更换指南](replace-front-rear-panel-set.md)装回前后盖板组。  
+参照[左壳体更换指南](replace-left-shell.md)装回左壳体。
 
 ## 功能验证
 

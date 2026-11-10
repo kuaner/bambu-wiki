@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/tpu-printing-guide
-title: "H3C TPU 打印指南"
-description: "本文介绍了如何使用 H3C 打印 TPU 耗材。"
+title: "拓竹H3C TPU 打印指南"
+description: "本文介绍了如何使用拓竹H3C 打印 TPU 耗材。"
 tags: []
 created: 2026-11-03T13:19:28.813Z
-updated: 2026-11-06T09:11:51.320Z
+updated: 2026-11-10T08:47:13.680Z
 source: https://wiki.bambulab.com/zh/h3c/manual/tpu-printing-guide
 ---
 
@@ -18,7 +18,7 @@ TPU 容易吸湿，受潮会影响打印质量。为了避免这种情况，建�
 - 使用收纳盒或 AMS 3H/AMS HT 的烘干槽进行存放；
 - 在收纳盒内放置干燥剂。
 
-### H3C 支持打印的 TPU 种类
+###拓竹H3C 支持打印的 TPU 种类
 
 | **热端规格** | **支持的 TPU 类型** |
 | --- | --- |
@@ -80,7 +80,7 @@ TPU 具有较强的吸湿性，在自然环境中容易吸收水分。若含有�
 
 ### 安装 2.85 mm 线径打印头（选做）
 
-H3C 打印机标配了一个 2.85 mm 线径打印头。如需使用更多 2.85 mm 线径打印头打印 2.85 mm TPU，您可前往商城选购额外的 2.85 mm 打印头，并参考 wiki：[打印头组件更换指南](../maintenance/replace-printtool.md) 进行安装。
+拓竹H3C 打印机标配了一个 2.85 mm 线径打印头。如需使用更多 2.85 mm 线径打印头打印 2.85 mm TPU，您可前往商城选购额外的 2.85 mm 打印头，并参考 wiki：[打印头组件更换指南](../maintenance/replace-printtool.md) 进行安装。
 
 ## 进料步骤
 

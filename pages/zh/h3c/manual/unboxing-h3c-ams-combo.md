@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/unboxing-h3c-ams-combo
-title: "H3C AMS 套装开箱指南"
-description: "本文介绍 H3C 和 AMS 3H 的开箱及安装步骤。"
+title: "拓竹H3C AMS 套装开箱指南"
+description: "本文介绍拓竹H3C 和 AMS 3H 的开箱及安装步骤。"
 tags: []
 created: 2026-11-03T12:11:10.268Z
-updated: 2026-11-09T03:21:32.968Z
+updated: 2026-11-10T08:47:13.940Z
 source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 ---
 
@@ -35,13 +35,13 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 
 ## 包装内配件
 
-| H3C | AMS 3H |
+| 拓竹H3C | AMS 3H |
 | --- | --- |
 | - 屏幕  - 打印机电源线  - AMS 烘干模块电源线  - 6-pin 连接线  - FEP 料管  - 工具盒 | - 干燥剂\*4  - AMS 3H 安装螺丝 |
 |  |  |
-| \* AMS 3H 安装螺丝的存放位置因包装版本而异，请在 **AMS 3H 包装顶部**或 **H3C 包装内的工具盒**中取用。  \* 工具盒内附赠一块磁铁，请将磁铁吸附在 H1.5/H2.0 内六角扳手长端附近，以防止操作过程中螺丝掉落。 | |
+| \* AMS 3H 安装螺丝的存放位置因包装版本而异，请在 **AMS 3H 包装顶部**或 **拓竹H3C 包装内的工具盒**中取用。  \* 工具盒内附赠一块磁铁，请将磁铁吸附在 H1.5/H2.0 内六角扳手长端附近，以防止操作过程中螺丝掉落。 | |
 
-## H3C 开箱及安装
+##拓竹H3C 开箱及安装
 
 ### 移除包装
 
@@ -87,7 +87,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 | --- | --- |
 | 015.png | 016.png |
 
-如需查阅详细的包装清单，请参阅 [H3C 包装清单](acc-in-the-box.md)。
+如需查阅详细的包装清单，请参阅 [拓竹H3C 包装清单](acc-in-the-box.md)。
 
 - 取出机箱内的纸卡支撑。
 
@@ -183,7 +183,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 
 ## AMS 3H 开箱及安装
 
-安装 AMS 3H 前，请先完成打印机开箱与安装，并准备好 H3C 包装箱内的工具盒及剩余配件。
+安装 AMS 3H 前，请先完成打印机开箱与安装，并准备好拓竹H3C 包装箱内的工具盒及剩余配件。
 
 ![039.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/unboxing-h3c-ams-combo/zh/039.png)
 
@@ -201,7 +201,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 | --- | --- |
 | 041.png | 042.png |
 
-> 部分 AMS 包装内不含 AMS 3H 安装螺丝，请从 H3C 包装内的工具盒中取用。
+> 部分 AMS 包装内不含 AMS 3H 安装螺丝，请从拓竹H3C 包装内的工具盒中取用。
 
 - 移除顶部包装材料。
 
@@ -292,7 +292,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 
 > 开机后，打印机将自动检测打印头安装状态。如收到安装错误提示，请根据屏幕指引将打印头调整到正确泊位。
 
-打印机标配 8 个 1.75 mm 线径用打印头及 1 个 2.85 mm 线径用打印头（8 号位），2.85 mm 线径用打印头仅可打印 2.85 mm 柔性耗材。如需使用 8 号头打印 2.85 mm 柔性耗材，请参考 [H3C TPU 打印指南](tpu-printing-guide.md)。如需移动或更换打印头，请参考[打印头组件更换指南](../maintenance/replace-printtool.md)。
+打印机标配 8 个 1.75 mm 线径用打印头及 1 个 2.85 mm 线径用打印头（8 号位），2.85 mm 线径用打印头仅可打印 2.85 mm 柔性耗材。如需使用 8 号头打印 2.85 mm 柔性耗材，请参考 [拓竹H3C TPU 打印指南](tpu-printing-guide.md)。如需移动或更换打印头，请参考[打印头组件更换指南](../maintenance/replace-printtool.md)。
 
 💡 关于 8 号打印头的特别说明：  
 2.85 mm 线径用打印头采用直通进料设计，耗材直接进入打印头而无需通过料管，因此其配套的料管收纳在打印头的侧槽中，主要起到支撑和引导作用，确保进料顺畅。
@@ -335,9 +335,9 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 
 > 请小心操作，以免夹伤。
 
-### 连接 AMS 3H 与 H3C
+### 连接 AMS 3H 与拓竹H3C
 
-从 H3C 包装内取出 6-pin 连接线，将其插入 AMS 背部和打印机背板上的任一 6-pin 接口。
+从拓竹H3C 包装内取出 6-pin 连接线，将其插入 AMS 背部和打印机背板上的任一 6-pin 接口。
 
 |  |  |
 | --- | --- |
@@ -367,7 +367,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 
 ![087.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/unboxing-h3c-ams-combo/zh/087.png)
 
-一切准备就绪，现在即可开启您的创作之旅。请参见 [H3C 首次打印](first-print.md)，完成您的首次打印。
+一切准备就绪，现在即可开启您的创作之旅。请参见 [拓竹H3C 首次打印](first-print.md)，完成您的首次打印。
 
 ## 结束语
 

@@ -4,13 +4,13 @@ title: "XY 轴皮带更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:06:24.251Z
-updated: 2026-11-03T13:06:25.297Z
+updated: 2026-11-10T08:47:06.618Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-xy-belt
 ---
 
 ## XY 轴皮带
 
-安装在 H3C 打印机上的开口同步皮带，一共有两条，它们将 X/Y 电机和工具头连接起来并驱动工具头在 X/Y 方向的移动。
+安装在拓竹H3C 打印机上的开口同步皮带，一共有两条，它们将 X/Y 电机和工具头连接起来并驱动工具头在 X/Y 方向的移动。
 
 ## 何时更换
 

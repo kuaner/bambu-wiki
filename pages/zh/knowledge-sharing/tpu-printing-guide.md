@@ -4,7 +4,7 @@ title: "TPU 打印指南"
 description: "本文介绍了打印 TPU 的建议"
 tags: ["tpu"]
 created: 2023-08-02T08:20:33.025Z
-updated: 2026-11-07T03:25:27.400Z
+updated: 2026-11-10T08:47:28.527Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/tpu-printing-guide
 ---
 
@@ -69,7 +69,7 @@ TPU 耗材具有较强的 **吸湿性**，暴露在空气中极易受潮。打�
 | **H2、X、P 系列** | ❌ | ✅ | ✅ | ✅ | ✅ |
 | **A1 系列** | ❌ | ❌ | ✅ | ✅ | ✅ |
 | **A2L** | ❌ | ✅ | ✅ | ✅ | ✅ |
-| **H3C** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **拓竹H3C** | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 #### 喷嘴
 
@@ -161,9 +161,9 @@ TPU 送料助力模块是用于提升 TPU 打印稳定性的可选增强组件�
 
 #### AMS 3H
 
-需搭配 **H3C** 打印机使用，其他机型请使用 AMS HT 或米桶。
+需搭配 **拓竹H3C** 打印机使用，其他机型请使用 AMS HT 或米桶。
 
-具体操作方法请参考这篇 Wiki：[**H3C TPU 打印指南**](../h3c/manual/tpu-printing-guide.md)
+具体操作方法请参考这篇 Wiki：[**拓竹H3C TPU 打印指南**](../h3c/manual/tpu-printing-guide.md)
 
 #### **AMS HT**
 
@@ -243,9 +243,9 @@ TPU 送料助力模块是用于提升 TPU 打印稳定性的可选增强组件�
 
 类似格式展示
 
-[![H3C](https://wiki.bambulab.com/filament-acc/filament/tpu-85a-90a-printing-guide/h3c_home.png)
+[![拓竹H3C](https://wiki.bambulab.com/filament-acc/filament/tpu-85a-90a-printing-guide/h3c_home.png)
   
-H3C](https://wiki.bambulab.com/zh/h3c/manual/tpu-printing-guide)
+拓竹H3C](https://wiki.bambulab.com/zh/h3c/manual/tpu-printing-guide)
 
 [![H2 系列](https://wiki.bambulab.com/h2s/h2d1_compressed.png)
   

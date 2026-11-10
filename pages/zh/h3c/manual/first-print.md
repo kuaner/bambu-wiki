@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/first-print
-title: "H3C 首次打印"
+title: "拓竹H3C 首次打印"
 description: ""
 tags: []
 created: 2026-11-03T12:11:35.968Z
-updated: 2026-11-04T03:10:50.894Z
+updated: 2026-11-10T08:47:10.644Z
 source: https://wiki.bambulab.com/zh/h3c/manual/first-print
 ---
 
@@ -18,7 +18,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/first-print
 
 ## 正确安装 AMS 3H 和打印头
 
-1. 按照纸质快速入门指南或 [H3C AMS 套装开箱指南](unboxing-h3c-ams-combo.md)正确安装 AMS 3H，确保打印头正确安装到闪切挂架上。
+1. 按照纸质快速入门指南或 [拓竹H3C AMS 套装开箱指南](unboxing-h3c-ams-combo.md)正确安装 AMS 3H，确保打印头正确安装到闪切挂架上。
 
 |  |  |
 | --- | --- |
@@ -38,7 +38,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/first-print
 
 ## AMS 3H 进料
 
-> 打印机标配 8 个 1.75 mm 线径用打印头及 1 个 2.85 mm 线径用打印头（8 号位），2.85 mm 线径用打印头仅可打印 2.85 mm 柔性耗材。如需使用 8 号头打印 2.85 mm 柔性耗材，请参考 [H3C TPU 打印指南](tpu-printing-guide.md)。如需移动或更换打印头，请参考[打印头组件更换指南](../maintenance/replace-printtool.md)。
+> 打印机标配 8 个 1.75 mm 线径用打印头及 1 个 2.85 mm 线径用打印头（8 号位），2.85 mm 线径用打印头仅可打印 2.85 mm 柔性耗材。如需使用 8 号头打印 2.85 mm 柔性耗材，请参考 [拓竹H3C TPU 打印指南](tpu-printing-guide.md)。如需移动或更换打印头，请参考[打印头组件更换指南](../maintenance/replace-printtool.md)。
 
 > 💡 关于 8 号打印头的特别说明：  
 > 2.85 mm 线径用打印头采用直通进料设计，耗材直接进入打印头而无需通过料管，因此其配套的料管收纳在打印头的侧槽中，主要起到支撑和引导作用，确保进料顺畅。

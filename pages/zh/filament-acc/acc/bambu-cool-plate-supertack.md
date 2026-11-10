@@ -4,7 +4,7 @@ title: "拓竹增稳低温打印板"
 description: "本文介绍了拓竹增稳低温打印板"
 tags: ["打印板"]
 created: 2024-11-21T03:43:01.361Z
-updated: 2026-08-28T08:30:49.629Z
+updated: 2026-11-09T14:40:54.795Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/bambu-cool-plate-supertack
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc/bambu-cool-plate-supertack
 
 拓竹增稳低温打印板是通过在弹簧钢板上喷涂 SuperTack 而制成，适用于 PLA 和 PETG 耗材。拓竹增稳低温打印板具有多项优越特性，确保用户在 3D 打印过程中获得最佳体验。
 
-![低温增稳打印板.webp](https://wiki.bambulab.com/filament-acc/acc/cool-plate-supertack/%E4%BD%8E%E6%B8%A9%E5%A2%9E%E7%A8%B3%E6%89%93%E5%8D%B0%E6%9D%BF.webp)
+![cool_plate.png](https://wiki.bambulab.com/filament-acc/plates/cool_plate.png)
 
 **购买链接**：[天猫](https://detail.tmall.com/item.htm?abbucket=7&id=852308471908&pisk=ffjnppfk9w8B0Y3MIP-QzGSqTea9RvtWR_nJw3dz7CR_FJ6LP0ylw_Lr29UQE8AGNBLpYgbsqt65vJt8dH6BV3PYMoCld9tSzMbODMmZ_KWZ4L8eShA3o3PYMu0tQeNp46UzmIOZ7KOwLLRE8RYwUp-yLeJzICJkhQoFa_WaILvEaQ8e8VJw3Clr8URFQAJXhpke40yGQC9rThoyigS1bWQ04G6w-USMKFzOLClv-GJH0IXFx0orFpYHg9RgMGVQRFWWrgMSqEWFl_9VTXPkNGXNYZ5462dFoLXAr9rEbHICLZ8P07gPiHfkuM8iUmWCLBKMQiy-lCIM9_SH7-nDyhSvuH7T5WLJxKfPA6Do4sWOHMT1qScwNwpXbLj734Akzg7K7qlfp09aeGuSPeJ6IIH3GHdtQbWnlR2ilyTeCpFYIR0SueJ6LI2gIqgD8d9d7&rn=d3468279b6843fe20b990cdfaac51325&spm=a1z10.3-b-s.w4011-25177047232.19.6f533c0ePeIJLv)；[京东](https://item.jd.com/10124944821031.html)
 
@@ -75,6 +75,7 @@ SuperTack 增稳涂层赋予打印模型平滑的底面效果，同时避免过�
 
 ### 使用注意事项
 
+- 清洁增稳低温打印板时，**请勿使用硬毛刷**，否则可能会磨损或破坏表面涂层。**请勿使用丙酮、异丙醇或其他强溶剂**清洁打印板，以免损伤涂层。建议使用洗洁精配合清水清洗，或使用酒精轻轻擦拭表面。
 - 如打印件与该打印板粘连过紧难以拆除，可**将热床温度升高至所打印耗材对应的默认热床温度**，再尝试取下模型。
 - 该打印板表面较为柔软，取模型时请**小心使用铲刀**，避免划伤表面。（表面刮花不影响使用）
 - 热床温度越高，该打印板的粘附力越强。用户可根据实际需求调整热床温度，以获得理想粘接力。
