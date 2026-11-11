@@ -4,7 +4,7 @@ title: "A1 mini 产品维护与保养"
 description: "关于打印机的一些日常维护和保养建议"
 tags: []
 created: 2023-10-01T05:11:41.113Z
-updated: 2026-10-12T08:44:13.647Z
+updated: 2026-11-10T08:18:48.020Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/period-maintenance
 ---
 
@@ -34,7 +34,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/period-maintenance
 
 ### 导轨系统
 
-![](https://wiki.bambulab.com/n1/p-maintenance/axises.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/axises.png)
 
 轨道是 3D 打印机中影响使用寿命和精度的最重要因素。A1 mini 采用了全金属的运动导轨，在 X 轴和 Z 轴使用了高质量的直线导轨，并在 Y 轴使用了全金属导轮，这套导轨系统保证了用户不需要频繁调整 A1 mini 的运动组件，但需要定期的润滑和清洁，以减少磨损和异音，保证打印机的精度和寿命，防止导轨生锈。
 
@@ -81,7 +81,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/period-maintenance
 
 [![
 
-](/n1/p-maintenance/视频2.png)](https://public-cdn.bblmw.com/wiki/A1-mini/z_guide_rail_lubrication.mp4)
+](https://wiki.bambulab.com/n1/p-maintenance/视频2.png)](https://public-cdn.bblmw.com/wiki/A1-mini/z_guide_rail_lubrication.mp4)
 
 |  |  |  |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/period-maintenance
 
 ### X Y 同步皮带
 
-![](https://wiki.bambulab.com/n1/p-maintenance/belts.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/belts.png)
 
 X轴和Y轴的同步皮带是实现工具头沿X轴方向、热床沿Y轴方向移动的传动部件，适时的对同步皮带进行张紧力调整是保持打印质量的重要保证。
 
@@ -107,7 +107,7 @@ Y **轴同步带**
 - **保养方案**：重新调节张紧力
 - **操作说明**：拆卸Y轴维修盖后，拧松张紧螺丝，用力沿Y轴方推动Y轴张紧滑块2~3次，以保证没有卡住，然后重新锁紧张紧螺丝。
 
-![](https://wiki.bambulab.com/n1/p-maintenance/x_belt_t_1.2.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/x_belt_t_1_2_8ab8f67c.png)
 
 拧松X张紧螺丝
 
@@ -133,7 +133,7 @@ A1mini 只有一根丝杆，通过丝杆，Z轴电机才能带动X轴沿Z轴方�
 丝杆保养视频指南：  
 <https://public-cdn.bblmw.com/wiki/A1-mini/lead_screw_maintenance.mp4>
 
-![](https://wiki.bambulab.com/n1/p-maintenance/z_screw.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/z_screw.png)
 
 如有必要，你可以稍微倾斜一下打印机，然后再往丝杆上滴上消音脂。
 
@@ -150,7 +150,7 @@ A1mini 只有一根丝杆，通过丝杆，Z轴电机才能带动X轴沿Z轴方�
 - **保养方案**：润滑油润滑
 - **操作说明**：靠近 X 轴端盖处，在皮带和惰轮间滴上适量润滑油即可。
 
-![](https://wiki.bambulab.com/n1/p-maintenance/pulley_x.2.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/pulley_x_2_a4c314e8.png)
 
 ### 进料霍尔板
 
@@ -165,7 +165,7 @@ A1mini 只有一根丝杆，通过丝杆，Z轴电机才能带动X轴沿Z轴方�
 
 [![
 
-](/n1/p-maintenance/video4.png)](https://public-cdn.bblmw.com/wiki/A1-mini/filament_sensor_maintenance.mp4)
+](https://wiki.bambulab.com/n1/p-maintenance/video4.png)](https://public-cdn.bblmw.com/wiki/A1-mini/filament_sensor_maintenance.mp4)
 
 |  |  |  |
 | --- | --- | --- |
@@ -186,7 +186,7 @@ A1mini 只有一根丝杆，通过丝杆，Z轴电机才能带动X轴沿Z轴方�
 
 [![
 
-](/n1/p-maintenance/video5.png)](https://public-cdn.bblmw.com/wiki/A1-mini/extruder_clean.mp4)
+](https://wiki.bambulab.com/n1/p-maintenance/video5.png)](https://public-cdn.bblmw.com/wiki/A1-mini/extruder_clean.mp4)
 
 |  |  |  |
 | --- | --- | --- |
@@ -201,7 +201,7 @@ A1mini 只有一根丝杆，通过丝杆，Z轴电机才能带动X轴沿Z轴方�
 - **保养方案**：异物清理
 - **操作说明**：清理挤出机时，发现有无法去除的异物时，需要将挤出前盖拆除，取出挤出轮组件进行清洁。具体的拆装方法请相关的维修指引页面。
 
-![](https://wiki.bambulab.com/n1/p-maintenance/extruder_gears.2.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/extruder_gears_2_ea4c75fe.png)
 
 [挤出模块拆装指引](a1-extruder.md)
 
@@ -253,7 +253,7 @@ A1 mini 配备了3个风扇，分别是热端风扇、部件件冷却风扇和�
 
 [![
 
-](/n1/p-maintenance/video6.png)](https://public-cdn.bblmw.com/wiki/A1-mini/fans_clean.mp4)
+](https://wiki.bambulab.com/n1/p-maintenance/video6.png)](https://public-cdn.bblmw.com/wiki/A1-mini/fans_clean.mp4)
 
 |  |  |  |
 | --- | --- | --- |
@@ -312,7 +312,7 @@ A1 mini 喷嘴采用了快拆的卡扣设计，为保证喷嘴快拆功能正常
 
 [![
 
-](/n1/p-maintenance/video7.png)](https://wiki.bambulab.com/n1/p-maintenance/nozzle_replacement_chinese.mp4)
+](https://wiki.bambulab.com/n1/p-maintenance/video7.png)](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/nozzle_replacement_chinese.mp4)
 
 |  |  |
 | --- | --- |
@@ -331,7 +331,7 @@ A1 mini 喷嘴采用了快拆的卡扣设计，为保证喷嘴快拆功能正常
 
 [![
 
-](/n1/p-maintenance/video8.png)](https://public-cdn.bblmw.com/wiki/A1-mini/filament_cutter_replace.mp4)
+](https://wiki.bambulab.com/n1/p-maintenance/video8.png)](https://public-cdn.bblmw.com/wiki/A1-mini/filament_cutter_replace.mp4)
 
 |  |  |
 | --- | --- |
@@ -344,7 +344,7 @@ A1 mini 喷嘴采用了快拆的卡扣设计，为保证喷嘴快拆功能正常
 - **保养周期**：PLA 等非碳纤料，每 6 卷料；碳纤料或 ploywood 等摩擦力高的材料，每 2 卷料
 - **保养工具、材料**：徒手或借助辅助工具；PTFE 管
 - **保养方案**：换新
-- **操作说明**：按压五通料管连接器，将料管向上拉出即可； 如果徒手按压困难，可借助打印模型 [ptfe\_tool.3mf](https://wiki.bambulab.com/n1/p-maintenance/ptfe_tool.3mf) 或镊子等工具。
+- **操作说明**：按压五通料管连接器，将料管向上拉出即可； 如果徒手按压困难，可借助打印模型 [ptfe\_tool.3mf](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ptfe_tool.3mf) 或镊子等工具。
 
 |  |  |
 | --- | --- |

@@ -4,7 +4,7 @@ title: "A 系列打印机热端裹头处理指引"
 description: "介绍如何处理A系列打印机热端被打印材料完全附着导致不能正常使用的处理方法。"
 tags: ["a1", "喷嘴", "热端"]
 created: 2023-11-25T06:24:05.061Z
-updated: 2026-10-19T12:48:52.714Z
+updated: 2026-11-10T08:18:42.680Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/hotend_blob
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/hotend_blob
 
 热端裹头，是指热端周围堆积大量耗材。当模型由于各种原因在前几层打印时出现脱落，脱落的模型有几率附着在喷嘴上，随着喷嘴的不断挤出最终导致较严重“裹头”情况。
 
-![裹头.webp](https://wiki.bambulab.com/n1/maintenance/hotend_blob/%E8%A3%B9%E5%A4%B4.webp)
+![裹头.webp](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_69c4c652.webp)
 
 热端裹头是 3D 打印中较为灾难性的打印问题之一，但需要清理它也不是完全不可能，A 系列工具头设计的比较紧凑，在一定程度上也增加了清理裹头材料的难度。为了帮助和引导用户完成清理的操作，我们准备了这篇文章，希望能帮助大家确认损坏情况并减少配件的二次损坏。
 
@@ -32,7 +32,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/hotend_blob
 - 隔热手套
 - H1.5/H2.0 内六角扳手
 
-![](https://wiki.bambulab.com/n1/maintenance/hotend_blob/tools.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/tools.jpg)
 
 ### 二、设置打印机的状态
 
@@ -97,7 +97,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/hotend_blob
 
 如果裹头较为严重，无法直接拆下。您可以强行扯下部件冷却风扇（可能会损坏螺丝孔位），然后从背面拧下 4 颗螺丝，移除热端加热组件。
 
-![裹头强行拆部件冷却风扇.jpg](https://wiki.bambulab.com/n1/maintenance/hotend_blob/%E8%A3%B9%E5%A4%B4%E5%BC%BA%E8%A1%8C%E6%8B%86%E9%83%A8%E4%BB%B6%E5%86%B7%E5%8D%B4%E9%A3%8E%E6%89%87.jpg)
+![裹头强行拆部件冷却风扇.jpg](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_ff9e5e89.jpg)
 
 ### 清洁热端硅胶套
 

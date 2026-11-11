@@ -4,13 +4,13 @@ title: "Swaptek 闪切系统工作流程介绍"
 description: "本文 Swaptek 闪切系统的工作流程。"
 tags: []
 created: 2026-11-03T12:10:02.972Z
-updated: 2026-11-03T12:10:04.010Z
+updated: 2026-11-10T08:47:13.380Z
 source: https://wiki.bambulab.com/zh/h3c/manual/swaptek-workflow-and-function
 ---
 
 ## 闪切系统概述
 
-**闪切（Swaptek）系统**是 H3C 打印机实现多材料/多色打印的核心技术模块。该系统主要由闪切挂架和打印头组成，通过霍尔传感器和磁铁的配合，实现精准定位、自动抓取、可靠换头。
+**闪切（Swaptek）系统**是拓竹H3C 打印机实现多材料/多色打印的核心技术模块。该系统主要由闪切挂架和打印头组成，通过霍尔传感器和磁铁的配合，实现精准定位、自动抓取、可靠换头。
 
 ![001.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/swaptek-workflow-and-function/zh/001.png)
 

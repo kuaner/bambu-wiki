@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/print-with-external-spool
-title: "H3C 外挂进料指南"
+title: "拓竹H3C 外挂进料指南"
 description: ""
 tags: []
 created: 2026-11-03T12:12:36.555Z
-updated: 2026-11-03T12:37:21.874Z
+updated: 2026-11-10T08:47:12.333Z
 source: https://wiki.bambulab.com/zh/h3c/manual/print-with-external-spool
 ---
 
@@ -18,7 +18,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/print-with-external-spool
 
 ## 所需配件
 
-使用 H3C 外挂进料所需的配件如下：
+使用拓竹H3C 外挂进料所需的配件如下：
 
 ![002.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/print-with-external-spool/zh/002.png)
 

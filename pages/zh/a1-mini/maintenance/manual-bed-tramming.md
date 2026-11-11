@@ -4,7 +4,7 @@ title: "A1 mini 热床手动调平"
 description: "介绍如何对A1 mini的热床进行手动调平"
 tags: ["调平", "手动调平", "热床调平"]
 created: 2023-10-10T01:03:52.174Z
-updated: 2026-08-28T08:26:14.676Z
+updated: 2026-11-10T08:18:45.504Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/manual-bed-tramming
 ---
 
@@ -16,7 +16,7 @@ Bambu Lab A1 mini 打印机的热床在出厂时是已调整好的，按照手�
 
 1. 移除热端硅胶套，并检查喷嘴，确保喷嘴清洁且喷嘴上没有材料附着；
 
-![](https://wiki.bambulab.com/n1/bed-leveling/clean_nozzle.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/clean_nozzle.jpg)
 
 2. 将热床底下的3颗锁定螺丝拧松；
 
@@ -36,7 +36,7 @@ Bambu Lab A1 mini 打印机的热床在出厂时是已调整好的，按照手�
 
 首先，请将调平Gcode下载到SD卡中，将装有调平 G-code 的 SD 卡插入打印机，然后开启打印机电源。
 
-[a1mini\_manual\_bed\_screws\_adjust\_assist.gcode](https://wiki.bambulab.com/n1/bed-leveling/a1mini_manual_bed_screws_adjust_assist.gcode)
+[a1mini\_manual\_bed\_screws\_adjust\_assist.gcode](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/a1mini_manual_bed_screws_adjust_assist.gcode)
 
 待机器完成启动并能成功识别文件后，选中上述 G-code 文件，点击开始打印。
 
@@ -68,7 +68,7 @@ Bambu Lab A1 mini 打印机的热床在出厂时是已调整好的，按照手�
 
 确认完成调整后，最后请将锁定热床的3颗螺丝拧紧。
 
-![](https://wiki.bambulab.com/n1/bed-leveling/3_screws.jpeg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/3_screws.jpeg)
 
 建议先插入扳手，然后用手固定扳手和打印板，防止螺丝脱落。
 

@@ -4,7 +4,7 @@ title: "A1 mini 热床线拆装指引"
 description: "本文仅提供A1 mini热床线以及擦嘴套件的拆装指南及注意事项"
 tags: ["热床线", "擦嘴"]
 created: 2023-09-14T01:40:23.759Z
-updated: 2026-01-28T13:19:38.485Z
+updated: 2026-11-10T07:32:16.232Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/a1-heatbed
 ---
 

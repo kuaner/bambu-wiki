@@ -4,7 +4,7 @@ title: "A1系列打印首层打印质量问题及对应方案——首层偏低"
 description: "本文介绍了A1系列打印机出现首层打印偏低现象的原因及解决方法。"
 tags: ["首层", "首层打印", "调平失败", "首层偏低"]
 created: 2023-10-17T14:27:50.475Z
-updated: 2026-08-28T08:26:19.707Z
+updated: 2026-11-10T06:25:33.980Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/print-issues-troubleshooting
 ---
 
@@ -42,7 +42,7 @@ A1 系列打印机
 
 1. 发起打印时，勾选热床调平，进行一次热床调平操作，特别是 PEI 打印板换面，或更换了打印板；
 
-![](https://wiki.bambulab.com/n1/troubleshooting/fist-layer-issues/bed_leveling_cn.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/bed_leveling_cn.jpg)
 
 2. 执行过热床调平后，若情况并没有改善，可以参考下文，**重新锁紧合成石固定螺丝**。
 

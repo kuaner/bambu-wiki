@@ -4,13 +4,13 @@ title: "更换 A1mini Y轴导轨"
 description: "本文将介绍如何更换A1mini的Y轴导轨。"
 tags: ["a1 mini"]
 created: 2026-04-28T08:58:22.086Z
-updated: 2026-09-11T03:18:29.560Z
+updated: 2026-11-10T08:18:51.545Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/replacing-y-axis
 ---
 
 ## Y 轴导轨
 
-![](https://wiki.bambulab.com/n1/a1-mini-yz/a1mini_y1.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/a1mini_y1.jpg)
 
 > **ℹ️ 说明**：Y 轴线轨有两个版本，结构上存在细微差别。该差异**不影响**配件拆装，两个版本的操作步骤完全相同。本文图示以版本 1 为例。
 >
@@ -81,7 +81,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/replacing-y-axis
 ### 安装Y轴轨道
 
 将Y轴线轨放置到底座上，对齐螺丝孔，放入 4 颗螺丝，交替锁紧;  
-![](https://wiki.bambulab.com/n1/a1-mini-printer/%E5%AE%89%E8%A3%85y%E8%BD%B4%E7%BA%BF%E8%BD%A8-4.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/y-4_e670b024.png)
 
 移动热床支架，露出 Y 轴同步带压块，然后安装连接板，确认卡到位，锁 2 颗螺丝固定连接板；
 

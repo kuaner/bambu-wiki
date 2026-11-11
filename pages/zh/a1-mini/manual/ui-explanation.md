@@ -4,7 +4,7 @@ title: "UI解释说明"
 description: ""
 tags: []
 created: 2023-10-09T04:22:23.554Z
-updated: 2024-05-28T10:59:37.027Z
+updated: 2026-11-10T08:19:12.673Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/ui-explanation
 ---
 
@@ -14,11 +14,11 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/ui-explanation
 
 - 当完成打印机的开箱并按照说明书完成安装后，连接电源并开启打印机后部的开关后看到Bambu Lab的标志，请根据屏幕上的指引完成语言、地区、无线网络连接操作。
 
-![](https://wiki.bambulab.com/n1/manual/ui-explanation/cn-version/%E5%BC%80%E6%9C%BA%E8%AE%BE%E7%BD%AE_1_%E5%BC%80%E6%9C%BA%E6%8C%87%E5%BC%95_1.jpeg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/1_1_d3d2e21f.jpeg)
 
 ## 用Bambu Handy扫描扫描打印机屏幕上的二维码，将打印机与您的账户绑定
 
-![](https://wiki.bambulab.com/n1/manual/ui-explanation/cn-version/%E5%BC%80%E6%9C%BA%E8%AE%BE%E7%BD%AE_2_bambuhandy_1.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/2_bambuhandy_1_217965f0.png)
 
 - 您可以使用手机上的Bambu Handy App来登录您的Bambu Lab账号，登录后您的打印设置将可以同步到桌面端的Bambu Studio中，同时通过此步骤，您还可以直接从手机、电脑发送打印件。请注意打印机需要连接到无线局域网络才能登录账号并同步数据。
 
@@ -28,13 +28,13 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/ui-explanation
 
 - 如果您暂时没有移动设备，您可以点击“跳过”此步骤，稍后待打印机完成设置后您也可以从“主界面-设置-账号”中登录您的Bambu Lab账号。
 
-![](https://wiki.bambulab.com/n1/manual/ui-explanation/cn-version/%E5%BC%80%E6%9C%BA%E8%AE%BE%E7%BD%AE_2_bambuhandy_3.jpeg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/2_bambuhandy_3_de437ae7.jpeg)
 
 ## 校准
 
 - 在开始正式打印之前，我们强烈建议您对打印机进行校准，以保证首次打印的质量，请勾选“振动补偿”和“电机降噪”并轻点“开始”来进行校准，整个过程大概会持续12分钟左右，校准过程中出现振动和噪音属于正常现象。
 
-![](https://wiki.bambulab.com/n1/manual/ui-explanation/cn-version/%E5%BC%80%E6%9C%BA%E8%AE%BE%E7%BD%AE_3_%E6%A0%A1%E5%87%86_1_corrected.jpeg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/3_1_corrected_5903c4fa.jpeg)
 
 ### 1. 电机降噪
 
@@ -42,7 +42,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/ui-explanation
 
 电机降噪靠测量电机内的不理想特性，并在打印时结合电机实时运行状态，计算反向补偿量并输入电机，在电机内产生反向的振动，从而抵消掉由于电机不理想性所产生的振动。电机噪声校准在校准菜单中，用户可以自行对电机噪声进行重校准。
 
-![](https://wiki.bambulab.com/n1/manual/ui-explanation/cn-version/%E5%BC%80%E6%9C%BA%E8%AE%BE%E7%BD%AE_3_%E6%A0%A1%E5%87%86_2.jpeg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/3_2_11d9c00a.jpeg)
 
 ### **2. X轴共振检测和Y轴共振检测**
 
@@ -57,7 +57,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/ui-explanation
 
 - 当打印机完成自动校准后，初始设置就全部完成了。打印机主页面如下图所示，您可以在主界面进入打印操作、检视耗材余量及AMS的情况、控制打印机进行运动、进行打印机设置等。主界面上方状态栏从左到右分别显示了当前热端温度、热床温度、摄像头连接情况、无线网络的连接情况。
 
-![](https://wiki.bambulab.com/n1/manual/ui-explanation/cn-version/%E4%B8%BB%E7%95%8C%E9%9D%A2_1.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/1_5fc88422.png)
 
 ## 打印文件
 
@@ -199,7 +199,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/ui-explanation
 
 - 当打印机进料后您在可以**⑥**中控制挤出机进行正转和反转，从打印机正面可以观察到挤出轮的转动，请注意挤出机需要在喷嘴加热到一定温度后才能正常挤出材料，否则会听到挤出轮卡料的声音。
 
-![](https://wiki.bambulab.com/n1/manual/ui-explanation/cn-version/%E4%B8%BB%E9%A1%B5%E9%9D%A2_4_%E6%89%93%E5%8D%B0%E6%9C%BA%E6%8E%A7%E5%88%B6_6.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/4_6_485bc968.png)
 
 ### XYZ
 

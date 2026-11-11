@@ -1,16 +1,16 @@
 ---
 path: zh/h3c/manual/extruder-motor-resistance-detection-and-air-printing-detection
-title: "H3C 挤出电机阻力检测与空打检测"
+title: "拓竹H3C 挤出电机阻力检测与空打检测"
 description: ""
 tags: []
 created: 2026-11-03T12:13:04.888Z
-updated: 2026-11-03T12:13:05.928Z
+updated: 2026-11-10T08:47:09.228Z
 source: https://wiki.bambulab.com/zh/h3c/manual/extruder-motor-resistance-detection-and-air-printing-detection
 ---
 
 ## 概述
 
-为确保打印过程的连续性与可靠性，避免因耗材挤出问题导致打印失败，H3C 集成了挤出电机阻力检测和空打检测，确保打印任务的顺利进行。
+为确保打印过程的连续性与可靠性，避免因耗材挤出问题导致打印失败，拓竹H3C 集成了挤出电机阻力检测和空打检测，确保打印任务的顺利进行。
 
 - **挤出电机闭环阻力检测：** 在打印过程中，工具头中的挤出电机会实时监测挤出力的变化。当检测到异常挤出力时，会报错并暂停打印任务，需要用户排除故障后才能继续打印。
 

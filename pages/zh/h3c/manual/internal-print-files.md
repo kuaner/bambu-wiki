@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/internal-print-files
-title: "H3C 配件模型介绍"
+title: "拓竹H3C 配件模型介绍"
 description: ""
 tags: []
 created: 2026-11-03T12:11:49.291Z
-updated: 2026-11-03T12:11:50.396Z
+updated: 2026-11-10T08:47:10.939Z
 source: https://wiki.bambulab.com/zh/h3c/manual/internal-print-files
 ---
 

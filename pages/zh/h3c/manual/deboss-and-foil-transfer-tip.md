@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/deboss-and-foil-transfer-tip
-title: "H3C 箔纸转印/压痕工艺介绍"
-description: "本文介绍了 H3C 箔纸转印和基础压痕工艺"
+title: "拓竹H3C 箔纸转印/压痕工艺介绍"
+description: "本文介绍了拓竹H3C 箔纸转印和基础压痕工艺"
 tags: []
 created: 2026-11-03T12:12:59.824Z
-updated: 2026-11-03T12:38:10.037Z
+updated: 2026-11-10T08:47:08.009Z
 source: https://wiki.bambulab.com/zh/h3c/manual/deboss-and-foil-transfer-tip
 ---
 
@@ -22,7 +22,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/deboss-and-foil-transfer-tip
 
 ![20261030-003.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/deboss-and-foil-transfer-tip/zh/20261030-003.png)
 
-> 注：基础刀切加工、其他工具介绍、校准介绍等其他信息请参考：[H3C 刀切加工介绍](crafting-guide.md)。
+> 注：基础刀切加工、其他工具介绍、校准介绍等其他信息请参考：[拓竹H3C 刀切加工介绍](crafting-guide.md)。
 
 ## 箔纸转印工艺
 
@@ -147,7 +147,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/deboss-and-foil-transfer-tip
 
 ![20261030-029.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/deboss-and-foil-transfer-tip/zh/20261030-029.png)
 
-> 如果加工效果不佳，可参考 wiki：[H3C 平面加工质量排查](crafttool-quality.md)进行排查。
+> 如果加工效果不佳，可参考 wiki：[拓竹H3C 平面加工质量排查](crafttool-quality.md)进行排查。
 
 ## 基础压痕工艺
 
@@ -283,7 +283,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/deboss-and-foil-transfer-tip
 
 ![20261030-061.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/deboss-and-foil-transfer-tip/zh/20261030-061.png)
 
-> 如果加工效果不佳，可参考 wiki：[H3C 平面加工质量排查](crafttool-quality.md)进行排查。
+> 如果加工效果不佳，可参考 wiki：[拓竹H3C 平面加工质量排查](crafttool-quality.md)进行排查。
 
 ## 结束语
 

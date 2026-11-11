@@ -1,10 +1,10 @@
 ---
 path: zh/a1-mini/troubleshooting/screen-not-working-as-expected
-title: "A1 mini -显示屏异常排查 "
+title: "A1 mini -显示屏异常排查"
 description: "A1 mini 显示屏不亮、触摸功能失灵排查"
 tags: ["黑屏", "触摸屏失灵", "刷新", "不开机"]
 created: 2023-11-10T04:20:55.991Z
-updated: 2026-08-28T08:26:35.093Z
+updated: 2026-11-10T08:19:34.102Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/screen-not-working-as-expected
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/screen-not-working-
 
 启动打印机，显示屏黑屏无显示。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/display-anomalies/%E6%98%BE%E7%A4%BA%E5%B1%8F%E9%BB%91%E5%B1%8F_blackscreen.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/blackscreen_5081b481.jpg)
 
 ### 原因及解决方案
 
@@ -53,7 +53,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/screen-not-working-
 
 打印机开机状态下，若显示屏上方的工作指示灯白灯常亮，则表示打印机主板工作正常。灯亮则跳转第四步排查显示屏排线；灯不亮则继续第三步排查。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/display-anomalies/%E6%89%93%E5%8D%B0%E6%9C%BA%E5%B7%A5%E4%BD%9C%E6%8C%87%E7%A4%BA%E7%81%AF_working_status_light.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/working_status_light_dca6fbc2.jpg)
 
 #### 三. 检查打印机电源和主板工作灯的状态
 
@@ -69,13 +69,13 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/screen-not-working-
 
 在拆开底板后，您可以将打印机再次接通电源，**但是在接通电源期间请不要触碰打印机任何部件，观察完打印机的指示灯状态后部请重新断电并拔出电源插头。**
 
-![20250220-093125.png](https://wiki.bambulab.com/n1/troubleshooting/display-anomalies/20250220-093125.png)
+![20250220-093125.png](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/20250220-093125.png)
 
 ##### 检查电源工作指示灯的状态
 
 正常情况下电源工作状态灯是常亮绿灯的。如果此灯不亮说明电源供电异常，需更换电源或电源连接线。
 
-![电源.jpg](https://wiki.bambulab.com/n1/troubleshooting/display-anomalies/%E7%94%B5%E6%BA%90.jpg)
+![电源.jpg](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_71dc7fc2.jpg)
 
 ##### 检查主板工作指示灯的状态
 
@@ -85,16 +85,16 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/screen-not-working-
 
 如果 MC 板和 AP 板正常闪烁，说明主板处于正常状态，黑屏原因来源于显示屏或显示屏排线，请跳转至第三步。
 
-![正常闪烁.jpg](https://wiki.bambulab.com/n1/troubleshooting/display-anomalies/%E6%AD%A3%E5%B8%B8%E9%97%AA%E7%83%81.jpg)
+![正常闪烁.jpg](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_75f488e7.jpg)
 
 ###### 情形2：主板工作异常
 
 如果 MC 板和/或 AP 板灯闪烁异常，说明主板异常，可能是主板损坏或主板的电源连接线损坏。  
-![异常闪烁.jpg](https://wiki.bambulab.com/n1/troubleshooting/display-anomalies/%E5%BC%82%E5%B8%B8%E9%97%AA%E7%83%81.jpg)
+![异常闪烁.jpg](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_b55ae7c9.jpg)
 
 如果家中有万用表，可以尝试测量一下主板上这两端的电压是否为 0（非必须），这是主板的直流电源输入端，如果为0说明主板电源连接线可能有损坏。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/display-anomalies/%E4%B8%BB%E6%9D%BF%E7%94%B5%E5%8E%8B%E6%B5%8B%E9%87%8F_voltage_of_main_board.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/voltage_of_main_board_77a90fae.jpg)
 
 #### 四. 检查显示屏排线
 
@@ -113,7 +113,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/screen-not-working-
 
 启动打印机，显示屏可以正常显示，但是触控功能失灵
 
-![](https://wiki.bambulab.com/n1/troubleshooting/display-anomalies/%E8%A7%A6%E6%8E%A7%E5%A4%B1%E7%81%B5_touch_screen_malfunction.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/touch_screen_malfunction_961e5b34.gif)
 
 ### 原因及解决方案
 
@@ -154,7 +154,7 @@ A1 mini 内部的结构比较紧凑，可能受运输的影响，显示屏的连
 
 机器下载切片文件过程中，显示画面卡顿。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/display-anomalies/%E5%88%B7%E6%96%B0%E5%BC%82%E5%B8%B8_refreshing_abnormal.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/refreshing_abnormal_ee2b3116.gif)
 
 ### 原因及解决方案
 

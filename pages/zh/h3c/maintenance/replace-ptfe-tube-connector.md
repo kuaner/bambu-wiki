@@ -1,40 +1,32 @@
 ---
 path: zh/h3c/maintenance/replace-ptfe-tube-connector
-title: "PTFE 管更换指南"
+title: "气动接头更换指南-PTFE Tube Connector Replacement Guide"
 description: ""
 tags: []
 created: 2026-11-03T13:50:45.321Z
-updated: 2026-11-03T13:50:46.383Z
+updated: 2026-11-10T10:58:38.336Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-ptfe-tube-connector
 ---
 
-## PTFE 管
+## 气动接头
 
-AMS 3H 系统共使用三种规格的料管：灰色、白色及打印头专用的透明款( FEP 管)。
+气动接头是 3D 打印机在进料路径中用于连接料管的接头。 适配 AMS 3H 的气动接头包含以下两个位置的气动接头：
 
-1. **连接料管导向组件至主料管支架的料管：**
+一是安装在 AMS 料管导向组件上的气动接头；
 
-![001.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/001.jpeg)
+二是安装在打印头组件上，连接透明料管的气动接头。
 
-> 料管支架组件后方PTFE料管(白色与灰色共存)，各位置的长度如下：
->
-> - 经分叉料管连接件(5、6号)：2根，各 565 mm。
-> - 经直列料管连接件(1、2、3、4、7、8、9号)：7根，各540mm。
-> - 1号打印头料管被气动接头分为两段:长段450 mm，短段 92 mm。
->
-> ![002.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/002.jpeg)
-
-- **打印头组件的 FEP 管：**
-
-![003.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/003.jpeg)
+|  |  |
+| --- | --- |
+| 01.jpeg | 02.jpeg |
 
 ## 何时更换
 
-料管出现严重磨损，影响送料或已被磨破。
+气动接头不能固定料管，或料管不能正常装入
 
 ## 工具和材料
 
-- H2.0 内六角扳手
+- H1.5 内六角扳手
 
 ## 安全提示
 
@@ -42,136 +34,164 @@ AMS 3H 系统共使用三种规格的料管：灰色、白色及打印头专用�
 >
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
 
-## 拆装提示
-
-> 1. 本指南是在已移除 AMS 3H 舱体的情况操作的，请参考WIKI: [AMS 3H 舱体拆装指南](replace-chamber.md)，完成将 AMS 舱体从AMS 支架上移除和安装的操作。
-> 2. 更换每根料管的操作步骤基本一致，本指南选择 **6 号**打印头对应位置的料管进行说明。
-
-## 移除 PTFE 管
-
-### 第 1 步 断开料管
-
-从料管导向组件上找到 6 号 PTFE 管（分叉连接件），按压气动接头，拔出 PTFE 管。
-
-|  |  |
-| --- | --- |
-| 004.jpeg | 005.jpeg |
-
-从料管主支架上找到与料管导向组件上编号对应的 6 号 PTFE 管，向后推动滑块，使气动接头露出。按压气动接头，拔出 PTFE 管。
-
-|  |  |
-| --- | --- |
-| 006.jpeg | 007.jpeg |
-
-从松脱出来的 PTFE 管任意一侧拉扯 PTFE 管，将 PTFE 管从右料管支架上移除。
-
-![008.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/008.jpeg)
-
-## 安装 PTFE 管
-
-### 第 1 步 穿 PTFE 管
-
-将新的 PTFE 管 （ 长度：565 mm） 穿过右料管支架的 6 号位，PTFE 管必须穿过支架上的 3 个孔位。
-
-|  |  |
-| --- | --- |
-| 009.jpeg | 010.jpeg |
-
-### 第 2 步 连接料管
-
-将料管主支架上的 6 号滑块向后推，露出气动接头，然后将第 1 步中穿过右料管支架的 PTFE 管 连接到该气动接头上，尝试拉扯 PTFE 管确认已咬合好。
-
-|  |  |
-| --- | --- |
-| 011.jpeg | 012.jpeg |
-
-将 PTFE 管的另一端连接到料管导向组件上的 6 号接头，尝试拉扯 PTFE 管确认已咬合好。
-
-|  |  |
-| --- | --- |
-| 013.jpeg | 014.jpeg |
-
-## 移除 FEP 管
+## 移除打印头组件气动接头
 
 ### 第 1 步 取出打印头组件
 
-移除 AMS 3H 的磁吸侧板，用手握住打印头基座，将打印头组件从挂架上取下并伸到打印机外面。
+用手抓住左/右侧板扣手位，向外侧用力，可将左/右侧板从 AMS 支架上分离，取下左/右侧板。
+
+![03.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/03.jpeg)
+
+用手握住打印头组件的上部，斜向上提起，卸载打印头组件，并从 AMS 支架侧面伸出。
+
+![04.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/04.jpeg)
+
+### 第 2 步 移除料管
+
+按压两侧料管卡扣，**先向下按压料管**，再将料管向外拔出。
 
 |  |  |
 | --- | --- |
-| 015.jpeg | 016.jpeg |
+| 05.png | 06.webp |
 
-### 第 2 步 断开 FEP 管
+### 第 3 步 松连接线缆
 
-按压气动接头支架两侧进行解锁，拔出打印头端的 FEP 管。
-
-- 按压两侧料管卡扣，**先向下按压料管**，再将料管向外拔出；
+用 H1.5 内六角扳手，移除 2 颗螺丝，取下遮盖。
 
 |  |  |
 | --- | --- |
-| 017.png | 018.webp |
+| 07.jpeg | 08.jpeg |
 
-向前拉打印头，使料管支架滑块向前移动并露出气动接头，用手按住线材橡胶支架；然后按压气动接头，拔出 FEP管，将 FEP 管从料管支架上断开。
-
-|  |  |
-| --- | --- |
-| 019.jpeg | 020.jpeg |
-
-### 第 3 步 移除 FEP 管
-
-FEP 管通过一个卡扣和 3 个橡胶圈与打印头线缆固定在一起。先将 FEP 管从卡扣上松出，然后逐个拉伸橡胶圈，将 FEP 管松出，移除 FEP 管。
+用 H1.5 内六角扳手，移除 1 颗螺丝，使连接板能有松动空间。
 
 |  |  |
 | --- | --- |
-| 021.jpeg | 022.jpeg |
+| 09.jpeg | 10.jpeg |
 
-## 安装 FEP 管
+### 第 4 步 移除打印头组件气动接头
 
-> 温馨提示： FEP 管通过一个卡扣和 3 个橡胶圈与打印头线缆固定在一起，可以在连接好料管后调整橡胶圈的位置，每个 固定点的距离约 60 CM。
+用 H1.5 内六角扳手，移除 4 颗螺丝。
+
+|  |  |
+| --- | --- |
+| 11.jpeg | 12.jpeg |
+
+松开线材底座，移除气动接头。
+
+|  |  |
+| --- | --- |
+| 13.jpeg | 14.jpeg |
+
+## 安装打印头组件气动接头
+
+### 第 1 步 安装打印头组件气动接头
+
+将气动接头安装到打印头组件上，装回线材底座。
+
+|  |  |
+| --- | --- |
+| 15.jpeg | 16.jpeg |
+
+用 H1.5 内六角扳手，锁入 4 颗螺丝。
+
+|  |  |
+| --- | --- |
+| 17.jpeg | 18.jpeg |
+
+### 第 3 步 装回线材遮盖
+
+检查线缆位置，确认定位柱和螺丝孔均对齐，然后锁入 1 颗螺丝固定。
+
+|  |  |
+| --- | --- |
+| 19.jpeg | 20.jpeg |
+
+线材遮盖，注意安装正确后再锁螺丝。
+
+用 H1.5 内六角扳手，移除 2 颗螺丝，取下遮盖。
+
+|  |  |
+| --- | --- |
+| 21.jpeg | 22.jpeg |
+
+用 H1.5 内六角扳手，移除 1 颗螺丝，使连接板能有松动空间。
+
+## 移除 AMS 料管导向组件气动接头
+
+> 拆装提示：本指南是在已移除 AMS 3H 舱体的情况操作的，请参考WIKI: [AMS 3H 舱体拆装指南](replace-chamber.md)，完成将 AMS 舱体从AMS 支架上移除和安装的操作。
+
+### 第 1 步 移除 AMS 料管导向组件
+
+请参考WIKI: [AMS 料管导向组件更换指南](../../ams3/maintenance/replace-ptfe-tube-guide-assembly.md)， 移除 AMS 料管导向组件。
+
+![23.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/23.jpeg)
+
+### 第 2 步 移除需要更换气动接头的**连接件**
+
+导向组件上安装了 4 个直列料管连接件（其中一个少装气动接头）和 1 个分叉料管连接件，根据实际情况拆出来。
+
+![24.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/24.jpeg)
+
+连接件均通过 2 颗螺丝固定到导向组件上，使用 H2.0 内六角扳手移除螺丝后，即可取下连接件。
+
+![25.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/25.jpeg)
+
+### **第 3 步 移除气动接头 （以直列料管连接件为例）**
+
+用 H1.5 内六角扳手移除 1 颗螺丝，然后翻到另一面，将直列料管连接件的 6 个卡扣按序号顺序进行解锁，注意解锁过程中避免两侧同时受力，防止卡扣重新锁紧。
+
+|  |  |
+| --- | --- |
+| 26.jpeg | 27.jpeg |
+
+> 使用 H1.5 内六角扳手进行解锁卡扣：握住边沿进行解锁
 >
-> ![023.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/023.jpeg)
+> |  |  |
+> | --- | --- |
+> | 28.jpeg | 29.jpeg |
+> | 30.jpeg |
 
-## 第 1 步 穿料管
-
-用手拉伸或使用料管撑开橡胶圈，方便料管穿过，卡扣另一端的 2 个橡胶圈可以一起穿。
-
-|  |  |
-| --- | --- |
-| 024.jpeg | 025.jpeg |
-
-### 第 2 步 连接料管
-
-将 FEP 管连接到打印头组件，拉动料管确认料管有被气动接头咬紧。
+将直列料管导向组件完全打开，松出气动接头。
 
 |  |  |
 | --- | --- |
-| 026.jpeg | 027.jpeg |
+| 31.jpeg | 32.jpeg |
 
-向前拉打印头，使料管支架滑块向前移动并露出气动接头，用手按住线材橡胶支架；然后将 FEP管连接到气动接头上，拉动料管检查，确认料管有被气动接头咬紧。
+## 安装 AMS 料管支架滑块气动接头
 
-|  |  |
-| --- | --- |
-| 028.jpeg | 029.jpeg |
+### **第 1 步 安装气动接头 （以直列料管连接件为例）**
 
-将 FEP 管扣到线材卡扣上，然后调整 3 个橡胶圈的位置，使每个固定点的距离约为 60 CM。
+将气动接头放置到拆开的直列料管连接件上，盖上另一侧，
 
 |  |  |
 | --- | --- |
-| 030.jpeg | 031.jpeg |
+| 33.jpeg | 34.jpeg |
 
-### 第 3 步 放置打印头组件
-
-将打印头收回到打印机腔体内，先对齐橙色安装导向槽，然后顺着磁铁吸附到位，放置到挂架上。
+按压使所有卡扣锁紧，锁入 1 颗螺丝固定。
 
 |  |  |
 | --- | --- |
-| 032.jpeg | 033.jpeg |
+| 35.jpeg | 36.jpeg |
 
-盖上 AMS 磁吸侧板。
+### 第 2 步 安装料管**连接件**
+
+连接件均通过 2 颗螺丝固定到导向组件上，装到位置后使用 H2.0 内六角扳手锁紧螺丝。
+
+![37.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/37.jpeg)
+
+注意直列料管连接件朝向是一致的，不要装错方向。
+
+![38.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/38.jpeg)
+
+### 第 3 步 安装 AMS 料管导向组件
+
+请参考WIKI: [AMS 料管导向组件更换指南](../../ams3/maintenance/replace-ptfe-tube-guide-assembly.md)， 安装 AMS 料管导向组件。
+
+![39.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube-connector/zh/39.jpeg)
 
 ## 功能验证
 
-连接料管时，二次确认不会松出即可。
+料管能正常连接且在不按压接头的情况下不会松出。
 
 ## 结束语
 

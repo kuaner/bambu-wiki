@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/packing-h3c-ams-combo
-title: "H3C AMS 套装装箱指南"
+title: "拓竹H3C AMS 套装装箱指南"
 description: ""
 tags: []
 created: 2026-11-03T12:11:22.685Z
-updated: 2026-11-03T12:11:23.720Z
+updated: 2026-11-10T08:47:12.064Z
 source: https://wiki.bambulab.com/zh/h3c/manual/packing-h3c-ams-combo
 ---
 
@@ -51,7 +51,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/packing-h3c-ams-combo
 
 ## AMS 3H 拆卸及装箱
 
-### 断开 AMS 3H 与 H3C
+### 断开 AMS 3H 与拓竹H3C
 
 - 移除 6-pin 连接线。
 
@@ -145,7 +145,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/packing-h3c-ams-combo
 | --- | --- |
 | 031.png | 032.png |
 
-## H3C 拆卸及装箱
+##拓竹H3C 拆卸及装箱
 
 ### 移除屏幕
 
@@ -205,7 +205,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/packing-h3c-ams-combo
 
 ![046.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/packing-h3c-ams-combo/zh/046.png)
 
-### 装箱 H3C
+### 装箱拓竹H3C
 
 - 将机箱内的纸卡支撑放回原位。
 

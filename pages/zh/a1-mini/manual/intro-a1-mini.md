@@ -4,7 +4,7 @@ title: "A1 mini 主要组件介绍"
 description: ""
 tags: []
 created: 2023-09-17T14:25:54.686Z
-updated: 2026-08-28T06:20:16.162Z
+updated: 2026-11-10T13:11:47.166Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/intro-a1-mini
 ---
 
@@ -32,7 +32,7 @@ A1 mini 3D打印机是一种使用塑料线材来创建 3D 物体的机器。它
 
 ## A1 mini 的运动系统
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/cn-picture/xyz.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/xyz.png)
 
 A1 mini采用了笛卡尔坐标运动系统，最大打印体积是180 \* 180 \* 180 mm，其运动系统包括以下组件：
 
@@ -54,7 +54,7 @@ Z轴运动用于控制打印头相对于打印平台的垂直位置。它由螺�
 
 工具头模块是A1 mini 的关键组件之一，A1 mini的工具头模块主要由以下几个部件组成：热端组件、挤出机组件、切刀组件、五通组件和进料霍尔板。
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/cn-picture/%E5%B7%A5%E5%85%B7%E5%A4%B4%E7%83%AD%E7%AB%AF.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_342e24f9.png)
 
 ### 热端组件
 
@@ -62,29 +62,29 @@ Z轴运动用于控制打印头相对于打印平台的垂直位置。它由螺�
 
 与此同时，为了在快速更换热端时不再需要拔插细小的端子或是寻找一把可靠的螺丝刀，A1 mini 将热端加热器与NTC测温传感器固定在了加热底座上，热端被无需工具辅助的快速锁紧卡扣固定在加热底座上以实现热传导与融化线材。
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/cn-picture/%E7%83%AD%E7%AB%AF%E7%BB%84%E4%BB%B6.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_234a712c.png)
 
 ### 挤出机组件
 
 挤出电机和挤出机齿轮是挤出机的重要组成部分。挤出电机负责将线材从线轴中拉出并送入热端，加热熔化后通过喷嘴挤出，生成打印模型。挤出电机需要精确控制通过热端挤出的线材长度，是3D打印机核心部件之一。
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/cn-picture/%E6%8C%A4%E5%87%BA%E6%9C%BA.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_e2b9e2aa.png)
 
 在挤出组件中，下图中的盖子可以被拆除，以便观察挤出轮卡料的情况，从而方便进行维修。
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/en-picture/extruder-clog1.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/extruder-clog1.png)
 
 通过拆除切刀，可以从侧面观察挤出轮，当挤出轮上有材料粉末堆积时，可以通过这个位置清理残留物。
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/en-picture/extruder-clo2.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/extruder-clo2.png)
 
 五通组件可以从上方小心地拆卸（请注意避免拉断进料霍尔板的线缆），同样也可以从上方观察挤出轮是否卡料，便于进行维修操作。
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/en-picture/extruder-clo3.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/extruder-clo3.png)
 
 ### 切刀组件
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/cn-picture/%E5%88%87%E5%88%80.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/repeat_30b4c47b.png)
 
 切刀刀柄被安装在挤出组件上，用于固定切刀和切料检测磁铁。在切料过程中，通过按下刀柄来驱动切刀切断耗材。切断完成后，切刀刀柄会自动回弹。
 
@@ -96,7 +96,7 @@ PTFE管连接到工具头的五通组件上，五通组件将四个管道固定�
 
 进料霍尔板上包含进料检测、切料检测及缠料检测电路；其中，进料检测用于检查料线是否在挤出机，切料检测用于控制切料动作，缠料检测用于检查是否缠料；
 
-![](https://wiki.bambulab.com/n1/manual/unboxing-a1-mini-urey/2025-01-14_17_39_44.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/2025-01-14_17_39_44.png)
 
 ## 冷却系统
 
@@ -108,7 +108,7 @@ PTFE管连接到工具头的五通组件上，五通组件将四个管道固定�
 
 ## 热床组件
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/en-picture/heatbed.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/heatbed.png)
 
 热床的主要功能是加热打印表面，以帮助打印层更好地附着在构架板上。如果不对打印表面进行加热，沉积在热床上的第一层材料很可能会无法稳定附着在热床表面，导致后续的打印过程中打印件发生翘曲甚至掉落。A1 mini打印机在使用过程中，根据所使用的打印材料类型来控制热床的加热温度，最高可达80°C。
 
@@ -116,23 +116,23 @@ PTFE管连接到工具头的五通组件上，五通组件将四个管道固定�
 
 ## 擦嘴组件和吐料组件
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/en-picture/wiper1.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/wiper1.png)
 
 ### 吐料组件
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/en-picture/wiper2.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/wiper2.png)
 
 吐料组件用于高效处理喷嘴吐出的废弃线材。它的功能包括收集和运送废弃线材，确保废弃废料得到正确的处置，以确保打印过程的连续顺畅进行。该装置在多个打印过程中发挥着重要的作用，包括打印机准备、暂停和继续打印、线材的装载和卸载，以及多色打印时的线材更换和冲刷过程。
 
 ### 擦嘴组件
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/cn-picture/%E6%93%A6%E5%98%B4.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_7bc3c4aa.png)
 
 擦嘴组件用于在开始打印任务前清洁喷嘴。每次启动打印任务后，清洁动作会自动执行，无需人工干预。清洁动作包括粗擦和精擦，粗擦主要用于清洁热嘴上的残余废料，精擦则用于清洁热嘴端面保证光洁。A1 mini打印机在热床上预装了一套喷嘴清洁套件。需要说明的是，更换擦嘴组件是常规保养程序之一，如果擦嘴组件损坏，您可以在官方商城上购买替换配件。
 
 ## 打印面板
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/en-picture/buuid-plate.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/buuid-plate.png)
 
 A1 mini 支持 2 款可弯曲的打印面板，它们能够被磁吸在热床上。
 
@@ -150,13 +150,13 @@ A1 mini配置了X轴和Y轴皮带张紧器：
 
 ### X轴皮带张紧器
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/cn-picture/x%E5%BC%A0%E7%B4%A7-v1.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/x-v1_85bd7819.png)
 
 X轴皮带张紧器设置在工具头上，通过工具头上的加速度传感器可以监控X轴张紧力。当X轴张紧力异常时，系统会提示您调整X轴皮带张紧力。张紧X轴皮带的方法请参考[A1 mini定期维护指南](../maintenance/period-maintenance.md)。
 
 ### Y轴皮带张紧器
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/cn-picture/y%E5%BC%A0%E7%B4%A7-v.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/y-v_bdc70f8f.png)
 
 Y轴皮带张紧器设置在机器尾部，通过加速度计，可以监控Y轴皮带张紧力。
 
@@ -220,7 +220,7 @@ A1 mini 的热端具有挤出头受力测量功能，可以用于检测挤出头
 
 ### 动态流量校准
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/cn-picture/%E5%8A%A8%E6%80%81%E6%B5%81%E9%87%8F.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_b944ada0.png)
 
 在3D打印过程中，材料的流量控制对于打印质量至关重要。如果流量设置不正确，可能会导致打印零件尺寸不准确、层间附着问题、表面质量差等问题。动态流量校准的目的是通过测量材料在不同流速下的动态响应特性，计算出材料在挤出过程中的迟滞并在打印时进行实时的迟滞补偿，从而让打印机在高速、高加速度下仍然能产生均匀的挤出，从而提供更准确和一致的打印结果。
 
@@ -242,7 +242,7 @@ A1 mini会使用传感器来测量材料在挤出标定过程中的流量变化�
 
 ### 电机噪音校准
 
-![](https://wiki.bambulab.com/n1/manual/intro-a1-mini/cn-picture/%E5%99%AA%E9%9F%B3%E6%A0%A1%E5%87%86.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_5a655dc8.png)
 
 噪音通常是由于打印机的机械振动、电机驱动、风扇运转或挤出机运行等因素引起的。这些噪音不仅可能对操作者造成干扰，还可能影响周围环境的舒适性。电机噪声抑制功能可以将打印过程中电机发出的噪声抑制下来，降低整体打印噪声。
 

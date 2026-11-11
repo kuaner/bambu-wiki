@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/maintenance/periodic-maintenance
-title: "H3C打印机定期维护"
+title: "拓竹H3C 打印机定期维护"
 description: ""
 tags: []
 created: 2026-11-03T12:48:37.584Z
-updated: 2026-11-03T13:36:53.942Z
+updated: 2026-11-10T11:48:34.202Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/periodic-maintenance
 ---
 

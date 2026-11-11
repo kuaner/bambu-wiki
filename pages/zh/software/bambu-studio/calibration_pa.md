@@ -4,7 +4,7 @@ title: "动态流量校准"
 description: "本文详细介绍动态流量校准及其具体操作方法。"
 tags: []
 created: 2023-08-01T13:28:50.468Z
-updated: 2026-11-04T02:17:39.899Z
+updated: 2026-11-10T08:47:29.017Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/calibration_pa
 ---
 
@@ -246,9 +246,9 @@ X1 系列打印机会在打印板上打印校准线，然后采用激光雷达�
 
 ![10.jpg](https://wiki.bambulab.com/h2c/manual/calibration_pa/10.jpg)
 
-### H3C 打印机
+###拓竹H3C 打印机
 
-H3C 打印机具备 9 个打印头，能够灵活组合多种喷嘴与耗材搭配。相应地，动态流量校准的判定逻辑也进行了适配性优化。
+拓竹H3C 打印机具备 9 个打印头，能够灵活组合多种喷嘴与耗材搭配。相应地，动态流量校准的判定逻辑也进行了适配性优化。
 
 在发起打印任务前，动态流量校准的选项设置仍提供三个档位：
 

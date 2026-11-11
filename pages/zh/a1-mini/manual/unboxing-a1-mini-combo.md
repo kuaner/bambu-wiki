@@ -4,7 +4,7 @@ title: "开箱 A1 mini 套装/单机"
 description: "A1 mini 套装/单机的开箱步骤和注意事项"
 tags: []
 created: 2023-09-17T16:02:52.101Z
-updated: 2026-11-02T13:14:55.104Z
+updated: 2026-11-10T06:25:24.968Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/unboxing-a1-mini-combo
 ---
 
@@ -85,9 +85,9 @@ A1 mini 的 Y 轴采用了全金属导轮，这套导轨系统确保用户不需
 
 ### 3. 将工具头向左稍微移动，然后取下减震泡棉。
 
-![](https://wiki.bambulab.com/n1/manual/unboxing-a1-mini-urey/unlock-x3.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/unlock-x3.png)
 
-![](https://wiki.bambulab.com/n1/manual/unboxing/remove-foam.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/remove-foam.gif)
 
 如有热床和导轨保护泡沫，需要在这一步移除它们。
 
@@ -113,7 +113,7 @@ A1 mini 的 Y 轴采用了全金属导轮，这套导轨系统确保用户不需
 
 **请注意：在安装吐料组件后，应确保其与热床的左侧边沿平行，并且不会发生碰撞，如下图所示：**
 
-![](https://wiki.bambulab.com/n1/manual/unboxing-a1-mini-urey/purge5v.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/purge5v.png)
 
 ## 安装料盘支架
 
@@ -166,7 +166,7 @@ A1 mini 的 Y 轴采用了全金属导轮，这套导轨系统确保用户不需
 
 ### 4. 在成功安装转轴后，将 AMS lite 放置在 A1 mini 打印机的右侧位置。
 
-![](https://wiki.bambulab.com/n1/manual/unboxing-a1-mini-urey/assembly-ams9.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/assembly-ams9.png)
 
 ### 5. 安装 PTFE 管
 
@@ -186,7 +186,7 @@ A1 mini 的 Y 轴采用了全金属导轮，这套导轨系统确保用户不需
 
 以下是 4 根 PTFE 管安装完成后的整体效果图示：
 
-![](https://wiki.bambulab.com/a1m/manual/unbox/unbox_(17).png)
+![](https://wiki.bambulab.com/a1m/manual/unbox/unbox_%2817%29.png)
 
 ## 安装集线器
 
@@ -209,11 +209,11 @@ A1 mini 的 Y 轴采用了全金属导轮，这套导轨系统确保用户不需
 
 将 AMS lite 的 4pin 线插入 A1 min i右侧的任意一个接口；**请确保正确插入 4 针电缆，将其对准保护卡的方向。**
 
-![](https://wiki.bambulab.com/a1m/manual/unbox/unbox_(22).png)
+![](https://wiki.bambulab.com/a1m/manual/unbox/unbox_%2822%29.png)
 
 **请确保将 AMS lite 的 4pin 线和 A1 mini 编织线分别整理好，不要让它们互相交叉。这样可以防止在打印大零件时两根线相互缠绕或拉扯。**
 
-![](https://wiki.bambulab.com/a1m/manual/unbox/unbox_(23).png)
+![](https://wiki.bambulab.com/a1m/manual/unbox/unbox_%2823%29.png)
 
 **再次提醒，您所收到的机器保护泡沫可能与视频中展示的机器不完全相同。如有必要，请在给打印机通电之前，将所有保护泡沫（例如用于保护热床的泡沫）全部移除。**
 
@@ -225,7 +225,7 @@ A1 mini 的 Y 轴采用了全金属导轮，这套导轨系统确保用户不需
 
 **如图所示,放置打印机时,请在Y方向上留出足够热床移动的安全空间。**
 
-![](https://wiki.bambulab.com/n1/manual/unboxing-a1-mini-urey/space1.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/space1.png)
 
 ## 安装打印板后，根据屏幕提示，完成初始化和校准。
 

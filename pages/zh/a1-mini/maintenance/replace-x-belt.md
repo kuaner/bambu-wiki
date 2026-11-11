@@ -4,7 +4,7 @@ title: "A1 mini X 轴皮带更换指南"
 description: "更换 A1 mini X 皮带的操作步骤"
 tags: ["x皮带", "x轴", "x轴同步带"]
 created: 2024-08-23T02:54:12.467Z
-updated: 2025-03-13T08:27:30.963Z
+updated: 2026-11-10T08:18:49.489Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/replace-x-belt
 ---
 
@@ -78,7 +78,7 @@ X 皮带是安装在 X 轴上，将工具头与 X 电机连接起来并驱动工
 
 从电机罩前盖下方用力，移除电机罩前盖。
 
-![](https://wiki.bambulab.com/n1/a1-mini-printer/motor_cover.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/motor_cover.jpg)
 
 ## 步骤 5：移除 X 皮带
 
@@ -162,7 +162,7 @@ X 皮带是安装在 X 轴上，将工具头与 X 电机连接起来并驱动工
 
 确认安装方向，盖上 X 电机罩前盖
 
-![](https://wiki.bambulab.com/n1/a1-mini-printer/x_front_cover.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/x_front_cover.jpg)
 
 ## 步骤 3：装回吐料组件和 X 轴端盖
 
@@ -200,7 +200,7 @@ X 皮带是安装在 X 轴上，将工具头与 X 电机连接起来并驱动工
 
 1. 将 X 移动到移动到靠近 Z 轴中间位置，避免移动工具头时划伤热床，关闭打印机；
 
-![安装完成.png](https://wiki.bambulab.com/n1/a1-mini-print-head/%E6%8B%86%E8%A3%85/%E5%AE%89%E8%A3%85%E5%AE%8C%E6%88%90.png)
+![安装完成.png](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_41a584c5.png)
 
 2. 用 H2.0 内六角扳手拧松张紧螺丝一圈（请勿完全松开），用手移动工具头沿 X 轴方向来回运动 3 次，然后重新拧紧张紧螺丝。
 

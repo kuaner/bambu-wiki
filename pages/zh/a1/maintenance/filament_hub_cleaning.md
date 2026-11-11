@@ -4,7 +4,7 @@ title: "A1 系列五通组件拆解与清理"
 description: "本文介绍了如何清理 AMS lite 五通组件内的异物和废料，以及如何拆解与检查进料霍尔板底座。"
 tags: ["五通组件", "a1", "ams lite"]
 created: 2023-12-21T14:57:47.738Z
-updated: 2026-08-28T08:27:28.115Z
+updated: 2026-11-10T06:13:17.353Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/filament_hub_cleaning
 ---
 
@@ -77,7 +77,7 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/filament_hub_cleaning
 >
 > - 进料霍尔板底座处涂布有**阻尼脂**，可能**会有些粘手**，请在操作时小心。
 > - 取下五通组件后，请注意不要损坏底部含有**磁铁**的结构，该磁铁与进料霍尔板协同工作，如若丢失将影响工具头进料检测功能。  
->   ![magnet_position_1.jpg](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/magnet_position_1.jpg)
+>   ![magnet_position_1.jpg](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/magnet_position_1.jpg)
 
 #### 步骤 2. 用耗材进行疏通
 

@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/maintenance/manual-bed-tramming
-title: "H3C 热床手动调平"
+title: "拓竹H3C 热床手动调平"
 description: "Bambu Lab 打印机的热床在出厂时已调整好，按照手册的指引操作完成后，即可直接打印。 但如果由于运输原因导致热床出现了异常，或因产品维修的需要，拆装或更换过热床，导致了热床自动调平失败，这时我们可能需要通过手动调平的方式来确保打印机的热床是平整的。"
 tags: []
 created: 2026-11-03T12:48:48.758Z
-updated: 2026-11-03T12:48:49.781Z
+updated: 2026-11-10T08:47:03.190Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/manual-bed-tramming
 ---
 
@@ -19,7 +19,7 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/manual-bed-tramming
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/manual-bed-tramming/zh/02_h3c________7b18690601.png)
 
 - 下载调平 G-code，完成后，您需要将 G-code 文件拷贝至 U 盘根目录内。  
-  [附件：H3C-manual-bed-tramming.gcode](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/manual-bed-tramming/zh/h3c-manual-bed-tramming.gcode)
+  [附件：拓竹H3C-manual-bed-tramming.gcode](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/manual-bed-tramming/zh/h3c-manual-bed-tramming.gcode)
 
 ### 清洁热床及热端
 

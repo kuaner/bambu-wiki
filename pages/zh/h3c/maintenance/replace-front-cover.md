@@ -4,13 +4,13 @@ title: "前面盖更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:43:13.206Z
-updated: 2026-11-03T12:48:30.501Z
+updated: 2026-11-10T08:47:05.341Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-front-cover
 ---
 
 ## 前面盖
 
-安装在打印机正面，并印刷有打印机型号 H3C 的盖子。  
+安装在打印机正面，并印刷有打印机型号拓竹H3C 的盖子。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-front-cover/zh/81_________front_cover_replacement_guide_5d7000546c.jpg)
 
 ## 何时更换

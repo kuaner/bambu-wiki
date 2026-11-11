@@ -4,7 +4,7 @@ title: "AMS lite 定期维护建议"
 description: "关于 AMS lite 的一些日常维护和保养建议"
 tags: ["ams lite"]
 created: 2024-11-28T02:36:03.975Z
-updated: 2026-08-28T08:30:57.942Z
+updated: 2026-11-10T12:50:37.821Z
 source: https://wiki.bambulab.com/zh/ams-lite/maintenance/basic-maintenance
 ---
 
@@ -19,7 +19,7 @@ Bambu Lab AMS lite 是一个智能系统，需要进行维护，以确保稳定�
 - 定期**检查五通组件和进料支架的连接状态**，确保其稳固无松动。
 - 定期**清洁五通组件**，以防止杂物积聚，从而确保多耗材打印的顺畅进行，可参考[AMS lite 五通组件拆解与清理](../../a1/maintenance/filament_hub_cleaning.md)。
 
-![](https://wiki.bambulab.com/f1/ams-lite-introduction/%E7%BC%A0%E6%96%99%E6%A3%80%E6%B5%8B%E6%A8%A1%E5%9D%97.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_83d5d048.png)
 
 ## PTFE 管
 

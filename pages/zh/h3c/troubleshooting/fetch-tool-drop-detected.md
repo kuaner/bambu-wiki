@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/fetch-tool-drop-detected
-title: "2A008046：H3C"
+title: "2A008046：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:17.441Z
-updated: 2026-11-03T12:08:18.466Z
+updated: 2026-11-10T08:47:16.153Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/fetch-tool-drop-detected
 ---
 

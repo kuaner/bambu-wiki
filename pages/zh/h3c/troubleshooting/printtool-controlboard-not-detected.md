@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/printtool-controlboard-not-detected
-title: "0300403A：H3C"
+title: "0300403A：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:02.406Z
-updated: 2026-11-03T12:08:03.418Z
+updated: 2026-11-10T08:47:25.873Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/printtool-controlboard-not-detected
 ---
 

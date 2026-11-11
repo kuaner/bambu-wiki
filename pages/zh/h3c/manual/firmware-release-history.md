@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/firmware-release-history
-title: "H3C 固件发布记录"
+title: "拓竹H3C 固件发布记录"
 description: ""
 tags: []
 created: 2026-11-03T12:13:01.560Z
-updated: 2026-11-03T12:13:02.588Z
+updated: 2026-11-10T08:47:10.522Z
 source: https://wiki.bambulab.com/zh/h3c/manual/firmware-release-history
 ---
 

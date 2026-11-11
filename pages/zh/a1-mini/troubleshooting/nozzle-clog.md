@@ -4,7 +4,7 @@ title: "A1 系列打印机热端堵塞清理"
 description: "本指南介绍 A1 系列打印机热端堵塞清理的 3 种方法。"
 tags: ["a1", "a1 mini", "热端堵塞"]
 created: 2023-11-07T08:08:56.580Z
-updated: 2026-11-02T11:19:51.751Z
+updated: 2026-11-10T08:19:32.295Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 ---
 
@@ -50,14 +50,14 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 
 将喷嘴温度提高到略高于耗材要求的温度（以 PLA 为例，设置热端温度为 250℃）。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/nozzle-clog/02_%E5%B1%8F%E5%B9%95%E5%96%B7%E5%98%B4%E6%B8%A9%E5%BA%A6%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/02_37b82d19.jpg)
 
 ### 步骤 2 ：手动挤出
 
 点击屏幕上的“进料”按钮挤出耗材。  
 **若使用 TPU 材料，“进料”按钮最多只能点击三次。同时避免快速连续点击“退料”按钮，以防出现卡料或缠料。**
 
-![](https://wiki.bambulab.com/n1/troubleshooting/nozzle-clog/04_%E5%B1%8F%E5%B9%95%E5%8F%82%E6%95%B0%E6%8E%A7%E5%88%B6%E7%95%8C%E9%9D%A2.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/04_b96776fa.jpg)
 
 观察耗材是否正确挤出。耗材应呈直线状连续流出，如下图所示：
 
@@ -94,7 +94,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 
 将 Z 轴移动到合适的高度，同时将工具头也移动到合适的高度；并将工具头前壳拆掉，以便于进行下一步的操作。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/nozzle-clog/06_a1_mini%E6%AD%A3%E9%9D%A2.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/06_a1_mini_31313a77.png)
 
 ### 步骤 2 ：加热热端并移除料线
 

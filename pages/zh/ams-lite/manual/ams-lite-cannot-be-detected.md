@@ -4,7 +4,7 @@ title: "打印机无法检测到AMS lite"
 description: ""
 tags: []
 created: 2024-01-10T13:07:05.602Z
-updated: 2026-10-10T03:41:14.507Z
+updated: 2026-11-10T12:50:39.359Z
 source: https://wiki.bambulab.com/zh/ams-lite/manual/ams-lite-cannot-be-detected
 ---
 
@@ -15,7 +15,7 @@ source: https://wiki.bambulab.com/zh/ams-lite/manual/ams-lite-cannot-be-detected
 1. \*\*AMS lite上电失败。\*\*在给打印机通电开机后，打印机正常启动，但AMS lite上电失败，\*\*四个槽的灯都不亮，屏幕上也未显示AMS 页面。\*\*正常情况下，如果AMS lite四个槽都没插入耗材丝，四个槽应该依次闪烁白色走马灯。
 2. \*\*AMS lite通信丢失。\*\*开机后，打印机和AMS lite都正常启动，但是AMS lite与打印机之间的通信丢失。**现象为AMS lite的4个槽同时闪红灯，且打印机屏幕上未显示AMS页面。**
 
-![](https://wiki.bambulab.com/f1/ams-lite-not-detected/%E5%B1%8F%E5%B9%95ams%E9%A1%B5%E9%9D%A2.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ams_aeac2d93.png)
 
 如果您遇到上面这两种情况，可以参考本文的方法进行故障排查。
 
@@ -74,7 +74,7 @@ source: https://wiki.bambulab.com/zh/ams-lite/manual/ams-lite-cannot-be-detected
 
 **断开打印机电源（若未断电测得的电阻会不准确）**，然后\*\*测量打印机4pin接口的AC和AD这两组电阻，看看是否都在4.5KΩ~5KΩ之间。\*\*如果电阻异常，则说明是主板故障，请提供测量的电阻值联系我们的[在线技术支持](https://support.bambulab.cn/cn/im)。
 
-![](https://wiki.bambulab.com/f1/ams-lite-not-detected/abcd4%E4%B8%AApin.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/abcd4pin_e93eec1f.png)
 
 ##### **A1打印机**
 

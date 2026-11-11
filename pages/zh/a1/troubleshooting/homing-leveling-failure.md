@@ -4,7 +4,7 @@ title: "A1 系列打印机回零调平失败故障排查"
 description: "本文介绍了A1 系列打印机回零调平失败故障排查"
 tags: ["a1"]
 created: 2024-06-22T09:53:07.583Z
-updated: 2026-08-28T08:28:56.866Z
+updated: 2026-11-10T07:51:53.917Z
 source: https://wiki.bambulab.com/zh/a1/troubleshooting/homing-leveling-failure
 ---
 
@@ -87,7 +87,7 @@ HMS 报错：[HMS\_0300-1800-0001-0002: 挤出力传感器灵敏度偏低，可�
 
 该报错的原因是检测到的涡流传感器信号较弱，有可能是热端没有安装到位，或者热端顶部的散热片变形了。拆下热端，观察散热片是否已发生变形向下翘曲（正常应该保持水平或轻微向上翘曲）；如果没有明显的变形，按照指示重新安装一遍喷嘴，点击屏幕上的“回零”按钮观察是否能正常回零。若使用的是第三方热端，也有可能导致这个问题。
 
-![](https://wiki.bambulab.com/n1/hms/sensitivity-of-extrusion-force-sensor-too-low/%E7%83%AD%E7%AB%AF%E6%95%A3%E7%83%AD%E7%89%87.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_7acab04b.png)
 
 #### 热端不存在
 

@@ -4,7 +4,7 @@ title: "A1 产品维护与保养"
 description: "关于A1 打印机的一些日常维护和保养建议"
 tags: ["保养", "产品维护", "产品保养"]
 created: 2023-12-13T14:13:58.500Z
-updated: 2026-10-12T08:20:29.690Z
+updated: 2026-11-10T07:51:40.345Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/basic-maintenance
 ---
 
@@ -145,7 +145,7 @@ X、Y、Z同步皮带是是实现工具头沿 X 轴方向、热床沿 Y 轴方�
 - **保养方案：** 异物清理
 - **操作说明：** 清理挤出机时，发现有无法去除的异物时，需要将挤出前盖拆除，取出挤出轮组件进行清洁。[A1 系列挤出机清理](../../a1-mini/troubleshooting/extruder-clog.md)
 
-![](https://wiki.bambulab.com/n1/p-maintenance/extruder_gears.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/extruder_gears.png)
 
 ### 进料霍尔板
 
@@ -274,7 +274,7 @@ A1 热端采用了快拆的卡扣设计，为保证热端快拆功能正常，�
 - **保养周期：** PLA 等非碳纤料，每 6 卷料；碳纤料或 ploywood 等摩擦力高的材料，每 2 卷料
 - **保养工具、材料：** 徒手或借助辅助工具；PTFE 管
 - **保养方案：** 换新
-- **操作说明：** 按压五通料管连接器，将料管向上拉出即可； 如果徒手按压困难，可借助打印模型 [ptfe\_tool.3mf](https://wiki.bambulab.com/n1/p-maintenance/ptfe_tool.3mf) 或镊子等工具。
+- **操作说明：** 按压五通料管连接器，将料管向上拉出即可； 如果徒手按压困难，可借助打印模型 [ptfe\_tool.3mf](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ptfe_tool.3mf) 或镊子等工具。
 
 |  |  |
 | --- | --- |

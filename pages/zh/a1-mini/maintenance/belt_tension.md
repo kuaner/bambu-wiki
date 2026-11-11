@@ -4,7 +4,7 @@ title: "A1mini 同步带张紧"
 description: "本指南介绍了如何调整 A1 mini 打印机的 X 轴/ Y 轴/ Z 轴皮带的松紧度。"
 tags: []
 created: 2026-04-30T03:29:38.815Z
-updated: 2026-08-28T08:44:03.097Z
+updated: 2026-11-10T07:32:18.510Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/belt_tension
 ---
 
@@ -14,7 +14,7 @@ A1 mini 打印机使用两根同步皮带，分别用于实现工具头（X 轴�
 
 打印机的 XYZ 轴通过检测各个轴的限位，确定工具头在三维空间中的零点坐标。当打印机回零运动的位置明显偏离，或频繁出现丢步现象时，也应该尝试调整同步带的张紧度。
 
-![](https://wiki.bambulab.com/n1/maintenance/belt_tension/a1_mini_%E5%90%8C%E6%AD%A5%E5%B8%A6%E5%BC%A0%E7%B4%A7.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/a1_mini_1b3f8c63.jpg)
 
 ## 所需工具
 
@@ -43,7 +43,7 @@ X 同步带的张紧位置在⼯具头的背⾯，如下图所⽰。
 
 1. 操作打印机，将 X 轴移动到靠近 Z 轴中间位置，避免移动⼯具头时划伤热床；
 
-![安装完成.png](https://wiki.bambulab.com/n1/a1-mini-print-head/%E6%8B%86%E8%A3%85/%E5%AE%89%E8%A3%85%E5%AE%8C%E6%88%90.png)
+![安装完成.png](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_41a584c5.png)
 
 2. 拧松工具头后端的张紧螺丝（请勿完全松开），手动推工具头往 X 轴来回运动 3~4 次后，重新拧紧张紧螺丝。
 
@@ -57,7 +57,7 @@ X 同步带的张紧位置在⼯具头的背⾯，如下图所⽰。
 
 Y 同步带的张紧位置在 Y 轴导轨上，如下图所⽰。
 
-![](https://wiki.bambulab.com/n1/maintenance/belt_tension/y%E5%90%8C%E6%AD%A5%E5%B8%A6%E5%BC%A0%E7%B4%A7.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/y_5c22030f.jpg)
 
 ### 操作说明
 
@@ -83,7 +83,7 @@ X、Y 皮带都张紧后， 开启打印机，在**校准**菜单中选中**振�
 
 此外，拓竹各系列打印机均可通过 Bambu Studio 进行校准。
 
-![](https://wiki.bambulab.com/n1/maintenance/belt_tension/%E6%A0%A1%E5%87%86.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_b0f1518d.jpg)
 
 ## 结束语
 

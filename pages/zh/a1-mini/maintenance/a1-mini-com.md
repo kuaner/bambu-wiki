@@ -4,7 +4,7 @@ title: "A1 mini整机拆装指引"
 description: "提供A1 mini 整机（不含工具头）相关联配件的拆解和组装的指引和注意事项。"
 tags: ["摄像头", "热床", "a1 mini", "x电机", "usb线", "底板", "\"x轴", "y轴导轨\""]
 created: 2023-09-13T08:57:52.685Z
-updated: 2026-11-03T09:43:21.323Z
+updated: 2026-11-10T07:32:11.711Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/a1-mini-com
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/a1-mini-com
 
 本文提供 A1mini 整机拆解和组装的相关指引和注意事项，在这个拆解过程中涉及的可更换配件的拆装也可参考本文进行处理。
 
-![](https://wiki.bambulab.com/n1/com.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/com.jpg)
 
 ## 单品清单
 

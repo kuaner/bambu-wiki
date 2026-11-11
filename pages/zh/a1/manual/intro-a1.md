@@ -4,7 +4,7 @@ title: "A1 主要组件介绍"
 description: "本文章将介绍 A1 系列打印机的主要组件"
 tags: ["a1"]
 created: 2023-12-15T02:09:11.464Z
-updated: 2026-07-27T04:04:05.274Z
+updated: 2026-11-10T06:13:23.254Z
 source: https://wiki.bambulab.com/zh/a1/manual/intro-a1
 ---
 
@@ -54,7 +54,7 @@ Z 轴运动系统用于控制工具头相对于热床的垂直位置。它由双
 
 工具头模块是 A1 的关键组件之一，A1 的工具头模块主要由以下几个部件组成：
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/工具头模块.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E5%B7%A5%E5%85%B7%E5%A4%B4%E6%A8%A1%E5%9D%97.png)
 
 ### 热端组件：
 
@@ -64,29 +64,29 @@ Z 轴运动系统用于控制工具头相对于热床的垂直位置。它由双
 
 与此同时，为了在快速更换热端时不再需要拔插细小的端子或是寻找一把可靠的螺丝刀，A1 将热端加热器与 NTC 测温传感器固定在了加热底座上，热端被无需工具辅助的快速锁紧卡扣固定在加热底座上以实现热传导与融化线材。
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/热端组件.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E7%83%AD%E7%AB%AF%E7%BB%84%E4%BB%B6.png)
 
 ### 挤出机组件：
 
 挤出电机和挤出机齿轮是挤出机的重要组成部分。挤出电机负责将线材从线轴中拉出并送入热端，加热熔化后通过喷嘴挤出，生成打印模型。挤出电机需要精确控制通过热端挤出的线材长度，是 3D 打印机核心部件之一。
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/挤出机组件.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E6%8C%A4%E5%87%BA%E6%9C%BA%E7%BB%84%E4%BB%B6.png)
 
 在挤出组件中，此位置可以被拆除，以便观察挤出轮卡料的情况，从而方便进行维修。
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/挤出机1.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E6%8C%A4%E5%87%BA%E6%9C%BA1.png)
 
 通过拆除切刀，可以从侧面观察挤出轮，当挤出轮上有材料粉末堆积时，可以通过这个位置清理残留物。
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/挤出机2.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E6%8C%A4%E5%87%BA%E6%9C%BA2.png)
 
 五通组件可以从上方小心地拆卸（请注意避免拉断进料霍尔板的线缆），同样也可以从上方观察挤出轮是否卡料，便于进行维修操作。
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/挤出机3.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E6%8C%A4%E5%87%BA%E6%9C%BA3.png)
 
 ### 切刀：
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/切刀.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E5%88%87%E5%88%80.png)
 
 切刀刀柄安装在挤出组件上，用于固定切刀和切料检测磁铁。在切料过程中，通过按下刀柄来驱动切刀切断耗材。切断完成后，切刀刀柄会自动回弹。
 
@@ -94,7 +94,7 @@ Z 轴运动系统用于控制工具头相对于热床的垂直位置。它由双
 
 ### 五通组件和进料霍尔板：
 
-![](https://wiki.bambulab.com/n1/manual/unboxing-a1-mini-urey/2025-01-14_17_39_44.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/2025-01-14_17_39_44.png)
 
 PTFE 管连接到工具头的五通组件上，五通组件将四个管道固定在一起，允许工具头接入 4 种材料，配合多色打印模块可实现多色打印；此外，五通组件内部还有一个磁铁，用于配合缠料传感器检查是否缠料。当进料阻力过大的时候，五通组件会被下压，磁铁就会更靠近霍尔传感器而触发缠料报警。
 
@@ -104,11 +104,11 @@ PTFE 管连接到工具头的五通组件上，五通组件将四个管道固定
 
 快速打印需要对打印部件进行良好的冷却，A1 配备了一个定制的 5015 离心风扇，带有相对的两个出风风道，使冷却空气精准的吹到喷嘴附近，保证打印部件的快速冷却。
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/冷却.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E5%86%B7%E5%8D%B4.png)
 
 ## 热床组件
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/热床.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E7%83%AD%E5%BA%8A.png)
 
 热床的主要功能是加热打印表面，以帮助打印层更好地附着在构架板上。如果不对打印表面进行加热，沉积在热床上的第一层材料很可能会无法稳定附着在热床表面，导致后续的打印过程中打印件发生翘曲甚至掉落。A1 打印机在使用过程中，根据所使用的打印材料类型来控制热床的加热温度，最高可达 100°C。
 
@@ -118,13 +118,13 @@ PTFE 管连接到工具头的五通组件上，五通组件将四个管道固定
 
 ### 吐料组件：
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/吐料组件.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E5%90%90%E6%96%99%E7%BB%84%E4%BB%B6.png)
 
 吐料组件用于高效处理喷嘴吐出的废弃线材。它的功能包括收集和运送废弃线材，确保废弃废料得到正确的处置，以确保打印过程的连续顺畅进行。该装置在多个打印过程中发挥着重要的作用，包括打印机准备、暂停和继续打印、线材的装载和卸载，以及多色打印时的线材更换和冲刷过程。
 
 ### 擦嘴组件：
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/擦嘴组件.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E6%93%A6%E5%98%B4%E7%BB%84%E4%BB%B6.png)
 
 擦嘴组件用于在开始打印任务前清洁喷嘴。每次启动打印任务后，清洁动作会自动执行，无需人工干预。清洁动作包括粗擦和精擦，粗擦主要用于清洁热端上的残余废料，精擦则用于清洁热端断面保证光洁。
 
@@ -134,7 +134,7 @@ A1 打印机在热床上预装了一套硅胶擦嘴组件，用于粗擦操作�
 
 ## 打印板
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/打印面板.jpg)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/%E6%89%93%E5%8D%B0%E9%9D%A2%E6%9D%BF.jpg)
 
 A1 标配了一张纹理 PEI 打印板（开箱包装清单内）由 PEI 材料喷涂在不锈钢板上而成，能够给打印件的底部带来特殊的纹理质感。该打印面板能够用于打印 PLA/PETG/TPU 等各类材料，并无需使用任何的粘合剂。打印完成后须等待打印板充分冷却后再拆除打印件。建议定期清洁打印板以保持最佳的粘附力。同时尽量减少手指直接触碰打印板表面的情况，以防止皮肤油脂附着到打印板表面，影响打印板对材料的粘附力。
 
@@ -144,15 +144,15 @@ A1 配有 3 个可调节的皮带张紧器。 皮带张力监控器 (BTM) 将监
 
 ### X 轴皮带张紧器：
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/x张紧.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/x%E5%BC%A0%E7%B4%A7.png)
 
 ### Y 轴皮带张紧器：
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/y张紧.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/y%E5%BC%A0%E7%B4%A7.png)
 
 ### Z 轴皮带张紧器：
 
-![](https://wiki.bambulab.com/a1/manual/intro-a1/z张紧.png)
+![](https://wiki.bambulab.com/a1/manual/intro-a1/z%E5%BC%A0%E7%B4%A7.png)
 
 ## 电器元件及主要功能介绍
 

@@ -4,7 +4,7 @@ title: "A1 系列进料霍尔板底座更换指南"
 description: "简单介绍了如何为 A1 系列打印机更换进料霍尔板底座"
 tags: ["进料霍尔板底座", "a1", "霍尔板底座"]
 created: 2023-12-08T09:15:48.057Z
-updated: 2026-08-28T08:27:04.178Z
+updated: 2026-11-10T08:18:41.292Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/filament-sensor-base-replacement
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/filament-sensor-base-re
 
 对于 A1 系列打印机，进料霍尔板底座是安装在工具头挤出机上方，用于安装进料霍尔板的固定底座，它同时也是A1系列五通组件的底座。
 
-![filament_sensor_base-a1_series.png](https://wiki.bambulab.com/n1/maintenance/filament-sensor-base-replacement/filament_sensor_base-a1_series.png)
+![filament_sensor_base-a1_series.png](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/filament_sensor_base-a1_series.png)
 
 ## 何时更换
 

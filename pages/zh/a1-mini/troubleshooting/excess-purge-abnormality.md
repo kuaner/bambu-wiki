@@ -4,7 +4,7 @@ title: "A1 系列吐料异常及解决方案"
 description: "简述 A1 系列打印机将废料吐到挡板上且不能正常弹落的对应方案"
 tags: ["吐料组件", "a1 mini"]
 created: 2023-10-20T07:13:32.714Z
-updated: 2026-08-28T08:26:21.301Z
+updated: 2026-11-10T08:19:14.041Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/excess-purge-abnormality
 ---
 
@@ -35,7 +35,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/excess-purge-abnorm
 
 用镊子、吹气球等清洁阻挡在吐料组件运动路径上的异物，如打印丝。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/purge-wiper-adjustment/%E6%BB%91%E6%A7%BD%E5%A0%86%E6%96%99.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_7f27af9f.png)
 
 ### 3.调整档板位置
 

@@ -4,13 +4,13 @@ title: "热端更换指南"
 description: "本文介绍了如何更换热端。"
 tags: []
 created: 2026-11-03T12:37:04.289Z
-updated: 2026-11-03T12:37:05.287Z
+updated: 2026-11-10T08:47:05.795Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-hotend
 ---
 
 ## 热端
 
-H3C 热端内置加热片、NTC温度传感器和硅胶保护套，用于将耗材加热到指定温度，熔化后的耗材以薄层的形式沉积来生成模型。  
+拓竹H3C 热端内置加热片、NTC温度传感器和硅胶保护套，用于将耗材加热到指定温度，熔化后的耗材以薄层的形式沉积来生成模型。  
 ![450.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-hotend/450.jpeg)
 
 ## 何时更换

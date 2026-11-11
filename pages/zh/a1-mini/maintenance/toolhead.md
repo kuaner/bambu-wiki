@@ -1,10 +1,10 @@
 ---
 path: zh/a1-mini/maintenance/toolhead
-title: "A1  系列工具头拆装指引"
+title: "A1 系列工具头拆装指引"
 description: "本指引详细介绍了如何卸下和安装 A1 系列工具头"
 tags: ["工具头", "a1"]
 created: 2023-09-14T02:29:15.014Z
-updated: 2026-09-15T09:45:29.875Z
+updated: 2026-11-10T08:18:54.726Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/toolhead
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/toolhead
 
 本文提供 A1 系列工具头拆解和组装的相关指引和注意事项，在此拆解过程中涉及的可更换配件的拆装也可参考本文进行处理。
 
-![](https://wiki.bambulab.com/n1/a1-mini-print-head/toolhead.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/toolhead.jpg)
 
 ## 配件清单
 
@@ -92,19 +92,19 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/toolhead
 
 按压料管接头，拔出料管。
 
-![](https://wiki.bambulab.com/n1/a1-mini-print-head/%E6%8C%89%E5%8E%8B%E6%8B%94%E5%87%BA%E6%96%99%E7%AE%A1.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_6f59dc41.jpg)
 
 ### 步骤3：断开 USB 线连接
 
 用 H1.5 内六角扳手移除 4 颗螺丝 A，将 USB 线从工具头上断开。
 
-![](https://wiki.bambulab.com/n1/a1-mini-print-head/%E7%A7%BB%E9%99%A4usb.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/usb_12ef7ff2.jpg)
 
 ### 步骤4：移除工具头后盖和两侧线盖
 
 1. 通过工具头下方缺口，将工具头后盖揭开。
 
-![](https://wiki.bambulab.com/n1/a1-mini-print-head/%E7%A7%BB%E9%99%A4%E5%90%8E%E7%9B%96-.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_d1c8dc07.jpg)
 
 2. 向后方推动两侧的线盖，移除线盖，注意不要损伤内部的线材。
 
@@ -116,7 +116,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/toolhead
 
 请参考下图了解各连接器用途：1- 热端加热组件；2- 进料霍尔板；3- USB连接线；4- 挤出电机；5- 热端风扇；6- 涡流线圈；7- 部件冷却风扇。
 
-![](https://wiki.bambulab.com/n1/a1-mini-print-head/connectors_on_th_2.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/connectors_on_th_2.jpg)
 
 1. 依次断开加热组件、挤出电机、部件冷却风扇和热端风扇 4 个连接器，用 H1.5 内六角扳手拧下 2 颗螺丝 B，松开涡流线圈连接线；
 
@@ -181,7 +181,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/toolhead
 
 1. 安装工具头滑车支架到 X 轴滑块上，锁入 4 螺丝 K 固定；
 
-![](https://wiki.bambulab.com/n1/a1-mini-print-head/%E5%AE%89%E8%A3%85%E6%BB%91%E8%BD%A6%E6%94%AF%E6%9E%B6%E8%9E%BA%E4%B8%9D4.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/4_d3d82acd.jpg)
 
 2. 将 X 同步带安装到支架两侧，先用 2 颗螺丝 J 固定右侧，再用 2 颗螺丝 J 固定左侧；
 
@@ -199,7 +199,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/toolhead
 
 将加热组件安装到工具头支架上，锁 3 颗螺丝 H 固定。
 
-![](https://wiki.bambulab.com/n1/a1-mini-print-head/%E5%8A%A0%E7%83%AD%E7%BB%84%E4%BB%B6%E8%9E%BA%E4%B8%9Dx3.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/x3_d7c45ec8.jpg)
 
 ### 步骤3：安装 2 个风扇
 
@@ -226,17 +226,17 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/toolhead
 
 将挤出模块安装到滑车支架上，注意不要压到连接线。在上方锁入 2 颗螺丝 D，在下方锁入 2 颗螺丝 E。
 
-![](https://wiki.bambulab.com/n1/a1-mini-print-head/%E6%8C%A4%E5%87%BA%E6%9C%BA%E8%9E%BA%E4%B8%9D.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_c29cee13.jpg)
 
 ### 步骤5：安装 TH 板
 
 1. 将霍尔板排线连接到 TH 板对应的连接器上并扣好；
 
-![](https://wiki.bambulab.com/n1/a1-mini-print-head/%E6%8E%92%E7%BA%BF1.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/1_4ffb0baa.jpg)
 
 2. 将 TH 板安装到工具头上，锁 3 颗螺丝 C 固定 TH 板；
 
-![](https://wiki.bambulab.com/n1/a1-mini-print-head/th%E6%9D%BF%E8%9E%BA%E4%B8%9D.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/th_67138ca3.jpg)
 
 3. 锁 2 颗螺丝 B 固定线圈连接线；依次连接热端加热组件、挤出电机、热端风扇和部件冷却风扇电缆到对应的 TH 板接口上。
 

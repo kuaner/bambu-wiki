@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/crafttool-quality
-title: "H3C 平面加工质量排查"
+title: "拓竹H3C 平面加工质量排查"
 description: "本文汇总平面加工（刀切 / 画笔）过程中常见的质量问题及排查方法。"
 tags: []
 created: 2026-11-03T12:12:40.671Z
-updated: 2026-11-03T12:12:41.740Z
+updated: 2026-11-10T08:47:07.953Z
 source: https://wiki.bambulab.com/zh/h3c/manual/crafttool-quality
 ---
 

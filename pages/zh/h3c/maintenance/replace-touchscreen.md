@@ -4,16 +4,16 @@ title: "屏幕和屏幕 FPC 更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:38:57.504Z
-updated: 2026-11-03T12:48:30.501Z
+updated: 2026-11-10T08:47:06.502Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-touchscreen
 ---
 
 ## 屏幕 和 屏幕 FPC
 
-H3C 打印机使用 5 英寸的可触控屏幕，可用于控制打印机和观察打印机的工作状态。屏幕 FPC 是用于连接屏幕和 AP 板软排线。  
+拓竹H3C 打印机使用 5 英寸的可触控屏幕，可用于控制打印机和观察打印机的工作状态。屏幕 FPC 是用于连接屏幕和 AP 板软排线。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-touchscreen/zh/71________touchscreen_replacement_guide_a598d763cb.jpg)
 
-> 为了更高效地解决问题，H3C 的屏幕配件默认带上了屏幕排线，实际使用时，并不需要更换。只有在更换屏幕后仍未解决问题时才需要继续考虑更换屏幕排线。
+> 为了更高效地解决问题，拓竹H3C 的屏幕配件默认带上了屏幕排线，实际使用时，并不需要更换。只有在更换屏幕后仍未解决问题时才需要继续考虑更换屏幕排线。
 
 ## 何时更换
 

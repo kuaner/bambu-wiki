@@ -4,7 +4,7 @@ title: "A1 mini 开箱指南"
 description: ""
 tags: ["a1 mini", "开箱"]
 created: 2023-11-24T09:03:32.830Z
-updated: 2024-06-24T12:01:27.353Z
+updated: 2026-11-10T06:25:27.314Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/unboxing-a1-mini
 ---
 

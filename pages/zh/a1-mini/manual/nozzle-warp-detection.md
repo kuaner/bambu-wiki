@@ -4,7 +4,7 @@ title: "A1系列裹头检测功能介绍"
 description: "本文章介绍了 A1 系列打印机的裹头检测功能。"
 tags: ["a1", "a1 mini"]
 created: 2024-01-18T10:03:10.040Z
-updated: 2026-08-28T08:27:39.854Z
+updated: 2026-11-10T08:19:10.209Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/nozzle-warp-detection
 ---
 
@@ -16,7 +16,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/nozzle-warp-detection
 
 请注意，**喷嘴裹头检测并不是一种绝对可靠的问题检测选项**，它旨在帮助解决潜在问题，但无法保证问题的解决。根据情况和故障，可能会存在一些检测问题。我们建议使用 Bambu Handy 设备页面中的回传监控画面检查打印件，并在每次开始打印前[清洗打印板](../../filament-acc/acc/pei-plate-clean-guide.md)。
 
-![](https://wiki.bambulab.com/n1/maintenance/hotend_blob/blob3.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/blob3.jpg)
 
 ## 检测原理
 
@@ -32,7 +32,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/nozzle-warp-detection
 
 **2. 打开裹头检测后，在打印完第 3 层之后，每消耗 8g 耗材就会执行一次裹头检测。** 例：如果前 3 层已经打满 8g，第 4 层会有一次检测；如果前 3 层未满 8g ，在第 6 层打印前打满了 8g，第 6 层会有一次检测。**接下来也是每打满 8g 检测一次，检测均在打印完该层第一个件的墙后进行。** 这是因为检测过程中存在空驶的情况，可能导致瑕疵。在打印外墙完成后再进行检测，即使存在瑕疵，也会位于模型的内部。检测时喷嘴的具体坐标：A1 mini (X 187, Y 178, Z 0)；A1 (X 261, Y 250, Z 0)。
 
-![](https://wiki.bambulab.com/n1/manual/nozzle-warp-detection/%E6%AF%8F8g%E6%A3%80%E6%B5%8B1.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/8g1_9be26ad3.gif)
 
 当检测到裹头后，打印机便会自动暂停打印并弹出裹头的提醒，由于该检测功能不是百分百准确的，需要您自行判断是真的发生了裹头还是喷嘴触碰到构建板等异物。请根据实际情况进行对应的处理，清理裹头或是重新放置构建板。若真的发生裹头，您可以参考这篇 wiki 进行清理：[A1 系列打印机热端裹头处理指引 | Bambu Lab Wiki](../maintenance/hotend_blob.md)。
 
@@ -53,11 +53,11 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/nozzle-warp-detection
 
 1.由于裹头检测会有一段空驶，喷嘴下方会出现一定程度的漏料，且会随着模型高度的增加而增加。如果打印的件高度大于 70mm 或打印质量有要求，建议添加擦拭塔，否则可能打印物体表面会有瑕疵，如下图所示：
 
-![](https://wiki.bambulab.com/n1/manual/nozzle-warp-detection/%E4%B8%8D%E5%BC%80%E6%93%A6%E6%96%99%E5%A1%94%E8%A1%A8%E9%9D%A2%E6%9C%89%E7%91%95%E7%96%B5.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_ddae2778.png)
 
 多色打印任务会默认开启擦拭塔。**如果您打印的是单色模型，可以在延时摄影的选项中选择平滑模式**，这样也会生成一个擦拭塔用于吸收瑕疵。至于是否要开启延时摄影功能，您可以在发送打印任务的窗口根据实际情况勾选“延时摄影”，具体可以参考：[延时摄影 | Bambu Lab Wiki](../../software/bambu-studio/Timelapse.md)。
 
-![](https://wiki.bambulab.com/n1/manual/nozzle-warp-detection/%E5%B9%B3%E6%BB%91%E5%BB%B6%E6%97%B6%E6%91%84%E5%BD%B1%E5%8A%A0%E6%96%99%E5%A1%94.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_9a5f1b17.jpg)
 
 2. 裹头检测会占用热床的部分空间：A1 mini 对应区域 (156,152)->(180,180)，A1 对应区域 (226,224)->(256,256)，但如果该区域内有模型干涉，那么系统会自动跳过本次打印中的第二次裹头检测（每 8g 检测一次），只会执行第一次裹头检测（打印到第 3 层）。
 
@@ -67,7 +67,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/nozzle-warp-detection
 
 3. 如果您在**特殊模式**里选择了**逐件打印**或打开**旋转花瓶**的时候，裹头检测将不会生效。
 
-![](https://wiki.bambulab.com/n1/manual/nozzle-warp-detection/%E9%80%90%E4%BB%B6%E6%89%93%E5%8D%B0%E5%92%8C%E6%97%8B%E8%BD%AC%E8%8A%B1%E7%93%B6.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_09076a39.png)
 
 4. 开启擦料塔时，打印机会先进行裹头检测再打印同一层的擦料塔。
 

@@ -4,7 +4,7 @@ title: "A1 润滑 Y 轴导轨操作指南"
 description: "本指南介绍了如何进行 A1 系列打印机的Y轴导轨润滑"
 tags: ["a1", "y轴"]
 created: 2024-01-16T09:55:39.201Z
-updated: 2026-08-28T08:27:38.197Z
+updated: 2026-11-10T06:13:18.729Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/lubricate-y-axis
 ---
 

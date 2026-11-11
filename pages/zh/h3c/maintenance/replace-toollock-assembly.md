@@ -4,7 +4,7 @@ title: "锁紧组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:47:05.828Z
-updated: 2026-11-03T12:48:45.145Z
+updated: 2026-11-10T06:18:12.174Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-toollock-assembly
 ---
 
@@ -80,7 +80,7 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-toollock-assembly
 | --- | --- |
 | 图 | 图 |
 
-安装新的锁紧插销前，需要在插销上涂布专用的润滑脂，然后安装到插槽上，更具体的操作请参考 WIKI：[H3C 打印机定期维护](periodic-maintenance.md) 。
+安装新的锁紧插销前，需要在插销上涂布专用的润滑脂，然后安装到插槽上，更具体的操作请参考 WIKI：[拓竹H3C 打印机定期维护](periodic-maintenance.md) 。
 
 |  |  |
 | --- | --- |

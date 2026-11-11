@@ -4,7 +4,7 @@ title: "多机型 AMS 连接指南"
 description: "本文主要介绍不同代 AMS 与不同打印机机型的兼容性和最大连接数量，以及带烘干功能的 AMS 对供电的要求。"
 tags: []
 created: 2025-03-25T15:14:57.250Z
-updated: 2026-11-04T02:51:48.253Z
+updated: 2026-11-10T08:46:58.078Z
 source: https://wiki.bambulab.com/zh/ams/manual/multi-model-AMS-compatibility-guide
 ---
 
@@ -63,7 +63,6 @@ AMS、AMS 2 Pro 和 AMS-HT（后文统称 AMS）均为两级进料，由内部�
 
 > 请点击下列按钮，选择您的打印机型号，以查看对应打印机的连接指南。
 
-- H3C
 - H2 系列
 - X2D
 - X1 /P1 系列

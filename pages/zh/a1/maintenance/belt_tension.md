@@ -4,7 +4,7 @@ title: "A1 同步带张紧"
 description: "关于 A1 打印机同步带张紧的操作说明"
 tags: ["a1", "y同步带", "z同步带", "x同步带"]
 created: 2023-12-16T07:17:14.795Z
-updated: 2026-08-28T08:27:19.948Z
+updated: 2026-11-10T06:13:14.650Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/belt_tension
 ---
 
@@ -20,7 +20,7 @@ source: https://wiki.bambulab.com/zh/a1/maintenance/belt_tension
 
 - H2.0 内六角扳手
 
-![](https://wiki.bambulab.com/n1/p-maintenance/hex_keys.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/hex_keys.png)
 
 ## X  同步带张紧
 

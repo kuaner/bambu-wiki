@@ -4,7 +4,7 @@ title: "A1 常见问答（FAQ）"
 description: "本文章包含了 A1 系列打印机的常见问答"
 tags: ["a1"]
 created: 2023-12-14T12:24:42.568Z
-updated: 2026-08-28T08:27:14.988Z
+updated: 2026-11-10T07:51:44.790Z
 source: https://wiki.bambulab.com/zh/a1/manual/faq
 ---
 
@@ -166,7 +166,7 @@ Bambu Studio 会自动将擦料塔摆放在靠近擦嘴区的位置，即打印�
 
 ### 是否有小工具辅助从工具头上 PTFE 管？
 
-如果您发现从工具头上拆卸 PTFE 管不易操作，您可以打印这个模型来辅助操作：[ptfe\_tool.3mf](https://wiki.bambulab.com/n1/p-maintenance/ptfe_tool.3mf)
+如果您发现从工具头上拆卸 PTFE 管不易操作，您可以打印这个模型来辅助操作：[ptfe\_tool.3mf](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ptfe_tool.3mf)
 
 ### 打印开始和结束提示音如何关闭？
 
@@ -289,7 +289,7 @@ A1 采用了散热片与铝型材相接触的设计，这种布局能够增大�
 
 工具头上方的五通组件只是一个机械结构，不包含电子元件。它无法知道当前耗材来自哪个插槽。打印机为了确定工具头的耗材来自哪个插槽，打印机会在每次加载或卸载耗材时首先检查耗材的位置，请参阅 [AMS lite的介绍](../../ams-lite/manual/intro-ams-lite.md)获取更多相关知识。
 
-![](https://wiki.bambulab.com/n1/manual/faq/%E4%BA%94%E9%80%9A%E7%BB%84%E4%BB%B6.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/repeat_f0ec0931.png)
 
 ### 启用延时摄影功能时，提示“传统模式延时摄影可能导致表面瑕疵，建议修改为平滑模式”的原因是什么？
 

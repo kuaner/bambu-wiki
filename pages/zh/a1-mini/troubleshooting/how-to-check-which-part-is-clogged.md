@@ -4,7 +4,7 @@ title: "A1 系列打印机挤出异常故障排查"
 description: "本文介绍了对 A1 系列打印机挤出异常的问题排查指引"
 tags: ["a1", "挤出"]
 created: 2023-11-08T08:24:21.273Z
-updated: 2026-08-28T08:26:31.791Z
+updated: 2026-11-10T08:19:31.004Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/how-to-check-which-part-is-clogged
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/how-to-check-which-
 
 在 3D 打印中，挤出不良是非常常见的一种现象。在打印中，如果喷嘴没有顺利挤出耗材丝，或者打印的模型表面出现明显的缺料（挤出不足），说明打印挤出出现了异常，可能是挤出机或热端堵塞，或者耗材丝打滑等原因造成的。这篇WIKI将指引大家对 A1 系列打印机挤出异常的问题进行排查。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/%E7%A9%BA%E6%89%93.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_40850784.gif)
 
 ## **注意事项**
 
@@ -26,11 +26,11 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/how-to-check-which-
 
 1. 打印首层的时候，喷嘴太靠近热床了，喷嘴几乎贴着热床表面，导致几乎无法挤出耗材。我们可以看到首层有明显的挤出不足。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/%E9%A6%96%E5%B1%82%E5%A4%AA%E4%BD%8E.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_ab099b8d.gif)
 
 这时候可以尝试把工具头移动到吐料组件的位置，然后设置好喷嘴温度后点击挤出，如果在吐料组件位置能够顺利挤出，那基本上可以确认是因为打印首层时喷嘴高度太低导致挤出不足。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/%E6%AD%A3%E5%B8%B8%E6%8C%A4%E5%87%BA.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_c16232e6.gif)
 
 对此我们建议参考以下步骤排查：
 
@@ -67,7 +67,7 @@ c.重新装上热端时，**请务必正确地扣好加热组件的卡扣（请�
 
 如果在进料或者打印过程中，遇到耗材丝完全无法挤出的现象，但挤出机齿轮能够顺畅地转动，则可能是挤出机齿轮没有完全咬合住耗材丝，或者齿轮和耗材丝打滑了，有以下几种可能。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/%E7%A9%BA%E6%89%93%E7%A4%BA%E6%84%8F.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/repeat_6fe14ca5.gif)
 
 1. 齿轮和耗材丝打滑。有可能是耗材丝本身容易磨损；或是热端堵塞，导致向下挤出的阻力过大，耗材丝被齿轮磨出坑。
 
@@ -91,7 +91,7 @@ c.重新装上热端时，**请务必正确地扣好加热组件的卡扣（请�
 
 3. 多根料同时堵在五通，导致五通中的耗材丝被卡住了，无法顺利被挤出。请检查是否有多根料同时插入五通，或者五通内部是否有断料。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/2_in_1.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/2_in_1.jpg)
 
 **五通内多于1根耗材丝**
 
@@ -115,7 +115,7 @@ c.重新装上热端时，**请务必正确地扣好加热组件的卡扣（请�
 
 **控制挤出机，手动测试挤出。**
 
-![](https://wiki.bambulab.com/n1/troubleshooting/blockage-troubleshoot/%E6%A3%80%E6%9F%A5%E6%8C%A4%E5%87%BA%E7%94%B5%E6%9C%BA1.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/1_38886238.gif)
 
 ### 使用 AMS lite 时挤出异常
 

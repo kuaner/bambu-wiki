@@ -4,7 +4,7 @@ title: "A1 系列 X 轴线轨滚珠意外脱出处理指引"
 description: "本文介绍了如何处理 A1 系列 X 轴线轨滚珠意外脱落的情况"
 tags: ["a1"]
 created: 2025-01-21T07:31:14.958Z
-updated: 2026-08-28T08:31:09.384Z
+updated: 2026-11-10T07:51:43.456Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/steel-bearing-balls-fall
 ---
 
@@ -17,7 +17,7 @@ X 轴线轨滚珠通常可能在以下场景中脱出：
 
 如果不重新安装滚珠，可能会导致 X 轴精度下降以及滑动异响等问题。
 
-![](https://wiki.bambulab.com/n1/maintenance/steel-balls-detachment/image_-_2025-01-21t164527.203.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/image_2025-01-21t164527_203_2081a9b4.png)
 
 > 注意：如无任何故障或未经客服要求，请勿拆开 X 轴线轨，以免滚珠脱出。
 
@@ -124,7 +124,7 @@ X 轴线轨滚珠通常可能在以下场景中脱出：
 
 **注意：左右槽内需留出空位，避免全部塞满滚珠，以确保滑块能够顺畅运动。**
 
-![](https://wiki.bambulab.com/n1/maintenance/steel-balls-detachment/image_-_2025-01-21t163321.042.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/image_2025-01-21t163321_042_5fe0dcfe.png)
 
 ### 步骤 3. 润滑滚珠
 

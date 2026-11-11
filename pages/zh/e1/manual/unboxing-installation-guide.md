@@ -4,7 +4,7 @@ title: "E1 空气净化器开箱和安装指南"
 description: ""
 tags: []
 created: 2026-11-03T13:52:29.027Z
-updated: 2026-11-10T08:46:59.759Z
+updated: 2026-11-11T03:21:18.539Z
 source: https://wiki.bambulab.com/zh/e1/manual/unboxing-installation-guide
 ---
 
@@ -19,6 +19,8 @@ source: https://wiki.bambulab.com/zh/e1/manual/unboxing-installation-guide
 **拓竹H3C, H2S, H2D, P2S¹** 打印机升级固件后，即可使用 E1 净化器的全部功能（自动模式和手动模式），并可在打印机端查看、设置净化器功能；
 
 其他**封箱机型²**仍可通过手动模式使用净化器，但无法与净化器自动联动，也无法在打印机端控制净化器，待适配固件版本发布后，即可升级固件，使用净化器的全部功能。
+
+**A1 mini** 加装泡泡罩后，也可通过手动模式使用净化器，但无法与净化器自动联动，也无法在打印机端控制净化器。
 
 > **提示**
 >
@@ -87,8 +89,7 @@ source: https://wiki.bambulab.com/zh/e1/manual/unboxing-installation-guide
 
 安装前，务必完成打印机的固件版本升级，确保设备兼容性。
 
-\*拓竹H3C：01.01.00.00 版本及以上
-
+- 拓竹H3C：01.01.00.00 版本及以上
 - H2D：01.04.00.00 版本及以上
 - H2S：01.03.00.00 版本及以上
 - P2S：01.03.00.00 版本及以上
@@ -115,3 +116,4 @@ source: https://wiki.bambulab.com/zh/e1/manual/unboxing-installation-guide
 - X2D
 - X1C/P1S/P1P
 - X1E
+- A1 mini （加装泡泡罩）

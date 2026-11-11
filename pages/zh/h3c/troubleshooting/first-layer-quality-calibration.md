@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/first-layer-quality-calibration
-title: "H3C首层打印质量改善"
+title: "拓竹H3C 首层打印质量改善"
 description: ""
 tags: []
 created: 2026-11-03T12:19:39.862Z
-updated: 2026-11-03T12:19:40.889Z
+updated: 2026-11-11T01:34:28.507Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/first-layer-quality-calibration
 ---
 

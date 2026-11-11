@@ -1,16 +1,16 @@
 ---
 path: zh/h3c/maintenance/replace-screws-kit
-title: "H3C 螺丝包"
+title: "拓竹H3C 螺丝包"
 description: ""
 tags: []
 created: 2026-11-03T13:07:11.333Z
-updated: 2026-11-03T13:07:12.358Z
+updated: 2026-11-10T06:18:12.216Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-screws-kit
 ---
 
 ## 螺丝包 （SKU: SCR007）
 
-螺丝包：适配 H3C 打印机的 18 款螺丝。  
+螺丝包：适配 拓竹H3C 打印机的 18 款螺丝。  
 本文主要介绍螺丝包中各类螺丝的常规用途。由于实际装配位置较多，文中未一一穷举，相关说明仅供参考。
 
 ## 螺丝清单及用途

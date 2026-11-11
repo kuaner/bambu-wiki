@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/z-homing-failed
-title: "03004030：H3C"
+title: "03004030：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:29.429Z
-updated: 2026-11-03T12:08:30.449Z
+updated: 2026-11-10T08:47:27.670Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/z-homing-failed
 ---
 

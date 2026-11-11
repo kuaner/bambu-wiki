@@ -4,7 +4,7 @@ title: "A1 初次打印指南（使用 AMS lite）"
 description: "本文介绍了如何在 A1 系列打印机上使用 AMS Lite 开启初次打印"
 tags: ["a1", "ams lite"]
 created: 2023-12-18T02:11:40.043Z
-updated: 2026-08-28T08:27:21.589Z
+updated: 2026-11-10T06:13:21.886Z
 source: https://wiki.bambulab.com/zh/a1/manual/first-print-with-ams-lite
 ---
 
@@ -24,7 +24,7 @@ AMS lite 支持宽度为40-68毫米、内径为53-58毫米的料盘。
 
 请避免使用 AMS lite 来打印柔性材料，包括 TPU（除了 AMS 专用 TPU）、TPE 或潮湿的水溶性耗材 PVA。请避免使用太硬(即模量过高)或太脆(即韧性不足)的材料，包括第三方线纤维增强材料，如 PA-CF/GF、PET-CF/GF 和 PLA-CF/GF 等。请使用外挂料盘的方式来打印这些耗材。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/prepare3.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/prepare3.png)
 
 ### 2. 往 AMS lite 进料口里插入线材
 
@@ -50,7 +50,7 @@ AMS lite 支持宽度为40-68毫米、内径为53-58毫米的料盘。
 
 下载 Bambu Studio: <https://bambulab.cn/zh/download/studio>
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/start-print2-cn.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print2-cn.png)
 
 #### 模型切片和发送打印任务
 

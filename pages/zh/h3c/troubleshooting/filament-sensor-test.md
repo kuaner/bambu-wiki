@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/filament-sensor-test
-title: "H3C打印头进料霍尔排查指南"
+title: "拓竹H3C 打印头进料霍尔排查指南"
 description: ""
 tags: []
 created: 2026-11-03T12:08:51.669Z
-updated: 2026-11-03T12:08:52.717Z
+updated: 2026-11-10T12:02:34.487Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/filament-sensor-test
 ---
 

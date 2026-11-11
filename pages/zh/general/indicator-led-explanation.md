@@ -4,7 +4,7 @@ title: "拓竹打印机 LED 指示灯灯语解释"
 description: ""
 tags: []
 created: 2024-06-12T03:28:02.473Z
-updated: 2026-11-04T03:48:58.792Z
+updated: 2026-11-10T08:47:00.406Z
 source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 ---
 
@@ -16,7 +16,7 @@ source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 
 本指南中的部分视频在手机端的浏览器上可能无法正常加载,建议您改用电脑端浏览器观看。
 
-## H3C
+##拓竹H3C
 
 ### 正常状态：AP 板指示灯
 

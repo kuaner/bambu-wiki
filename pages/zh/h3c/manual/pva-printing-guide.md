@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/pva-printing-guide
-title: "H3C PVA 打印指南"
-description: "PVA（聚乙烯醇）为可水溶支撑材料，具有**极强的吸湿性**；若耗材吸潮，会导致拉丝、挤出不均、卡料甚至热端堵塞等问题。为确保打印质量与成功率，请严格遵循以下烘干与存储规范。"
+title: "拓竹H3C PVA 打印指南"
+description: "PVA（聚乙烯醇）为可水溶支撑材料，具有极强的吸湿性；若耗材吸潮，会导致拉丝、挤出不均、卡料甚至热端堵塞等问题。为确保打印质量与成功率，请严格遵循以下烘干与存储规范。"
 tags: []
 created: 2026-11-03T12:12:44.242Z
-updated: 2026-11-03T12:12:45.313Z
+updated: 2026-11-10T08:47:12.625Z
 source: https://wiki.bambulab.com/zh/h3c/manual/pva-printing-guide
 ---
 

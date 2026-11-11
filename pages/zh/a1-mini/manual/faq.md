@@ -1,10 +1,10 @@
 ---
 path: zh/a1-mini/manual/faq
-title: "A1  mini 常见问答（FAQ）"
+title: "A1 mini 常见问答（FAQ）"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-15T12:31:10.193Z
-updated: 2026-08-28T08:25:55.765Z
+updated: 2026-11-10T08:19:06.625Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/faq
 ---
 
@@ -38,7 +38,7 @@ A1 mini 打印机已预装了一个直径为 0.4 mm 的不锈钢喷嘴。为了�
 
 建议按照下图的方式摆放 A1 mini 和 AMS lite，并保持两者之间留有 5 cm 左右的空隙。
 
-![](https://wiki.bambulab.com/n1/manual/faq/ams-lite%E6%91%86%E6%94%BE%E4%BD%8D%E7%BD%AE.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ams-lite_cd6ad0b4.png)
 
 ### A1 mini 最多可以配置几台AMS lite？
 
@@ -52,17 +52,17 @@ A1 mini 最多只能配置 1 台 AMS lite，这意味着 A1 mini 最多只支持
 
 将长为 580 mm 的 PTFE 管（较短的）插入 AMS lite 1 和 2 槽中，将长为 700 mm 的 PTFE 管（较长的）插入 3 和 4 槽中。同时，将槽位 1 和 2 PTFE 管的另一端插入到工具头五通上左侧的两个槽位中，将槽位 3 和 4 的另一端插入到耗材架右侧的两个槽位中。（从前往后看的视角）
 
-![](https://wiki.bambulab.com/n1/manual/faq/ptfe%E6%8F%92%E6%96%99%E9%A1%BA%E5%BA%8F.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ptfe_a68428f7.png)
 
 ### 对于 A1 mini + AMS lite，在X、Y 和 Z 轴方向上，整体的空间要求尺寸是多少？
 
-![](https://wiki.bambulab.com/n1/manual/faq/a1-mini-cn.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/a1-mini-cn.png)
 
 ### A1 mini 移动热床到打印机的前面和后面时，需要预留多少空间？
 
 如图所示，放置打印机时，请在 Y 方向上留出足够热床移动的安全空间，约 390 mm。
 
-![](https://wiki.bambulab.com/n1/manual/unboxing-a1-mini-urey/space1.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/space1.png)
 
 ### A1 mini 支持什么构建板？
 
@@ -140,7 +140,7 @@ Bambu Studio 会自动将擦料塔摆放在靠近擦嘴区的位置，即构建�
 
 如果您发现从工具头上拆卸PTFE管不易操作，您可以打印这个模型来辅助操作。
 
-[ptfe\_tool.3mf](https://wiki.bambulab.com/n1/p-maintenance/ptfe_tool.3mf)
+[ptfe\_tool.3mf](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ptfe_tool.3mf)
 
 ### 打印开始和结束提示音如何关闭？
 
@@ -216,7 +216,7 @@ A1 mini 在空闲模式下的功耗为6瓦特，打印时平均功耗为 57 瓦�
 
 工具头上方的五通组件只是一个机械结构，不包含电子元件。它无法知道当前耗材来自哪个插槽。打印机为了确定工具头的耗材来自哪个插槽，打印机会在每次加载或卸载耗材时首先检查耗材的位置，请参阅 AMS lite 的介绍获取更多相关知识。 （内容待补充）
 
-![](https://wiki.bambulab.com/n1/manual/faq/%E4%BA%94%E9%80%9A%E7%BB%84%E4%BB%B6.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/repeat_f0ec0931.png)
 
 ## 结束语
 

@@ -4,7 +4,7 @@ title: "A1 mini X轴组件拆装指引"
 description: "提供A1 mini X轴组件的拆解和组装的指引和注意事项。"
 tags: ["a1 mini", "x轴组件"]
 created: 2023-09-12T02:39:04.981Z
-updated: 2025-01-13T09:20:14.587Z
+updated: 2026-11-10T08:18:57.648Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/x-axis
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/x-axis
 
 本文提供 **A1 mini X 轴组件**拆解和组装的相关指引和注意事项，在此拆解过程中涉及的可更换配件的拆装也可参考本文进行处理。
 
-![](https://wiki.bambulab.com/n1/a1-mini-xyz-axis/x_axis.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/x_axis.jpg)
 
 ## 配件清单
 
@@ -73,13 +73,13 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/x-axis
 
 2. 撕掉尼龙扎网一端的胶布，抽出 X 电机线。
 
-![](https://wiki.bambulab.com/n1/a1-mini-printer/usb-8.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/usb-8.png)
 
 ### 步骤 4：移除 X 轴电机罩
 
 移除 3 颗螺丝，取下 X 电机罩组件。
 
-![](https://wiki.bambulab.com/n1/a1-mini-xyz-axis/电机罩螺丝.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_4ac5752a.jpg)
 
 ### 步骤 5：移除 X 电机
 
@@ -91,7 +91,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/x-axis
 
 2. 移除 4 颗螺丝 ，取下 X 轴模块。
 
-![](https://wiki.bambulab.com/n1/a1-mini-printer/移除x组件.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/x_8056980e.png)
 
 ## 拆卸 X 轴组件
 

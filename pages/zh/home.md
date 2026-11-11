@@ -4,7 +4,7 @@ title: "主页"
 description: ""
 tags: []
 created: 2022-07-27T15:03:58.612Z
-updated: 2026-11-03T14:36:42.444Z
+updated: 2026-11-11T01:48:33.840Z
 source: https://wiki.bambulab.com/zh/home
 ---
 
@@ -27,13 +27,13 @@ source: https://wiki.bambulab.com/zh/home
 
 类似格式展示
 
-[![H3C](https://wiki.bambulab.com/general/widgets/h3c--home.jpg)
+[![拓竹H3C](https://wiki.bambulab.com/general/widgets/h3c--home.jpg)
   
-H3C](https://wiki.bambulab.com/zh/h3c)
+拓竹H3C](https://wiki.bambulab.com/zh/h3c)
 
 [![H2 系列](https://wiki.bambulab.com/h2s/h2d1_compressed.png)
   
-H2 系列](https://wiki.bambulab.com/zh/h2)
+H2 系列](https://wiki.bambulab.com/zh/h-series)
 
 [![X 系列](https://wiki.bambulab.com/x2d_main_page_wiki.jpg)
   

@@ -4,7 +4,7 @@ title: "A1 系列挤出机电机更换指南"
 description: "本指南提供了详细的挤出机电机更换步骤。"
 tags: ["a1", "a1 mini"]
 created: 2025-03-10T01:48:19.006Z
-updated: 2026-09-10T06:35:44.757Z
+updated: 2026-11-10T07:51:38.421Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/A1_Extruder_motor_replacement
 ---
 

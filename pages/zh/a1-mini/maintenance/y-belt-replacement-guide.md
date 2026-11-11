@@ -4,7 +4,7 @@ title: "A1 mini Y 轴皮带更换指南"
 description: "介绍 A1 mini 的 Y 皮带详细更换步骤"
 tags: ["a1 mini"]
 created: 2024-08-26T04:06:31.901Z
-updated: 2026-08-28T08:29:39.615Z
+updated: 2026-11-10T08:18:58.928Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/y-belt-replacement-guide
 ---
 
@@ -82,7 +82,7 @@ A1 mini 的 Y 轴皮带是安装在 Y 轴线轨下方，将 Y 电机和导轨连
 
 步骤 2：用力将 Y 皮带固定器与安装块分离。两者的固定方式入下图所示。
 
-![](https://wiki.bambulab.com/n1/a1-mini-xyz-axis/%E6%89%93%E5%BC%80y%E5%90%8C%E6%AD%A5%E5%B8%A6%E5%8E%8B%E5%9D%97.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/y_079276d9.png)
 
 步骤 3. 将皮带沿着 Y 电机齿轮边缘推出；
 

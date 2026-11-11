@@ -1,10 +1,10 @@
 ---
 path: zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-p-series
-title: "P 系列机器打印 TPU 90A & 85A 的打印指南"
-description: "使用 P1 系列 / P2S 打印机打印TPU 90A & 85A 的打印指南"
+title: "P 系列 TPU 打印指南"
+description: "使用 P 系列打印机打印TPU 指南"
 tags: []
 created: 2025-03-07T02:37:44.822Z
-updated: 2026-08-28T08:31:28.120Z
+updated: 2026-11-10T06:47:18.737Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-p-series
 ---
 

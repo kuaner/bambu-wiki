@@ -4,11 +4,11 @@ title: "Bambu Studio 2.9.1 版本说明"
 description: ""
 tags: []
 created: 2026-11-03T03:26:05.070Z
-updated: 2026-11-04T03:52:31.609Z
+updated: 2026-11-10T13:07:47.283Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-9-1
 ---
 
-本次 Bambu Studio 版本更新适配拓竹 H 系列新品 H3C 多头打印机，同时带来多项重要功能与体验优化，并修复了若干稳定性与安全问题。
+本次 Bambu Studio 版本更新适配拓竹 H 系列新品拓竹H3C 多头打印机，同时带来多项重要功能与体验优化，并修复了若干稳定性与安全问题。
 
 ## 新功能
 
@@ -20,13 +20,13 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-
 
 这意味着，即使位于模型**相同的高度范围内，小口径喷嘴不必为了迁就主体而加厚层高，大口径喷嘴也不必为了局部细节始终使用薄层**。小喷嘴可以用较窄线宽、较薄层高还原文字和刻度；大喷嘴则以较宽线宽、较厚层高打印主体。细节留给需要细节的区域，效率留给适合快速打印的区域。
 
-得益于这项能力，以使用H3C打印的 Maker Watch (by DadaLand) 为例，精细表盘、表壳主体与柔性 TPU 表带可以在一次打印任务中完成，减少分件打印与后续组装的需求。[查看 Wiki](https://e.bambulab.com/t?c=Sqg2600TPZCRDDpU) 了解功能原理、适用场景及使用限制。
+得益于这项能力，以使用拓竹H3C 打印的 Maker Watch (by DadaLand) 为例，精细表盘、表壳主体与柔性 TPU 表带可以在一次打印任务中完成，减少分件打印与后续组装的需求。[查看 Wiki](https://e.bambulab.com/t?c=Sqg2600TPZCRDDpU) 了解功能原理、适用场景及使用限制。
 
 ![img_v3_02172_d23ab148-13f9-4876-93d6-3d3fee6a6f1g.jpg](https://wiki.bambulab.com/software/bambu-studio/release-note/v2-9-1-00/img_v3_02172_d23ab148-13f9-4876-93d6-3d3fee6a6f1g.jpg)
 
 ![image.png](https://wiki.bambulab.com/software/bambu-studio/release-note/v2-9-1-00/image_34.png)
 
-这项能力基于对切片架构的多处重构才得以实现，因此所有多头机型均会受益。混合口径涉及切片、材料、预设及AMS和喷嘴切换适配等多项工作，本次发布先适配 H3C。其他机型的适配信息请以[官方公告](https://mp.weixin.qq.com/s/C1DNh4_YXBhanpIjvJhMXQ)为准。感谢用户的耐心等待，同时欢迎用户和社区反馈实际模型中的切片与打印表现，或基于BambuStudio开源代码更新和迭代。
+这项能力基于对切片架构的多处重构才得以实现，因此所有多头机型均会受益。混合口径涉及切片、材料、预设及AMS和喷嘴切换适配等多项工作，本次发布先适配拓竹H3C。其他机型的适配信息请以[官方公告](https://mp.weixin.qq.com/s/C1DNh4_YXBhanpIjvJhMXQ)为准。感谢用户的耐心等待，同时欢迎用户和社区反馈实际模型中的切片与打印表现，或基于BambuStudio开源代码更新和迭代。
 
 ### 混色功能更新与优化
 
@@ -34,7 +34,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-
 
 ![image.png](https://wiki.bambulab.com/software/bambu-studio/release-note/v2-9-1-00/image_35.png)
 
-- 操作更便捷：对 H3C 的 0.4 mm 喷嘴、0.2 mm 与 0.24 mm 层高预设，混色子层功能默认开启，无需手动设置。
+- 操作更便捷：对拓竹H3C 的 0.4 mm 喷嘴、0.2 mm 与 0.24 mm 层高预设，混色子层功能默认开启，无需手动设置。
 - 耗材配置更灵活：混色耗材不再计入项目最多 32 种耗材的限额，并新增对拓竹混色耗材套件 **Bambu PLA Palette** 系列的支持。点击 “使用官方混色套装” 即可自动添加套件内的耗材。
 - 重复配置更省事：手动添加混色耗材时会沿用上一次的混色参数，便于复制和微调。
 - 纹理模型导入更顺畅：导入页面改为两阶段步骤式，流程更清晰；提升颜色量化性能；支持直接绑定拓竹混色耗材套件；优化界面与视觉布局。
@@ -152,7 +152,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-
 
 ![image.png](https://wiki.bambulab.com/software/bambu-studio/release-note/v2-9-1-00/image_29.png)
 
-注意：该功能目前仅H3C打印机支持，其他机型请等待后续固件更新。
+注意：该功能目前仅拓竹H3C 打印机支持，其他机型请等待后续固件更新。
 
 ### 其他优化项
 

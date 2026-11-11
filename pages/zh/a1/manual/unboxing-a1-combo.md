@@ -4,7 +4,7 @@ title: "A1 combo 开箱指南（旧）"
 description: "本指南提供旧版 A1 combo 的开箱操作。"
 tags: ["a1 combo"]
 created: 2023-12-12T14:29:25.833Z
-updated: 2026-11-05T13:01:12.330Z
+updated: 2026-11-10T07:51:48.191Z
 source: https://wiki.bambulab.com/zh/a1/manual/unboxing-a1-combo
 ---
 

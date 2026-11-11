@@ -4,7 +4,7 @@ title: "A1 mini 初次打印指南（使用外挂料盘）"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-18T02:56:41.787Z
-updated: 2026-07-30T01:46:29.004Z
+updated: 2026-11-10T08:19:08.687Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-external-spool
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-external-sp
 
 ### 使用附赠耗材
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-external-spool/赠送耗材.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_eac616b3.jpg)
 
 #### 1. 插入耗材
 
@@ -58,7 +58,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-external-sp
 
 根据耗材绕线的方向，安装料盘。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-external-spool/prepare1-external.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/prepare1-external.png)
 
 #### 2. 进料
 
@@ -70,7 +70,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-external-sp
 
 在屏幕上选择 **进料/Load**。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-external-spool/prepare4-external.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/prepare4-external.png)
 
 喷嘴开始加热到 250 ℃ 后，再次手动推入耗材。
 
@@ -80,11 +80,11 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-external-sp
 
 观察喷嘴，以确保看见挤出机正常吐料。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-external-spool/prepare7-external.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/prepare7-external.png)
 
 在看见喷嘴顺利吐出融化的线材后，在屏幕上选择 **完成/Done**，完成进料。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-external-spool/prepare8-external.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/prepare8-external.png)
 
 如果耗材没有被吐出，选择 **重试/Retry**，然后重复推入耗材的动作。
 
@@ -96,7 +96,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-external-sp
 
 点击此处[下载Bambu Studio](https://bambulab.cn/zh/download/studio)。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/start-print2-cn.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print2-cn.png)
 
 打开 Bambu Studio，可右键选择模型并切片，然后发送打印任务。
 
@@ -108,19 +108,19 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-external-sp
 
 在打印机屏幕上点击 **打印文件/Print Files**，访问 MicroSD 卡的内置文件。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-external-spool/start-print3-external.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print3-external.png)
 
 选择想要打印的模型。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-external-spool/start-print4-external.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print4-external.png)
 
 推荐启用热床调平和动态流量校准功能。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-external-spool/start-print5-external.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print5-external.png)
 
 开始“打印”。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-external-spool/start-print6-external.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print6-external.png)
 
 ## 如何续料
 

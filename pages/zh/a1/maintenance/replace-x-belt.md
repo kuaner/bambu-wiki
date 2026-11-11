@@ -4,7 +4,7 @@ title: "更换 A1 X 皮带指南"
 description: "更换 A1 打印机 X 皮带的操作步骤"
 tags: ["x皮带", "x轴", "x轴同步带"]
 created: 2024-08-23T12:16:51.608Z
-updated: 2026-05-12T06:39:02.492Z
+updated: 2026-11-10T07:51:41.707Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/replace-x-belt
 ---
 
@@ -82,7 +82,7 @@ X 皮带是安装在 X 轴上，将工具头与 X 电机连接起来并驱动工
 
 从电机罩右侧用力，移除电机罩前盖。
 
-![a1_工具头前盖.jpg](https://wiki.bambulab.com/a1/maintenance/replace-x-belt/a1_%E5%B7%A5%E5%85%B7%E5%A4%B4%E5%89%8D%E7%9B%96.jpg)
+![a1_工具头前盖.jpg](https://wiki.bambulab.com/a1/maintenance/replace-x-belt/a1_工具头前盖.jpg)
 
 ### 2. 移除 X 电机罩
 
@@ -118,7 +118,7 @@ X 皮带是安装在 X 轴上，将工具头与 X 电机连接起来并驱动工
 
 拧松工具头后面的固定螺丝，取下螺丝和铁片；
 
-![](https://wiki.bambulab.com/a1/maintenance/replace-x-belt/%E8%83%8C%E9%83%A8%E8%9E%BA%E4%B8%9D%E5%92%8C%E9%93%81%E7%89%87.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/replace-x-belt/背部螺丝和铁片.jpg)
 
 拧松两颗固定螺丝，取出左侧压块。
 
@@ -130,7 +130,7 @@ X 皮带是安装在 X 轴上，将工具头与 X 电机连接起来并驱动工
 
 拿住左侧皮带压块，抽出 X 皮带
 
-![](https://wiki.bambulab.com/a1/maintenance/a1-replace-x-belt/%E5%8F%96%E5%87%BAx%E7%9A%AE%E5%B8%A6.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/a1-replace-x-belt/取出x皮带.jpg)
 
 ## 安装 X 皮带
 
@@ -148,7 +148,7 @@ X 皮带是安装在 X 轴上，将工具头与 X 电机连接起来并驱动工
 
 检查皮带的方向，齿面朝上，将皮带从惰轮下方侧穿过 X 轴；
 
-![](https://wiki.bambulab.com/a1/maintenance/a1-replace-x-belt/%E8%A3%85%E5%9B%9Ex%E7%9A%AE%E5%B8%A6.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/a1-replace-x-belt/装回x皮带.jpg)
 
 穿过后用镊子夹住皮带，将 X 轴皮带绕过电机主动轮，从 X 轴和电机罩之间的小孔中传出。
 
@@ -188,7 +188,7 @@ X 皮带是安装在 X 轴上，将工具头与 X 电机连接起来并驱动工
 
 拧紧 X 电机盖固定螺丝。
 
-![](https://wiki.bambulab.com/a1/maintenance/a1-replace-x-belt/%E6%8B%A7%E5%9B%9B%E9%A2%97%E8%9E%BA%E4%B8%9D-%E6%B2%A1%E6%9C%89%E8%A3%85%E7%BA%BF%E5%A4%B9.jpg)
+![](https://wiki.bambulab.com/a1/maintenance/a1-replace-x-belt/拧四颗螺丝-没有装线夹.jpg)
 
 装回线夹（注意区分方向）：
 

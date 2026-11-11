@@ -4,7 +4,7 @@ title: "拓竹 A1 系列 Y 轴导轨润滑（使用 WD-40 多用途产品）以 
 description: "本文以 A1 mini 为例，介绍了如何使用 WD-40 多用途产品对 A1 系列打印机的 Y 轴导轨进行润滑"
 tags: ["y轴", "a1", "a1 mini"]
 created: 2024-01-25T04:19:28.012Z
-updated: 2026-08-28T08:27:41.486Z
+updated: 2026-11-10T06:25:11.941Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/lubricate-y-axis-with-wd-40-multi-use-product
 ---
 

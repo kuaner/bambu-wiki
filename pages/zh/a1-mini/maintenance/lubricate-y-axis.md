@@ -4,7 +4,7 @@ title: "A1mini 润滑Y轴导轨操作指南"
 description: ""
 tags: []
 created: 2023-11-01T02:43:39.172Z
-updated: 2024-09-19T02:38:45.411Z
+updated: 2026-11-10T08:18:44.034Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/lubricate-y-axis
 ---
 
@@ -22,7 +22,7 @@ A1 mini的Y轴采用了全金属导轮，这套导轨系统确保用户不需要
 
 如果不小心使用了**润滑脂**，请立即擦拭干净，并重新使用配件盒中提供的润滑油进行润滑。
 
-![](https://wiki.bambulab.com/n1/maintenance/y-lubrication/润滑油.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_b4834dd6.png)
 
 此外，除了机器附送的润滑油，您也可以使用"WD-40多用途产品"（大瓶装和小瓶装均可）润滑Y轴导轨。**请购买正版"WD-40多用途产品"**
 
@@ -72,6 +72,6 @@ A1 mini的Y轴采用了全金属导轮，这套导轨系统确保用户不需要
 
 # 涂油后的效果图
 
-![](https://wiki.bambulab.com/n1/manual/unboxing/smooth-y.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/smooth-y.jpg)
 
 Y轴导轨在充分润滑后的效果图,需要检查整根钢棒

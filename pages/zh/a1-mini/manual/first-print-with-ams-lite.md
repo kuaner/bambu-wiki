@@ -4,7 +4,7 @@ title: "A1 mini 初次打印指南（使用 AMS lite）"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-18T02:21:45.231Z
-updated: 2026-07-30T01:47:40.371Z
+updated: 2026-11-10T06:25:22.053Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-ams-lite
 ---
 
@@ -22,7 +22,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-ams-lite
 
 AMS lite支持宽度为40-68毫米、内径为53-58毫米的料盘。请避免使用AMSlite来打印柔性材料,包括TPU、TPE或潮湿的水溶性耗材PVA。请避免使用太硬(即模量过高)或太脆(即韧性不足)的材料,包括第三方线纤维增强材料,如PA-CF/GF、PET-CF/GF和PLA-CF/GF等。请使用外挂料盘的方式来打印这些耗材。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/prepare3.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/prepare3.png)
 
 ## 2. 往AMS lite进料口里插入线材
 
@@ -36,7 +36,7 @@ AMS lite支持宽度为40-68毫米、内径为53-58毫米的料盘。请避免�
 
 **在确保装载好线材和放置构建板后，可以开始打印。**
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/start-print1.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print1.png)
 
 ## 1. 使用Bambu Studio发起打印任务
 
@@ -44,7 +44,7 @@ AMS lite支持宽度为40-68毫米、内径为53-58毫米的料盘。请避免�
 
 下载Bambu Studio: <https://bambulab.cn/zh/download/studio>
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/start-print2-cn.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print2-cn.png)
 
 ### 切片和发送打印任务
 
@@ -56,15 +56,15 @@ AMS lite支持宽度为40-68毫米、内径为53-58毫米的料盘。请避免�
 
 ### 点击首页的“Print files”，访问SD卡的内置文件
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/start-print5.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print5.png)
 
 ### 选择你想要打印的模型
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/start-print6.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print6.png)
 
 ### 勾选启用AMS，推荐启用热床调平功能。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/start-print7.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print7.png)
 
 ### 配置在打印中使用的耗材对应的AMS插槽：
 
@@ -76,7 +76,7 @@ AMS lite支持宽度为40-68毫米、内径为53-58毫米的料盘。请避免�
 
 ### 点击“打印”
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/start-print9.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/start-print9.png)
 
 # 附录：卸载料盘
 
@@ -90,13 +90,13 @@ AMS lite支持宽度为40-68毫米、内径为53-58毫米的料盘。请避免�
 
 如你想卸载的料线处于被工具头咬合的状态，您需要先在屏幕上unload对应槽的耗材，使得料线退出工具头，再进行上述卸载料盘的操作。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/appen3.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/appen3.png)
 
 ## 2. 取下料盘
 
 取出料盘时，请用双手环扣住整个料盘，而不是只抓住一边，同时用大拇指靠近转轴中心，向外取出料盘。
 
-![](https://wiki.bambulab.com/n1/manual/first-print-with-ams/appen4.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/appen4.png)
 
 # 结束语
 

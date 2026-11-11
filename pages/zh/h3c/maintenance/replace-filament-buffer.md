@@ -4,7 +4,7 @@ title: "缓冲器/ 6pin 接口板更换指南"
 description: ">"
 tags: []
 created: 2026-11-03T12:40:21.574Z
-updated: 2026-11-03T12:40:22.599Z
+updated: 2026-11-10T08:47:05.076Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-filament-buffer
 ---
 
@@ -15,7 +15,7 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-filament-buffer
 
 ## 缓冲器
 
-> 缓冲器非标配，如有连接外置 AMS 的需求，可选购适用 H3C 的缓冲器。
+> 缓冲器非标配，如有连接外置 AMS 的需求，可选购适用拓竹H3C 的缓冲器。
 
 ## 何时更换
 

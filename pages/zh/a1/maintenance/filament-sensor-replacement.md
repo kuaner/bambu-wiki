@@ -4,7 +4,7 @@ title: "A1 系列进料霍尔板更换指南"
 description: "本指南演示如何更换 A1 系列进料霍尔板。"
 tags: []
 created: 2024-05-11T02:13:59.044Z
-updated: 2026-11-02T02:08:08.590Z
+updated: 2026-11-10T06:13:15.931Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/filament-sensor-replacement
 ---
 
@@ -196,7 +196,7 @@ A1 进料霍尔板（购买链接：[京东](https://item.jd.com/10086620804757.
 
 将一段耗材插入至任意进料口直至到底，屏幕中的右下角图标会显示绿点；将耗材退出，绿点消失，则表明进料霍尔板正常工作。
 
-![](https://wiki.bambulab.com/n1/maintenance/filaments_hub/20250226-191718.webp)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/20250226-191718.webp)
 
 **操作后的校准步骤**
 

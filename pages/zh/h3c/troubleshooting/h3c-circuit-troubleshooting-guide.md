@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/h3c-circuit-troubleshooting-guide
-title: "H3C 电路排查指南-设备无法开机工作"
+title: "拓竹H3C 电路排查指南-设备无法开机工作"
 description: ""
 tags: []
 created: 2026-11-03T12:08:46.904Z
-updated: 2026-11-03T12:45:15.653Z
+updated: 2026-11-10T08:47:17.665Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/h3c-circuit-troubleshooting-guide
 ---
 

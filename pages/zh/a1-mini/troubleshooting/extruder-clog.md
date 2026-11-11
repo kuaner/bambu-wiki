@@ -4,7 +4,7 @@ title: "A1 系列挤出机清理"
 description: "本文介绍如何对 A1 系列挤出机进行清洁"
 tags: ["挤出机", "a1"]
 created: 2023-11-10T03:46:55.154Z
-updated: 2026-09-23T09:04:25.545Z
+updated: 2026-11-10T08:19:16.353Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/extruder-clog
 ---
 
@@ -109,7 +109,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/extruder-clog
 
 安装挤出齿轮。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/extruder-clog/%E7%BB%84%E8%A3%85%E6%AD%A5%E9%AA%A41-%E5%AE%89%E8%A3%85%E6%8C%A4%E5%87%BA%E9%BD%BF%E8%BD%AE.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/1_4cddd606.jpg)
 
 ### 步骤2: 安装从动轮支架
 
@@ -131,13 +131,13 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/extruder-clog
 
 拧入挤出机前盖的 4 颗螺丝。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/extruder-clog/%E7%BB%84%E8%A3%85%E6%AD%A5%E9%AA%A43-%E5%AE%89%E8%A3%85%E6%8C%A4%E5%87%BA%E6%9C%BA%E5%89%8D%E7%9B%96.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/3_16aced0c.jpg)
 
 ### 步骤4: 拧紧侧面螺丝
 
 拧紧挤出机侧面螺丝。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/extruder-clog/tighten_screw_on_the_side_en.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/tighten_screw_on_the_side_en.jpg)
 
 ### 步骤5: 安装五通
 

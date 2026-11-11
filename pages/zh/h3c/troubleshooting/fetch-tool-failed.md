@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/fetch-tool-failed
-title: "2A008041：H3C"
+title: "2A008041：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:20.462Z
-updated: 2026-11-03T12:08:21.497Z
+updated: 2026-11-10T08:47:16.393Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/fetch-tool-failed
 ---
 

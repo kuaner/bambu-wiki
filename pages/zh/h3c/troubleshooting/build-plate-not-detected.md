@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/build-plate-not-detected
-title: "05004095：H3C"
+title: "05004095：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:33.371Z
-updated: 2026-11-03T12:08:34.433Z
+updated: 2026-11-10T08:47:14.705Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/build-plate-not-detected
 ---
 
@@ -40,9 +40,9 @@ source: https://wiki.bambulab.com/zh/h3c/troubleshooting/build-plate-not-detecte
 | --- | --- |
 | 图 | 图 |
 
-3. 检查打印板是否是 H3C 专用的打印板。若不是，请使用 H3C 专用打印板重试。
+3. 检查打印板是否是拓竹H3C 专用的打印板。若不是，请使用拓竹H3C 专用打印板重试。
 
-> 注意：H2C 打印板**不适配**H3C 打印机，若在 H3C 上使用 H2C 打印板，其最前沿与闪切挂架的间距仅约 2mm。受尺寸链公差及摆放偏差影响，存在打印头与打印板发生碰撞、蹭板的风险。因此，不建议在 H3C 中使用 H2C 的打印板。
+> 注意：H2C 打印板**不适配**拓竹H3C 打印机，若在拓竹H3C 上使用 H2C 打印板，其最前沿与闪切挂架的间距仅约 2mm。受尺寸链公差及摆放偏差影响，存在打印头与打印板发生碰撞、蹭板的风险。因此，不建议在拓竹H3C 中使用 H2C 的打印板。
 
 了解更多打印板的信息，请阅读[**拓竹打印板介绍**](../../filament-acc/acc/plates.md)。
 

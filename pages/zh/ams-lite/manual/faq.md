@@ -4,7 +4,7 @@ title: "AMS lite 常见问答（FAQ）"
 description: ""
 tags: []
 created: 2023-09-24T14:57:43.443Z
-updated: 2026-10-27T04:00:00.492Z
+updated: 2026-11-10T12:50:40.641Z
 source: https://wiki.bambulab.com/zh/ams-lite/manual/faq
 ---
 
@@ -44,13 +44,13 @@ X1和P1打印机不兼容AMS lite，如果你的X1和P1打印机想实现多色�
 
 请避免使用 AMS lite 来打印柔性材料，包括 TPU、TPE 或潮湿的水溶性耗材 PVA。请避免使用太硬（即模量过高）或太脆（即韧性不足）的材料，包括第三方纤维增强材料，如 PET-CF/GF 和 PLA-CF/GF 等。请使用外挂料盘的方式来打印这些耗材。AMS lite 支持宽度为 40-68 毫米、内径为 53-58 毫米的料盘。
 
-![](https://wiki.bambulab.com/n1/manual/faq/料盘要求.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_7d44372d.png)
 
 ## AMS lite 占用空间的尺寸是多大？
 
 请参考如下示意图：
 
-![](https://wiki.bambulab.com/f1/manual/faq/ams-lite示意图.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ams-lite_32057ec1.png)
 
 ## 如何减少打印过程中AMS lite的晃动？
 
@@ -60,7 +60,7 @@ X1和P1打印机不兼容AMS lite，如果你的X1和P1打印机想实现多色�
 
 不可以，AMS lite不能被挂在墙上，为了减少加载和卸载耗材时的阻力，您需要将AMS lite放置在以下图示的位置。
 
-![](https://wiki.bambulab.com/n1/manual/faq/ams-lite摆放位置.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ams-lite_cd6ad0b4.png)
 
 ## AMS lite是否支持自动续料功能？
 

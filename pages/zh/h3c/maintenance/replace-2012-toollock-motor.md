@@ -4,7 +4,7 @@ title: "锁紧电机更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:06:53.807Z
-updated: 2026-11-03T13:06:54.865Z
+updated: 2026-11-10T08:47:04.049Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-2012-toollock-motor
 ---
 
@@ -105,7 +105,7 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-2012-toollock-motor
 
 ### 第 2 步 安装锁紧插销
 
-检查拆下来的锁紧插销，根据定期维护的要求（参考 WIKI：[H3C 打印机定期维护](periodic-maintenance.md)），有必要时，如图所示添加专用的润滑脂，然后安装到插槽上。
+检查拆下来的锁紧插销，根据定期维护的要求（参考 WIKI：[拓竹H3C 打印机定期维护](periodic-maintenance.md)），有必要时，如图所示添加专用的润滑脂，然后安装到插槽上。
 
 |  |  |
 | --- | --- |

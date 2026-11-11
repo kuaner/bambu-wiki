@@ -4,13 +4,13 @@ title: "AMS 3H 部件介绍"
 description: "本文介绍了 AMS 3H 的主要部件及功能。"
 tags: []
 created: 2026-11-03T13:23:44.371Z
-updated: 2026-11-03T13:23:45.460Z
+updated: 2026-11-10T08:46:57.770Z
 source: https://wiki.bambulab.com/zh/ams3/manual/component-introduction
 ---
 
 ## AMS 3H
 
-AMS 3H 是适配 H3C 的智能供料设备，可实现多色 / 多材料打印、自动进料与续料，还具备耗材烘干防潮保护、耗材信息识别等功能，能减少手动操作，提升打印效率与智能化程度。本文将介绍 AMS 3H 的主要部件及功能。
+AMS 3H 是适配拓竹H3C 的智能供料设备，可实现多色 / 多材料打印、自动进料与续料，还具备耗材烘干防潮保护、耗材信息识别等功能，能减少手动操作，提升打印效率与智能化程度。本文将介绍 AMS 3H 的主要部件及功能。
 
 ![001.png](https://public-cdn.bblmw.com/wiki/new/ams3/manual/component-introduction/zh/001.png)
 
@@ -115,7 +115,7 @@ AMS 3H 出厂配备**变色硅胶干燥剂**，可放置在撑杆旁及烘干仓
 
 ## 腔体散热风扇
 
-该风扇的核心功能是提升系统散热效率。由于 H3C 腔体体积较大，装配 AMS 后，腔体整体高度随之增加，且外排冷却需经滤芯过滤，这在一定程度上会削弱散热效果。因此，为进一步加强上部腔体的散热能力，AMS 背板处专门增设了“吸入式”的腔体散热风扇，增强散热。
+该风扇的核心功能是提升系统散热效率。由于拓竹H3C 腔体体积较大，装配 AMS 后，腔体整体高度随之增加，且外排冷却需经滤芯过滤，这在一定程度上会削弱散热效果。因此，为进一步加强上部腔体的散热能力，AMS 背板处专门增设了“吸入式”的腔体散热风扇，增强散热。
 
 ![018.png](https://public-cdn.bblmw.com/wiki/new/ams3/manual/component-introduction/zh/018.png)
 

@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/unclogging
-title: "H3C 热端堵塞清理指南"
+title: "拓竹H3C 热端堵塞清理指南"
 description: ""
 tags: []
 created: 2026-11-03T12:06:23.604Z
-updated: 2026-11-03T14:33:19.702Z
+updated: 2026-11-10T08:47:27.027Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/unclogging
 ---
 

@@ -4,7 +4,7 @@ title: "A1 mini 热床温度异常故障排查"
 description: "本文简要介绍了 A1 mini 热床不升温相关故障的排查步骤"
 tags: ["a1 mini"]
 created: 2023-12-22T01:23:33.180Z
-updated: 2024-09-18T03:51:35.557Z
+updated: 2026-11-10T06:25:29.173Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/heatbed-not-heat-up
 ---
 
@@ -56,11 +56,11 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/heatbed-not-heat-up
 
 （此图仅用于指示电阻值测量触点位置，测量过程中无需将主板从打印机中拆出）
 
-![](https://wiki.bambulab.com/n1/troubleshooting/heatbed-not-heating-up/step2-5.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/step2-5.jpg)
 
 温馨提示二：此步骤为测量方便，可使用平头镊子将裹在接线柱上的绝缘胶套取下，操作如图所示。
 
-![](https://wiki.bambulab.com/n1/a1-mini-printer/rubbers.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/rubbers.jpg)
 
 ### 第 3 步：测量主板热床测温连接位置电阻阻值
 
@@ -74,11 +74,11 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/heatbed-not-heat-up
 
 （此图仅用于指示电阻值测量触点位置，测量过程中无需将主板从打印机中拆出）
 
-![](https://wiki.bambulab.com/n1/troubleshooting/heatbed-not-heating-up/step3-3.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/step3-3.jpg)
 
 温馨提示二：由于当主板处于安装状态时该测量位置空间狭窄，此步骤为测量方便，可使用平头镊子暂时将 2 根热床供电线缆拆下，操作如图所示。
 
-![](https://wiki.bambulab.com/n1/a1-mini-printer/disconnect_cables.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/disconnect_cables.jpg)
 
 ### 第 4 步：确定热床组件是否故障
 
@@ -90,17 +90,17 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/heatbed-not-heat-up
 
 如果此处测量到的电阻值为 4Ω 左右（数值受环境温度影响较大，稍微存在偏差也属正常现象，图中测量值为 5 Ω），则证明铝基板工作无异常。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/heatbed-not-heating-up/step5-1.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/step5-1.jpg)
 
 温馨提示一：为便于测量，可将热床手动移动至打印机后部，测量铝基板供电连接位置如图所示。
 
 （此图仅用于指示电阻值测量触点位置，测量过程中无需将热床从打印机中拆出）
 
-![](https://wiki.bambulab.com/n1/troubleshooting/heatbed-not-heating-up/step5-3.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/step5-3.jpg)
 
 温馨提示二：此步骤需提前拆下热床组件理线模块，拆除热床组件理线模块相关指南可以参考文章 [A1 mini 热床线拆装指引](../maintenance/a1-heatbed.md) 中“**拆解指引**”的“**步骤2：移除热床线缆**”。
 
-![](https://wiki.bambulab.com/n1/troubleshooting/heatbed-not-heating-up/intro-step-6.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/intro-step-6.jpg)
 
 ### 第 6 步：测量铝基板测温连接位置电阻阻值
 
@@ -114,7 +114,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/heatbed-not-heat-up
 
 （此图仅用于指示电阻值测量触点位置，测量过程中无需将热床从打印机中拆出）
 
-![](https://wiki.bambulab.com/n1/troubleshooting/heatbed-not-heating-up/step6-2.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/step6-2.jpg)
 
 ### 第 7 步：确定铝基板是否故障
 

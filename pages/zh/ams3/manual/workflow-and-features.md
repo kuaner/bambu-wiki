@@ -4,7 +4,7 @@ title: "AMS 3H 工作流程和功能介绍"
 description: "本文将介绍 AMS 3H 的主要功能和工作流程。"
 tags: []
 created: 2026-11-03T13:23:36.023Z
-updated: 2026-11-03T13:23:37.095Z
+updated: 2026-11-10T08:46:58.443Z
 source: https://wiki.bambulab.com/zh/ams3/manual/workflow-and-features
 ---
 
@@ -21,7 +21,7 @@ source: https://wiki.bambulab.com/zh/ams3/manual/workflow-and-features
 
 **供料路径：** AMS 3H（进料霍尔）→ 料管导向 → 料管支架/料管 → 工具头 → 打印头（进料霍尔）
 
-> **注**：H3C 支持外接其他型号 AMS，可额外加装缓冲器外接 AMS、AMS 2 Pro、AMS HT 等设备进行供料，满足多耗材、多色打印的需求，**最多额外再增加 4 台 AMS 设备作为外设**，该功能待固件更新支持。
+> **注**：拓竹H3C 支持外接其他型号 AMS，可额外加装缓冲器外接 AMS、AMS 2 Pro、AMS HT 等设备进行供料，满足多耗材、多色打印的需求，**最多额外再增加 4 台 AMS 设备作为外设**，该功能待固件更新支持。
 
 ### 手动供料方式
 

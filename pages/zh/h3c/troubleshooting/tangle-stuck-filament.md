@@ -1,16 +1,16 @@
 ---
 path: zh/h3c/troubleshooting/tangle-stuck-filament
-title: "H3C 耗材缠料的处理办法"
+title: "拓竹H3C 耗材缠料的处理办法"
 description: ""
 tags: []
 created: 2026-11-03T12:09:02.530Z
-updated: 2026-11-03T12:09:03.552Z
+updated: 2026-11-10T08:43:15.475Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/tangle-stuck-filament
 ---
 
 ## 介绍
 
-将缠结的耗材装入 H3C 后，设备进料时可能出现"进料失败"等报错，或在打印过程中提示"挤出阻力异常"，“空打”等，此时需暂停打印，解开耗材缠结处后方可恢复正常工作。  
+将缠结的耗材装入拓竹H3C 后，设备进料时可能出现"进料失败"等报错，或在打印过程中提示"挤出阻力异常"，“空打”等，此时需暂停打印，解开耗材缠结处后方可恢复正常工作。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/tangle-stuck-filament/zh/07_h3c__________-01.png)
 
 ## 安全提示

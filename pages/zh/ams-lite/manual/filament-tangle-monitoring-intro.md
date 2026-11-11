@@ -4,7 +4,7 @@ title: "缠料检测功能介绍"
 description: "本文介绍了缠料检测功能。"
 tags: ["ams lite", "a1", "a1 mini"]
 created: 2023-10-09T12:04:54.808Z
-updated: 2025-03-03T11:59:45.805Z
+updated: 2026-11-10T13:14:00.549Z
 source: https://wiki.bambulab.com/zh/ams-lite/manual/filament-tangle-monitoring-intro
 ---
 
@@ -48,15 +48,15 @@ Bambu A1 系列配备了一个缠料检测模块来应对这种情况，当检�
 
 - 不使用 AMS Lite 时：机器会退料并暂停打印，如下动图所示：
 
-![](https://wiki.bambulab.com/n1/manual/filament-tangle-detection/外挂缠料后退料暂停.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_9f2a54f9.gif)
 
 - 使用 AMS Lite 时：机器会在吐料组件处，先吐出一小段料，检测缠料模块是否回弹。如果回弹，说明供料阻力恢复正常，则继续打印；否则，它会判断为到工具头外的送料阻力过大（比如：耗材打结），机器会退料并暂停打印。
 
-![](https://wiki.bambulab.com/n1/manual/filament-tangle-detection/ams缠料恢复打印_.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ams_2ded3d5c.gif)
 
 **缠料模块恢复并继续打印**
 
-![](https://wiki.bambulab.com/n1/manual/filament-tangle-detection/ams缠料后退料.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/ams_27aaf9a6.gif)
 
 **缠料模块无法恢复，退料暂停打印**
 

@@ -4,7 +4,7 @@ title: "A 系列打印板位置检测"
 description: "本文章介绍了 A2L / A1 / A1 mini 打印机的打印板位置检测功能。"
 tags: []
 created: 2024-01-24T11:51:43.821Z
-updated: 2026-08-28T06:20:31.331Z
+updated: 2026-11-10T08:19:05.191Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/build-plate-detection
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/manual/build-plate-detection
 
 A 系列打印机配备了打印板位置检测功能，打印机在打印开始前能检测用户是否放置了打印板，避免直接在热床上打印，造成打印失败甚至损坏热床。下图为直接在热床上打印的错误示例：
 
-![](https://wiki.bambulab.com/n1/manual/build-plate-detection/%E5%9C%A8%E7%83%AD%E5%BA%8A%E4%B8%8A%E6%89%93%E5%8D%B0.gif)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_438389bd.gif)
 
 在发起打印任务前需要在热床上正确放置打印板，如下图所示：
 

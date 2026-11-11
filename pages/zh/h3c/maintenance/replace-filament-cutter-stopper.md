@@ -4,7 +4,7 @@ title: "切料顶杆更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:43:34.399Z
-updated: 2026-11-03T12:48:30.501Z
+updated: 2026-11-10T08:47:05.213Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-filament-cutter-stopper
 ---
 
@@ -37,7 +37,7 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-filament-cutter-sto
 找到切料顶杆的螺丝，用 H2.0 内六角扳手沿竖直方向向上捅，穿过泡棉。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-filament-cutter-stopper/zh/85__________filament_cutter_stopper_replacement_guide_6bc70f790a.jpg)
 
-使用 H2.0 内六角扳手，从 H3C 顶部泡棉沿着螺丝孔的位置垂直向下穿出，然后松开并移除这两颗螺丝。  
+使用 H2.0 内六角扳手，从拓竹H3C 顶部泡棉沿着螺丝孔的位置垂直向下穿出，然后松开并移除这两颗螺丝。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-filament-cutter-stopper/zh/11_h3c_____screws_kit_for_h3c_802ee6dafb.jpg)
 
 > 注意：由于螺丝帽尺寸大于通孔，螺丝松脱后，请直接用手将其从扳手上取出，防止掉落至机器内部。  

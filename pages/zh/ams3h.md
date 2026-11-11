@@ -4,19 +4,19 @@ title: "AMS 3H"
 description: ""
 tags: []
 created: 2026-11-02T06:51:38.960Z
-updated: 2026-11-03T14:49:42.978Z
+updated: 2026-11-10T08:46:58.511Z
 source: https://wiki.bambulab.com/zh/ams3h
 ---
 
 ![ams3h-zh.png](https://wiki.bambulab.com/general/widgets/ams3h-zh.png)
 
-本页介绍 AMS 3H 的相关内容。AMS 3H 需搭配 H3C 使用，请点击[此页面](h3c.md)了解 H3C。
+本页介绍 AMS 3H 的相关内容。AMS 3H 需搭配拓竹H3C 使用，请点击[此页面](h3c.md)了解拓竹H3C。
 
 ## ⚡快速入门
 
-- [H3C AMS 套装包装清单](h3c/manual/acc-in-the-box.md)
-- [H3C AMS 套装开箱指南](h3c/manual/unboxing-h3c-ams-combo.md)
-- [H3C AMS 套装装箱指南](h3c/manual/packing-h3c-ams-combo.md)
+- [拓竹H3C AMS 套装包装清单](h3c/manual/acc-in-the-box.md)
+- [拓竹H3C AMS 套装开箱指南](h3c/manual/unboxing-h3c-ams-combo.md)
+- [拓竹H3C AMS 套装装箱指南](h3c/manual/packing-h3c-ams-combo.md)
 
 ## 🧩 功能介绍
 
@@ -27,7 +27,7 @@ source: https://wiki.bambulab.com/zh/ams3h
 
 ## 💡故障排除
 
-- [H3C / AMS 3H 料管断裂耗材移除指南](h3c/troubleshooting/clear-filament-jam.md)
+- [拓竹H3C / AMS 3H 料管断裂耗材移除指南](h3c/troubleshooting/clear-filament-jam.md)
 - [AMS 3H 指示灯状态解析](h3c/troubleshooting/ams-led-status.md)
 
 ## 🚧 维护指南

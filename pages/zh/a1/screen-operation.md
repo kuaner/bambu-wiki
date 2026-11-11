@@ -4,7 +4,7 @@ title: "A1 系列屏幕操作指南"
 description: "本指南介绍了 A1 系列的屏幕操作"
 tags: ["a1", "a1 mini"]
 created: 2024-09-14T03:53:36.749Z
-updated: 2026-08-28T08:29:54.795Z
+updated: 2026-11-10T07:51:49.495Z
 source: https://wiki.bambulab.com/zh/a1/screen-operation
 ---
 
@@ -112,7 +112,7 @@ source: https://wiki.bambulab.com/zh/a1/screen-operation
 
 5. **LED 补光灯**：点击按钮可控制 LED 补光灯。
 
-![](https://wiki.bambulab.com/n1/manual/ui-explanation/cn-version/%E4%B8%BB%E7%95%8C%E9%9D%A2_2_%E6%89%93%E5%8D%B0%E8%BF%9B%E7%A8%8B_5.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/2_5_dbf9fbbd.jpg)
 
 6. **挤出机**：点击上下按钮，手动挤出或退出 1 cm 耗材。如果绿灯亮起，则表示挤出机的霍尔开关检测到有耗材进入。
 

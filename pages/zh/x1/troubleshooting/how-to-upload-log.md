@@ -4,7 +4,7 @@ title: "如何创建工单及上传日志"
 description: "本指南将引导您通过 Bambu Handy 或在 Bambu Lab 官网创建工单及上传日志，以及上传日志常见问题。"
 tags: []
 created: 2024-10-08T04:14:08.421Z
-updated: 2026-11-06T01:13:48.164Z
+updated: 2026-11-10T08:47:33.100Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 ---
 
@@ -74,7 +74,7 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 [P1 系列打印机](#jump3)  
 [A 系列打印机](#jump4)  
 [R1 激光切割机](#jump7)  
-[H3C 打印机](#jump8)
+[拓竹H3C 打印机](#jump8)
 
 点击所需机型名字，跳转至对应指南：
 
@@ -162,7 +162,7 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/how-to-upload-log
 4. 勾选全部选项，点击**浏览**以选择日志导出文件夹，然后点击**确认**，等待提示日志下载完成即可。  
    ![](https://wiki.bambulab.com/create-ticket/r1_log_4.jpg)
 
-#### H3C 打印机
+#### 拓竹H3C 打印机
 
 1. 点击打印机屏幕进入**设置界面**，选择**导出日志到外部存储**。
 

@@ -4,7 +4,7 @@ title: "E1 滤芯更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:32:50.913Z
-updated: 2026-11-03T13:32:51.943Z
+updated: 2026-11-10T08:46:59.094Z
 source: https://wiki.bambulab.com/zh/e1/maintenance/replace-purifier-air-filter
 ---
 
@@ -57,7 +57,7 @@ source: https://wiki.bambulab.com/zh/e1/maintenance/replace-purifier-air-filter
 
 对于固件适配的机型，更换完毕后需在打印机屏幕上，更新滤芯种类并重置寿命。固件适配详情见：[E1 开箱与安装指南](../manual/unboxing-installation-guide.md)。
 
-> 下图以 H3C 打印机屏幕为例，请以实际机型为准。
+> 下图以拓竹H3C 打印机屏幕为例，请以实际机型为准。
 
 |  |  |
 | --- | --- |

@@ -4,7 +4,7 @@ title: "H2S 固件发布记录"
 description: "本指南提供 H2S 所有固件发布记录。"
 tags: []
 created: 2025-08-26T12:08:07.268Z
-updated: 2026-11-06T01:17:01.464Z
+updated: 2026-11-06T01:17:02.386Z
 source: https://wiki.bambulab.com/zh/h2s/manual/h2s-firmware-release-history
 ---
 

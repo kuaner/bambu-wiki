@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/preprint-printtool-drop-detected
-title: "05024040/2A008032：H3C"
+title: "05024040/2A008032：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:07.920Z
-updated: 2026-11-03T12:08:08.948Z
+updated: 2026-11-10T08:47:25.539Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/preprint-printtool-drop-detected
 ---
 

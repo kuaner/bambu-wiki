@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/nesting-toolhead-step-loss
-title: "2A008049：H3C"
+title: "2A008049：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:23.508Z
-updated: 2026-11-03T12:08:24.509Z
+updated: 2026-11-10T08:47:24.544Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/nesting-toolhead-step-loss
 ---
 

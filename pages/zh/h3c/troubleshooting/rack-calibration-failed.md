@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/rack-calibration-failed
-title: "1A004007：H3C"
+title: "1A004007：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:14.254Z
-updated: 2026-11-03T12:08:15.291Z
+updated: 2026-11-10T08:47:26.340Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/rack-calibration-failed
 ---
 
