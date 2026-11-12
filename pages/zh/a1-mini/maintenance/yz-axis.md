@@ -1,10 +1,10 @@
 ---
 path: zh/a1-mini/maintenance/yz-axis
 title: "A1 mini Y轴&Z轴拆装指引"
-description: "提供A1 mini Z轴&Y轴相关联配件的拆解和组装的指引和注意事项。"
+description: ""提供A1 mini Z轴&Y轴相关联配件的拆解和组装的指引和注意事项。""
 tags: ["y张紧器", "z轴", "z电机", "y皮带", "联轴器", "z上盖", "y电机"]
 created: 2023-09-13T05:11:55.292Z
-updated: 2026-05-12T01:20:31.797Z
+updated: 2026-11-11T07:52:33.568Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/yz-axis
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/a1-mini/maintenance/yz-axis
 
 本文提供**A1 mini Y轴和Z轴**拆解和组装的相关指引和注意事项，在此拆解过程中涉及的可更换配件的拆装也可参考本文进行处理。
 
-![](https://wiki.bambulab.com/n1/a1-mini-yz/yz.jpg)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/yz.jpg)
 
 Y轴& Z轴组件
 
@@ -60,7 +60,7 @@ Y轴& Z轴组件
 
 - 用H2.0内六角扳手移除1颗螺丝B, 取下Z轴上盖。
 
-![](https://wiki.bambulab.com/n1/manual/取下z上盖.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/z_fec9a981.png)
 
 ### 步骤2：移除Z电机和联轴器
 
@@ -159,7 +159,7 @@ Y轴& Z轴组件
 
 - 转动丝杆，如图所示，将丝杆的扁平面露出；
 
-![](https://wiki.bambulab.com/n1/manual/露出丝杆的扁平面.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/img_b01a557a.png)
 
 - 装入垫圈，将联轴器的顶丝位置对齐丝杆的扁平位，安装到Z轴丝杆上，拧紧两颗顶丝；
 
@@ -185,7 +185,7 @@ Y轴& Z轴组件
 
 - 安装Z轴上盖，锁入1颗螺丝B;
 
-![](https://wiki.bambulab.com/n1/manual/取下z上盖.png)
+![](https://public-cdn.bblmw.com/wiki/new/a1/refresh_assets/z_fec9a981.png)
 
 - 将Z轴与Y轴方钢连接到一起，确认螺丝孔对齐，锁入6颗螺丝A进行固定。
 

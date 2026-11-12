@@ -4,11 +4,11 @@ title: "拓竹H3C 主要部件介绍"
 description: "本文介绍了拓竹H3C 的主要部件及相关功能"
 tags: []
 created: 2026-11-03T13:19:11.731Z
-updated: 2026-11-10T08:47:11.192Z
+updated: 2026-11-12T07:51:03.960Z
 source: https://wiki.bambulab.com/zh/h3c/manual/main-components
 ---
 
-##拓竹H3C 是如何工作的？
+## 拓竹H3C 是如何工作的？
 
 拓竹H3C 是一台 FDM（熔融沉积成型，Fused Deposition Modeling）3D 打印机，通过加热熔化塑料耗材，并按照预设路径逐层堆叠，最终构建出三维实体模型。
 

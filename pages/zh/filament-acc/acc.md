@@ -4,7 +4,7 @@ title: "配件"
 description: ""
 tags: []
 created: 2023-09-07T02:38:24.600Z
-updated: 2026-08-21T09:08:41.761Z
+updated: 2026-11-11T01:52:27.413Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc
 ---
 
@@ -96,7 +96,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc
 [X 系列](../x-series.md)
 [P 系列](../p-series.md)
 [A 系列](../a-series.md)
-[H2 系列](../h2.md)
+[H 系列](../h-series.md)
 [AMS](../ams.md)
 [AMS 2 Pro](../ams-2-pro.md)
 [AMS lite](../ams-lite.md)

@@ -4,7 +4,7 @@ title: "A1 mini"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-20T13:13:46.125Z
-updated: 2026-09-09T10:05:20.304Z
+updated: 2026-11-11T03:19:03.455Z
 source: https://wiki.bambulab.com/zh/a1-mini
 ---
 
@@ -46,6 +46,7 @@ source: https://wiki.bambulab.com/zh/a1-mini
 - [A1 系列屏幕操作指南](a1/screen-operation.md)
 - [包装清单补充说明](manual/acc-in-the-box.md)
 - [快速入门指南](https://bambulab.cn/zh-cn/support/documentation/961673603464298496)
+- [A1 mini 泡泡罩 FAQ](manual/bubble-faq.md)
 
 ### 开箱/装箱
 

@@ -4,7 +4,7 @@ title: "Swaptek 闪切系统工作流程介绍"
 description: "本文 Swaptek 闪切系统的工作流程。"
 tags: []
 created: 2026-11-03T12:10:02.972Z
-updated: 2026-11-10T08:47:13.380Z
+updated: 2026-11-10T08:47:14.307Z
 source: https://wiki.bambulab.com/zh/h3c/manual/swaptek-workflow-and-function
 ---
 

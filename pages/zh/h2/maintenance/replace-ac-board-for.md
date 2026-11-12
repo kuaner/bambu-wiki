@@ -4,7 +4,7 @@ title: "更换 H2 系列 AC 板/AC 板理线盖"
 description: "本文介绍了如何更换 H2 系列 AC 板/AC 板理线盖"
 tags: []
 created: 2025-03-25T01:57:19.202Z
-updated: 2026-08-28T08:31:56.493Z
+updated: 2026-11-11T07:38:37.281Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-ac-board-for
 ---
 
@@ -31,6 +31,9 @@ AC 板是安装在打印机左内衬中，用于给热床和腔温加热模块�
 
 1. AC 板理线盖 \* 1
 2. BT3x8 螺丝 - 用于固定 AC 板理线盖 \* 1
+
+> **注意**：不同批次单品细节可能略有不同，不影响其功能及使用。新版本 AC 板删除下图位置元器件。  
+> ![](https://wiki.bambulab.com/h2/maintenance/replace-ac-board/upgrade_ac_board.png)
 
 ## 视频指南
 
