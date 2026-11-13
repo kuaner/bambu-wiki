@@ -4,7 +4,7 @@ title: "拓竹H3C 配件模型介绍"
 description: ""
 tags: []
 created: 2026-11-03T12:11:49.291Z
-updated: 2026-11-10T08:47:10.939Z
+updated: 2026-11-10T08:47:11.862Z
 source: https://wiki.bambulab.com/zh/h3c/manual/internal-print-files
 ---
 

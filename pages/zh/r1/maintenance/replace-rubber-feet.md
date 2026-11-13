@@ -4,7 +4,7 @@ title: "R1 脚垫更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:25:22.286Z
-updated: 2026-11-10T02:25:22.286Z
+updated: 2026-11-10T02:25:23.160Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-rubber-feet
 ---
 

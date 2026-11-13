@@ -4,7 +4,7 @@ title: "03004032：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T13:00:19.252Z
-updated: 2026-11-10T08:47:27.179Z
+updated: 2026-11-10T08:47:28.086Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/xy-homing-failed
 ---
 

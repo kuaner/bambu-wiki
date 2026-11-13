@@ -4,7 +4,7 @@ title: "A1 产品维护与保养"
 description: "关于A1 打印机的一些日常维护和保养建议"
 tags: ["保养", "产品维护", "产品保养"]
 created: 2023-12-13T14:13:58.500Z
-updated: 2026-11-10T07:51:40.345Z
+updated: 2026-11-10T07:51:41.269Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/basic-maintenance
 ---
 

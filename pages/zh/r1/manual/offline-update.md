@@ -4,7 +4,7 @@ title: "R1 离线升级功能介绍"
 description: "本文介绍了如何进行 R1 离线升级"
 tags: []
 created: 2026-09-22T12:49:01.318Z
-updated: 2026-09-22T12:49:02.555Z
+updated: 2026-11-12T10:03:25.539Z
 source: https://wiki.bambulab.com/zh/r1/manual/offline-update
 ---
 
@@ -38,7 +38,7 @@ R1 支持离线升级，不依赖设备联网，可通过 USB 将离线升级包
 
 ![003.png](https://public-cdn.bblmw.com/wiki/new/r1/manual/offline-processing-guide/zh/003.png)
 
-打开 Bambu Suite，使用 PIN 码或 IP 和访问码连接机器。
+打开 Bambu Suite，使用 IP 和访问码连接机器。
 
 |  |  |  |
 | --- | --- | --- |

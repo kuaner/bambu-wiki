@@ -4,7 +4,7 @@ title: "A1 mini 底座拆装指引"
 description: "本文提供A1 mini底座拆装的相关指引和注意事项，在这个拆解过程中涉及的可更换配件的拆装也可参考本文进行处理。"
 tags: ["电源", "主板散热风扇", "电源线", "显示屏", "屏幕"]
 created: 2023-09-14T02:05:13.415Z
-updated: 2026-11-10T07:32:20.691Z
+updated: 2026-11-10T07:32:21.522Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/bottom-base
 ---
 

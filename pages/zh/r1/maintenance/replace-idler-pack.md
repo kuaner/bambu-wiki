@@ -4,7 +4,7 @@ title: "R1 惰轮套件更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:24:49.247Z
-updated: 2026-11-10T02:24:49.247Z
+updated: 2026-11-10T02:24:50.173Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-idler-pack
 ---
 

@@ -4,7 +4,7 @@ title: "平面加工头（刀切头／画笔头）定期维护建议"
 description: ""
 tags: []
 created: 2026-11-03T12:49:42.697Z
-updated: 2026-11-03T12:49:43.808Z
+updated: 2026-11-12T02:11:43.084Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/craft-tool
 ---
 
@@ -106,8 +106,7 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/craft-tool
 
 ### 检查平面加工头安装状态
 
-确认平面加工头已正确安装在工具头上，连  
-接稳固，无松动或异常晃动。
+确认平面加工头已正确安装在工具头上，连接稳固，无松动或异常晃动。
 
 1. 从屏幕上取用平面加工头。
 

@@ -4,7 +4,7 @@ title: "R1 激光电源更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:25:16.496Z
-updated: 2026-11-10T02:25:16.496Z
+updated: 2026-11-10T02:25:17.435Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-laser-power-supply
 ---
 

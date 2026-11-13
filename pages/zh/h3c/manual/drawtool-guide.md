@@ -4,7 +4,7 @@ title: "拓竹H3C 画笔加工介绍"
 description: ""
 tags: []
 created: 2026-11-03T12:12:28.711Z
-updated: 2026-11-10T08:47:08.426Z
+updated: 2026-11-10T08:47:09.383Z
 source: https://wiki.bambulab.com/zh/h3c/manual/drawtool-guide
 ---
 

@@ -4,7 +4,7 @@ title: "A1 mini 产品维护与保养"
 description: "关于打印机的一些日常维护和保养建议"
 tags: []
 created: 2023-10-01T05:11:41.113Z
-updated: 2026-11-10T08:18:48.020Z
+updated: 2026-11-10T08:18:49.012Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/period-maintenance
 ---
 

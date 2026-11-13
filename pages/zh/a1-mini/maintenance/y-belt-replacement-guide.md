@@ -4,7 +4,7 @@ title: "A1 mini Y 轴皮带更换指南"
 description: "介绍 A1 mini 的 Y 皮带详细更换步骤"
 tags: ["a1 mini"]
 created: 2024-08-26T04:06:31.901Z
-updated: 2026-11-10T08:18:58.928Z
+updated: 2026-11-10T08:18:59.836Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/y-belt-replacement-guide
 ---
 

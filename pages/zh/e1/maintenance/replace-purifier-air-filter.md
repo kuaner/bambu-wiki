@@ -4,7 +4,7 @@ title: "E1 滤芯更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:32:50.913Z
-updated: 2026-11-10T08:46:59.094Z
+updated: 2026-11-10T08:46:59.993Z
 source: https://wiki.bambulab.com/zh/e1/maintenance/replace-purifier-air-filter
 ---
 

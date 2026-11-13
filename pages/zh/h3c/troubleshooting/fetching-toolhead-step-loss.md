@@ -4,7 +4,7 @@ title: "2A00804A：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:26.218Z
-updated: 2026-11-10T08:47:16.568Z
+updated: 2026-11-10T08:47:17.483Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/fetching-toolhead-step-loss
 ---
 

@@ -4,7 +4,7 @@ title: "A1 系列打印机回零调平失败故障排查"
 description: "本文介绍了A1 系列打印机回零调平失败故障排查"
 tags: ["a1"]
 created: 2024-06-22T09:53:07.583Z
-updated: 2026-11-10T07:51:53.917Z
+updated: 2026-11-10T07:51:54.829Z
 source: https://wiki.bambulab.com/zh/a1/troubleshooting/homing-leveling-failure
 ---
 

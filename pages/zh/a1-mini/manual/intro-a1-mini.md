@@ -4,7 +4,7 @@ title: "A1 mini 主要组件介绍"
 description: ""
 tags: []
 created: 2023-09-17T14:25:54.686Z
-updated: 2026-11-10T13:11:47.166Z
+updated: 2026-11-10T13:11:48.100Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/intro-a1-mini
 ---
 

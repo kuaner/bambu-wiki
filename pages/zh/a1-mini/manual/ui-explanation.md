@@ -4,7 +4,7 @@ title: "UI解释说明"
 description: ""
 tags: []
 created: 2023-10-09T04:22:23.554Z
-updated: 2026-11-10T08:19:12.673Z
+updated: 2026-11-10T08:19:13.589Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/ui-explanation
 ---
 

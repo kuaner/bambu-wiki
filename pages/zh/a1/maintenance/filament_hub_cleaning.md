@@ -4,7 +4,7 @@ title: "A1 系列五通组件拆解与清理"
 description: "本文介绍了如何清理 AMS lite 五通组件内的异物和废料，以及如何拆解与检查进料霍尔板底座。"
 tags: ["五通组件", "a1", "ams lite"]
 created: 2023-12-21T14:57:47.738Z
-updated: 2026-11-10T06:13:17.353Z
+updated: 2026-11-10T06:13:18.258Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/filament_hub_cleaning
 ---
 

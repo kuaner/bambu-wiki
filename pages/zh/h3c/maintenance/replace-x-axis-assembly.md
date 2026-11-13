@@ -4,7 +4,7 @@ title: "X轴组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:06:43.348Z
-updated: 2026-11-09T12:58:45.848Z
+updated: 2026-11-09T12:58:46.783Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-x-axis-assembly
 ---
 

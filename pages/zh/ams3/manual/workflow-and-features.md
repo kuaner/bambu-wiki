@@ -4,7 +4,7 @@ title: "AMS 3H 工作流程和功能介绍"
 description: "本文将介绍 AMS 3H 的主要功能和工作流程。"
 tags: []
 created: 2026-11-03T13:23:36.023Z
-updated: 2026-11-10T08:46:58.443Z
+updated: 2026-11-10T08:46:59.383Z
 source: https://wiki.bambulab.com/zh/ams3/manual/workflow-and-features
 ---
 

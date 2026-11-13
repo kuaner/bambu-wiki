@@ -4,7 +4,7 @@ title: "A 系列打印机热端裹头处理指引"
 description: "介绍如何处理A系列打印机热端被打印材料完全附着导致不能正常使用的处理方法。"
 tags: ["a1", "喷嘴", "热端"]
 created: 2023-11-25T06:24:05.061Z
-updated: 2026-11-10T08:18:42.680Z
+updated: 2026-11-10T08:18:43.625Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/hotend_blob
 ---
 

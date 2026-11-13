@@ -4,7 +4,7 @@ title: "E1 空气净化器常见问答"
 description: ""
 tags: []
 created: 2026-11-04T10:16:04.835Z
-updated: 2026-11-10T08:46:59.684Z
+updated: 2026-11-10T08:47:00.632Z
 source: https://wiki.bambulab.com/zh/e1/manual/faq
 ---
 

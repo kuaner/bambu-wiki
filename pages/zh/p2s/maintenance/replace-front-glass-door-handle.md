@@ -4,7 +4,7 @@ title: "更换 X1/P 系列前门提手"
 description: "本文介绍 X1/P 系列更换前门提手的操作步骤与注意事项。 "
 tags: ["p1s", "p2s", "x1c", "x1e"]
 created: 2025-11-09T08:55:51.477Z
-updated: 2026-11-06T08:54:31.517Z
+updated: 2026-11-06T08:54:32.392Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-front-glass-door-handle
 ---
 

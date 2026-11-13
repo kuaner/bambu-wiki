@@ -4,7 +4,7 @@ title: "切料顶杆更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:43:34.399Z
-updated: 2026-11-10T08:47:05.213Z
+updated: 2026-11-10T08:47:06.094Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-filament-cutter-stopper
 ---
 

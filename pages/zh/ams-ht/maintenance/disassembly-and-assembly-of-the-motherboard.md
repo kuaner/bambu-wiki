@@ -4,7 +4,7 @@ title: "AMS HT 主板更换指南"
 description: "本文将详细为您讲述 AMS HT 更换步骤和注意事项。"
 tags: []
 created: 2025-06-16T10:22:01.042Z
-updated: 2026-11-11T09:04:26.931Z
+updated: 2026-11-11T09:04:27.916Z
 source: https://wiki.bambulab.com/zh/ams-ht/maintenance/disassembly-and-assembly-of-the-motherboard
 ---
 

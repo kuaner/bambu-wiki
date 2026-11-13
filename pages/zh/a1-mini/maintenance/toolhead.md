@@ -4,7 +4,7 @@ title: "A1 系列工具头拆装指引"
 description: "本指引详细介绍了如何卸下和安装 A1 系列工具头"
 tags: ["工具头", "a1"]
 created: 2023-09-14T02:29:15.014Z
-updated: 2026-11-10T08:18:54.726Z
+updated: 2026-11-10T08:18:55.656Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/toolhead
 ---
 

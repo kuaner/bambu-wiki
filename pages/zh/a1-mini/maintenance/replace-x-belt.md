@@ -4,7 +4,7 @@ title: "A1 mini X 轴皮带更换指南"
 description: "更换 A1 mini X 皮带的操作步骤"
 tags: ["x皮带", "x轴", "x轴同步带"]
 created: 2024-08-23T02:54:12.467Z
-updated: 2026-11-10T08:18:49.489Z
+updated: 2026-11-10T08:18:50.313Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/replace-x-belt
 ---
 

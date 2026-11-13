@@ -4,7 +4,7 @@ title: "同步带张紧"
 description: ""
 tags: []
 created: 2026-11-03T12:48:58.690Z
-updated: 2026-11-10T06:15:22.978Z
+updated: 2026-11-10T06:15:23.866Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/belt_tension
 ---
 

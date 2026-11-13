@@ -4,7 +4,7 @@ title: "03008032：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:05.192Z
-updated: 2026-11-10T08:47:25.713Z
+updated: 2026-11-10T08:47:26.632Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/print-preprint-printtool-drop-detected
 ---
 

@@ -4,7 +4,7 @@ title: "AMS lite 常见问答（FAQ）"
 description: ""
 tags: []
 created: 2023-09-24T14:57:43.443Z
-updated: 2026-11-10T12:50:40.641Z
+updated: 2026-11-10T12:50:41.511Z
 source: https://wiki.bambulab.com/zh/ams-lite/manual/faq
 ---
 

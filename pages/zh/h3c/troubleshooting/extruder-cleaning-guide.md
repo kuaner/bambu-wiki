@@ -4,7 +4,7 @@ title: "拓竹H3C 工具头挤出轮清理指南"
 description: "本文将介绍如何清理工具头上挤出轮附着的耗材碎屑。"
 tags: []
 created: 2026-11-03T12:06:44.911Z
-updated: 2026-11-10T08:47:15.805Z
+updated: 2026-11-10T08:47:16.707Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/extruder-cleaning-guide
 ---
 

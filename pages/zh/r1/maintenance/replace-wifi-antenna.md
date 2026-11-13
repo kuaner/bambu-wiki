@@ -4,7 +4,7 @@ title: "R1 WiFi 天线更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:23:49.880Z
-updated: 2026-11-10T02:23:49.880Z
+updated: 2026-11-10T02:23:50.801Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-wifi-antenna
 ---
 

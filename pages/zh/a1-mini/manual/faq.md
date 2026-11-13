@@ -4,7 +4,7 @@ title: "A1 mini 常见问答（FAQ）"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-15T12:31:10.193Z
-updated: 2026-11-10T08:19:06.625Z
+updated: 2026-11-10T08:19:07.577Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/faq
 ---
 

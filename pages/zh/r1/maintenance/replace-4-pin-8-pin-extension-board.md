@@ -4,7 +4,7 @@ title: "R1 4-pin 与 8-pin 整合扩展板更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:23:41.108Z
-updated: 2026-11-10T02:23:41.108Z
+updated: 2026-11-10T02:23:42.047Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-4-pin-8-pin-extension-board
 ---
 

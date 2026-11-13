@@ -4,7 +4,7 @@ title: "更换 H2 系列 AC 板/AC 板理线盖"
 description: "本文介绍了如何更换 H2 系列 AC 板/AC 板理线盖"
 tags: []
 created: 2025-03-25T01:57:19.202Z
-updated: 2026-11-11T07:38:37.281Z
+updated: 2026-11-11T07:38:38.194Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-ac-board-for
 ---
 

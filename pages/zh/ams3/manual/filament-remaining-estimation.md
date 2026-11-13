@@ -4,7 +4,7 @@ title: "AMS 3H 余量估计功能介绍"
 description: ""
 tags: []
 created: 2026-11-03T13:24:13.251Z
-updated: 2026-11-10T08:46:58.421Z
+updated: 2026-11-10T08:46:59.321Z
 source: https://wiki.bambulab.com/zh/ams3/manual/filament-remaining-estimation
 ---
 

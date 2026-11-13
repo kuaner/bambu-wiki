@@ -4,7 +4,7 @@ title: "丝轴润滑教程"
 description: "本文将列举不同机型润滑丝轴的方法"
 tags: ["丝杆", "润滑", "a1", "h2", "p1", "x1", "x2d", "a2l", "p2s"]
 created: 2023-01-06T12:07:27.191Z
-updated: 2026-11-10T08:47:01.019Z
+updated: 2026-11-10T08:47:01.961Z
 source: https://wiki.bambulab.com/zh/general/lead-screws-lubrication
 ---
 

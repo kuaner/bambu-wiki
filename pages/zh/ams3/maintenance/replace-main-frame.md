@@ -4,7 +4,7 @@ title: "AMS 3H 中框更换指南"
 description: "本文介绍了 AMS 3H 中框更换指南"
 tags: []
 created: 2026-11-06T10:12:55.570Z
-updated: 2026-11-06T10:12:55.570Z
+updated: 2026-11-06T10:12:56.684Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-main-frame
 ---
 

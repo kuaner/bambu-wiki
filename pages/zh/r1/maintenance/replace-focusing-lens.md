@@ -4,7 +4,7 @@ title: "R1 聚焦镜更换指南"
 description: ""
 tags: []
 created: 2026-09-22T13:10:54.341Z
-updated: 2026-11-11T02:08:22.910Z
+updated: 2026-11-11T02:08:23.851Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-focusing-lens
 ---
 

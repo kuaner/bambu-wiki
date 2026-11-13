@@ -4,7 +4,7 @@ title: "A1 初次打印指南（使用 AMS lite）"
 description: "本文介绍了如何在 A1 系列打印机上使用 AMS Lite 开启初次打印"
 tags: ["a1", "ams lite"]
 created: 2023-12-18T02:11:40.043Z
-updated: 2026-11-10T06:13:21.886Z
+updated: 2026-11-10T06:13:22.822Z
 source: https://wiki.bambulab.com/zh/a1/manual/first-print-with-ams-lite
 ---
 

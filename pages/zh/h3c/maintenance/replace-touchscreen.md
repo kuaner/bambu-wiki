@@ -4,7 +4,7 @@ title: "屏幕和屏幕 FPC 更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:38:57.504Z
-updated: 2026-11-10T08:47:06.502Z
+updated: 2026-11-10T08:47:07.462Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-touchscreen
 ---
 

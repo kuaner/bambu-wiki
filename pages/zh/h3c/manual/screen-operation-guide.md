@@ -4,7 +4,7 @@ title: "拓竹H3C 屏幕操作指南"
 description: "本文介绍了拓竹H3C 屏幕操作"
 tags: []
 created: 2026-11-03T12:26:47.882Z
-updated: 2026-11-10T08:47:13.179Z
+updated: 2026-11-10T08:47:14.119Z
 source: https://wiki.bambulab.com/zh/h3c/manual/screen-operation-guide
 ---
 

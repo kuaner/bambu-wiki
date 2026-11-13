@@ -4,7 +4,7 @@ title: "A1 mini -显示屏异常排查"
 description: "A1 mini 显示屏不亮、触摸功能失灵排查"
 tags: ["黑屏", "触摸屏失灵", "刷新", "不开机"]
 created: 2023-11-10T04:20:55.991Z
-updated: 2026-11-10T08:19:34.102Z
+updated: 2026-11-10T08:19:35.011Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/screen-not-working-as-expected
 ---
 

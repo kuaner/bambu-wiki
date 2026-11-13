@@ -4,7 +4,7 @@ title: "拓竹H3C 混合喷嘴尺寸打印指南"
 description: ""
 tags: []
 created: 2026-11-03T12:10:48.721Z
-updated: 2026-11-10T08:47:11.870Z
+updated: 2026-11-10T08:47:12.780Z
 source: https://wiki.bambulab.com/zh/h3c/manual/mixed-nozzle-size-printing
 ---
 

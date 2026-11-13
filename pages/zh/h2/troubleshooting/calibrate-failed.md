@@ -4,7 +4,7 @@ title: "开机校准过程故障排查"
 description: ""
 tags: ["h2d"]
 created: 2025-10-17T02:26:46.652Z
-updated: 2026-11-10T08:47:02.442Z
+updated: 2026-11-10T08:47:03.336Z
 source: https://wiki.bambulab.com/zh/h2/troubleshooting/calibrate-failed
 ---
 

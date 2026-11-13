@@ -4,7 +4,7 @@ title: "A1系列打印首层打印质量问题及对应方案——首层偏低"
 description: "本文介绍了A1系列打印机出现首层打印偏低现象的原因及解决方法。"
 tags: ["首层", "首层打印", "调平失败", "首层偏低"]
 created: 2023-10-17T14:27:50.475Z
-updated: 2026-11-10T06:25:33.980Z
+updated: 2026-11-10T06:25:34.879Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/print-issues-troubleshooting
 ---
 

@@ -4,7 +4,7 @@ title: "X 轴工具头组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:06:37.668Z
-updated: 2026-11-09T12:58:24.831Z
+updated: 2026-11-09T12:58:25.753Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-tool-head-with-x-axis-assembly
 ---
 

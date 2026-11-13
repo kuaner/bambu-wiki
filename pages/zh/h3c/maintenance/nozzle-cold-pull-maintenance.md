@@ -4,7 +4,7 @@ title: "拓竹H3C 喷嘴冷拔指南"
 description: ""
 tags: []
 created: 2026-11-03T12:38:47.890Z
-updated: 2026-11-10T11:48:21.617Z
+updated: 2026-11-10T11:48:22.509Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/nozzle-cold-pull-maintenance
 ---
 

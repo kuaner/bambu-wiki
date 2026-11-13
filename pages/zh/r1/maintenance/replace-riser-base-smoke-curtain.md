@@ -4,7 +4,7 @@ title: "R1 增高架 挡烟帘更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:24:35.707Z
-updated: 2026-11-10T02:24:35.707Z
+updated: 2026-11-10T02:24:36.621Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-riser-base-smoke-curtain
 ---
 

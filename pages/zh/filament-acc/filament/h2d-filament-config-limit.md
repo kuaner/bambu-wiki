@@ -4,7 +4,7 @@ title: "混合耗材类型打印指南"
 description: ""
 tags: []
 created: 2025-04-01T12:19:53.723Z
-updated: 2026-11-11T06:31:38.155Z
+updated: 2026-11-11T06:31:39.143Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/h2d-filament-config-limit
 ---
 

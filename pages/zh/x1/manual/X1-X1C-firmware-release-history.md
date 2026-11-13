@@ -4,11 +4,18 @@ title: "X1/X1C 固件发布记录"
 description: "本指南提供 X1 及 X1C 所有固件发布记录"
 tags: []
 created: 2025-09-18T07:09:27.945Z
-updated: 2026-08-05T02:00:24.969Z
+updated: 2026-11-12T07:05:26.343Z
 source: https://wiki.bambulab.com/zh/x1/manual/X1-X1C-firmware-release-history
 ---
 
 如需查看所有离线固件包下载地址，请参见 [X1 系列固件下载](https://bambulab.cn/zh-cn/support/firmware-download/x1)。
+
+## 01.12.01.00 (20261021)
+
+### 功能优化
+
+1. 软件安全升级。
+2. 修复开机后立即发起打印时，打印流程偶发卡在"AMS准备中"的问题。
 
 ## 01.12.00.00 (20260804)
 

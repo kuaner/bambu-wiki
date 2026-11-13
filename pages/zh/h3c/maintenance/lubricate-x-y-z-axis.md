@@ -4,7 +4,7 @@ title: "拓竹H3C XYZ 轴润滑指南"
 description: ""
 tags: []
 created: 2026-11-03T12:49:10.425Z
-updated: 2026-11-10T08:47:02.780Z
+updated: 2026-11-13T07:38:41.337Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/lubricate-x-y-z-axis
 ---
 
@@ -70,7 +70,7 @@ XY 光轴上请勿使用润滑脂。
 
 ### Z 轴
 
-使用清洁湿巾擦拭 Z 轴丝杆，清理旧润滑油以及灰尘、碎屑。
+使用清洁湿巾擦拭 Z 轴丝杆，清理旧润滑脂以及灰尘、碎屑。
 
 |  |  |
 | --- | --- |

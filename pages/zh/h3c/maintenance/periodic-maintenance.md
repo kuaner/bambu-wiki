@@ -4,7 +4,7 @@ title: "拓竹H3C 打印机定期维护"
 description: ""
 tags: []
 created: 2026-11-03T12:48:37.584Z
-updated: 2026-11-10T11:48:34.202Z
+updated: 2026-11-13T07:35:32.481Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/periodic-maintenance
 ---
 
@@ -111,7 +111,7 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/periodic-maintenance
 
 #### 俯视摄像头
 
-![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/periodic-maintenance/zh/01_h3c________e9399d613f.png)
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-birdseye-camera/zh/001.jpg)
 
 ### 风扇
 

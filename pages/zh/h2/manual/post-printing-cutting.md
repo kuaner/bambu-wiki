@@ -4,7 +4,7 @@ title: "H2D 打印后刀切功能指南"
 description: ""
 tags: []
 created: 2025-04-29T13:21:46.596Z
-updated: 2026-11-06T01:51:53.620Z
+updated: 2026-11-06T01:51:54.590Z
 source: https://wiki.bambulab.com/zh/h2/manual/post-printing-cutting
 ---
 

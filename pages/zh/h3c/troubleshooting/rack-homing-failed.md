@@ -4,7 +4,7 @@ title: "2A008047：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:11.085Z
-updated: 2026-11-10T08:47:26.848Z
+updated: 2026-11-10T08:47:27.831Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/rack-homing-failed
 ---
 

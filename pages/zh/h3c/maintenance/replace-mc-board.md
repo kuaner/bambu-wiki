@@ -4,7 +4,7 @@ title: "MC 板更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:41:43.333Z
-updated: 2026-11-05T02:37:27.216Z
+updated: 2026-11-05T02:37:28.260Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-mc-board
 ---
 

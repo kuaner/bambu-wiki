@@ -4,7 +4,7 @@ title: "拓竹H3C 外接多台 AMS 指南"
 description: ""
 tags: []
 created: 2026-11-03T13:20:11.389Z
-updated: 2026-11-11T01:28:58.352Z
+updated: 2026-11-11T01:28:59.307Z
 source: https://wiki.bambulab.com/zh/h3c/manual/ams-connection-guide
 ---
 

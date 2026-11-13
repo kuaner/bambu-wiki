@@ -4,7 +4,7 @@ title: "H 系列"
 description: "本页面列出了所有 H 系列产品，方便您快速查找详细信息。"
 tags: []
 created: 2025-08-11T11:22:55.317Z
-updated: 2026-11-10T13:08:38.218Z
+updated: 2026-11-10T13:08:39.074Z
 source: https://wiki.bambulab.com/zh/h-series
 ---
 

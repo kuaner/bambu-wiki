@@ -4,7 +4,7 @@ title: "挤出模块组件拆装指引 - A1 系列"
 description: "本指引详细介绍了如何卸下和安装A1系列挤出模块"
 tags: []
 created: 2023-09-12T10:49:09.213Z
-updated: 2026-11-10T07:32:14.389Z
+updated: 2026-11-10T07:32:15.312Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/a1-extruder
 ---
 

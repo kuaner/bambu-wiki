@@ -4,7 +4,7 @@ title: "A1 mini 初次打印指南（使用外挂料盘）"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-18T02:56:41.787Z
-updated: 2026-11-10T08:19:08.687Z
+updated: 2026-11-10T08:19:09.527Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-external-spool
 ---
 

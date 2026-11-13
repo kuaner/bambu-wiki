@@ -4,7 +4,7 @@ title: "更换 A1 X 皮带指南"
 description: "更换 A1 打印机 X 皮带的操作步骤"
 tags: ["x皮带", "x轴", "x轴同步带"]
 created: 2024-08-23T12:16:51.608Z
-updated: 2026-11-10T07:51:41.707Z
+updated: 2026-11-10T07:51:42.532Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/replace-x-belt
 ---
 

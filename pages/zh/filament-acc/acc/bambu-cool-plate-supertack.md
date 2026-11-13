@@ -4,7 +4,7 @@ title: "拓竹增稳低温打印板"
 description: "本文介绍了拓竹增稳低温打印板"
 tags: ["打印板"]
 created: 2024-11-21T03:43:01.361Z
-updated: 2026-11-09T14:40:54.795Z
+updated: 2026-11-09T14:40:55.737Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc/bambu-cool-plate-supertack
 ---
 

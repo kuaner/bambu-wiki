@@ -4,7 +4,7 @@ title: "拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-02T07:17:52.824Z
-updated: 2026-11-10T08:47:02.584Z
+updated: 2026-11-10T08:47:03.536Z
 source: https://wiki.bambulab.com/zh/h3c
 ---
 

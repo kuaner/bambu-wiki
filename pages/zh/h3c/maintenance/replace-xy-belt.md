@@ -4,7 +4,7 @@ title: "XY 轴皮带更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:06:24.251Z
-updated: 2026-11-10T08:47:06.618Z
+updated: 2026-11-10T08:47:07.549Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-xy-belt
 ---
 

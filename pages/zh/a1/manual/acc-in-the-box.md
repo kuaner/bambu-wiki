@@ -4,7 +4,7 @@ title: "包装清单补充说明"
 description: "本指南对 A1 单机和 A1 combo 内的物品进行说明。"
 tags: ["a1", "a1 combo"]
 created: 2023-12-15T10:52:26.341Z
-updated: 2026-11-10T06:13:20.388Z
+updated: 2026-11-10T06:13:21.277Z
 source: https://wiki.bambulab.com/zh/a1/manual/acc-in-the-box
 ---
 

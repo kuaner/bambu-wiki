@@ -4,7 +4,7 @@ title: "H2 系列激光旋转轴加工指南"
 description: "本文介绍了如何使用激光旋转轴加工功能"
 tags: []
 created: 2026-01-22T02:30:28.157Z
-updated: 2026-11-05T03:59:58.802Z
+updated: 2026-11-05T03:59:59.892Z
 source: https://wiki.bambulab.com/zh/h2/manual/rotary-attachment-guide
 ---
 

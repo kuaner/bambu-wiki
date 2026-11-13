@@ -4,7 +4,7 @@ title: "拓竹H3C 视窗更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:38:28.091Z
-updated: 2026-11-10T06:18:12.200Z
+updated: 2026-11-10T06:18:13.094Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-side-glass-left
 ---
 

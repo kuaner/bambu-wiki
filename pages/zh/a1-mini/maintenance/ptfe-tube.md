@@ -4,7 +4,7 @@ title: "A1 系列产品料管更换指引"
 description: "介绍如何将 PTFE 管从五通接口和 AMS lite上下料上移除"
 tags: ["料管", "a1"]
 created: 2023-10-24T04:11:41.978Z
-updated: 2026-11-10T06:25:16.592Z
+updated: 2026-11-10T06:25:17.500Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/ptfe-tube
 ---
 

@@ -4,7 +4,7 @@ title: "拓竹打印机 LED 指示灯灯语解释"
 description: ""
 tags: []
 created: 2024-06-12T03:28:02.473Z
-updated: 2026-11-10T08:47:00.406Z
+updated: 2026-11-10T08:47:01.312Z
 source: https://wiki.bambulab.com/zh/general/indicator-led-explanation
 ---
 

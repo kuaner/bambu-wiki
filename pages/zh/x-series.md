@@ -4,7 +4,7 @@ title: "X 系列"
 description: "本页面列出了所有 X 系列产品，方便您快速查找详细信息。"
 tags: []
 created: 2026-04-13T07:55:23.322Z
-updated: 2026-11-09T03:59:09.234Z
+updated: 2026-11-09T03:59:10.069Z
 source: https://wiki.bambulab.com/zh/x-series
 ---
 

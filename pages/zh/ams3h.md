@@ -4,7 +4,7 @@ title: "AMS 3H"
 description: ""
 tags: []
 created: 2026-11-02T06:51:38.960Z
-updated: 2026-11-10T08:46:58.511Z
+updated: 2026-11-10T08:46:59.499Z
 source: https://wiki.bambulab.com/zh/ams3h
 ---
 

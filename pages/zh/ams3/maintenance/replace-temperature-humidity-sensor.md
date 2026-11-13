@@ -4,7 +4,7 @@ title: "AMS 3H 温湿度传感器更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:25:13.091Z
-updated: 2026-11-06T02:23:27.772Z
+updated: 2026-11-06T02:23:28.668Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-temperature-humidity-sensor
 ---
 

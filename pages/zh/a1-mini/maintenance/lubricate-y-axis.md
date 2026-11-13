@@ -4,7 +4,7 @@ title: "A1mini 润滑Y轴导轨操作指南"
 description: ""
 tags: []
 created: 2023-11-01T02:43:39.172Z
-updated: 2026-11-10T08:18:44.034Z
+updated: 2026-11-10T08:18:44.834Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/lubricate-y-axis
 ---
 

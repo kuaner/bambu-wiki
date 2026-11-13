@@ -4,7 +4,7 @@ title: "A1 mini X轴组件拆装指引"
 description: "提供A1 mini X轴组件的拆解和组装的指引和注意事项。"
 tags: ["a1 mini", "x轴组件"]
 created: 2023-09-12T02:39:04.981Z
-updated: 2026-11-10T08:18:57.648Z
+updated: 2026-11-10T08:18:58.491Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/x-axis
 ---
 

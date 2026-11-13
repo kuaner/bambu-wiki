@@ -4,7 +4,7 @@ title: "堵嘴组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:44:51.468Z
-updated: 2026-11-09T04:21:31.170Z
+updated: 2026-11-09T04:21:32.086Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-flow-blocker
 ---
 

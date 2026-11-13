@@ -4,7 +4,7 @@ title: "熨烫功能"
 description: "本文介绍了 Bambu Studio 熨烫功能及其参数设置。"
 tags: []
 created: 2023-11-06T03:58:33.914Z
-updated: 2026-11-06T07:50:27.865Z
+updated: 2026-11-06T07:50:28.919Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/parameter/ironing
 ---
 

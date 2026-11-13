@@ -4,7 +4,7 @@ title: "E1 净化器故障排查指南"
 description: "本文为您介绍 E1 净化器典型故障的排查措施。"
 tags: []
 created: 2026-11-03T13:33:01.194Z
-updated: 2026-11-03T13:33:31.483Z
+updated: 2026-11-12T09:54:04.844Z
 source: https://wiki.bambulab.com/zh/e1/troubleshooting/purifier-troubleshooting-guide
 ---
 
@@ -76,13 +76,7 @@ source: https://wiki.bambulab.com/zh/e1/troubleshooting/purifier-troubleshooting
 
 ![20261030-010.png](https://public-cdn.bblmw.com/wiki/new/e1/troubleshooting/purifier-troubleshooting-guide/zh/20261030-010.png)
 
-若该情况下依然提示风扇转速异常，请通过滤芯处观察风扇外观。
-
-![20261030-011.png](https://public-cdn.bblmw.com/wiki/new/e1/troubleshooting/purifier-troubleshooting-guide/zh/20261030-011.png)
-
-若灰尘积累明显，请参考 [E1 风扇更换指南](../maintenance/replace-purifier-fan.md)分离前后盖，使用毛刷及时清理。若扇叶较为干净，请联系客户支持团队。
-
-![20261030-012.gif](https://public-cdn.bblmw.com/wiki/new/e1/troubleshooting/purifier-troubleshooting-guide/zh/20261030-012.gif)
+若该情况下依然提示风扇转速异常，请联系客户支持团队。
 
 ## 典型故障三：滤芯种类错误/不匹配
 

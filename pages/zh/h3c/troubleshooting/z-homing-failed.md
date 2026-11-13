@@ -4,7 +4,7 @@ title: "03004030：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:29.429Z
-updated: 2026-11-10T08:47:27.670Z
+updated: 2026-11-10T08:47:28.618Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/z-homing-failed
 ---
 

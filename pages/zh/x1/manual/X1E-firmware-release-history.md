@@ -4,11 +4,22 @@ title: "X1E 固件发布记录"
 description: "本指南提供 X1E 所有固件发布记录。"
 tags: ["x1e", "发布记录", "固件"]
 created: 2023-12-11T04:18:40.589Z
-updated: 2026-09-11T04:16:03.398Z
+updated: 2026-11-12T07:09:29.232Z
 source: https://wiki.bambulab.com/zh/x1/manual/X1E-firmware-release-history
 ---
 
-# X1E固件发布记录
+如需查看所有离线固件包下载地址，请参见 [X1E 固件下载](https://bambulab.cn/zh-cn/support/firmware-download/x1e)。
+
+## Version OTA 01.03.01.00 (20261021)
+
+### 功能优化
+
+1. 软件安全升级。
+2. 修复开机后立即发起打印时，打印流程偶发卡在"AMS准备中"的问题。
+
+### 备注
+
+若您的X1E固件版本为01.01.02.00或更早版本,在进行离线升级至01.02.00.00及以上版本前,需先离线升级至跳板固件01.01.50.02。(在线升级不受影响,可直接更新)
 
 ## Version OTA 01.03.00.00 (20260804)
 

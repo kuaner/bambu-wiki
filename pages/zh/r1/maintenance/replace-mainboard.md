@@ -4,7 +4,7 @@ title: "R1 主控板更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:24:32.619Z
-updated: 2026-11-10T02:24:32.619Z
+updated: 2026-11-10T02:24:33.512Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-mainboard
 ---
 

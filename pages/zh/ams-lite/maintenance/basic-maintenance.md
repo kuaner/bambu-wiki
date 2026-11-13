@@ -4,7 +4,7 @@ title: "AMS lite 定期维护建议"
 description: "关于 AMS lite 的一些日常维护和保养建议"
 tags: ["ams lite"]
 created: 2024-11-28T02:36:03.975Z
-updated: 2026-11-10T12:50:37.821Z
+updated: 2026-11-10T12:50:38.720Z
 source: https://wiki.bambulab.com/zh/ams-lite/maintenance/basic-maintenance
 ---
 

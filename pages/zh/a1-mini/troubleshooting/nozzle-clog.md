@@ -4,7 +4,7 @@ title: "A1 系列打印机热端堵塞清理"
 description: "本指南介绍 A1 系列打印机热端堵塞清理的 3 种方法。"
 tags: ["a1", "a1 mini", "热端堵塞"]
 created: 2023-11-07T08:08:56.580Z
-updated: 2026-11-10T08:19:32.295Z
+updated: 2026-11-10T08:19:33.212Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/nozzle-clog
 ---
 

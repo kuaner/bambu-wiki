@@ -4,7 +4,7 @@ title: "A1 系列挤出机清理"
 description: "本文介绍如何对 A1 系列挤出机进行清洁"
 tags: ["挤出机", "a1"]
 created: 2023-11-10T03:46:55.154Z
-updated: 2026-11-10T08:19:16.353Z
+updated: 2026-11-10T08:19:17.280Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/extruder-clog
 ---
 

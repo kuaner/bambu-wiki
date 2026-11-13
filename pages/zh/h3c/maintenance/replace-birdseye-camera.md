@@ -4,7 +4,7 @@ title: "俯视摄像头更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:38:02.460Z
-updated: 2026-11-10T11:48:52.278Z
+updated: 2026-11-10T11:48:53.180Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-birdseye-camera
 ---
 

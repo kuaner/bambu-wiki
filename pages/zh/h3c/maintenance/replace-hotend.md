@@ -4,7 +4,7 @@ title: "热端更换指南"
 description: "本文介绍了如何更换热端。"
 tags: []
 created: 2026-11-03T12:37:04.289Z
-updated: 2026-11-10T08:47:05.795Z
+updated: 2026-11-10T08:47:06.722Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-hotend
 ---
 

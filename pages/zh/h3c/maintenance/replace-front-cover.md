@@ -4,7 +4,7 @@ title: "前面盖更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:43:13.206Z
-updated: 2026-11-10T08:47:05.341Z
+updated: 2026-11-10T08:47:06.268Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-front-cover
 ---
 

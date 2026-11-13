@@ -4,7 +4,7 @@ title: "R1 激光使用安全指引"
 description: ""
 tags: []
 created: 2026-09-22T12:47:19.413Z
-updated: 2026-11-05T13:37:31.419Z
+updated: 2026-11-05T13:37:32.458Z
 source: https://wiki.bambulab.com/zh/r1/manual/laser-important-info
 ---
 

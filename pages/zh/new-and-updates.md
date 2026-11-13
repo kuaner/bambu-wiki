@@ -4,7 +4,7 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-11-06T10:15:13.201Z
+updated: 2026-11-06T10:15:14.978Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
 

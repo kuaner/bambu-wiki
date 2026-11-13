@@ -4,7 +4,7 @@ title: "拓竹H3C 刀切加工介绍"
 description: ""
 tags: []
 created: 2026-11-03T12:12:20.629Z
-updated: 2026-11-10T08:47:07.860Z
+updated: 2026-11-10T08:47:08.830Z
 source: https://wiki.bambulab.com/zh/h3c/manual/crafting-guide
 ---
 

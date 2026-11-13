@@ -4,7 +4,7 @@ title: "A1 Combo 装箱指南 （旧版包装）"
 description: ""
 tags: ["a1", "套装", "装箱指南"]
 created: 2023-12-18T14:40:03.750Z
-updated: 2026-11-10T07:51:46.050Z
+updated: 2026-11-10T07:51:46.973Z
 source: https://wiki.bambulab.com/zh/a1/manual/pack-a1-combo
 ---
 

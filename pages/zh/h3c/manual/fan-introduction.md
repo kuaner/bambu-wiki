@@ -4,7 +4,7 @@ title: "拓竹H3C 风扇介绍"
 description: ""
 tags: []
 created: 2026-11-03T12:12:46.927Z
-updated: 2026-11-10T08:47:09.318Z
+updated: 2026-11-10T08:47:10.262Z
 source: https://wiki.bambulab.com/zh/h3c/manual/fan-introduction
 ---
 

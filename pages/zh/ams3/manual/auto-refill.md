@@ -4,7 +4,7 @@ title: "AMS 3H 自动续料功能介绍"
 description: ""
 tags: []
 created: 2026-11-03T13:24:09.534Z
-updated: 2026-11-10T08:46:57.210Z
+updated: 2026-11-10T08:46:58.130Z
 source: https://wiki.bambulab.com/zh/ams3/manual/auto-refill
 ---
 

@@ -4,7 +4,7 @@ title: "拓竹工作站 L 开箱安装指南"
 description: "本文适用于拓竹工作站 L 开放版、开放版选购配件及封箱版。封箱版已包含开放版主体及全部选购配件，请根据实际购买版本阅读对应内容。"
 tags: []
 created: 2026-11-03T12:10:31.239Z
-updated: 2026-11-05T08:55:03.592Z
+updated: 2026-11-05T08:55:04.658Z
 source: https://wiki.bambulab.com/zh/h3c/manual/bambu-station-installation-guide
 ---
 

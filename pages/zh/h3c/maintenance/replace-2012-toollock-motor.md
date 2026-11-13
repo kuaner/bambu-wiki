@@ -4,7 +4,7 @@ title: "锁紧电机更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:06:53.807Z
-updated: 2026-11-10T08:47:04.049Z
+updated: 2026-11-10T08:47:04.972Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-2012-toollock-motor
 ---
 

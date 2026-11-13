@@ -4,7 +4,7 @@ title: "耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水�
 description: "耗材指南可帮助您选择合适的耗材打印材料，包括喷嘴和打印面板的兼容性、打印设置及存储办法。"
 tags: []
 created: 2023-05-12T03:43:34.799Z
-updated: 2026-11-06T02:16:21.468Z
+updated: 2026-11-12T02:02:49.171Z
 source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 ---
 
@@ -54,8 +54,10 @@ source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 | **PPA-CF/GF** | **不可用** | 可用 | **推荐** | 可用 | **不推荐** | 可用 | 可用 | **需要** | 285 - 320 |
 | **PPS-CF/GF** | **不可用** | 可用 | **推荐** | 可用 | **不推荐** | 可用 | 可用 | **需要** | 310 - 340 |
 
-**表附注**  
-本处 PLA 指**常规 PLA**（不含质地坚硬且颗粒尺寸较大的 碳纤维（CF），玻璃纤维（GF），或其他金属、无机非金属材质的填充物），包含 **PLA Basic/Matte/Tough/Metal/Silk/Aero/Dynamic** 等；不含 PLA-CF、PLA-GF、PLA Sparkle、PLA Marble 等特殊改性品类。
+**表附注**
+
+- 本处 PLA 指**常规 PLA**（不含质地坚硬且颗粒尺寸较大的 碳纤维（CF），玻璃纤维（GF），或其他金属、无机非金属材质的填充物），包含 **PLA Basic/Matte/Tough/Metal/Silk/Aero/Dynamic** 等；不含 PLA-CF、PLA-GF、PLA Sparkle、PLA Marble 等特殊改性品类。
+- 拓竹H3C 各喷嘴与耗材兼容性请阅读：[拓竹H3C 3D 打印耗材兼容性指南](../h3c/manual/filament-compatibility-guide.md)
 
 ---
 
@@ -85,6 +87,7 @@ source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 - [H2D 喷嘴/热端堵塞清理指南](../h2/troubleshooting/unclogging.md)
 - [H2S 喷嘴/热端堵塞清理指南](../h2s/troubleshooting/nozzle-clog.md)
 - [H2C 喷嘴/热端堵塞清理指南](../h2c/troubleshooting/unclogging.md)
+- [拓竹H3C 热端堵塞清理指南](../h3c/troubleshooting/unclogging.md)
 - [P2S 喷嘴/热端堵塞清理指南](../p2s/maintenance/cold-pull-maintenance-hotend.md)
 - [X2D 喷嘴/热端堵塞清理指南](../x2d/maintenance/cold-pull-maintenance-hotend.md)
 - [A1 系列喷嘴/热端堵塞清理指南](../a1-mini/troubleshooting/nozzle-clog.md)
@@ -98,10 +101,10 @@ AMS 与 AMS Lite 对耗材物理特性有明确要求，不推荐使用以下三
 - **❌ 太脆的线材** （部分品牌 PET-CF、PLA Wood、PA-CF/GF、PAHT-CF/GF）：容易断在 AMS、AMS lite 的通道中。
 - **❌ 太硬且表面粗糙的线材** （部分品牌 PET-CF、PA-CF/GF、PAHT-CF/GF、PLA-CF/GF）：**容易磨损 AMS、AMS lite 内部送线通道**。
 
-此外，与 AMS Lite 相比，AMS 配备额外送料齿轮，可与挤出机齿轮配合提供更强的进退料助力，能克服更大的送料阻力，因此可适配部分较软或较粗糙、进料阻力较大的耗材。而 AMS Lite 无额外送料助力结构，装载此类耗材时极易出现进退料失败，不推荐使用，这类耗材包括：PETG-CF，PLA 木质款。
+此外，与 AMS lite 相比，AMS 配备额外送料齿轮，可与挤出机齿轮配合提供更强的进退料助力，能克服更大的送料阻力，因此可适配部分较软或较粗糙、进料阻力较大的耗材。而 AMS Lite 无额外送料助力结构，装载此类耗材时极易出现进退料失败，不推荐使用，这类耗材包括：PETG-CF，PLA 木质款。
 
 > **💡 重要提示：**  
-> 在使用工程耗材之前需要对耗材进行干燥处理,您可参考如下文章：
+> 在使用工程耗材之前需要对耗材进行干燥处理，您可参考如下文章：
 >
 > - [高温耗材、工程材料打印指南](../filament/petcf_ppacf.md)
 > - [耗材烘干操作指南](../filament-acc/filament/dry-filament.md)
@@ -136,7 +139,8 @@ AMS 与 AMS Lite 对耗材物理特性有明确要求，不推荐使用以下三
 
 **表附注**  
 ①仅从进退料角度说明 AMS、AMS Lite 与耗材的兼容性，**长期使用还需要检查耗材粗糙度是否会磨损 AMS 内部送线通道**。  
-②本处 PLA 指**常规 PLA**（不含质地坚硬且颗粒尺寸较大的 碳纤维（CF），玻璃纤维（GF），或其他金属、无机非金属材质的填充物），包含 **PLA Basic/Matte/Tough/Metal/Silk/Aero/Dynamic** 等；不含 PLA-CF、PLA-GF、PLA Sparkle、PLA Marble 等特殊改性品类。
+②本处 PLA 指**常规 PLA**（不含质地坚硬且颗粒尺寸较大的 碳纤维（CF），玻璃纤维（GF），或其他金属、无机非金属材质的填充物），包含 **PLA Basic/Matte/Tough/Metal/Silk/Aero/Dynamic** 等；不含 PLA-CF、PLA-GF、PLA Sparkle、PLA Marble 等特殊改性品类。  
+③**AMS 3H** 不同进料方式的耗材兼容性请参考：[拓竹H3C 3D 打印耗材兼容性指南](https://wiki.bambulab.com/zh/h3c/manual/filament-compatibility-guide#%E8%80%97%E6%9D%90%E8%BF%9B%E6%96%99%E5%BD%A2%E5%BC%8F%E9%80%82%E9%85%8D%E6%80%A7)
 
 ## 打印板选择与热床温度设置
 
@@ -225,7 +229,9 @@ AMS 与 AMS Lite 对耗材物理特性有明确要求，不推荐使用以下三
 
 烘干前 （左）; 烘干后（右）
 
-因此，强烈建议在打印前（尤其是对外观和强度要求较高的模型），若无法确认耗材处于充分干燥状态，需先对耗材进行烘干处理；同时在打印过程中，要对耗材做好密封与干燥防护。更多耗材烘干的详细操作指南，请查阅 [**耗材烘干操作指南**](../filament-acc/filament/dry-filament.md)。
+因此，强烈建议在打印前（尤其是对外观和强度要求较高的模型），若无法确认耗材处于充分干燥状态，需先对耗材进行烘干处理；同时在打印过程中，要对耗材做好密封与干燥防护。
+
+耗材烘干的详细操作及各类耗材的烘干参数，请查阅 [**耗材烘干操作指南**](../filament-acc/filament/dry-filament.md)。
 
 了解耗材特性，有助于根据实际应用需求选择适配耗材：
 
@@ -234,21 +240,21 @@ AMS 与 AMS Lite 对耗材物理特性有明确要求，不推荐使用以下三
 
 💡 提示：滑动表格查看更多内容。
 
-| **耗材** | **打印前是否需要烘干** | 鼓风干燥箱  **烘干条件** | **AMS 2 Pro  烘干条件** | AMS HT **烘干条件** | **是否需要防潮** | **热变形温度等级** | **抗冲击能力** | **强度、刚度** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **PLA** | 推荐 | 55 ℃，8 小时 | 45 ℃，12 小时 | 45 ℃，12 小时 | 否，但推荐 | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
-| **PLA Metal / Wood / Marble** | 推荐 | 55 ℃，8 小时 | 45 ℃，12 小时 | 45 ℃，12 小时 | 否，但推荐 | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
-| **PLA-CF** | 推荐 | 55 ℃，8 小时 | 45 ℃，12 小时 | 45 ℃，12 小时 | 否，但推荐 | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ |
-| **PVA** | **是** | 55 ℃，8 小时 | 不推荐 | 85 ℃，18 小时 | **是** | ⭐ | ⭐ | ⭐ |
-| **PETG** | 推荐 | 70 ℃，8 小时 | 65 ℃，12 小时 | 65 ℃，12 小时 | 否，但推荐 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| **PETG HF** | 是 | 65 ℃，8 小时 | 65 ℃，12 小时 | 65 ℃，12 小时 | **是** | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| **ABS** | 推荐 | 80 ℃，8 小时 | 不推荐 | 80 ℃，8 小时 | 否，但推荐 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| **ASA** | 推荐 | 80 ℃，8 小时 | 不推荐 | 80 ℃，8 小时 | 否，但推荐 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| **PC** | 是 | 80 ℃，8 小时 | 不推荐 | 80 ℃，8 小时 | **是** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **PA** | **是** | 80 ℃，8 - 12 小时 | 不推荐 | 85 ℃，12 小时 | **是** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **PA-CF/GF，PAHT-CF/GF** | **是** | 80 ℃，8 - 12 小时 | 不推荐 | 85 ℃，12 小时 | **是** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **PET-CF/GF** | **是** | 80 ℃，8 - 12 小时 | 不推荐 | 80 ℃，12 小时 | **是** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **TPU** | **是** | 70 ℃，8 小时 | 不推荐 | 75 ℃，12 小时 | **是** | ⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+| **耗材** | **热变形温度等级** | **抗冲击能力** | **强度、刚度** |
+| --- | --- | --- | --- |
+| **PLA** | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
+| **PLA Metal / Wood / Marble** | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
+| **PLA-CF** | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ |
+| **PVA** | ⭐ | ⭐ | ⭐ |
+| **PETG** | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| **PETG HF** | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| **ABS** | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| **ASA** | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| **PC** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **PA** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **PA-CF/GF，PAHT-CF/GF** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **PET-CF/GF** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **TPU** | ⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
 
 ## 结束语
 

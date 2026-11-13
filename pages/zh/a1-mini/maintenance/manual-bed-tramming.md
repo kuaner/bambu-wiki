@@ -4,7 +4,7 @@ title: "A1 mini 热床手动调平"
 description: "介绍如何对A1 mini的热床进行手动调平"
 tags: ["调平", "手动调平", "热床调平"]
 created: 2023-10-10T01:03:52.174Z
-updated: 2026-11-10T08:18:45.504Z
+updated: 2026-11-10T08:18:46.403Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/manual-bed-tramming
 ---
 

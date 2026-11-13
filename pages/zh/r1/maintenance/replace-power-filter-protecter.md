@@ -4,7 +4,7 @@ title: "R1 电源过滤与保护器更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:25:18.701Z
-updated: 2026-11-10T02:25:18.701Z
+updated: 2026-11-10T02:25:19.650Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-power-filter-protecter
 ---
 

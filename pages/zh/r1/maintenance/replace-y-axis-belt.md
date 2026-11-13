@@ -4,7 +4,7 @@ title: "Y 皮带更换指南"
 description: ""
 tags: []
 created: 2026-10-10T10:08:14.653Z
-updated: 2026-11-09T07:42:23.102Z
+updated: 2026-11-09T07:42:24.038Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-y-axis-belt
 ---
 

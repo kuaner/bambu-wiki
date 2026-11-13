@@ -4,7 +4,7 @@ title: "Bambu Studio 2.9.1 版本说明"
 description: ""
 tags: []
 created: 2026-11-03T03:26:05.070Z
-updated: 2026-11-10T13:07:47.283Z
+updated: 2026-11-10T13:07:48.193Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/release/release-note-2-9-1
 ---
 

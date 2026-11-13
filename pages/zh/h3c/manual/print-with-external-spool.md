@@ -4,7 +4,7 @@ title: "拓竹H3C 外挂进料指南"
 description: ""
 tags: []
 created: 2026-11-03T12:12:36.555Z
-updated: 2026-11-10T08:47:12.333Z
+updated: 2026-11-10T08:47:13.299Z
 source: https://wiki.bambulab.com/zh/h3c/manual/print-with-external-spool
 ---
 

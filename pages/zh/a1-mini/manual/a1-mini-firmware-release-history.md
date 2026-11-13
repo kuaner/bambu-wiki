@@ -4,7 +4,7 @@ title: "A1 mini 固件发布记录"
 description: "本指南提供 A1 mini 所有固件发布记录。"
 tags: []
 created: 2023-10-16T01:57:32.876Z
-updated: 2026-11-11T12:54:27.240Z
+updated: 2026-11-11T12:54:28.120Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/a1-mini-firmware-release-history
 ---
 

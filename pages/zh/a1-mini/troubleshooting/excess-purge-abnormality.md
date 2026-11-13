@@ -4,7 +4,7 @@ title: "A1 系列吐料异常及解决方案"
 description: "简述 A1 系列打印机将废料吐到挡板上且不能正常弹落的对应方案"
 tags: ["吐料组件", "a1 mini"]
 created: 2023-10-20T07:13:32.714Z
-updated: 2026-11-10T08:19:14.041Z
+updated: 2026-11-10T08:19:14.973Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/excess-purge-abnormality
 ---
 

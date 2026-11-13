@@ -4,7 +4,7 @@ title: "R1 上盖组件更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:24:22.173Z
-updated: 2026-11-10T02:24:22.173Z
+updated: 2026-11-10T02:24:23.136Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-top-lid-assembly
 ---
 

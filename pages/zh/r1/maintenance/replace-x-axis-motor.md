@@ -4,7 +4,7 @@ title: "R1 X 轴电机更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:24:00.569Z
-updated: 2026-11-10T02:24:00.569Z
+updated: 2026-11-10T02:24:01.456Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-x-axis-motor
 ---
 

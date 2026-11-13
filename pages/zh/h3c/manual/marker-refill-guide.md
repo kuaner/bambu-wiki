@@ -4,7 +4,7 @@ title: "补墨套装使用流程"
 description: ""
 tags: []
 created: 2026-11-03T12:12:11.307Z
-updated: 2026-11-10T04:15:18.104Z
+updated: 2026-11-10T04:15:19.014Z
 source: https://wiki.bambulab.com/zh/h3c/manual/marker-refill-guide
 ---
 

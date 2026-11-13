@@ -4,7 +4,7 @@ title: "R1 X 轴歪斜调整指南"
 description: ""
 tags: []
 created: 2026-11-09T03:42:05.030Z
-updated: 2026-11-09T03:43:15.264Z
+updated: 2026-11-09T03:43:16.148Z
 source: https://wiki.bambulab.com/zh/r1/troubleshooting/x-axis-skew-adjustment
 ---
 

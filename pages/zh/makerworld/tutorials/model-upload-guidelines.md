@@ -4,7 +4,7 @@ title: "模型上传准则"
 description: "该指南旨在明晰MakerWorld社区模型的内容合规要求"
 tags: ["makerworld"]
 created: 2026-04-07T03:52:02.215Z
-updated: 2026-11-06T03:15:18.629Z
+updated: 2026-11-06T03:15:19.584Z
 source: https://wiki.bambulab.com/zh/makerworld/tutorials/model-upload-guidelines
 ---
 

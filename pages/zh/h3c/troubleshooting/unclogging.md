@@ -4,7 +4,7 @@ title: "拓竹H3C 热端堵塞清理指南"
 description: ""
 tags: []
 created: 2026-11-03T12:06:23.604Z
-updated: 2026-11-10T08:47:27.027Z
+updated: 2026-11-10T08:47:28.022Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/unclogging
 ---
 

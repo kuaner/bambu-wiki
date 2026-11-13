@@ -4,7 +4,7 @@ title: "拓竹H3C 3D 打印耗材兼容性指南"
 description: "本文介绍了拓竹H3C 打印机的耗材兼容性。"
 tags: []
 created: 2026-11-03T13:19:19.333Z
-updated: 2026-11-10T08:47:09.792Z
+updated: 2026-11-10T08:47:10.758Z
 source: https://wiki.bambulab.com/zh/h3c/manual/filament-compatibility-guide
 ---
 

@@ -4,7 +4,7 @@ title: "拓竹H3C 首次打印"
 description: ""
 tags: []
 created: 2026-11-03T12:11:35.968Z
-updated: 2026-11-10T08:47:10.644Z
+updated: 2026-11-10T08:47:11.598Z
 source: https://wiki.bambulab.com/zh/h3c/manual/first-print
 ---
 

@@ -4,7 +4,7 @@ title: "拓竹H3C AMS 套装开箱指南"
 description: "本文介绍拓竹H3C 和 AMS 3H 的开箱及安装步骤。"
 tags: []
 created: 2026-11-03T12:11:10.268Z
-updated: 2026-11-10T08:47:13.940Z
+updated: 2026-11-10T08:47:14.888Z
 source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 ---
 

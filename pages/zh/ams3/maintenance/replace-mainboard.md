@@ -4,7 +4,7 @@ title: "AMS 3H 主板 更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:25:08.635Z
-updated: 2026-11-06T02:20:31.498Z
+updated: 2026-11-06T02:20:32.437Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-mainboard
 ---
 

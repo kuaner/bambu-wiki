@@ -4,7 +4,7 @@ title: "拓竹H3C 切料顶杆跳齿修复教程"
 description: ""
 tags: []
 created: 2026-11-03T12:08:55.849Z
-updated: 2026-11-10T12:39:34.207Z
+updated: 2026-11-10T12:39:35.132Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/fix-the-filament-cutter-stopper
 ---
 

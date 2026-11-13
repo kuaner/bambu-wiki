@@ -4,7 +4,7 @@ title: "A 系列打印板位置检测"
 description: "本文章介绍了 A2L / A1 / A1 mini 打印机的打印板位置检测功能。"
 tags: []
 created: 2024-01-24T11:51:43.821Z
-updated: 2026-11-10T08:19:05.191Z
+updated: 2026-11-10T08:19:06.081Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/build-plate-detection
 ---
 

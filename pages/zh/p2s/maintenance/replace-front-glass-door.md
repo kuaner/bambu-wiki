@@ -4,7 +4,7 @@ title: "更换 P2S/X2D 玻璃前门"
 description: "本文介绍了如何更换 P2S/X2D  玻璃前门"
 tags: []
 created: 2025-10-14T12:55:45.302Z
-updated: 2026-11-06T08:33:20.965Z
+updated: 2026-11-06T08:33:22.025Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-front-glass-door
 ---
 

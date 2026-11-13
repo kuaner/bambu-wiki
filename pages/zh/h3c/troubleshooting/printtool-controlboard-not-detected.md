@@ -4,7 +4,7 @@ title: "0300403A：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:02.406Z
-updated: 2026-11-10T08:47:25.873Z
+updated: 2026-11-10T08:47:26.783Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/printtool-controlboard-not-detected
 ---
 

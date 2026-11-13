@@ -4,7 +4,7 @@ title: "拓竹H3C 螺丝包"
 description: ""
 tags: []
 created: 2026-11-03T13:07:11.333Z
-updated: 2026-11-10T06:18:12.216Z
+updated: 2026-11-10T06:18:13.154Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-screws-kit
 ---
 

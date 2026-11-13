@@ -4,7 +4,7 @@ title: "A1 mini Y轴&Z轴拆装指引"
 description: ""提供A1 mini Z轴&Y轴相关联配件的拆解和组装的指引和注意事项。""
 tags: ["y张紧器", "z轴", "z电机", "y皮带", "联轴器", "z上盖", "y电机"]
 created: 2023-09-13T05:11:55.292Z
-updated: 2026-11-11T07:52:33.568Z
+updated: 2026-11-11T07:52:34.426Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/yz-axis
 ---
 

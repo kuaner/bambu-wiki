@@ -4,7 +4,7 @@ title: "AMS lite模块和功能介绍"
 description: ""
 tags: []
 created: 2023-09-18T12:58:35.677Z
-updated: 2026-11-10T13:14:02.249Z
+updated: 2026-11-10T13:14:03.177Z
 source: https://wiki.bambulab.com/zh/ams-lite/manual/intro-ams-lite
 ---
 

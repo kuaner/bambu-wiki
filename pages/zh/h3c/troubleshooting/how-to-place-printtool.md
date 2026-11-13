@@ -4,7 +4,7 @@ title: "如何手动解锁工具头上的打印头"
 description: "本文将介绍如何手动解锁工具头上的打印头"
 tags: []
 created: 2026-11-09T02:52:41.119Z
-updated: 2026-11-09T03:03:41.747Z
+updated: 2026-11-09T03:03:42.614Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/how-to-place-printtool
 ---
 

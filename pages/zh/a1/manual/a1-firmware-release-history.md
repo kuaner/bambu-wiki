@@ -4,7 +4,7 @@ title: "A1 固件发布记录"
 description: "本指南提供 A1 打印机所有的固件发布记录。"
 tags: ["a1"]
 created: 2023-12-21T12:08:08.622Z
-updated: 2026-11-11T12:51:04.165Z
+updated: 2026-11-11T12:51:05.127Z
 source: https://wiki.bambulab.com/zh/a1/manual/a1-firmware-release-history
 ---
 

@@ -4,7 +4,7 @@ title: "锁紧组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:47:05.828Z
-updated: 2026-11-10T06:18:12.174Z
+updated: 2026-11-10T06:18:13.104Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-toollock-assembly
 ---
 

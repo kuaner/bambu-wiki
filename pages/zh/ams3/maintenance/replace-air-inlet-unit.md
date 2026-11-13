@@ -4,7 +4,7 @@ title: "AMS 3H 进/出气口组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:25:20.861Z
-updated: 2026-11-06T02:26:56.328Z
+updated: 2026-11-06T02:26:57.226Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-air-inlet-unit
 ---
 

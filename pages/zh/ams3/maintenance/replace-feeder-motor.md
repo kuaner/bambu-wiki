@@ -4,7 +4,7 @@ title: "AMS 送料电机更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:25:43.992Z
-updated: 2026-11-06T02:30:00.099Z
+updated: 2026-11-06T02:30:00.983Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-feeder-motor
 ---
 

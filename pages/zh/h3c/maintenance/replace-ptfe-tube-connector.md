@@ -4,7 +4,7 @@ title: "气动接头更换指南-PTFE Tube Connector Replacement Guide"
 description: ""
 tags: []
 created: 2026-11-03T13:50:45.321Z
-updated: 2026-11-10T10:58:38.336Z
+updated: 2026-11-10T10:58:39.276Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-ptfe-tube-connector
 ---
 

@@ -4,7 +4,7 @@ title: "A1 系列进料霍尔板底座更换指南"
 description: "简单介绍了如何为 A1 系列打印机更换进料霍尔板底座"
 tags: ["进料霍尔板底座", "a1", "霍尔板底座"]
 created: 2023-12-08T09:15:48.057Z
-updated: 2026-11-10T08:18:41.292Z
+updated: 2026-11-10T08:18:42.208Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/filament-sensor-base-replacement
 ---
 

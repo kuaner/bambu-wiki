@@ -4,7 +4,7 @@ title: "A1 mini 热床温度异常故障排查"
 description: "本文简要介绍了 A1 mini 热床不升温相关故障的排查步骤"
 tags: ["a1 mini"]
 created: 2023-12-22T01:23:33.180Z
-updated: 2026-11-10T06:25:29.173Z
+updated: 2026-11-10T06:25:29.998Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/heatbed-not-heat-up
 ---
 

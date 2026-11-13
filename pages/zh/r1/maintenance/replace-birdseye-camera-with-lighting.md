@@ -4,7 +4,7 @@ title: "R1 俯视摄像头和补光灯组件更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:24:41.201Z
-updated: 2026-11-10T02:24:41.201Z
+updated: 2026-11-10T02:24:42.119Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-birdseye-camera-with-lighting
 ---
 

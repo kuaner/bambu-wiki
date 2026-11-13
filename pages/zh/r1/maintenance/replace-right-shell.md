@@ -4,7 +4,7 @@ title: "R1 右壳体更换指南"
 description: "本文介绍了如何更换 R1 右壳体"
 tags: []
 created: 2026-11-09T10:10:43.030Z
-updated: 2026-11-09T10:11:24.473Z
+updated: 2026-11-09T10:11:25.405Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-right-shell
 ---
 

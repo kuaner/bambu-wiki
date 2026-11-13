@@ -4,7 +4,7 @@ title: "AMS 3H 线材包更换指南"
 description: "本文介绍了AMS 3H 线材包更换指南"
 tags: []
 created: 2026-11-06T10:13:06.983Z
-updated: 2026-11-06T10:13:06.983Z
+updated: 2026-11-06T10:13:08.094Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-cable-pack
 ---
 

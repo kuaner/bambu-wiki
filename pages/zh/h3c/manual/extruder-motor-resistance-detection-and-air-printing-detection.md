@@ -4,7 +4,7 @@ title: "拓竹H3C 挤出电机阻力检测与空打检测"
 description: ""
 tags: []
 created: 2026-11-03T12:13:04.888Z
-updated: 2026-11-10T08:47:09.228Z
+updated: 2026-11-10T08:47:10.131Z
 source: https://wiki.bambulab.com/zh/h3c/manual/extruder-motor-resistance-detection-and-air-printing-detection
 ---
 

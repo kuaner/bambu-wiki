@@ -4,7 +4,7 @@ title: "更换 A1mini Y轴导轨"
 description: "本文将介绍如何更换A1mini的Y轴导轨。"
 tags: ["a1 mini"]
 created: 2026-04-28T08:58:22.086Z
-updated: 2026-11-10T08:18:51.545Z
+updated: 2026-11-10T08:18:52.467Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/replacing-y-axis
 ---
 

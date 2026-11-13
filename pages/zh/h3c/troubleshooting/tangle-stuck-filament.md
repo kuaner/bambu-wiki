@@ -4,7 +4,7 @@ title: "拓竹H3C 耗材缠料的处理办法"
 description: ""
 tags: []
 created: 2026-11-03T12:09:02.530Z
-updated: 2026-11-10T08:43:15.475Z
+updated: 2026-11-10T08:43:16.401Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/tangle-stuck-filament
 ---
 

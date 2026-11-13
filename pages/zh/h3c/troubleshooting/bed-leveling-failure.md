@@ -4,7 +4,7 @@ title: "03004038：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:36.760Z
-updated: 2026-11-10T08:47:14.510Z
+updated: 2026-11-10T08:47:15.404Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/bed-leveling-failure
 ---
 

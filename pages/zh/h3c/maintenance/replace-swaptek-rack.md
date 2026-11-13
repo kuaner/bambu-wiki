@@ -4,7 +4,7 @@ title: "闪切挂架更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:45:55.368Z
-updated: 2026-11-05T10:01:32.828Z
+updated: 2026-11-05T10:01:33.759Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-swaptek-rack
 ---
 

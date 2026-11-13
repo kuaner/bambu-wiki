@@ -4,7 +4,7 @@ title: "AMS 送料选择器电机更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:25:35.535Z
-updated: 2026-11-06T02:28:17.893Z
+updated: 2026-11-06T02:28:18.753Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-feed-selector-motor
 ---
 

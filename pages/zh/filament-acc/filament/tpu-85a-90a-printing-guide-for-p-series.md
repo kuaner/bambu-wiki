@@ -4,7 +4,7 @@ title: "P 系列 TPU 打印指南"
 description: "使用 P 系列打印机打印TPU 指南"
 tags: []
 created: 2025-03-07T02:37:44.822Z
-updated: 2026-11-10T06:47:18.737Z
+updated: 2026-11-10T06:47:19.650Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/tpu-85a-90a-printing-guide-for-p-series
 ---
 

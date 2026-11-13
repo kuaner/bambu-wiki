@@ -4,7 +4,7 @@ title: "更换 P2S/X2D  前门安装配件"
 description: "本文介绍了如何更换 P2S/X2D  前门安装配件"
 tags: []
 created: 2025-10-14T13:13:34.391Z
-updated: 2026-11-06T09:24:56.992Z
+updated: 2026-11-06T09:24:58.194Z
 source: https://wiki.bambulab.com/zh/p2s/maintenance/replace-front-door-mounting-kit
 ---
 

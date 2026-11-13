@@ -4,7 +4,7 @@ title: "03004035：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:39.445Z
-updated: 2026-11-10T08:47:25.040Z
+updated: 2026-11-10T08:47:25.949Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/nozzle-cleaning-failure
 ---
 

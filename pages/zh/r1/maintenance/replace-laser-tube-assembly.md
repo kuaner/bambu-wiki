@@ -4,7 +4,7 @@ title: "激光管组件更换指南"
 description: ""
 tags: []
 created: 2026-09-22T13:19:23.643Z
-updated: 2026-11-09T10:12:22.940Z
+updated: 2026-11-09T10:12:23.908Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-laser-tube-assembly
 ---
 

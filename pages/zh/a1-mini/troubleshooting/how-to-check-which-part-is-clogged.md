@@ -4,7 +4,7 @@ title: "A1 系列打印机挤出异常故障排查"
 description: "本文介绍了对 A1 系列打印机挤出异常的问题排查指引"
 tags: ["a1", "挤出"]
 created: 2023-11-08T08:24:21.273Z
-updated: 2026-11-10T08:19:31.004Z
+updated: 2026-11-10T08:19:31.921Z
 source: https://wiki.bambulab.com/zh/a1-mini/troubleshooting/how-to-check-which-part-is-clogged
 ---
 

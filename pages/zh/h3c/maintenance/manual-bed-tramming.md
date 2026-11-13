@@ -4,7 +4,7 @@ title: "拓竹H3C 热床手动调平"
 description: "Bambu Lab 打印机的热床在出厂时已调整好，按照手册的指引操作完成后，即可直接打印。 但如果由于运输原因导致热床出现了异常，或因产品维修的需要，拆装或更换过热床，导致了热床自动调平失败，这时我们可能需要通过手动调平的方式来确保打印机的热床是平整的。"
 tags: []
 created: 2026-11-03T12:48:48.758Z
-updated: 2026-11-10T08:47:03.190Z
+updated: 2026-11-10T08:47:04.101Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/manual-bed-tramming
 ---
 

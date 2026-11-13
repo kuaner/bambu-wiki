@@ -4,7 +4,7 @@ title: "R1 排烟过滤组件更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:25:07.803Z
-updated: 2026-11-10T02:25:07.803Z
+updated: 2026-11-10T02:25:08.740Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-smoke-ventilation-filter
 ---
 

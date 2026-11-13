@@ -4,7 +4,7 @@ title: "A1 mini 初次打印指南（使用 AMS lite）"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-18T02:21:45.231Z
-updated: 2026-11-10T06:25:22.053Z
+updated: 2026-11-10T06:25:22.890Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/first-print-with-ams-lite
 ---
 

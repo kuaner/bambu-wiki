@@ -4,7 +4,7 @@ title: "A1 常见问答（FAQ）"
 description: "本文章包含了 A1 系列打印机的常见问答"
 tags: ["a1"]
 created: 2023-12-14T12:24:42.568Z
-updated: 2026-11-10T07:51:44.790Z
+updated: 2026-11-10T07:51:45.699Z
 source: https://wiki.bambulab.com/zh/a1/manual/faq
 ---
 

@@ -4,7 +4,7 @@ title: "拓竹H3C 主要部件介绍"
 description: "本文介绍了拓竹H3C 的主要部件及相关功能"
 tags: []
 created: 2026-11-03T13:19:11.731Z
-updated: 2026-11-12T07:51:03.960Z
+updated: 2026-11-12T07:51:04.894Z
 source: https://wiki.bambulab.com/zh/h3c/manual/main-components
 ---
 

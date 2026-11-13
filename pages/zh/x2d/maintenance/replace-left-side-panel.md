@@ -4,7 +4,7 @@ title: "更换 X2D 左侧板"
 description: "本文介绍了如何更换 X2D 的左侧板"
 tags: []
 created: 2026-04-14T13:09:22.323Z
-updated: 2026-11-05T07:54:48.322Z
+updated: 2026-11-05T07:54:49.390Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/replace-left-side-panel
 ---
 

@@ -4,7 +4,7 @@ title: "A1 mini Z 轴电机更换指南"
 description: "本文介绍了如何更换 A1 mini 的 Z 轴电机"
 tags: []
 created: 2024-11-21T08:28:02.911Z
-updated: 2026-11-10T08:19:02.242Z
+updated: 2026-11-10T08:19:03.133Z
 source: https://wiki.bambulab.com/zh/a1-mini/maintenance/z-motor
 ---
 

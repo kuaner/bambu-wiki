@@ -4,7 +4,7 @@ title: "拓竹H3C 堵塞（挤出阻力异常或者空打）排查指南"
 description: "当设备提示挤出阻力异常，或出现悬空打印时，可参考本文进行排查。"
 tags: []
 created: 2026-11-03T12:57:47.714Z
-updated: 2026-11-10T12:38:43.674Z
+updated: 2026-11-10T12:38:44.689Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/clogging
 ---
 

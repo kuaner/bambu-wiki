@@ -4,7 +4,7 @@ title: "缓冲器/ 6pin 接口板更换指南"
 description: ">"
 tags: []
 created: 2026-11-03T12:40:21.574Z
-updated: 2026-11-10T08:47:05.076Z
+updated: 2026-11-10T08:47:06.000Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-filament-buffer
 ---
 

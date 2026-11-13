@@ -4,7 +4,7 @@ title: "包装清单补充说明"
 description: ""
 tags: []
 created: 2023-09-18T03:04:23.685Z
-updated: 2026-11-10T08:19:03.813Z
+updated: 2026-11-10T08:19:04.642Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/acc-in-the-box
 ---
 

@@ -4,7 +4,7 @@ title: "R1 挡烟帘更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:25:05.532Z
-updated: 2026-11-10T02:25:05.532Z
+updated: 2026-11-10T02:25:06.447Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-smoke-curtain
 ---
 

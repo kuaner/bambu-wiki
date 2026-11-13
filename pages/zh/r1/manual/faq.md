@@ -4,7 +4,7 @@ title: "R1 FAQs"
 description: "本文列举了 R1 激光切割机的常见问答，包含产品及配件的基本信息、参数、使用、维护和安全防护等内容。"
 tags: []
 created: 2026-09-22T13:10:46.821Z
-updated: 2026-11-10T07:18:28.047Z
+updated: 2026-11-10T07:18:29.002Z
 source: https://wiki.bambulab.com/zh/r1/manual/faq
 ---
 

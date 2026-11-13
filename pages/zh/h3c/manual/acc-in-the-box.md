@@ -4,7 +4,7 @@ title: "拓竹H3C 配件清单"
 description: "本文汇总拓竹H3C 与 AMS 3H 的包装配件清单。"
 tags: []
 created: 2026-11-03T12:11:28.253Z
-updated: 2026-11-10T08:47:06.656Z
+updated: 2026-11-10T08:47:07.585Z
 source: https://wiki.bambulab.com/zh/h3c/manual/acc-in-the-box
 ---
 

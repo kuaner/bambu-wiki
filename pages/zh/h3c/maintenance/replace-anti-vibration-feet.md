@@ -4,7 +4,7 @@ title: "悬浮阻尼脚垫更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:44:08.314Z
-updated: 2026-11-04T11:58:00.515Z
+updated: 2026-11-04T11:58:01.407Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-anti-vibration-feet
 ---
 

@@ -4,7 +4,7 @@ title: "A1 系列 X 轴线轨滚珠意外脱出处理指引"
 description: "本文介绍了如何处理 A1 系列 X 轴线轨滚珠意外脱落的情况"
 tags: ["a1"]
 created: 2025-01-21T07:31:14.958Z
-updated: 2026-11-10T07:51:43.456Z
+updated: 2026-11-10T07:51:44.403Z
 source: https://wiki.bambulab.com/zh/a1/maintenance/steel-bearing-balls-fall
 ---
 

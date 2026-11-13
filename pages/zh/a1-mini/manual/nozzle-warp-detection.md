@@ -4,7 +4,7 @@ title: "A1系列裹头检测功能介绍"
 description: "本文章介绍了 A1 系列打印机的裹头检测功能。"
 tags: ["a1", "a1 mini"]
 created: 2024-01-18T10:03:10.040Z
-updated: 2026-11-10T08:19:10.209Z
+updated: 2026-11-10T08:19:11.110Z
 source: https://wiki.bambulab.com/zh/a1-mini/manual/nozzle-warp-detection
 ---
 

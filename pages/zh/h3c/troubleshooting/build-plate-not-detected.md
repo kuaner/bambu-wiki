@@ -4,7 +4,7 @@ title: "05004095：拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-03T12:08:33.371Z
-updated: 2026-11-10T08:47:14.705Z
+updated: 2026-11-10T08:47:15.633Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/build-plate-not-detected
 ---
 

@@ -4,7 +4,7 @@ title: "AMS 3H 部件介绍"
 description: "本文介绍了 AMS 3H 的主要部件及功能。"
 tags: []
 created: 2026-11-03T13:23:44.371Z
-updated: 2026-11-10T08:46:57.770Z
+updated: 2026-11-10T08:46:58.717Z
 source: https://wiki.bambulab.com/zh/ams3/manual/component-introduction
 ---
 

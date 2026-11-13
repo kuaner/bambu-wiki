@@ -4,7 +4,7 @@ title: "缠料检测功能介绍"
 description: "本文介绍了缠料检测功能。"
 tags: ["ams lite", "a1", "a1 mini"]
 created: 2023-10-09T12:04:54.808Z
-updated: 2026-11-10T13:14:00.549Z
+updated: 2026-11-10T13:14:01.375Z
 source: https://wiki.bambulab.com/zh/ams-lite/manual/filament-tangle-monitoring-intro
 ---
 

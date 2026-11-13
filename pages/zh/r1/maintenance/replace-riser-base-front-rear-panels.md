@@ -4,7 +4,7 @@ title: "R1 增高底座 前后门更换指南"
 description: ""
 tags: []
 created: 2026-11-10T02:24:56.468Z
-updated: 2026-11-10T02:24:56.468Z
+updated: 2026-11-13T02:56:15.934Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-riser-base-front-rear-panels
 ---
 
@@ -51,7 +51,7 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-riser-base-front-rea
 | --- | --- |
 | 005.webp | 006.png |
 
-合上增高底座前门
+合上增高底座前门。
 
 ![007.webp](https://public-cdn.bblmw.com/wiki/new/r1/maintenance/replace-riser-base-front-rear-panels/zh/007.webp)
 
@@ -75,11 +75,13 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-riser-base-front-rea
 
 ![012.png](https://public-cdn.bblmw.com/wiki/new/r1/maintenance/replace-riser-base-front-rear-panels/zh/012.png)
 
-两人合力搬下主机。
+两人合力搬下主机。搬运时，**确保手掌中心对准主机两侧的对位标记**。避免将手掌完全伸入主机底部或抓握靠后的凹槽，以免夹伤。
 
-![013.png](https://public-cdn.bblmw.com/wiki/new/r1/maintenance/replace-riser-base-front-rear-panels/zh/013.png)
+|  |  |
+| --- | --- |
+| 027.png |  |
 
-两人合力，翻转增高底座。请从增高底座的两侧抓握，避免拉扯前门，以免夹伤。
+两人合力，翻转增高底座。请从增高底座的**两侧**抓握，避免拉扯前门，以免夹伤。
 
 |  |  |
 | --- | --- |
@@ -97,11 +99,11 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-riser-base-front-rea
 
 ### 步骤 3. 移除后侧组件
 
-断开后侧组件的两端的排线\*\*。\*\*
+断开后侧组件的两端的排线。
 
 |  |  |
 | --- | --- |
-| 018.png | 019.png |
+| 左侧：两根排线 | 右侧：一根排线 |
 
 使用 H2.0 内六角螺丝刀，从后侧组件两侧的螺丝拧下 8 颗螺丝。
 
@@ -145,6 +147,12 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-riser-base-front-rea
 | --- | --- |
 | 028.png | 029.png |
 
+分别连接后侧组件与左侧组件、右侧组件的排线。
+
+|  |  |
+| --- | --- |
+| 左侧：两根排线 | 右侧：一根排线 |
+
 ### 步骤 3. 安装前门组件
 
 展开前门组件，对齐底板定位孔。
@@ -159,9 +167,19 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-riser-base-front-rea
 
 ### 步骤 4. 装回 R1 激光切割机
 
-两人合力将主机搬回增高底座。
+两人合力翻转并摆正增高底座，确保**前门朝向外侧（与日常使用方位相同）**。
 
-![033.png](https://public-cdn.bblmw.com/wiki/new/r1/maintenance/replace-riser-base-front-rear-panels/zh/033.png)
+> 注意：翻转时，请从增高底座**两侧**抓握，避免拉扯前门，以免夹伤。
+
+|  |  |
+| --- | --- |
+| 027.png | 028.png |
+
+两人合力将主机搬回增高底座。搬运时，**确保手掌中心对准主机两侧的对位标记**。避免将手掌完全伸入主机底部或抓握靠后的凹槽，以免夹伤。
+
+|  |  |
+| --- | --- |
+| 027.png |  |
 
 打开主机上盖，连接好增高底座与主机的 8-pin 连接线。
 

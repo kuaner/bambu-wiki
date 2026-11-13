@@ -4,7 +4,7 @@ title: "打印机无法检测到AMS lite"
 description: ""
 tags: []
 created: 2024-01-10T13:07:05.602Z
-updated: 2026-11-10T12:50:39.359Z
+updated: 2026-11-10T12:50:40.263Z
 source: https://wiki.bambulab.com/zh/ams-lite/manual/ams-lite-cannot-be-detected
 ---
 

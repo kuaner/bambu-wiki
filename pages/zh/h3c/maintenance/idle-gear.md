@@ -4,7 +4,7 @@ title: "拓竹H3C XY 轴惰轮维护指南"
 description: ""
 tags: []
 created: 2026-11-03T12:49:21.615Z
-updated: 2026-11-10T06:15:22.965Z
+updated: 2026-11-10T06:15:23.908Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/idle-gear
 ---
 
