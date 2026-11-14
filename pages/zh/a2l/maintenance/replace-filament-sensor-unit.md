@@ -4,7 +4,7 @@ title: "A2L 更换进料霍尔板"
 description: "本文介绍了如何更换 A2L 进料霍尔板"
 tags: []
 created: 2026-06-01T13:08:23.446Z
-updated: 2026-08-28T06:44:35.438Z
+updated: 2026-11-13T07:56:18.386Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-filament-sensor-unit
 ---
 

@@ -4,7 +4,7 @@ title: "A2L 更换 A3508 挤出电机、挤出机后盖"
 description: "本文介绍了如何更换 A2L A3508 挤出电机、挤出机后盖"
 tags: []
 created: 2026-06-01T13:11:36.339Z
-updated: 2026-08-28T06:45:17.534Z
+updated: 2026-11-13T08:52:34.008Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-a3508-extruder-motor
 ---
 

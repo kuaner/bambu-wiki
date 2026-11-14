@@ -4,7 +4,7 @@ title: "A1 mini"
 description: ""
 tags: ["a1 mini"]
 created: 2023-09-20T13:13:46.125Z
-updated: 2026-11-11T03:19:03.455Z
+updated: 2026-11-13T11:13:09.715Z
 source: https://wiki.bambulab.com/zh/a1-mini
 ---
 
@@ -53,6 +53,7 @@ source: https://wiki.bambulab.com/zh/a1-mini
 **开箱：**
 
 - [A1 mini 单机/combo 开箱指南](manual/unboxing-a1-mini-combo.md)
+- [A1 mini 泡泡罩 | 开箱指南](manual/bubble-unbox.md)
 
 **装箱：**
 

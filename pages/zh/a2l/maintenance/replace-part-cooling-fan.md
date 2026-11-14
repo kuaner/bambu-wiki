@@ -4,7 +4,7 @@ title: "A2L 更换部件冷却风扇"
 description: "本文介绍了如何更换 A2L 部件冷却风扇"
 tags: []
 created: 2026-06-01T13:07:47.542Z
-updated: 2026-08-28T08:44:30.079Z
+updated: 2026-11-13T07:56:16.595Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-part-cooling-fan
 ---
 

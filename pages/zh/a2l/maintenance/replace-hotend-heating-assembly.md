@@ -4,7 +4,7 @@ title: "A2L 更换热端加热组件"
 description: "本文介绍了如何更换 A2L 热端加热组件"
 tags: []
 created: 2026-06-01T13:10:18.841Z
-updated: 2026-08-28T08:44:45.473Z
+updated: 2026-11-13T08:51:39.803Z
 source: https://wiki.bambulab.com/zh/a2l/maintenance/replace-hotend-heating-assembly
 ---
 
