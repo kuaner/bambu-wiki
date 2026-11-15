@@ -4,7 +4,7 @@ title: "H2D"
 description: ""
 tags: []
 created: 2025-03-25T01:58:23.941Z
-updated: 2026-11-13T09:19:04.165Z
+updated: 2026-11-13T09:19:05.791Z
 source: https://wiki.bambulab.com/zh/h2d
 ---
 
