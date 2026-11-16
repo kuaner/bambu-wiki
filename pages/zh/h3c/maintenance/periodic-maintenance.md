@@ -4,7 +4,7 @@ title: "拓竹H3C 打印机定期维护"
 description: ""
 tags: []
 created: 2026-11-03T12:48:37.584Z
-updated: 2026-11-13T07:35:32.481Z
+updated: 2026-11-16T07:33:29.683Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/periodic-maintenance
 ---
 
@@ -169,10 +169,21 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/periodic-maintenance
 设备在打印工程耗材时，仓内温度通常较高。若在这一情况下，工具头长时间停留在吐料组件或其他靠后位置，则会导致料管发生变形。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/periodic-maintenance/zh/01_h3c________5e0e30e8da.png)
 
-当观察到料管存在如下变形情况时，可尝试取下料管，捋直后装回。  
+当观察到料管存在如下变形情况时，可尝试取下料管。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/periodic-maintenance/zh/01_h3c________22df717903.png)
 
-若料管变形严重，无法捋直，则需要更换新的 415 mm FEP料管。  
+使用 PETG 耗材打印 [ptfe\_tube.gcode.3mf](https://wiki.bambulab.com/h3c/maintenance/periodic-maintenance/ptfe_tube.gcode.3mf) 工具，将变形的料管装入工具中，并分 3 段固定。
+
+![20261116-153019.jpg](https://wiki.bambulab.com/h3c/maintenance/periodic-maintenance/20261116-153019.jpg)
+
+再将料管放入打印机热床。
+
+![pixpin_2026-11-16_15-30-29.jpg](https://wiki.bambulab.com/h3c/maintenance/periodic-maintenance/pixpin_2026-11-16_15-30-29.jpg)
+
+将热床调整至 65℃，加热料管 30 分钟。  
+![65zh.png](https://wiki.bambulab.com/h3c/maintenance/periodic-maintenance/65zh.png)
+
+若料管变形严重，无法捋直，则需要更换新的 415 mm 料管。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/periodic-maintenance/zh/01_h3c________c89c049ba9.png)
 
 ## 结束语

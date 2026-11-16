@@ -4,7 +4,7 @@ title: "拓竹H3C XYZ 轴润滑指南"
 description: ""
 tags: []
 created: 2026-11-03T12:49:10.425Z
-updated: 2026-11-13T07:38:41.337Z
+updated: 2026-11-13T07:38:42.362Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/lubricate-x-y-z-axis
 ---
 

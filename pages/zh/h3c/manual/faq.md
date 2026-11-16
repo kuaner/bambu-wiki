@@ -4,7 +4,7 @@ title: "拓竹H3C FAQ"
 description: ""
 tags: []
 created: 2026-11-03T12:11:43.654Z
-updated: 2026-11-13T08:48:23.109Z
+updated: 2026-11-16T06:54:32.782Z
 source: https://wiki.bambulab.com/zh/h3c/manual/faq
 ---
 
@@ -387,7 +387,7 @@ TPU 与打印板的粘结力较强，底面较大的模型更难取下。请勿�
 
 ### CMYKW 混色套装（拓竹 PLA 调色盘系列 Palette）是什么，有什么特点？
 
-CMYKW 混色套装即拓竹 PLA 调色盘系列 Palette（[购买链接](https://item.jd.com/10238336560497.html?pcdk=3NBDqb3FEOxcI05GIBnYo5t1SuvUakiObY6L-ADi8xs%3D.M8AW.sbc1)），是一款专门用于 FDM 混色功能的耗材套装，共包含 5 种颜色的耗材，分别是基础 PLA 青色、基础 PLA 品红、基础 PLA 黄色、基础 PLA 白色、半透明 PLA 黑色。
+CMYKW 混色套装即拓竹 PLA 调色盘系列 Palette（[购买链接](https://item.jd.com/10238336560495.html?pcdk=iFm3X5b0Jwc-InRELSibWfueDJEDfbMahcIIMVJyoCY%3D.M8AW.sbc1)），是一款专门用于 FDM 混色功能的耗材套装，共包含 5 种颜色的耗材，分别是基础 PLA 青色、基础 PLA 品红、基础 PLA 黄色、基础 PLA 白色、半透明 PLA 黑色。
 
 使用该系列耗材，配合 Bambu Studio 的混色功能及其内置的混合色彩数据库，能够轻松为多色模型一键自动调色，无需手动调整混色参数。详细使用方法请参阅 [混色打印](../../bambu-studio/color-mixing.md)。
 
@@ -506,7 +506,7 @@ E1 空气净化器可与拓竹H3C 无缝同步，并在打印开始时自动开�
 
 如需了解更多拓竹H3C 搭配 E1 空气净化器的使用方法，请参见 [E1 空气净化器开箱和安装指南](../../e1/manual/unboxing-installation-guide.md)。
 
-如对空气净化器有其他疑问，可进一步阅读 E1 FAQ。
+如对空气净化器有其他疑问，可进一步阅读 [E1 FAQ](../../e1/manual/faq.md))。
 
 ### 拓竹H3C 是否可以使用烟尘净化器或者 E1 Pro 空气净化器？
 

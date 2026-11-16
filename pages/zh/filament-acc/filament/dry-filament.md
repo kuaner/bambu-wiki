@@ -4,7 +4,7 @@ title: "耗材烘干操作指南"
 description: ""
 tags: []
 created: 2023-09-18T12:14:02.019Z
-updated: 2026-11-13T06:20:25.831Z
+updated: 2026-11-13T06:20:26.874Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/dry-filament
 ---
 
