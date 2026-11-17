@@ -4,7 +4,7 @@ title: "拓竹H3C AMS 套装开箱指南"
 description: "本文介绍拓竹H3C 和 AMS 3H 的开箱及安装步骤。"
 tags: []
 created: 2026-11-03T12:11:10.268Z
-updated: 2026-11-10T08:47:14.888Z
+updated: 2026-11-16T11:37:45.000Z
 source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 ---
 
@@ -32,6 +32,9 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 
 2. 挂架上的每个泊位底部安装有黑色的堵嘴硅胶，用于防止热端漏料造成打印瑕疵。打印头安装到位后，喷嘴应抵住泊位底部的堵嘴硅胶，请勿拆除堵嘴硅胶。  
    ![annotated_20261109-111523.jpg](https://wiki.bambulab.com/h3c/manual/unboxing-guide/annotated_20261109-111523.jpg)
+3. 请注意检查打印头安装状态，确保热端和泊位磁铁完全到位。  
+   ![intall-printtool-comparison.png](https://wiki.bambulab.com/h3c/manual/unboxing-guide/intall-printtool-comparison.png)  
+   ![correct-printtool.webp](https://wiki.bambulab.com/h3c/manual/unboxing-guide/correct-printtool.webp)
 
 ## 包装内配件
 

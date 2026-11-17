@@ -4,7 +4,7 @@ title: "常见问题"
 description: ""
 tags: []
 created: 2022-08-03T03:01:56.447Z
-updated: 2026-09-28T06:22:01.726Z
+updated: 2026-11-16T07:42:52.582Z
 source: https://wiki.bambulab.com/zh/faq
 ---
 
@@ -15,6 +15,11 @@ source: https://wiki.bambulab.com/zh/faq
 ## FAQ 链接集合
 
 以下是关于 Bambu Lab 打印机常见问题的链接集合。每个链接都将重定向到相应打印机的专用页面，并提供与该机型相关的问题和解答：
+
+**拓竹H3C**
+
+- [拓竹H3C 常见问答（FAQ）](h3c/manual/faq.md)
+- [E1 空气净化器常见问答（FAQ）](e1/manual/faq.md)
 
 **R1:**
 
@@ -259,6 +264,3 @@ source: https://wiki.bambulab.com/zh/faq
 ## 故障排除与维护指南
 
 - 💡 打印机故障排除
-- 💡 AMS 系列故障排除
-- 🚧 打印机维护指南
-- 🚧 AMS 系列维护指南

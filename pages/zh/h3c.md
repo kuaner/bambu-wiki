@@ -4,7 +4,7 @@ title: "拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-02T07:17:52.824Z
-updated: 2026-11-10T08:47:03.536Z
+updated: 2026-11-16T08:07:48.932Z
 source: https://wiki.bambulab.com/zh/h3c
 ---
 
@@ -227,3 +227,15 @@ source: https://wiki.bambulab.com/zh/h3c
 - [更换 E1 外排转接件](e1/maintenance/replace-purifier-exhaust-hose-adapter.md)
 - [更换 E1 风管转接口](e1/maintenance/replace-purifier-exhaust-hose-connector.md)
 - [更换 E1 风管](e1/maintenance/replace-purifier-exhaust-hose.md)
+
+### 拓竹工作站 L
+
+- [更换桌面](bambu-station-l/maintenance/replace-tabletop.md)
+- [更换底座](bambu-station-l/maintenance/replace-base.md)
+- [更换立柱](bambu-station-l/maintenance/replace-uprights.md)
+- [更换抽屉](bambu-station-l/maintenance/replace-drawer.md)
+- [更换抽屉滑轨](bambu-station-l/maintenance/replace-drawer-slides.md)
+- [更换可调万向轮](bambu-station-l/maintenance/replace-caster-wheel.md)
+- [更换抽屉前板](bambu-station-l/maintenance/replace-drawer-front.md)
+- [更换背板](bambu-station-l/maintenance/replace-back-panel.md)
+- [更换侧板](bambu-station-l/maintenance/replace-side-panel.md)

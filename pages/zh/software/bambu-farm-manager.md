@@ -4,7 +4,7 @@ title: "拓竹农场管家软件快速入门"
 description: "本文介绍了拓竹农场管家软件。"
 tags: []
 created: 2024-10-24T10:07:33.966Z
-updated: 2026-11-12T07:15:56.227Z
+updated: 2026-11-16T01:45:59.517Z
 source: https://wiki.bambulab.com/zh/software/bambu-farm-manager
 ---
 
@@ -41,7 +41,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-farm-manager
 - X2D: V01.01.00.00 及以上
 - A2L：自 01.00.03.00 起支持
 - H2C：自 01.02.00.00 起支持
-- H3C：V01.00.00.00 及以上
+- 拓竹H3C：V01.00.00.00 及以上
 
 ## 下载最新版本
 

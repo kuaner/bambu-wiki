@@ -4,7 +4,7 @@ title: "挤出电机更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:47:57.310Z
-updated: 2026-11-03T12:47:58.368Z
+updated: 2026-11-16T09:04:04.050Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-2521-extruder-servo-motor
 ---
 
@@ -26,6 +26,20 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-2521-extruder-servo
 > ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-2521-extruder-servo-motor/zh/01__________2012_toollock_motor_replacement_guide_01457bbe50.jpg)
 
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
+## 拆装风险提示
+
+随打印机附送的 H1.5 内六角扳手，不适配挤出电机转轴上的螺丝，直接使用会导致螺丝滑牙，请使用自购的 H1.5 内六角标准扳手。
+
+|  |  |
+| --- | --- |
+| 图 | 图 |
+
+如果您发现该螺丝已经滑牙，请使用斜口钳夹住螺丝，将螺丝逆时针旋转拧松，可移除螺丝。
+
+|  |  |
+| --- | --- |
+| 图 | 图 |
 
 ## 移除挤出电机
 

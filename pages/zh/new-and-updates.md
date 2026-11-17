@@ -4,9 +4,37 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-11-06T10:15:14.978Z
+updated: 2026-11-16T01:43:32.043Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 2026-W46
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [A1 mini 泡泡罩 | 开箱指南](a1-mini/manual/bubble-unbox.md) | 介绍 A1 mini 泡泡罩版本的开箱流程与装机前准备，帮助用户完成初次拆箱。 | A1 mini |
+| [Bambu Connect (Beta) 版本说明 v2.6.0-beta.0](software/bambu-connect/releases/v2_6_0-beta_0.md) | 介绍 Bambu Connect v2.6.0-beta.0 的新增支持、性能优化与问题修复。 | / |
+| [HMS\_0700-7000-0002-0004: 耗材从工具头退回AMS失败，请检查耗材或料盘是否卡住。](h2/troubleshooting/hmscode/0700_7000_0002_0004.md) | 本页说明耗材从工具头退回 AMS 失败的排查方法，帮助检查料管弯折、卡料及料盘卡滞等问题。 | AMS |
+| [拓竹农场管家客户端 V3.2.0 & 服务器端 V3.2.0.0 版本说明](software/bambu-farm-release-notes/3-2-0.md) | 介绍拓竹农场管家客户端 V3.2.0 与服务器端 V3.2.0.0 的新增支持、优化与改进内容。 | X2D |
+| [A1 mini 泡泡罩 FAQ](a1-mini/manual/bubble-faq.md) | 汇总 A1 mini 泡泡罩相关常见问题，帮助用户了解用途、安装与使用注意事项。 | A1 mini |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [TPU 打印指南](knowledge-sharing/tpu-printing-guide.md) | 更新 TPU 线径说明。 | TPU 95A HF | 耗材 |
+| [Bambu Connect (beta)](software/bambu-connect.md) | 更新 Bambu Connect 测试版下载链接至 v2.6.0-beta.0。 | Bambu Connect | / |
+| [A1 mini 固件发布记录](a1-mini/manual/a1-mini-firmware-release-history.md) | 补充 01.09.00.00 固件发布说明及农场管家适配优化 | 01.09.00.00 | A1 mini,AMS |
+| [A1 固件发布记录](a1/manual/a1-firmware-release-history.md) | 补充 A1 固件 01.09.00.00 版本发布内容及农场管家适配优化 | 01.09.00.00 | A1,AMS,AMS 2 Pro,AMS HT |
+| [更换 H2 系列 AC 板/AC 板理线盖](h2/maintenance/replace-ac-board-for.md) | 补充新版本 AC 板删减特定位置元器件的说明与示意图 | AC 板 | H2S,H2D,H2D Pro,H2C |
+| [X1/X1C 固件发布记录](x1/manual/X1-X1C-firmware-release-history.md) | 补充 01.12.01.00 固件更新内容：安全升级及修复 AMS 准备卡住问题 | 01.12.01.00 | X1,X1C,AMS |
+| [X1E 固件发布记录](x1/manual/X1E-firmware-release-history.md) | 补充X1E OTA 01.03.01.00版本说明及离线升级备注 | 01.03.01.00 | X1E,AMS |
+| [拓竹农场管家软件快速入门](software/bambu-farm-manager.md) | 补充 拓竹H3C 最低版本要求，并更新农场管家服务端/客户端下载版本。 | 农场管家 | / |
+| [拓竹农场管家版本说明](software/bambu-farm-release-notes.md) | 补充拓竹农场管家客户端/服务器端 V3.2.0 版本说明入口 | V3.2.0 | / |
+| [HMS\_0700-7000-0002-0004: 耗材从工具头退回 AMS 失败，请检查耗材或料盘是否卡住。](x1/troubleshooting/hmscode/0700_7000_0002_0004.md) | 补充上下料组件异常原因，并细化退料阻力、五通异常与料盘旋转异常的排查方法。 | AMS 2 Pro | X1,AMS,AMS 2 Pro |
+| [拓竹增稳低温打印板](filament-acc/acc/bambu-cool-plate-supertack.md) | 补充增稳低温打印板清洁禁忌与清洗建议。 | 增稳低温打印板 | 耗材 |
 
 ## 2026-W45
 
