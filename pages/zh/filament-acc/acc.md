@@ -4,7 +4,7 @@ title: "配件"
 description: ""
 tags: []
 created: 2023-09-07T02:38:24.600Z
-updated: 2026-11-11T01:52:28.355Z
+updated: 2026-11-17T08:35:08.551Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc
 ---
 
@@ -76,11 +76,53 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc
 - [P1P-P1S 升级包安装指引](../p1/manual/p1p-to-p1s.md)
 - [P1S 挤出机升级指南——打印磨蚀性耗材](../p1/manual/p1s-extruder-upgrade.md)
 
+## 📦 拓竹工作站 L
+
+- **快速入门**
+
+  - [拓竹H3C 拓竹工作站 L 开箱组装指南](../h3c/manual/bambu-station-installation-guide.md)
+  - [拓竹工作站 L 常见问答](../h3c/manual/bambu-station-faq.md)
+- **升级周边**
+
+  - [拓竹工作站 L DIY 侧板加工与更换指南](../h3c/manual/bambu-station-diy-side-panel.md)
+  - [拓竹工作站 L 废料滑梯模型安装指南](../h3c/manual/bambu-station-purge-chute.md)
+- **零件更换**
+
+  - [更换桌面](../bambu-station-l/maintenance/replace-tabletop.md)
+  - [更换底座](../bambu-station-l/maintenance/replace-base.md)
+  - [更换立柱](../bambu-station-l/maintenance/replace-uprights.md)
+  - [更换抽屉](../bambu-station-l/maintenance/replace-drawer.md)
+  - [更换抽屉滑轨](../bambu-station-l/maintenance/replace-drawer-slides.md)
+  - [更换可调万向轮](../bambu-station-l/maintenance/replace-caster-wheel.md)
+  - [更换抽屉前板](../bambu-station-l/maintenance/replace-drawer-front.md)
+  - [更换背板](../bambu-station-l/maintenance/replace-back-panel.md)
+  - [更换侧板](../bambu-station-l/maintenance/replace-side-panel.md)
+
+## 💨 E1 空气净化器
+
+- **快速入门**
+
+  - [E1 空气净化器开箱和安装指南](../e1/manual/unboxing-installation-guide.md)
+  - [E1 空气净化器常见问答](../e1/manual/faq.md)
+  - [E1 净化器认证与滤芯过滤测试说明](../e1/manual/certification-and-filter-test.md)
+- **排障与维护**
+
+  - [E1 空气净化器故障排查指南](../e1/troubleshooting/purifier-troubleshooting-guide.md)
+  - [E1 净化器定期清洁维护建议](../e1/maintenance/periodic-maintenance.md)
+- **零件更换**
+
+  - [更换 E1 滤芯](../e1/maintenance/replace-purifier-air-filter.md)
+  - [更换 E1 后盖](../e1/maintenance/replace-purifier-back-cover.md)
+  - [更换 E1 外排转接件](../e1/maintenance/replace-purifier-exhaust-hose-adapter.md)
+  - [更换 E1 风管转接口](../e1/maintenance/replace-purifier-exhaust-hose-connector.md)
+  - [更换 E1 风管](../e1/maintenance/replace-purifier-exhaust-hose.md)
+
 ## 🔗 相关资源
 
 配件相关的延伸内容与可下载资源。
 
 - [拓竹产品的 3D 打印配件模型](../knowledge-sharing/printed-tools.md)
+- [拓竹H3C 螺丝包](../h3c/maintenance/replace-screws-kit.md)
 - [H2D 螺丝包](../part-acc/screw-kit-h2d.md)
 - [X1 & P1 系列 & AMS 螺丝包](screw-kit-x1-p1.md)
 - [A1系列螺丝包](../parts-acc/screw-kit-a1.md)

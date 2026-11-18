@@ -4,7 +4,7 @@ title: "拓竹H3C 打印机定期维护"
 description: ""
 tags: []
 created: 2026-11-03T12:48:37.584Z
-updated: 2026-11-16T07:33:29.683Z
+updated: 2026-11-17T08:01:01.680Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/periodic-maintenance
 ---
 
@@ -180,7 +180,10 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/periodic-maintenance
 
 ![pixpin_2026-11-16_15-30-29.jpg](https://wiki.bambulab.com/h3c/maintenance/periodic-maintenance/pixpin_2026-11-16_15-30-29.jpg)
 
-将热床调整至 65℃，加热料管 30 分钟。  
+将热床调整至 65℃，加热料管 30 分钟。
+
+> 可根据料管变形程度适当增减时长。
+
 ![65zh.png](https://wiki.bambulab.com/h3c/maintenance/periodic-maintenance/65zh.png)
 
 若料管变形严重，无法捋直，则需要更换新的 415 mm 料管。  

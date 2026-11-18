@@ -4,7 +4,7 @@ title: "耗材烘干操作指南"
 description: ""
 tags: []
 created: 2023-09-18T12:14:02.019Z
-updated: 2026-11-13T06:20:26.874Z
+updated: 2026-11-17T09:47:10.469Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/dry-filament
 ---
 
@@ -49,31 +49,20 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/dry-filament
 | --- | --- | --- |
 |  |  |  |
 
-## 操作步骤
+## 使用 AMS 2 Pro / AMS HT / **AMS 3H** 烘干
 
-根据烘干方式，参阅对应操作步骤：
+### ◾ 准备工作
 
-### 使用 AMS 2 Pro / AMS HT / **AMS 3H** 烘干
-
-#### ◾ 准备工作
-
-##### **1. 确认耗材适配性**
+#### **1. 确认耗材适配性**
 
 阅读下方说明，确认所需耗材使用 AMS 是否可完全烘干。
 
-**AMS 2 Pro**
+|  | AMS 2 Pro | AMS HT、AMS 3H |
+| --- | --- | --- |
+| **最高烘干温度** | **65°C** | **85°C** |
+| **说明** | - 适用于烘干温度 **≤ 65℃** 的耗材，如 PLA、PETG 等耗材。请参考 [**烘干参数表**](#%E7%83%98%E5%B9%B2%E5%8F%82%E6%95%B0%E8%A1%A8) 确认不同耗材的烘干温度。  - 烘干温度 **＞ 65℃** 的耗材，AMS 2 Pro 可能无法完全烘干，建议使用热床、AMS HT、AMS 3H 或鼓风式烤箱烘干。 | - **PPS-CF、PPA-CF** 耗材可能无法完全烘干，建议使用 **热床** 烘干。  - 其余耗材均可使用 AMS HT 和 AMS 3H 烘干。 |
 
-- 最高烘干温度：**65°C**
-- 适用于烘干温度 **不高于 65℃** 的耗材，例如 PLA， PETG， Support for PLA/PETG 等耗材。请参考 [**烘干参数表**](#%E7%83%98%E5%B9%B2%E5%8F%82%E6%95%B0%E8%A1%A8) 确认不同耗材烘干温度。
-- 若耗材所需烘干温度高于 65℃，AMS 2 Pro 可能无法完全干燥，建议使用 **热床、AMS HT、AMS 3H 或鼓风式烤箱** 烘干。
-
-**AMS HT、AMS 3H**
-
-- 最高烘干温度：**85°C**
-- **PPS-CF、PPA-CF** 耗材使用这两种 AMS 可能无法完全烘干，建议使用 **热床** 烘干。
-- 其余耗材均可使用 AMS HT 和 AMS 3H 烘干。
-
-##### **2. 准备电源线**
+#### **2. 准备电源线**
 
 需为 AMS 2 Pro / AMS HT / AMS 3H 连接电源，才可使用其烘干功能。请根据机型与 AMS 数量确认所需电源线数量。
 

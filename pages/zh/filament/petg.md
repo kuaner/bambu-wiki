@@ -4,7 +4,7 @@ title: "PETG 使用指南"
 description: ""
 tags: ["耗材"]
 created: 2025-10-09T09:07:39.753Z
-updated: 2026-08-28T06:26:12.832Z
+updated: 2026-11-17T10:00:09.225Z
 source: https://wiki.bambulab.com/zh/filament/petg
 ---
 
@@ -51,7 +51,7 @@ PETG 适配拓竹全系机型，更多的硬件兼容性内容可参考下表：
 
 PETG 暴露在空气中存放时（湿度50%-60%）会逐渐吸收环境中的水分。环境的相对湿度越高、存放时间越长，材料吸收的水分就越多。如果模型拉丝明显，如下面右图所示，则说明耗材受潮，需要烘干。 对于 PETG-HF 耗材，可以打印测试模型来判断耗材是否受潮：
 
-![8.png](https://wiki.bambulab.com/filament-acc/beginner/8.png)
+![petg-dry.png](https://wiki.bambulab.com/filament-acc/petg/petg-dry-zh.png)
 
 为保障打印质量，建议打印前对 PETG 耗材进行充分烘干，避免因受潮导致拉丝、气泡等问题，具体烘干参数如下：
 

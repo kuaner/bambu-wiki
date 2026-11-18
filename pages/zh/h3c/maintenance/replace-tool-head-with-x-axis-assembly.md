@@ -4,7 +4,7 @@ title: "X 轴工具头组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:06:37.668Z
-updated: 2026-11-09T12:58:25.753Z
+updated: 2026-11-17T09:46:44.586Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-tool-head-with-x-axis-assembly
 ---
 
@@ -203,7 +203,7 @@ X轴工具头组件是 X 轴与工具头的复合一体化配件。其中，X轴
 
 ### 第 4 步 张紧 XY 皮带
 
-拧松**左右两个** XY 张紧器的螺丝 （前面装 XY 皮带时有人为压缩张紧器），让张紧器自然张紧，前后移除工具头 2~ 3 次，然后重新锁紧张紧器螺丝。  
+拧松**左右两个** XY 张紧器的螺丝 （前面装 XY 皮带时有人为压缩张紧器），让张紧器自然张紧，前后移动工具头 2~ 3 次，然后重新锁紧张紧器螺丝。  
 ![img_39a23b3cc486.jpg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-tool-head-with-x-axis-assembly/zh/img_39a23b3cc486.jpg)
 
 ### 第 5 步 安装背板 （检验后安装）

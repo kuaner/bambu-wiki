@@ -4,7 +4,7 @@ title: "Bambu Studio H2C 擦料塔冲刷模式详解"
 description: ""
 tags: []
 created: 2025-11-18T12:40:25.953Z
-updated: 2026-08-28T06:31:47.778Z
+updated: 2026-11-17T09:27:57.053Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/h2c-purge-mode
 ---
 
@@ -55,7 +55,7 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/h2c-purge-mode
 
 ![](https://public-cdn.bblmw.com/wiki/new/h2c/manual/h2c-purge-mode/image-10.png)
 
-此外，省料模式能减少冲刷步骤的耗时，缩短整体打印时间，以多色小船为例，当换色次数达 332 次时，使用省了模式，打印时间可减少 10%。
+此外，省料模式能减少冲刷步骤的耗时，缩短整体打印时间，以多色小船为例，当换色次数达 332 次时，使用省料模式，打印时间可减少 10%。
 
 |  |  |
 | --- | --- |

@@ -4,7 +4,7 @@ title: "耗材"
 description: ""
 tags: []
 created: 2023-09-15T09:47:06.270Z
-updated: 2026-11-03T14:21:44.097Z
+updated: 2026-11-17T09:12:54.666Z
 source: https://wiki.bambulab.com/zh/filament-acc
 ---
 
@@ -62,6 +62,7 @@ source: https://wiki.bambulab.com/zh/filament-acc
 
 2.2.1 PLA
 
+- [混色打印](bambu-studio/color-mixing.md)
 - [Hueforge 彩色版画打印指南](filament/hueforge-printing-guide.md)
 - [CMYK 透光浮雕打印指南](knowledge-sharing/CMYK-color-lithophane-printing-instructions.md)
 - [PLA Basic 与 PETG HF 互相支撑打印指南](filament/h2d-pla-and-petg-mutual-support.md)
@@ -73,6 +74,7 @@ source: https://wiki.bambulab.com/zh/filament-acc
 
 2.2.3 TPU
 
+- [拓竹H3C TPU 打印指南](h3c/manual/tpu-printing-guide.md)
 - [H2 系列的 TPU 85A 和 90A 打印指南](h2/h2d-tpu-printing-guide.md)
 - [X 系列的 TPU 90A 和 85A 打印指南](filament/tpu-85a-90a-printing-guide-for-x-series.md)
 - [P 系列的 TPU 90A 和 85A 打印指南](filament/tpu-85a-90a-printing-guide-for-p-series.md)
@@ -81,6 +83,7 @@ source: https://wiki.bambulab.com/zh/filament-acc
 2.2.4 [支撑耗材与支撑功能的介绍](software/bambu-studio/support.md)
 
 - [PVA 打印指南](filament/pva-printing-guide.md)
+- [拓竹H3C PVA 打印指南](h3c/manual/pva-printing-guide.md)
 - [Support for ABS 打印指南](filament/support-for-abs.md)
 - [如何使用拓竹增稳低温打印板打印 Support for PLA / PETG](studio-handy/bambu-studio/PLA/PETG-with-bambu-bool-plate-supertack.md)
 

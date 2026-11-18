@@ -1,23 +1,16 @@
 ---
 path: zh/ams3/maintenance/replace-tool-control-board
-title: "更换 AMS热端组件控制板"
+title: "打印头控制板更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:24:51.545Z
-updated: 2026-11-03T13:24:52.619Z
+updated: 2026-11-17T10:00:39.921Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-tool-control-board
 ---
 
-## AMS热端组件控制板组件
+## 打印头控制板
 
-[待插入图片：AMS 热端组件控制板及外壳在设备上的安装位置，标注插头与固定螺丝]  
-AMS 热端组件控制板及其外壳安装于 AMS 内部，负责热端相关电路的控制与信号传输。更换时需先断开所有连接插头，再拆除 4 颗固定螺丝取下控制板组件。
-
-## 何时更换
-
-- 热端组件控制板无法正常通信或识别
-- 控制板外观出现烧焦、元器件异常或插座损坏
-- 经排查确认控制板本身存在故障
+![69_tool_control_board_replacement_guide_for_the_h3c_79a462d38f.jpg](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-tool-control-board/en/69_tool_control_board_replacement_guide_for_the_h3c_79a462d38f.jpg)
 
 ## 工具和材料
 
@@ -25,62 +18,50 @@ AMS 热端组件控制板及其外壳安装于 AMS 内部，负责热端相关�
 
 ## 安全提示
 
-> 重要提醒 ！  
-> 在对 AMS 及其内部电子设备进行任何维护工作之前，请关闭 AMS 及打印机电源，并断开电源连接，以避免发生电路短路从而引起额外的电子设备损坏和安全隐患。  
-> 拆装过程中请避免暴力操作，防止造成零部件或连接结构的二次损伤。  
+> 重要提醒 ！
+>
+> 在对 AMS 及其内部电子设备进行任何维护工作之前，请关闭 AMS 及打印机电源，并断开电源连接，以避免发生电路短路从而引起额外的电子设备损坏和安全隐患。
+>
+> 拆装过程中请避免暴力操作，防止造成零部件或连接结构的二次损伤。
+>
 > 断开插头前，建议拍照记录各插头的连接位置，便于后续按正确顺序恢复连接。
 
-## 拆除 AMS热端组件控制板
+## 拆装提示
 
-> 断开插头前，建议拍照记录各插头连接位置，便于复装时准确对应。
+> 本指南是在已移除 AMS 3H 舱体的情况操作的，请参考WIKI: [AMS 3H 舱体拆装指南](../../h3c/maintenance/replace-chamber.md)，完成将 AMS 舱体从AMS 支架上移除和安装的操作。
 
-### 第1步 断开所有插头
+## 移除 打印头控制板
 
-依照控制板上的插头标识，逐一断开所有连接插头。
+1. 按压插头上的锁扣进行解锁，然后断开左右两侧各 1 根连接线；按压底部打印头 6 Pin 线的锁扣进行解锁，然后依次断开 9 根打印头连接线。
 
-[待插入图片：热端组件控制板所有插头位置总览]
+![69_tool_control_board_replacement_guide_for_the_h3c_8788389511.jpg](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-tool-control-board/en/69_tool_control_board_replacement_guide_for_the_h3c_8788389511.jpg)
 
-> 拔插头时请捏住插头本体向外拔出，不要拉扯线缆。
+2. 用 H2.0 内六角扳手拧下 4 颗螺丝 ，
 
-### 第2步 移除控制板及外壳
+![69_tool_control_board_replacement_guide_for_the_h3c_709b2adfe2.jpg](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-tool-control-board/en/69_tool_control_board_replacement_guide_for_the_h3c_709b2adfe2.jpg)
 
-使用 H2.0 内六角扳手，拧下固定热端组件控制板及其外壳的 4 颗螺丝，将控制板组件从安装位取出。
+3. 将打印头控制板及其外壳一起从料管导向组件上移除。
 
-[待插入图片：控制板 4 颗固定螺丝位置]
+![69_tool_control_board_replacement_guide_for_the_h3c_a96cd6e306.jpg](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-tool-control-board/en/69_tool_control_board_replacement_guide_for_the_h3c_a96cd6e306.jpg)
 
-[待插入图片：控制板及外壳整体取出的过程]
+## 安装 打印头控制板
 
-> 取出时注意不要让板卡边缘或元器件与框体发生磕碰。
+1. 将打印头控制板外壳上的两个螺丝孔对应导向组件上的螺丝柱进行安装。
 
-## 安装 AMS热端组件控制板
+![69_tool_control_board_replacement_guide_for_the_h3c_0060b244d2.jpg](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-tool-control-board/en/69_tool_control_board_replacement_guide_for_the_h3c_0060b244d2.jpg)
 
-> 安装顺序与拆除相反。复装前请确认各插头代号对应正确，线缆整理到位。
+2. 锁入4颗螺丝进行固定。
 
-### 第1步 安装控制板及外壳
+![69_tool_control_board_replacement_guide_for_the_h3c_709b2adfe2.jpg](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-tool-control-board/en/69_tool_control_board_replacement_guide_for_the_h3c_709b2adfe2.jpg)
 
-将热端组件控制板及其外壳对准安装位放入，使用 H2.0 内六角扳手锁入 4 颗固定螺丝。
+3. 重新连接好左右两侧各 1 根线缆及底部的 9 根打印头线缆。
 
-[待插入图片：控制板对位装入示意]
+![69_tool_control_board_replacement_guide_for_the_h3c_8788389511.jpg](https://public-cdn.bblmw.com/wiki/new/ams3/maintenance/replace-tool-control-board/en/69_tool_control_board_replacement_guide_for_the_h3c_8788389511.jpg)
 
-[待插入图片：4 颗螺丝锁紧完成状态]
+## 功能验证
 
-> 锁紧螺丝前请从顶部检查螺丝孔，确保线缆未遮挡孔位。
-
-### 第2步 连接所有插头
-
-根据中框或控制板上的代号标识，将对应插头逐一连接到插座上，全部插完后再次检查插头序号及是否插紧。
-
-[待插入图片：插头代号标识特写，展示对位关系]
-
-[待插入图片：所有插头连接完成并检查的状态]
-
-> 插头必须按代号一一对应，切勿插错位置。
-
-## 如何验证成功
-
-- 控制板 4 颗螺丝已拧紧，安装牢固
-- 所有插头按代号正确连接并插紧
-- 重新通电后，热端相关功能正常，无异常报错
+- 所有 PTFE 料管插入气动接头到位，接头锁紧无松动
+- 进料支架卡扣卡入正确，料管走向无弯折
 
 ## 结束语
 

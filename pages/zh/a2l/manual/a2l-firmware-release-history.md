@@ -4,9 +4,15 @@ title: "A2L 固件发布记录"
 description: ""
 tags: []
 created: 2026-06-01T13:03:14.734Z
-updated: 2026-09-09T09:10:08.994Z
+updated: 2026-11-17T09:09:29.616Z
 source: https://wiki.bambulab.com/zh/a2l/manual/a2l-firmware-release-history
 ---
+
+## 01.01.05.32（20261112）
+
+### **功能优化**
+
+1. 软件安全升级。
 
 ## 01.01.05.00（20260903）
 

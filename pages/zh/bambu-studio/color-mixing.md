@@ -4,7 +4,7 @@ title: "混色打印"
 description: "本文介绍混色打印（也称叠色打印）的具体步骤与注意事项，帮助您学习如何使用 Bambu Studio 的颜色混合功能，在单次打印中通过双色或三色混合，实现自定义色调与渐变效果。"
 tags: []
 created: 2026-07-02T09:02:15.300Z
-updated: 2026-11-04T07:11:36.299Z
+updated: 2026-11-17T09:09:11.648Z
 source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 ---
 
@@ -20,7 +20,9 @@ source: https://wiki.bambulab.com/zh/bambu-studio/color-mixing
 
 ## 耗材推荐
 
-推荐使用 **拓竹 PLA Palette 耗材套装**，这是一款专门用于 FDM 叠色功能的混色耗材套装，共包含 5 种颜色的耗材，分别是**青色（Cyan）、品红（Magenta）、黄色（Yellow）、半透明黑（Key）、白色（White）**，即 **CMYKW** 组合。PLA Palette 耗材经过官方测试，混色映射的颜色更准确，配合 Bambu Studio 的混色功能及其内置的色彩数据库，能够轻松实现为多色模型一键自动调色，无须手动调整混色参数。
+推荐使用 **拓竹 PLA 调色盘系列耗材套装（PLA Palette）**，这是一款专门用于 FDM 叠色功能的混色耗材套装，共包含 5 种颜色的耗材，分别是**青色（Cyan）、品红（Magenta）、黄色（Yellow）、半透明黑（Key）、白色（White）**，即 **CMYKW** 组合。PLA Palette 耗材经过官方测试，混色映射的颜色更准确，配合 Bambu Studio 的混色功能及其内置的色彩数据库，能够轻松实现为多色模型一键自动调色，无须手动调整混色参数。
+
+![pla_palette_2.png](https://wiki.bambulab.com/software/bambu-studio/color-mixing/pla_palette_2.png)
 
 此外，也可使用拓竹 **PLA Basic** 颜色相似或一致的耗材组成 CMYKW 组合进行混色打印；不过，自行组合的色彩无法保证混色效果。
 

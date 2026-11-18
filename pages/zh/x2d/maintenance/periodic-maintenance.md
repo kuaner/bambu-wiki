@@ -4,7 +4,7 @@ title: "X2D 定期清洁维护建议"
 description: "关于 X2D 打印机的一些日常维护和保养建议。"
 tags: []
 created: 2026-04-14T13:10:22.116Z
-updated: 2026-08-28T08:43:43.142Z
+updated: 2026-11-17T09:24:18.989Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/periodic-maintenance
 ---
 
@@ -150,9 +150,12 @@ source: https://wiki.bambulab.com/zh/x2d/maintenance/periodic-maintenance
 | --- | --- |
 |  |  |
 
-清洁完成后可以在工具头侧面齿轮位置添加润滑油。
+清洁完成后可以在工具头侧面齿轮位置添加**润滑油**。
 
 ![lubrication.jpg](https://wiki.bambulab.com/x2d/periodic-maintenance/lubrication.jpg)
+
+> **ℹ️ 提示**：润滑油现有几种不同颜色的包装，均可正常使用。  
+> ![](https://wiki.bambulab.com/filament-acc/lubricant_grease_and_oil/official_oil_new_update.jpg)
 
 ### 深度清洁
 
