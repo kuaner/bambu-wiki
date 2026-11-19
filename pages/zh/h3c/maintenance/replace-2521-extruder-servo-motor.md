@@ -4,7 +4,7 @@ title: "挤出电机更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:47:57.310Z
-updated: 2026-11-16T09:04:04.050Z
+updated: 2026-11-16T09:04:05.016Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-2521-extruder-servo-motor
 ---
 

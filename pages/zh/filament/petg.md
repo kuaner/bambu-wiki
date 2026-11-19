@@ -4,7 +4,7 @@ title: "PETG 使用指南"
 description: ""
 tags: ["耗材"]
 created: 2025-10-09T09:07:39.753Z
-updated: 2026-11-17T10:00:09.225Z
+updated: 2026-11-17T10:00:10.317Z
 source: https://wiki.bambulab.com/zh/filament/petg
 ---
 

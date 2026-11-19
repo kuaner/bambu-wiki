@@ -4,13 +4,20 @@ title: "从动轮组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:47:36.336Z
-updated: 2026-11-03T12:47:37.405Z
+updated: 2026-11-18T09:29:09.720Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-idler-assembly
 ---
 
 ## 从动轮组件
 
+从动轮组件是拓竹H3C打印机变距装置的核心部件，由变距电机驱动从动轮摆臂，可主动张开、夹紧挤出轮，以此实现取放打印头时对耗材的夹紧与释放；同时它可以控制夹紧位置适配 1.75mm/2.85mm 两种耗材直径，从动轮上搭载的传感器还能在耗材咬合时检测料线运动，识别打印过程中的空打现象。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-idler-assembly/zh/41___________idler_assembly_replacement_guide_618d47be60.jpg)
+
+**拆装时要注意检查从动轮组件的轴承：变距凸轮轴或从动轮组件两个位置须且只须有一个轴承，多了要移除，少了要增加。**
+
+|  |  |
+| --- | --- |
+| 图 | 图 |
 
 ## 何时更换
 
@@ -71,7 +78,7 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-idler-assembly
 
 ### 第 3 步 调整变距凸轮位置
 
-在 H2.0 内六角扳手上装上专用套筒，顺时针拧动变矩凸轮，使其处于咬紧状态（即 1.75 线径状态）。
+在 H2.0 内六角扳手上装上专用套筒，拧动变矩凸轮，使其处于咬紧状态（即 1.75 线径状态）。
 
 |  |  |
 | --- | --- |

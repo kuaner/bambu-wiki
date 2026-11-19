@@ -4,7 +4,7 @@ title: "打印头控制板更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:24:51.545Z
-updated: 2026-11-17T10:00:39.921Z
+updated: 2026-11-17T10:00:40.901Z
 source: https://wiki.bambulab.com/zh/ams3/maintenance/replace-tool-control-board
 ---
 

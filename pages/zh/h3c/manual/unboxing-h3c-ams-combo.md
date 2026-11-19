@@ -4,7 +4,7 @@ title: "拓竹H3C AMS 套装开箱指南"
 description: "本文介绍拓竹H3C 和 AMS 3H 的开箱及安装步骤。"
 tags: []
 created: 2026-11-03T12:11:10.268Z
-updated: 2026-11-16T11:37:45.000Z
+updated: 2026-11-18T09:48:16.687Z
 source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 ---
 
@@ -149,7 +149,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/unboxing-h3c-ams-combo
 
 ![029.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/unboxing-h3c-ams-combo/zh/029.png)
 
-- 移除螺丝时一手扶住后方，拧松螺丝后取下红色固定件的前后两部分。
+- 移除螺丝时一手扶住后方（不扶着时，后方的固定件会跌落），拧松螺丝后取下红色固定件的前后两部分。
 
 |  |  |
 | --- | --- |

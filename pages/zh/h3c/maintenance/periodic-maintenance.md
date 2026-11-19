@@ -4,7 +4,7 @@ title: "拓竹H3C 打印机定期维护"
 description: ""
 tags: []
 created: 2026-11-03T12:48:37.584Z
-updated: 2026-11-17T08:01:01.680Z
+updated: 2026-11-17T08:01:02.687Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/periodic-maintenance
 ---
 

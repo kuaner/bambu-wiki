@@ -4,7 +4,7 @@ title: "拓竹打印机和 AMS 功率参数"
 description: "本文介绍了拓竹打印机和 AMS 的功率参数"
 tags: ["功耗"]
 created: 2024-02-29T11:50:57.158Z
-updated: 2026-11-16T08:46:32.560Z
+updated: 2026-11-16T08:46:33.535Z
 source: https://wiki.bambulab.com/zh/general/power-consumption
 ---
 

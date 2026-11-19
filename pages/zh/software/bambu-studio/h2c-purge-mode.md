@@ -4,7 +4,7 @@ title: "Bambu Studio H2C 擦料塔冲刷模式详解"
 description: ""
 tags: []
 created: 2025-11-18T12:40:25.953Z
-updated: 2026-11-17T09:27:57.053Z
+updated: 2026-11-17T09:27:58.010Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/h2c-purge-mode
 ---
 

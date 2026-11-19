@@ -4,7 +4,7 @@ title: "空气滤芯更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:42:41.757Z
-updated: 2026-11-03T12:49:39.762Z
+updated: 2026-11-18T07:06:32.603Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-air-filter
 ---
 
@@ -16,7 +16,7 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-air-filter
 
 ## 何时更换
 
-根据产品的 [定期维护指南](ams_3h.md)，定期更换空气滤芯。
+根据产品的 [定期维护指南](periodic-maintenance.md)，定期更换空气滤芯。
 
 ## 工具和材料
 

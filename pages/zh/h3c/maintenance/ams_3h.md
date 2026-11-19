@@ -4,7 +4,7 @@ title: "AMS 3H 定期维护指南"
 description: ""
 tags: []
 created: 2026-11-03T12:49:32.274Z
-updated: 2026-11-03T12:49:33.317Z
+updated: 2026-11-18T02:27:59.999Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/ams_3h
 ---
 
@@ -19,7 +19,11 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/ams_3h
 
 ## 更换干燥剂
 
-[干燥剂](../../knowledge-sharing/desiccant-status.md)位于烘干仓盖上，可直接更换。保持 AMS 3H 烘干区域干燥能够提高烘干质量。建议定期检查其状态,失效时应及时烘干或更换。
+[干燥剂](../../knowledge-sharing/desiccant-status.md)位于 AMS 仓内和烘干仓盖上，可直接更换。保持内部干燥能够减缓耗材受潮速率。建议定期检查其状态,失效时应及时烘干或更换。
+
+|  |  |
+| --- | --- |
+| 图 | 图 |
 
 |  |  |
 | --- | --- |

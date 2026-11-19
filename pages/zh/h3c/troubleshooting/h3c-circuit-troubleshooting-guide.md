@@ -4,7 +4,7 @@ title: "拓竹H3C 电路排查指南-设备无法开机工作"
 description: ""
 tags: []
 created: 2026-11-03T12:08:46.904Z
-updated: 2026-11-10T08:47:18.622Z
+updated: 2026-11-19T07:34:17.948Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/h3c-circuit-troubleshooting-guide
 ---
 
@@ -29,7 +29,10 @@ source: https://wiki.bambulab.com/zh/h3c/troubleshooting/h3c-circuit-troubleshoo
 设备无法上电的现象，通常会有两种可能性。
 
 1. 市电输入设备时存在异常，如电源开关故障、电源线故障等。
-2. 设备内部电源输出存在异常，如某一组件短路导致相连的主板或其他主板进入保护状态，暂停工作。
+2. 设备内部电源输出存在异常，如某一组件短路导致相连的主板或其他主板进入保护状态，暂停工作。  
+   因此可按照下图顺序进行排查。
+
+![dianlupaicha.png](https://wiki.bambulab.com/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/dianlupaicha.png)
 
 ## 检查外部输入
 
@@ -60,76 +63,40 @@ source: https://wiki.bambulab.com/zh/h3c/troubleshooting/h3c-circuit-troubleshoo
 | 2 | 直流负极输出 | 黑色 | 5 | 高压火线输入 | 棕色 |
 | 3 | 共用地线 | 黑色 （直流）/黄绿色（交流） | / |  |  |
 
-### 检查 MC 板模块
+### 检查各模块指示灯
 
-#### 步骤 1. 拆卸背板和废料滑梯
+根据“排查流程”中的顺序图，优先观察 TH 模块、AP 模块、打印头控制模块、挂架转接模块的工作情况。
 
-参考[背板更换教程](../maintenance/replace-back-panel.md)，[废料滑梯更换教程](../maintenance/replace-purge-chute.md)，拆除背板和废料滑梯。
+#### TH 板模块
 
-#### 步骤 2. 检查线缆连接
+TH 板模块是否通电，可以通过观察变距组件的 LED 是否点亮，若 LED 无法亮起，再检查 AP 模块指示灯状态，若 AP 指示灯异常，则需要先检查 AP 模块。
 
-关机检查 MC 板上的线缆是否接好，避免连接器歪斜。若外观正常则进行下一步。  
-![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-04.png)
+![bianjuzujianled.png](https://wiki.bambulab.com/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/bianjuzujianled.png)
 
-#### 步骤 3. 排查异常组件
+#### AP 板模块
 
-关机后逐次取下 1、2、5、7、8/9、11、13 位置的连接器，每取下一个连接器后重新开机，观察指示灯状态。  
-![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-05.gif)
-
-- 如果 1 连接器未接入的情况下，指示灯正常，说明右自适应风道组件异常，参考[右自适应风道组件更换指南](../maintenance/replace-adaptive-airflow-assembly-right.md)更换。
-- 如果 8 连接器未接入的情况下，指示灯正常，说明后自适应风道及腔温组件异常。参考[后自适应风道及腔温组件更换指南](../maintenance/replace-adaptive-airflow-assembly-back.md)，拆除左后内衬，并更换转接板以及腔温组件。
-- 如果 13 连接器未接入的情况下，指示灯正常，说明 AC 板异常。参考[AC板更换教程](../maintenance/replace-ac-board.md)更换 AC 板。
-- 如果 2/7、5、11 连接器未接入的情况下，指示灯正常，说明 AP 板/打印头控制转接板或挂架控制板存在异常，请装回对应连接器后进行后续的排查。
-
-如果以上 7 个连接器与故障无关，则按照相同方式逐一检查其他连接器，仅保留 10 号供电线正常连接。
-
-- 若其余连接器均未接入时，灯语依然异常，则说明 MC 板本身存在故障，需参考[MC 板更换教程](../maintenance/replace-mc-board.md)更换 MC 板。
-- 若取下某一组件连接器时，灯语恢复正常，则更换对应组件。  
-  ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-04.png)
-
-> **MC 板连接器说明如下：**（红色 “X” 标识的两个连接器不可用，请忽略。 ）
-
-| 序号 | 连接对象 | 序号 | 连接对象 | 序号 | 连接对象 |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 背侧内衬转接板 | 7 | MC-AP （24 V 电源） | 14 | 空 |
-| 2 | MC - AP 通信 1 | 8 / 9 | 右侧内衬转接板 | 15 | 热床 NTC |
-| 3 | 空 | 10 | 电源（ 24 V 电源） | 16 | 热床通信 |
-| 4 | 缓冲器/6 PIN 接口板 | 11 | 闪切挂架控制板 | X | X 电机 |
-| 5 | 打印头控制转接板 | 12 | 电源散热风扇 | Y | Y 电机 |
-| 6 | AP-MC 通信 2 | 13 | AC 板（通信） | Z | Z 电机 |
-
-### 检查 AP 板模块
-
-关机后参考 WIKI: [视窗更换指南](../maintenance/replace-side-glass-left.md)，移除左侧视窗。  
+AP 模块需要先参考 WIKI: [视窗更换指南](../maintenance/replace-side-glass-left.md)，移除左侧视窗，再观察指示灯是否正常。若指示灯异常，则需要排查 AP 模块；若指示灯熄灭，则需要先检查 MC 模块。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-07.jpg)
 
-用 H1.5 内六角扳手移除 2 颗螺丝，并取下导光板。注意需将导光板向上提，离开卡扣位置后再取下。  
-![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-08.jpg)
-
-用 H1.5 内六角扳手移除 USB 线缆支架的螺丝，取下支架。  
-![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-09.jpg)
-
-逐次断开 AP 板上的 2、5、6、7、8、9 连接器，仅保留 MC-AP 线缆以及 WIFI 天线。
-
-> 6 号插头为选配俯视摄像头，若未加装，则该插孔为空。
-
-![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-10.jpg)
-
-开机观察 AP 板的指示灯是否正常。  
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-11.gif)
 
-- 如果 2、6、7、8、9 中某个连接器被取下后，AP 板指示灯恢复正常，则更换对应模块即可。
-- 如果 5 号连接器被取下后， AP 指示灯恢复正常，则需要装回 5 号连接器，排查 TH 板模块。
+#### 闪切挂架控制模块
 
-> ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-10.jpg)
+先用H2.0六角扳手拆掉打印机右侧的四颗螺丝，取下侧窗，才能观察到指示灯。若指示灯异常，则需要排查闪切挂架模块；若指示灯熄灭，则需要先检查 MC 模块。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-20.png)  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-22.gif)
 
-| 序号 | 连接对象 | 序号 | 连接对象 |
-| --- | --- | --- | --- |
-| 1 | MC -AP 通信 2 | 6 | 俯视摄像头（选配） |
-| 2 | 左补光灯 | 7 | 腔温传感器 |
-| 3 | MC -AP 通信 1 | 8 | 实况摄像头 |
-| 4 | MC - AP (24 V 电源线) | 9 | 屏幕 |
-| 5 | 工具头 （USB 线） | 10 | WIFI 天线 |
+#### 打印头控制模块
+
+打印头控制模块可直接观察打印头控制板的 LED 是否亮起，正常情况如下。若指示灯异常，则需要排查打印头控制模块；若指示灯熄灭，则需要先检查 MC 模块。
+
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-18.gif)
+
+#### MC 板模块
+
+先参考[背板更换教程](../maintenance/replace-back-panel.md)，[废料滑梯更换教程](../maintenance/replace-purge-chute.md)，拆除背板和废料滑梯，再观察指示灯是否恢复正常，若指示灯异常或不亮，则需要排查 MC 模块。
+
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-05.gif)
 
 ### 检查 TH 板模块
 
@@ -150,7 +117,7 @@ source: https://wiki.bambulab.com/zh/h3c/troubleshooting/h3c-circuit-troubleshoo
 
 - 若 3、4、5 中某一连接器拔下后，灯语恢复正常，则说明对应组件存在故障，更换该组件即可。
 - 若 1/2 同时拔下后，灯语恢复正常，说明 TH 转接板存在故障，请装回线缆并进行后续排查。
-- 若所有连接器均拔下后，指示灯依旧异常，则需要更换 TH 板；
+- 若所有连接器均拔下后，指示灯依旧异常，或指示灯完全不亮且 AP 板指示灯正常，则需要更换 TH 板。
 
 | 序号 | 连接对象 | 序号 | 连接对象 |
 | --- | --- | --- | --- |
@@ -173,11 +140,45 @@ source: https://wiki.bambulab.com/zh/h3c/troubleshooting/h3c-circuit-troubleshoo
 | 4 | 热端风扇 | 9 | TH 板 2 |
 | 5 | 涡流线圈 | / | / |
 
+### 检查 AP 板模块
+
+关机后参考 WIKI: [视窗更换指南](../maintenance/replace-side-glass-left.md)，移除左侧视窗。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-07.jpg)
+
+用 H1.5 内六角扳手移除 2 颗螺丝，并取下导光板。注意需将导光板向上提，离开卡扣位置后再取下。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-08.jpg)
+
+用 H1.5 内六角扳手移除 USB 线缆支架的螺丝，取下支架。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-09.jpg)
+
+逐次断开 AP 板上的 2、5、6、7、8、9 连接器，仅保留 MC-AP 线缆(1/3/4)以及 WIFI 天线。
+
+> 6 号插头为选配俯视摄像头，若未加装，则该插孔为空。
+
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-10.jpg)
+
+开机观察 AP 板的指示灯是否正常。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-11.gif)
+
+- 如果 2、6、7、8、9 中某个连接器被取下后，AP 板指示灯恢复正常，则更换对应模块即可。
+- 如果 5 号连接器被取下后， AP 指示灯恢复正常，则需要装回 5 号连接器，排查 TH 板模块。
+- 若所有连接器取下后指示灯异常，或指示灯熄灭但 MC 指示灯正常，则需要更换 AP 板。
+
+> ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-10.jpg)
+
+| 序号 | 连接对象 | 序号 | 连接对象 |
+| --- | --- | --- | --- |
+| 1 | MC -AP 通信 2 | 6 | 俯视摄像头（选配） |
+| 2 | 左补光灯 | 7 | 腔温传感器 |
+| 3 | MC -AP 通信 1 | 8 | 实况摄像头 |
+| 4 | MC - AP (24 V 电源线) | 9 | 屏幕 |
+| 5 | 工具头 （USB 线） | 10 | WIFI 天线 |
+
 ### 打印头控制板模块外设供电异常
 
 请参考WIKI: [AMS 3H 舱体拆装指南](../maintenance/replace-chamber.md)，完成将 AMS 舱体从AMS 支架上移除和安装的操作。
 
-- 步骤 1：拔下挂架的 9 个打印头 4-pin 线缆，以及右侧的挂架散热风扇接头。  
+- 步骤 1：拔下挂架的 9 个打印头 6-pin 线缆，以及左侧的挂架散热风扇接头。  
   ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-17.png)
 - 步骤 2：开机观察指示灯状态。  
   ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-18.gif)
@@ -194,7 +195,7 @@ source: https://wiki.bambulab.com/zh/h3c/troubleshooting/h3c-circuit-troubleshoo
    ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-22.gif)
 
 - 若拔下某一连接器后指示灯恢复正常，则是相应组件故障，更换该组件即可。
-- 若报错无法消除，则是挂架板异常，需[更换挂架板](../maintenance/replace-swaptek-rack-control-board.md)。  
+- 若指示灯异常，或指示灯熄灭但 MC 板指示灯正常，则是闪切挂架板异常，需[更换挂架板](../maintenance/replace-swaptek-rack-control-board.md)。  
   ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-23.jpg)
 
 | 序号 | 连接对象 | 序号 | 连接对象 |
@@ -203,6 +204,39 @@ source: https://wiki.bambulab.com/zh/h3c/troubleshooting/h3c-circuit-troubleshoo
 | 2 | 挂架防撞霍尔传感器 | 6 | 右LED灯条 |
 | 3 | 腔温传感器 | 7 | MC 板 |
 | 4 | 挂架校准传感器 | 8 | 打印头控制转接板 （风扇） |
+
+### 检查 MC 板模块
+
+#### 步骤 1. 检查线缆连接
+
+关机检查 MC 板上的线缆是否接好，避免连接器歪斜。若外观正常则进行下一步。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-04.png)
+
+#### 步骤 2. 排查异常组件
+
+关机后逐次取下 2、5、6、7、11 位置的连接器，每取下一个连接器后重新开机，观察指示灯状态。  
+![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-05.gif)
+
+- 如果 5 连接器未接入的情况下，指示灯正常，说明打印头控制模块存在异常。
+- 如果 11 连接器未接入的情况下，指示灯正常，说明闪切挂架控制模块存在异常。
+- 如果 2、7、5 连接器未接入的情况下，指示灯正常，说明 AP 模块存在异常。
+
+如果以上 5 个连接器与故障无关，则按照相同方式逐一检查其他连接器，仅保留 10 号供电线正常连接。
+
+- 若其余连接器均未接入时，灯语依然异常，则说明 MC 板本身存在故障，需参考[MC 板更换教程](../maintenance/replace-mc-board.md)更换 MC 板。
+- 若取下某一组件连接器时，灯语恢复正常，则更换对应组件。  
+  ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/h3c-circuit-troubleshooting-guide/zh/02_h3c_______-________-04.png)
+
+> **MC 板连接器说明如下：**（红色 “X” 标识的两个连接器不可用，请忽略。 ）
+
+| 序号 | 连接对象 | 序号 | 连接对象 | 序号 | 连接对象 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 背侧内衬转接板 | 7 | MC-AP （24 V 电源） | 14 | 空 |
+| 2 | MC - AP 通信 1 | 8 / 9 | 右侧内衬转接板 | 15 | 热床 NTC |
+| 3 | 空 | 10 | 电源（ 24 V 电源） | 16 | 热床通信 |
+| 4 | 缓冲器/6 PIN 接口板 | 11 | 闪切挂架控制板 | X | X 电机 |
+| 5 | 打印头控制转接板 | 12 | 电源散热风扇 | Y | Y 电机 |
+| 6 | AP-MC 通信 2 | 13 | AC 板（通信） | Z | Z 电机 |
 
 ## 船型开关指示灯异常解决方案
 

@@ -4,7 +4,7 @@ title: "耗材"
 description: ""
 tags: []
 created: 2023-09-15T09:47:06.270Z
-updated: 2026-11-17T09:12:54.666Z
+updated: 2026-11-17T09:12:55.676Z
 source: https://wiki.bambulab.com/zh/filament-acc
 ---
 

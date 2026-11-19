@@ -4,7 +4,7 @@ title: "X2D 定期清洁维护建议"
 description: "关于 X2D 打印机的一些日常维护和保养建议。"
 tags: []
 created: 2026-04-14T13:10:22.116Z
-updated: 2026-11-17T09:24:18.989Z
+updated: 2026-11-17T09:24:19.915Z
 source: https://wiki.bambulab.com/zh/x2d/maintenance/periodic-maintenance
 ---
 

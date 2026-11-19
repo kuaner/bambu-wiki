@@ -4,7 +4,7 @@ title: "拓竹H3C 前面盖更换指南"
 description: "本页面介绍了拓竹H3C 前面盖更换的具体操作方式。"
 tags: []
 created: 2026-11-03T12:43:13.206Z
-updated: 2026-11-17T01:31:11.679Z
+updated: 2026-11-17T01:31:12.643Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-front-cover
 ---
 

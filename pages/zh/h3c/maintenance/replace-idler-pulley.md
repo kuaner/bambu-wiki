@@ -4,15 +4,15 @@ title: "惰轮组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:48:06.643Z
-updated: 2026-11-03T12:49:06.360Z
+updated: 2026-11-18T03:56:26.501Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-idler-pulley
 ---
 
 ## 惰轮组件
 
-本指南所述惰轮组件，是指 XY 同步皮带路径上使用的 12 个较容易更换的惰轮：
+本指南所述惰轮组件，是指 XY 同步皮带路径上使用的 10 个较容易更换的惰轮：
 
-1. 安装在打印机后立柱两侧的惰轮组件，共 8 个；
+1. 安装在打印机后立柱两侧的惰轮组件，共 4 个；
 
 |  |  |
 | --- | --- |

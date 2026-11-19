@@ -4,7 +4,7 @@ title: "配件"
 description: ""
 tags: []
 created: 2023-09-07T02:38:24.600Z
-updated: 2026-11-17T08:35:08.551Z
+updated: 2026-11-17T08:35:09.669Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc
 ---
 

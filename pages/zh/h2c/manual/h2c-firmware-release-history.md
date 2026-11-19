@@ -4,9 +4,19 @@ title: "H2C 固件发布记录"
 description: "本指南提供 H2C 所有固件发布记录"
 tags: []
 created: 2025-11-18T12:41:33.455Z
-updated: 2026-10-29T06:30:12.042Z
+updated: 2026-11-18T07:23:06.615Z
 source: https://wiki.bambulab.com/zh/h2c/manual/h2c-firmware-release-history
 ---
+
+## 01.03.00.00 (20261118)
+
+### **新功能**
+
+1. 软件安全升级。
+
+### **问题修复**
+
+1. 修复了因切片文件与打印机不匹配导致打印启动失败后，选择正确的 G-code 文件仍无法启动打印的问题。
 
 ## 01.02.00.00 (20260601)
 
