@@ -4,7 +4,7 @@ title: "Bambu Lab 打印机常见螺钉"
 description: "概述 Bambu Lab 打印机常用螺钉，讲解如何进行尺寸标注与内六角规格识读"
 tags: []
 created: 2025-09-22T06:58:30.916Z
-updated: 2026-08-28T06:25:49.142Z
+updated: 2026-11-19T03:07:23.446Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/common-screws
 ---
 

@@ -4,7 +4,7 @@ title: "热端更换指南"
 description: "本文介绍了如何更换热端。"
 tags: []
 created: 2026-11-03T12:37:04.289Z
-updated: 2026-11-10T08:47:06.722Z
+updated: 2026-11-19T13:37:59.401Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-hotend
 ---
 
@@ -29,6 +29,10 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-hotend
 > 在对打印机及其电子设备（包括工具头线缆）进行任何维护工作之前，请关闭打印机电源并断开电源连接，以避免发生屏幕误触或电路短路从而引起额外的电子设备损坏和安全隐患。
 >
 > 在您对打印机进行维护或故障排查时，请先确认热端和热床的温度，避免在高温状态下操作，如果必须在高温状态下操作，请佩戴好隔热手套，以确保安全有效地执行维护工作。
+
+## 拆装提示
+
+> 在您准备拧热端螺丝时， 请注意观察螺丝孔边上是否有很靠近的连接线并进行避让，避免损坏线缆导致热端加热异常。![ntc_cable.jpeg](https://wiki.bambulab.com/ams-3h/replacement/ntc_cable.jpeg)
 
 ## 移除热端
 

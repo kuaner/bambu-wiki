@@ -4,7 +4,7 @@ title: "X2D 耗材兼容性指南"
 description: "本文列出了 X2D 和耗材变轨器的耗材兼容性"
 tags: []
 created: 2026-04-14T13:20:31.079Z
-updated: 2026-08-28T06:41:25.877Z
+updated: 2026-11-19T03:01:13.976Z
 source: https://wiki.bambulab.com/zh/x2d/manual/filament-compatibility
 ---
 
@@ -48,6 +48,7 @@ source: https://wiki.bambulab.com/zh/x2d/manual/filament-compatibility
 | PLA Tough | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | PETG 系列 | PETG HF | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | PETG Basic | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| PETG Matte | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | PETG Translucent | ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | PETG-CF | ❌ | ✅ | ✅ | ✅ | ⚠️ | ✅ | ✅ |
 | ABS/ASA 系列 | ABS | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -114,6 +115,7 @@ source: https://wiki.bambulab.com/zh/x2d/manual/filament-compatibility
 | PLA Tough | ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | PETG 系列 | PETG HF | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ |
 | PETG Basic | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ |
+| PETG Matte | ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | PETG Translucent | ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | PETG-CF | ❌ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
 | ABS/ASA 系列 | ABS | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ |
@@ -173,6 +175,7 @@ source: https://wiki.bambulab.com/zh/x2d/manual/filament-compatibility
 | PLA-CF | ❌ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ |
 | PLA Aero | ❌ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
 | PETG 系列 | PETG Basic | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| PETG Matte | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | PETG HF | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | PETG Translucent | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | PETG-CF | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
