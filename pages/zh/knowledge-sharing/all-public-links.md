@@ -4,7 +4,7 @@ title: "全部公开的链接"
 description: ""
 tags: []
 created: 2025-01-15T07:09:25.179Z
-updated: 2026-10-21T06:06:13.141Z
+updated: 2026-11-20T03:48:09.147Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 ---
 
@@ -2354,7 +2354,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [X2D 外排风扇套件安装指南](../x2d/manual/external-exhaust-fan-bundle.md)  
 [拓竹农场管家客户端 V3.0.0 & 服务器端 V3.0.0.0 版本说明](../software/bambu-farm-release-notes/3-0-0.md)  
 [A1 mini](../a1-mini.md)  
-[MIDI to A1 mini 使用指南](../A1-mini/Midi.md)  
+[MIDI to A1 mini 使用指南](https://wiki.bambulab.com/zh/A1-mini/Midi)  
 [如何使用拓竹增稳低温打印板打印 Support for PLA/PETG](../studio-handy/bambu-studio/PLA/PETG-with-bambu-bool-plate-supertack.md)  
 [如何使用拓竹增稳低温打印板打印 Support for PLA/PETG](../PLA/PETG-with-bambu-bool-plate-supertack.md)  
 [更换 H2 系列热床组件](../h2/maintenance/replace-heatbed-unit.md)  
@@ -2485,7 +2485,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [R1 聚焦镜更换指南](../r1/maintenance/replace-focusing-lens.md)  
 [H2S 固件发布记录](../h2s/manual/h2s-firmware-release-history.md)  
 [P2S 固件发布记录](../p2s/manual/p2s-firmware-release-history.md)  
-[打印中挤出失败故障排查](https://wiki.bambulab.com/zh/general/troubleshooting/extrusion-failure)  
+[打印中挤出失败故障排查](../general/troubleshooting/extrusion-failure.md)  
 [R1 开箱指南](../r1/manual/unboxing.md)  
 [增高底座安装指南](../r1/manual/riser-base-unboxing.md)  
 [E1 Pro 净化器安装使用指南](../r1/manual/air-purifier-unboxing.md)  
@@ -2543,7 +2543,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [电源更换指南](../r1/maintenance/replace-power-supply.md)  
 [Y 轴电机更换指南](../r1/maintenance/replace-y-axis-motor.md)  
 [Y 轴光轴更换指南](../r1/maintenance/replace-y-axis-linear-rod.md)  
-[如何修改 DNS 服务器地址](https://wiki.bambulab.com/zh/software/bambu-studio/how-to-change-dns)  
+[如何修改 DNS 服务器地址](../software/bambu-studio/how-to-change-dns.md)  
 [A1 mini 产品维护与保养](../a1-mini/maintenance/period-maintenance.md)  
 [A1 产品维护与保养](../a1/maintenance/basic-maintenance.md)  
 [P2S](../p2s.md)  
@@ -2554,11 +2554,11 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/all-public-links
 [更换 X2D X 轴组件](../x2d/maintenance/replace-x-axis-assembly.md)  
 [P2S/X2D 同步带更换教程](replace_the_xy_belts.md)  
 [排烟风扇安装座更换指南](../r1/maintenance/replace-ventilation-fan-mounting-base.md)  
-[水箱更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-water-tank)  
-[气泵更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-air-pump)  
+[水箱更换指南](../r1/maintenance/replace-water-tank.md)  
+[气泵更换指南](../r1/maintenance/replace-air-pump.md)  
   
-[待发布](https://wiki.bambulab.com/zh/r1/maintenance/replace-left-shell)  
-[Y 皮带更换指南](https://wiki.bambulab.com/zh/r1/maintenance/replace-y-axis-belt)  
+[待发布](../r1/maintenance/replace-left-shell.md)  
+[Y 皮带更换指南](../r1/maintenance/replace-y-axis-belt.md)  
 [Bambu Lab 打印机的直播功能](../software/bambu-studio/virtual-camera.md)  
 [A1 系列打印机热端堵塞清理](../a1-mini/troubleshooting/nozzle-clog.md)  
 [堵头](../filament-acc/filament/print-quality/clog.md)  

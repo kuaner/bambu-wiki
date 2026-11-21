@@ -4,9 +4,48 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-11-16T01:43:32.043Z
+updated: 2026-11-20T09:50:24.018Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 2026-W47
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [R1 激光切割连接点参数设置指南](r1/manual/laser-cut-tab-parameter-guide.md) | 介绍在 Bambu Suite 中设置激光切割连接点参数的方法，兼顾加工固定效果与后续拆卸质量。 | / |
+| [拓竹工作站 L 背板更换指南](bambu-station-l/maintenance/replace-back-panel.md) | 介绍拓竹工作站 L 背板的拆卸与更换步骤，帮助完成设备维修维护。 | / |
+| [拓竹工作站 L 底座更换指南](bambu-station-l/maintenance/replace-base.md) | 介绍拓竹工作站 L 底座的拆卸与更换步骤，帮助完成维护维修。 | / |
+| [拓竹工作站 L 可调万向轮更换指南](bambu-station-l/maintenance/replace-caster-wheel.md) | 介绍拓竹工作站 L 可调万向轮的拆卸与更换步骤，帮助完成维护维修。 | / |
+| [拓竹工作站 L 抽屉更换指南](bambu-station-l/maintenance/replace-drawer.md) | 介绍拓竹工作站 L 抽屉的拆卸与更换步骤，帮助用户完成维护更换。 | / |
+| [拓竹工作站 L 抽屉前板更换指南](bambu-station-l/maintenance/replace-drawer-front.md) | 介绍拓竹工作站 L 抽屉前板的拆卸与更换步骤，帮助完成维护维修。 | / |
+| [拓竹工作站 L 抽屉滑轨更换指南](bambu-station-l/maintenance/replace-drawer-slides.md) | 介绍拓竹工作站 L 抽屉滑轨的拆卸与更换步骤，帮助完成维护维修。 | / |
+| [拓竹工作站 L 侧板更换指南](bambu-station-l/maintenance/replace-side-panel.md) | 介绍拓竹工作站 L 侧板的拆卸与更换步骤，帮助完成维护维修。 | / |
+| [拓竹工作站 L 桌面更换指南](bambu-station-l/maintenance/replace-tabletop.md) | 介绍拓竹工作站 L 桌面的拆卸与更换步骤，帮助完成桌面部件维护。 | / |
+| [拓竹工作站 L 立柱更换指南](bambu-station-l/maintenance/replace-uprights.md) | 介绍拓竹工作站 L 立柱的拆卸与更换步骤，帮助完成维护维修。 | / |
+| [E1 净化器认证与滤芯过滤测试说明](e1/manual/certification-and-filter-test.md) | 介绍 E1 空气净化器相关的 认证与测试。 | / |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [挤出电机更换指南](h3c/maintenance/replace-2521-extruder-servo-motor.md) | 补充挤出电机拆装风险提示及滑牙螺丝拆卸方法 | 滑牙螺丝 | 拓竹H3C |
+| [R1 FAQs](r1/manual/faq.md) | 补充 R1 功率、存储、激光管衰减及软件兼容等 FAQ 信息 | R1 FAQs | / |
+| [热端更换指南](h3c/maintenance/replace-hotend.md) | 补充拧热端螺丝时避让近旁线缆的拆装提示。 | 热端螺丝 | AMS |
+| [从动轮组件更换指南](h3c/maintenance/replace-idler-assembly.md) | 补充从动轮组件功能说明及轴承检查要求，并更新凸轮操作表述。 | 从动轮组件 | 拓竹H3C |
+| [拓竹H3C AMS 套装开箱指南](h3c/manual/unboxing-h3c-ams-combo.md) | 补充打印头安装到位检查说明，并更新固定件拆除提示。 | 打印头安装 | AMS |
+| [AMS 3H 定期维护指南](h3c/maintenance/ams_3h.md) | 更新干燥剂位置与作用说明，补充 AMS 仓内示意图。 | 干燥剂 | AMS |
+| [拓竹H3C 电路排查指南-设备无法开机工作](h3c/troubleshooting/h3c-circuit-troubleshooting-guide.md) | 更新电路排查流程，补充各模块指示灯检查与板卡更换判定 | 电路排查 | 拓竹H3C |
+| [A2L 固件发布记录](a2l/manual/a2l-firmware-release-history.md) | 补充 01.01.06.00 版本及软件安全升级说明 | 01.01.06.00 | A2L |
+| [拓竹H3C TPU 打印指南](h3c/manual/tpu-printing-guide.md) | 更新擦料塔默认位置说明，并删除料管调整步骤。 | 擦料塔位置 | 耗材 |
+| [HMS\_0300-4105-0001-0002：1 号热端外设供电异常，可能外设接线发生短路，请检查相关接线并重启设备后重试。](h3c/troubleshooting/hmscode/0300_4105_0001_0002.md) | 更新异常转移后的更换对象，由热端改为打印头，并更换对应指南链接。 | 打印头更换指南 | 拓竹H3C |
+| [打印头控制板更换指南](ams3/maintenance/replace-tool-control-board.md) | 更新打印头控制板拆装步骤，并补充需先移除 AMS 3H 舱体及功能验证要点。 | 打印头控制板 | AMS |
+| [惰轮组件更换指南](h3c/maintenance/replace-idler-pulley.md) | 更新可更换惰轮总数及后立柱两侧惰轮数量说明 | 惰轮组件 | / |
+| [R1](r1.md) | 补充 R1 激光切割连接点参数设置与气泵拆装指南链接。 | 气泵拆装 | / |
+| [气泵更换指南](r1/maintenance/replace-air-pump.md) | 补充气泵更换时机、所需工具及拆装步骤。 | 气泵 | / |
+| [配件](filament-acc/acc.md) | 补充拓竹工作站 L、E1 空气净化器及 H3C 螺丝包入口链接 | E1 空气净化器 | 耗材 |
+| [X2D 耗材兼容性指南](x2d/manual/filament-compatibility.md) | 补充 PETG Matte 在兼容性表中的适配状态。 | PETG Matte | X2D |
 
 ## 2026-W46
 
