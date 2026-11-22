@@ -4,7 +4,7 @@ title: "PTFE 管更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:08:10.801Z
-updated: 2026-11-03T13:08:11.857Z
+updated: 2026-11-21T12:29:38.732Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-ptfe-tube
 ---
 
@@ -127,7 +127,7 @@ FEP 管通过一个卡扣和 3 个橡胶圈与打印头线缆固定在一起。�
 
 ## 安装 FEP 管
 
-> 温馨提示： FEP 管通过一个卡扣和 3 个橡胶圈与打印头线缆固定在一起，可以在连接好料管后调整橡胶圈的位置，每个 固定点的距离约 60 CM。
+> 温馨提示： FEP 管通过一个卡扣和 3 个橡胶圈与打印头线缆固定在一起，可以在连接好料管后调整橡胶圈的位置，每个 固定点的距离约 60 mm。
 >
 > ![023.jpeg](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/replace-ptfe-tube/zh/023.jpeg)
 
@@ -153,7 +153,7 @@ FEP 管通过一个卡扣和 3 个橡胶圈与打印头线缆固定在一起。�
 | --- | --- |
 | 028.jpeg | 029.jpeg |
 
-将 FEP 管扣到线材卡扣上，然后调整 3 个橡胶圈的位置，使每个固定点的距离约为 60 CM。
+将 FEP 管扣到线材卡扣上，然后调整 3 个橡胶圈的位置，使每个固定点的距离约为 60 mm。
 
 |  |  |
 | --- | --- |
