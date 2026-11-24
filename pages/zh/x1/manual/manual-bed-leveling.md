@@ -4,7 +4,7 @@ title: "X1/P1 系列热床手动调平"
 description: "介绍如何对 X1/P1 系列打印机的热床进行手动调平。"
 tags: ["手动调平", "热床"]
 created: 2022-11-02T09:28:11.494Z
-updated: 2026-08-28T08:23:48.567Z
+updated: 2026-11-23T02:27:11.660Z
 source: https://wiki.bambulab.com/zh/x1/manual/manual-bed-leveling
 ---
 
@@ -25,7 +25,7 @@ Bambu Lab X1/P1系列打印机的热床是已调整好的。 由于各种运输�
 - 确保喷嘴清洁且喷嘴上没有任何材料。 如果需要，加热喷嘴并擦拭喷嘴以确保其清洁。
 - 检查热床调平螺母并确保它们正确拧紧。 调平螺母与热床螺丝齐平即可，不可过松或过紧，如下图所示。
 
-![](https://wiki.bambulab.com/x1/manual/bed-leveling/screw_tension.jpg)
+![](https://wiki.bambulab.com/x1/manual/bed-leveling/screw_tension-zh.png)
 
 ### 开始调平
 

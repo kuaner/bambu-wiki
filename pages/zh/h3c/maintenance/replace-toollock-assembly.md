@@ -4,7 +4,7 @@ title: "锁紧组件更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:47:05.828Z
-updated: 2026-11-10T06:18:13.104Z
+updated: 2026-11-23T06:54:04.121Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-toollock-assembly
 ---
 
@@ -85,7 +85,6 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-toollock-assembly
 |  |  |
 | --- | --- |
 | 图 | 图 |
-| 图 |
 
 沿着插销槽安装锁紧插销，用手抵住插销，然后通过专用套筒逆时针拧动锁紧电机的转轴，锁紧插销将继续向右侧移动。
 

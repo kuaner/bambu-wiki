@@ -4,7 +4,7 @@ title: "更换 AMS HT RFID 线圈"
 description: "本文将详细为您介绍更换 AMS HT RFID 线圈的详细步骤和注意事项"
 tags: []
 created: 2025-10-28T02:40:41.078Z
-updated: 2026-08-28T06:30:10.055Z
+updated: 2026-11-23T02:48:26.093Z
 source: https://wiki.bambulab.com/zh/ams-ht/maintenance/replace-rfid-coil
 ---
 
@@ -12,9 +12,9 @@ source: https://wiki.bambulab.com/zh/ams-ht/maintenance/replace-rfid-coil
 
 AMS HT 中配备了 RFID 线圈，通过它可以识别 Bambu Lab 官方耗材上的 RFID 标签，还可以通过它实现耗材余量估算、自动续料等功能。
 
-|  |  |
-| --- | --- |
-|  |  |
+|  |
+| --- |
+|  |
 
 ## 适用机型
 

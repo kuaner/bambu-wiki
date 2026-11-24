@@ -4,7 +4,7 @@ title: "平面加工头（刀切头／画笔头）定期维护建议"
 description: ""
 tags: []
 created: 2026-11-03T12:49:42.697Z
-updated: 2026-11-12T02:11:43.084Z
+updated: 2026-11-23T07:22:42.449Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/craft-tool
 ---
 
@@ -110,9 +110,9 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/craft-tool
 
 1. 从屏幕上取用平面加工头。
 
-|  |  |
-| --- | --- |
-|  |  |
+|  |
+| --- |
+|  |
 
 2. 轻轻晃动平面加工头，确认取用后无松动感。  
    ![](https://public-cdn.bblmw.com/wiki/new/h3c/maintenance/craft-tool/zh/08______________________1c713813e4.gif)

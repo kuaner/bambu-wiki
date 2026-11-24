@@ -4,7 +4,7 @@ title: "Bambu Lab 软件"
 description: ""
 tags: []
 created: 2022-07-28T09:52:39.762Z
-updated: 2026-07-03T04:22:46.880Z
+updated: 2026-11-23T03:26:14.193Z
 source: https://wiki.bambulab.com/zh/software
 ---
 
@@ -79,11 +79,12 @@ CyberBrick 是一款模块化智能玩具生态系统，结合了可编程硬件
 - [批量雕刻制作功能](bambu-suite/manual/batch-engraving.md)
 - [基础刀切加工镜像设置指南](h2/software/bambu-suite/manual/mirroring-setting-guide.md)
 - [Bambu Suite 材料参数标定和加工优化指导](h2/software/bambu-suite/manual/material-parameter-calibration-and-machining-optimization.md)
-- [Bambu Suite机箱状态检测和交互功能](h2/software/bambu-suite/manual/smart-detection-and-precise-control.md)
+- [Bambu Suite 机箱状态检测和交互功能](h2/software/bambu-suite/manual/smart-detection-and-precise-control.md)
 - [Bambu Suite 先进的加工路径生成引擎](h2/software/bambu-suite/manual/advanced-path-generation-engine.md)
 - [自动测厚功能及常见问题排查](bambu-suite/manual/auto-thickness-measuring-and-troubleshooting.md)
-- [Bambu Suite拍照功能介绍和常见问题排查](h2/software/bambu-suite/manual/take-photos-and-troubleshooting.md)
+- [Bambu Suite 拍照功能介绍和常见问题排查](h2/software/bambu-suite/manual/take-photos-and-troubleshooting.md)
 - [Bambu H2D 曲面雕刻功能使用指南](bambu-suite/manual/surface-engraving.md)
+- [激光切割连接点参数设置指南](r1/manual/laser-cut-tab-parameter-guide.md)
 
 ### 故障排查
 

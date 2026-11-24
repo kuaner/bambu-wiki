@@ -4,7 +4,7 @@ title: "钟表机芯套件_ZC037使用指南"
 description: ""
 tags: ["zc037"]
 created: 2026-10-29T02:23:21.835Z
-updated: 2026-11-03T13:57:58.911Z
+updated: 2026-11-23T10:10:45.541Z
 source: https://wiki.bambulab.com/zh/makerworld/makers_supply/ZC037/user_guide
 ---
 
@@ -14,7 +14,7 @@ source: https://wiki.bambulab.com/zh/makerworld/makers_supply/ZC037/user_guide
 
 以下参考文件均可在机芯商详页下载获取：
 
-- [3D 模型](https://wiki.bambulab.com/makerworld/makersupply/zc037_user_guide/3d_model_for_watch_movement_kit_zc037.zip)
+- [3D 模型](https://wiki.bambulab.com/makerworld/makersupply/zc037_%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97/3d_model_for_watch_movement_kit_zc037.zip)
 - [2D 图纸](https://wiki.bambulab.com/makerworld/makersupply/zc037_user_guide/2d_drawing_for_watch_movement_kit_zc037.zip)
 
 此外，以下创作指南可帮助你更好地完成时钟作品的设计与组装：

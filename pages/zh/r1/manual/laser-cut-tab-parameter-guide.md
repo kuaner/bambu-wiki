@@ -1,12 +1,14 @@
 ---
 path: zh/r1/manual/laser-cut-tab-parameter-guide
-title: "R1 激光切割连接点参数设置指南"
+title: "激光切割连接点参数设置指南"
 description: "本文介绍如何在 Bambu Suite 中设置激光切割的连接点参数，以兼顾加工时的工件固定与后续拆卸质量。"
-tags: []
+tags: ["h2", "r1"]
 created: 2026-11-17T06:26:51.206Z
-updated: 2026-11-20T06:12:55.501Z
+updated: 2026-11-23T03:21:06.293Z
 source: https://wiki.bambulab.com/zh/r1/manual/laser-cut-tab-parameter-guide
 ---
+
+> **说明**：本页实例图片以 R1 机型为例；使用 **H2 系列打印机激光模组**加工时，也可参考本页在 Bambu Suite 中设置激光切割「连接点」。
 
 ## 为什么需要设置连接点？
 

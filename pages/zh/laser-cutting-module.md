@@ -4,7 +4,7 @@ title: "激光和刀切"
 description: ""
 tags: []
 created: 2026-06-01T12:53:42.258Z
-updated: 2026-09-10T11:57:51.671Z
+updated: 2026-11-23T03:23:08.636Z
 source: https://wiki.bambulab.com/zh/laser-cutting-module
 ---
 
@@ -60,6 +60,7 @@ source: https://wiki.bambulab.com/zh/laser-cutting-module
 - [H2 系列激光旋转轴加工指南](h2/manual/rotary-attachment-guide.md)
 - [激光焦点标定介绍](h2/manual/laser-focus-calibration-intro.md)
 - [材料厚度测量](software/bambu-suite/manual/material-thickness-measurement.md)
+- [激光切割连接点参数设置指南](r1/manual/laser-cut-tab-parameter-guide.md)
 
 ### 4. 维护与零件更换
 
