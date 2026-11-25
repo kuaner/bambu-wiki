@@ -4,7 +4,7 @@ title: "常见问题"
 description: ""
 tags: []
 created: 2022-08-03T03:01:56.447Z
-updated: 2026-11-16T07:42:52.582Z
+updated: 2026-11-25T03:45:08.848Z
 source: https://wiki.bambulab.com/zh/faq
 ---
 
@@ -16,10 +16,16 @@ source: https://wiki.bambulab.com/zh/faq
 
 以下是关于 Bambu Lab 打印机常见问题的链接集合。每个链接都将重定向到相应打印机的专用页面，并提供与该机型相关的问题和解答：
 
+**P3C**
+
+- [P3C 常见问答（FAQ）](p3c/manual/faq.md)
+- [拓竹工作站常见问答（FAQ）](bambu-station/manual/faq.md)
+
 **拓竹H3C**
 
 - [拓竹H3C 常见问答（FAQ）](h3c/manual/faq.md)
 - [E1 空气净化器常见问答（FAQ）](e1/manual/faq.md)
+- [拓竹工作站 L 常见问答（FAQ）](h3c/manual/bambu-station-faq.md)
 
 **R1:**
 
@@ -48,6 +54,7 @@ source: https://wiki.bambulab.com/zh/faq
 - [A2L 常见问题（FAQ）](a2l/manual/a2l-faq.md)
 - [A1 mini 常见问答（FAQ）](a1-mini/manual/faq.md)
 - [A1 常见问答（FAQ）](a1/manual/faq.md)
+- [A1 mini 泡泡罩常见问答 FAQ](a1-mini/manual/bubble-faq.md)
 
 **AMS 系列：**
 

@@ -3,8 +3,8 @@ path: zh/ams3p/maintenance/replace-ams3
 title: "AMS 3P（舱体和支架一体）更换指南"
 description: ""
 tags: []
-created: 2026-11-13T08:52:50.290Z
-updated: 2026-11-13T08:52:50.290Z
+created: 2026-11-24T14:09:07.132Z
+updated: 2026-11-24T14:09:07.132Z
 source: https://wiki.bambulab.com/zh/ams3p/maintenance/replace-ams3
 ---
 

@@ -3,8 +3,8 @@ path: zh/ams3p/manual/component-introduction
 title: "AMS 3P 部件介绍"
 description: "本文介绍了 AMS 3P 的主要部件及功能。"
 tags: []
-created: 2026-11-13T08:52:49.569Z
-updated: 2026-11-13T08:52:49.569Z
+created: 2026-11-24T14:03:56.359Z
+updated: 2026-11-24T14:03:56.359Z
 source: https://wiki.bambulab.com/zh/ams3p/manual/component-introduction
 ---
 
@@ -110,7 +110,7 @@ AMS 3P 出厂配备**变色硅胶干燥剂**，可放置在撑杆旁及烘干仓
 
 ## 耗材直通口
 
-AMS 3P 设有 5 个专用的 TPU 进料口，分别在 1、3、4、5、7 号槽，无需通过料管即可直接将 TPU 耗材输送至工具头进行打印，从而降低打印阻力。关于 TPU 打印的具体步骤请参考：[TPU 打印指南](https://wiki.bambulab.com/zh/p3c/manual/tpu-printing-guide)。
+AMS 3P 设有 5 个专用的 TPU 进料口，分别在 1、3、4、5、7 号槽，无需通过料管即可直接将 TPU 耗材输送至工具头进行打印，从而降低打印阻力。关于 TPU 打印的具体步骤请参考：[TPU 打印指南](../../p3c/manual/tpu-printing-guide.md)。
 
 ![ams_3p_____-image-14.png](https://public-cdn.bblmw.com/wiki/new/ams3p/manual/component-introduction/zh/ams_3p_____-image-14.png)
 

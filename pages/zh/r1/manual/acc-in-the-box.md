@@ -4,7 +4,7 @@ title: "R1 包装清单"
 description: "本文介绍 R1 包装内配件及用途说明。"
 tags: []
 created: 2026-09-22T13:10:38.779Z
-updated: 2026-09-22T13:29:15.970Z
+updated: 2026-11-24T09:16:03.552Z
 source: https://wiki.bambulab.com/zh/r1/manual/acc-in-the-box
 ---
 
@@ -15,6 +15,7 @@ source: https://wiki.bambulab.com/zh/r1/manual/acc-in-the-box
 | 实物照片 | 名称 |
 | --- | --- |
 | Image | **电源线** 连接市电，为产品供电。 |
+| slat.png | **支撑刀条** 随附 11 根支撑刀条，已预装在机箱内部。用于支撑工件，减少材料与平台的接触面积，避免反射并利于排烟。 |
 | Image | **排烟管** 带有转接口的一端连接至排烟风扇，另一端放置于通风良好的室外，或连接至官方的激光专用净化器。 |
 | Image | **排烟风扇** 安装在机身后部的排烟口，用于抽排烟雾。 |
 | Image | **防冻液** 用于配制冷却液，首次使用时，请按《快速入门指南》教程进行配制添加。后续日常维护时，请参考[《冷却液更换教程》](../maintenance/coolant.md)进行操作。 |

@@ -3,8 +3,8 @@ path: zh/ams3p/maintenance/replace-chamber
 title: "AMS 3P 舱体拆除与安装指南"
 description: ""
 tags: []
-created: 2026-11-13T08:52:47.985Z
-updated: 2026-11-13T08:52:47.985Z
+created: 2026-11-24T14:09:02.525Z
+updated: 2026-11-24T14:09:02.525Z
 source: https://wiki.bambulab.com/zh/ams3p/maintenance/replace-chamber
 ---
 
@@ -24,13 +24,12 @@ H1.5 内六角扳手
 
 ## 安全提示
 
-> 在对AMS 及其内部电子设备进行任何维护工作之前，请关闭 AMS 及打印机电源，并断开电源连接，以避免发生电路短路从而引起额外的电子设备损坏和安全隐患。
+> - 在对AMS 及其内部电子设备进行任何维护工作之前，请关闭 AMS 及打印机电源，并断开电源连接，以避免发生电路短路从而引起额外的电子设备损坏和安全隐患。
 >
 > ![ams_3p__________-ams_3p_installation_and_removal_guide-image-10.png](https://public-cdn.bblmw.com/wiki/new/ams3p/maintenance/replace-chamber/zh/ams_3p__________-ams_3p_installation_and_removal_guide-image-10.png)
-
-> 拆装过程中请避免暴力操作，防止造成零部件或连接结构的二次次损伤。
 >
-> 拆除部件前，请妥善保管拆除的固定螺丝，以免丢失。
+> - 拆装过程中请避免暴力操作，防止造成零部件或连接结构的二次次损伤。
+> - 拆除部件前，请妥善保管拆除的固定螺丝，以免丢失。
 
 ## 移除 AMS 舱体
 

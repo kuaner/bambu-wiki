@@ -3,8 +3,8 @@ path: zh/p3c/manual/swaptek-workflow-and-function
 title: "P3C Swaptek 闪切系统工作流程介绍"
 description: "本文介绍 Swaptek 闪切系统的工作流程。"
 tags: []
-created: 2026-11-13T08:52:52.730Z
-updated: 2026-11-13T08:52:52.730Z
+created: 2026-11-24T14:01:56.523Z
+updated: 2026-11-24T14:01:56.523Z
 source: https://wiki.bambulab.com/zh/p3c/manual/swaptek-workflow-and-function
 ---
 

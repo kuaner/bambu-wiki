@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/troubleshooting/guide-for-cleaning-the-tool-holder
-title: "拓竹H3C 工具定位槽粘料清理指南"
+title: "拓竹H3C/P3C 工具定位槽粘料清理指南"
 description: ""
 tags: []
 created: 2026-11-03T12:06:35.019Z
-updated: 2026-11-10T12:40:17.728Z
+updated: 2026-11-24T14:19:15.628Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/guide-for-cleaning-the-tool-holder
 ---
 

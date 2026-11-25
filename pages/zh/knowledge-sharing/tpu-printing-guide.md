@@ -4,7 +4,7 @@ title: "TPU 打印指南"
 description: "本文介绍了打印 TPU 的建议"
 tags: ["tpu"]
 created: 2023-08-02T08:20:33.025Z
-updated: 2026-11-10T08:47:29.500Z
+updated: 2026-11-24T14:11:03.480Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/tpu-printing-guide
 ---
 
@@ -66,10 +66,10 @@ TPU 耗材具有较强的 **吸湿性**，暴露在空气中极易受潮。打�
 
 |  | **TPU 75A (2.85 mm)** | **TPU 85A** | **TPU 90A** | **TPU 95A HF** | **TPU for AMS** |
 | --- | --- | --- | --- | --- | --- |
-| **H2、X、P 系列** | ❌ | ✅ | ✅ | ✅ | ✅ |
+| **H2、X、P1、P2 系列** | ❌ | ✅ | ✅ | ✅ | ✅ |
 | **A1 系列** | ❌ | ❌ | ✅ | ✅ | ✅ |
 | **A2L** | ❌ | ✅ | ✅ | ✅ | ✅ |
-| **拓竹H3C** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **拓竹H3C、P3C** | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 #### 喷嘴
 
@@ -103,7 +103,7 @@ TPU 耗材具有较强的 **吸湿性**，暴露在空气中极易受潮。打�
 
 **注：** ✅ 表示可用；⚠️ 表示不推荐，即可以使用，但打印失败率较高；❌ 表示不可用。
 
-|  | **AMS HT 自动供料** | **AMS HT TPU 出料口** | **AMS 3H 耗材直通口** | **AMS 3H 自动进料口** | **AMS 3H 外挂料盘** | **AMS 2 Pro** | **AMS lite** | **AMS** |
+|  | **AMS HT 自动供料** | **AMS HT TPU 出料口** | **AMS 3H/3P 耗材直通口** | **AMS 3H/3P 自动进料口** | **AMS 3H/3P 外挂料盘** | **AMS 2 Pro** | **AMS lite** | **AMS** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **TPU 75A (2.85mm)** | ❌ | ❌ | ✅ | ❌ | ⚠️ | ❌ | ❌ | ❌ |
 | **TPU 85A** | ❌ | ✅ | ✅ | ❌ | ⚠️ | ❌ | ❌ | ❌ |
@@ -114,7 +114,7 @@ TPU 耗材具有较强的 **吸湿性**，暴露在空气中极易受潮。打�
 **说明：**
 
 - **TPU for AMS：** 可使用所有 AMS 系列的常规自动供料功能打印。
-- **AMS 3H：** 打印硬度为 95A 及以下的 TPU 时，需使用耗材直通口，不能使用自动进料口。
+- **AMS 3H/3P：** 打印硬度为 95A 及以下的 TPU 时，需使用耗材直通口，不能使用自动进料口。
 - **AMS HT：** 仅作为密封容器，使用其背面的 **TPU 出料口** 送出耗材，不能使用常规出料口与自动供料功能。
 
 ![进料口.png](https://wiki.bambulab.com/filament-acc/tpu/%E8%BF%9B%E6%96%99%E5%8F%A3.png)
@@ -135,13 +135,13 @@ TPU 送料助力模块是用于提升 TPU 打印稳定性的可选增强组件�
 
 **可通过以下三种方式烘干：**
 
-1. 使用 **AMS HT / AMS 2 Pro / AMS 3H** 的烘干功能；
+1. 使用 **AMS HT / AMS 2 Pro / AMS 3H / AMS 3P** 的烘干功能；
 2. 使用封箱的 X 系列、P 系列和 H 系列打印机的 **热床** 进行烘干；
 3. 使用 **鼓风式烤箱** 烘干。
 
 了解烘干的具体教程与参数，请参考这篇 Wiki：[**耗材烘干操作指南 | Bambu Lab Wiki**](../filament-acc/filament/dry-filament.md)。
 
-> **注意**：AMS 2 Pro 最高烘干温度为 65°C，低于 TPU 推荐烘干温度，存在无法完全烘干的风险。若需要充分烘干 TPU，建议使用热床、AMS HT、AMS 3H 或鼓风式烤箱烘干。
+> **注意**：AMS 2 Pro 最高烘干温度为 65°C，低于 TPU 推荐烘干温度，存在无法完全烘干的风险。若需要充分烘干 TPU，建议使用热床、AMS HT、AMS 3H、AMS 3P 或鼓风式烤箱烘干。
 
 ![](https://wiki.bambulab.com/filament-acc/filament-dry-prepare/image-9.png)
 
@@ -164,6 +164,12 @@ TPU 送料助力模块是用于提升 TPU 打印稳定性的可选增强组件�
 需搭配 **拓竹H3C** 打印机使用，其他机型请使用 AMS HT 或米桶。
 
 具体操作方法请参考这篇 Wiki：[**拓竹H3C TPU 打印指南**](../h3c/manual/tpu-printing-guide.md)
+
+#### AMS 3P
+
+需搭配 **拓竹P3C** 打印机使用，其他机型请使用 AMS HT 或米桶。
+
+具体操作方法请参考这篇 Wiki：[**拓竹P3C TPU 打印指南**](../p3c/manual/tpu-printing-guide.md)
 
 #### **AMS HT**
 
@@ -246,6 +252,10 @@ TPU 送料助力模块是用于提升 TPU 打印稳定性的可选增强组件�
 [![拓竹H3C](https://wiki.bambulab.com/filament-acc/filament/tpu-85a-90a-printing-guide/h3c_home.png)
   
 拓竹H3C](https://wiki.bambulab.com/zh/h3c/manual/tpu-printing-guide)
+
+[![P3C](https://wiki.bambulab.com/filament-acc/home/p3c.png)
+  
+P3C](https://wiki.bambulab.com/zh/p3c/manual/tpu-printing-guide)
 
 [![H2 系列](https://wiki.bambulab.com/h2s/h2d1_compressed.png)
   

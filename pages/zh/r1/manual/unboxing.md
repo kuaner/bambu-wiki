@@ -4,7 +4,7 @@ title: "R1 开箱指南"
 description: "本文介绍了 R1 的开箱指南，包含解锁固定件、安装排烟风扇、首次注水等流程。"
 tags: []
 created: 2026-09-22T13:09:34.418Z
-updated: 2026-09-24T01:48:46.077Z
+updated: 2026-11-24T09:24:39.428Z
 source: https://wiki.bambulab.com/zh/r1/manual/unboxing
 ---
 
@@ -66,6 +66,9 @@ source: https://wiki.bambulab.com/zh/r1/manual/unboxing
 | 008.png | 009.png |
 
 - 移除上盖、激光管及屏幕外部的保护膜。
+
+> **提示**  
+> 产品随附 11 根支撑刀条，已间隔预装在机箱内。
 
 ### 步骤 2：解锁固定件
 

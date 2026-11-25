@@ -4,7 +4,7 @@ title: "更换 H2 系列 MC-AP 线"
 description: "本文介绍如何更换 H2 系列 MC-AP 线"
 tags: []
 created: 2025-03-25T11:53:49.152Z
-updated: 2026-08-28T08:34:06.165Z
+updated: 2026-11-24T09:52:51.502Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-mc-ap-cable
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-mc-ap-cable
 
 MC-AP 线由两根线组成，用于连接 MC 板和 AP 板。
 
-![](https://wiki.bambulab.com/h2/maintenance/replace-mc-ap-cable/image-31.png)
+![mc-ap_new.png](https://wiki.bambulab.com/h2/maintenance/replace-mc-ap-cable/mc-ap_new.png)
 
 **MC-AP 线的备件包含如下：**
 
@@ -93,6 +93,9 @@ MC-AP 线由两根线组成，用于连接 MC 板和 AP 板。
 
 ![](https://wiki.bambulab.com/h2/maintenance/replace-mc-ap-cable/image-8.png)
 
+> **注意**：不同批次线缆细节可能稍有不同，其功能不受影响。  
+> ![mc-ap_new.png](https://wiki.bambulab.com/h2/maintenance/replace-mc-ap-cable/mc-ap_new.png)
+
 2. 打开线扣，将 MC-AP 线缆从内衬中抽出。
 
 ![](https://wiki.bambulab.com/h2/maintenance/replace-mc-ap-cable/image-14.png)
@@ -110,6 +113,9 @@ MC-AP 线由两根线组成，用于连接 MC 板和 AP 板。
 ![](https://wiki.bambulab.com/h2/maintenance/replace-mc-ap-cable/image-17.png)
 
 2. 将 MC-AP 线的另外一端与 AP 板连接，并将线缆扣入上框的线扣中。
+
+> **注意**：不同批次线缆细节可能稍有不同，其功能不受影响。  
+> ![mc-ap_new.png](https://wiki.bambulab.com/h2/maintenance/replace-mc-ap-cable/mc-ap_new.png)
 
 ![](https://wiki.bambulab.com/h2/maintenance/replace-mc-ap-cable/image-18.png)
 

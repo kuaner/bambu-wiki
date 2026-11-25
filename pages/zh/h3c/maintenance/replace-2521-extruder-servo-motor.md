@@ -4,15 +4,21 @@ title: "挤出电机更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:47:57.310Z
-updated: 2026-11-16T09:04:05.016Z
+updated: 2026-11-24T11:56:15.659Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-2521-extruder-servo-motor
 ---
 
 ## 挤出电机
 
+拓竹自研的高精度伺服电机，它能精确控制耗材的供给、停止和回抽，是保证打印质量和成功率的关键部件。
+
 |  |  |
 | --- | --- |
 | 图 | 图 |
+
+## 何时更换
+
+电机报错或连接排线损坏。
 
 ## 工具和材料
 
@@ -110,7 +116,8 @@ source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-2521-extruder-servo
 
 ## 功能验证
 
-连接电源，启动打印机，夹持打印头并进行挤出，确认耗材能正常挤出。  
+执行一次夹持打印头并进行挤出，确认耗材能正常挤出。
+
 如果您遇到任何问题，请先回溯您的步骤并检查所有连接以重试。 如果问题仍然存在，请联系 Bambu Lab 服务团队寻求进一步帮助。
 
 ## 结束语

@@ -4,7 +4,7 @@ title: "模型翘边、脱落或倒塌"
 description: ""
 tags: ["打印质量", "翘边", "脱落", "倒塌"]
 created: 2023-12-10T05:42:42.482Z
-updated: 2026-07-02T04:07:51.732Z
+updated: 2026-11-24T09:47:21.088Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/warping-falling-off-collapsing
 ---
 
@@ -29,6 +29,8 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/warping
 ✅ 将速度和加速度降低 20–30 %  
 ✅ 为高而细的模型启用支撑  
 ✅ 检查皮带张力，皮带应紧实不松垮
+
+> 📚 **说明**：若 P2S 或 X2D 打印机出现模型翘曲问题，推荐阅读这篇 wiki： [**P2S / X2D 模型翘曲问题改善指南**](../../../x2d/troubleshooting/preventing-warping-p2s-x2d.md)。
 
 ## 问题类型
 
@@ -300,6 +302,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/print-quality/warping
 - [耳状 Brim - Bambu Studio](../../../software/bambu-studio/brim-ears.md)
 - [纹理 PEI 板清洁指南](../../acc/pei-plate-clean-guide.md)
 - [如何使用 Bambu Lab 胶水](../../../general/how-to-use-bbl-liquid-glue.md)
+- [P2S / X2D 模型翘曲问题改善指南](../../../x2d/troubleshooting/preventing-warping-p2s-x2d.md)
 
   
 

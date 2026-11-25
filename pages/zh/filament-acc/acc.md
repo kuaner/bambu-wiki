@@ -4,7 +4,7 @@ title: "配件"
 description: ""
 tags: []
 created: 2023-09-07T02:38:24.600Z
-updated: 2026-11-17T08:35:09.669Z
+updated: 2026-11-24T14:14:17.761Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc
 ---
 
@@ -46,9 +46,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc
 - [气动接头更换指南](replacing-the-pneumatic-connector.md)
 - [拓竹 3D 打印机常见螺钉](../knowledge-sharing/common-screws.md)
 - [打印机线缆插头拆装指南](../knowledge-sharing/printer-electronic-connectors-guide.md)
-- [AMS 2 Pro 电源适配器](../ams-2-pro/maintenance/replace-switching-adapter.md)
 - [可重复使用料盘使用指南](../general/swaping-new-filament-with-bambu-reusable-spool.md)
-- [X1/P1 系列供料缓冲器和料线选通器（AMS Hub）](../x1/maintenance/replace-filament-buffer-and-ams-hub.md)
 
 ## 🧴 日常维护与清洁用品
 
@@ -64,17 +62,44 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc
 
 用于扩展打印机功能或提升性能的套件与安装指引。
 
-- [TPU 送料助力模块组装 & 使用指南](../general/manual/tpu-feed-assist-module.md)
-- [P2S 外排风扇加装指南](../p2s/manual/external-exhaust-fan-kit.md)
-- [X2D 耗材变轨器使用指南](../general/manual/filament-track-switch.md)
+### **H2 系列**
+
 - [H2 系列耗材变轨器使用指南](../general/manual/filament-track-switch-h2.md)
-- [视觉编码板使用指南](../h2/manual/motion-accuracy.md)
-- [H2 系列 / A2L 激光和刀切](../laser-cutting-module.md)
+- [激光和刀切](../laser-cutting-module.md)
 - [H2D/H2C 激光升级指南](../h2/laser/manual/laser-upgrade-kit.md)
 - [H2 系列刀切模组安装指南](../h2/manual/cutting-module-installation-guide.md)
-- [Fleet Hub 产品介绍](../acc/manual/fleet-hub.md)
+- [视觉编码板使用指南](../h2/manual/motion-accuracy.md)
+- [TPU 送料助力模块组装 & 使用指南](../general/manual/tpu-feed-assist-module.md)
+
+### **X 系列**
+
+- [X2D 耗材变轨器使用指南](../general/manual/filament-track-switch.md)
+- [X1/P1 系列供料缓冲器和料线选通器（AMS Hub）](../x1/maintenance/replace-filament-buffer-and-ams-hub.md)
+- [TPU 送料助力模块组装 & 使用指南](../general/manual/tpu-feed-assist-module.md)
+
+### **P 系列**
+
+- [P2S 外排风扇加装指南](../p2s/manual/external-exhaust-fan-kit.md)
 - [P1P-P1S 升级包安装指引](../p1/manual/p1p-to-p1s.md)
 - [P1S 挤出机升级指南——打印磨蚀性耗材](../p1/manual/p1s-extruder-upgrade.md)
+- [TPU 送料助力模块组装 & 使用指南](../general/manual/tpu-feed-assist-module.md)
+
+### **A2L**
+
+- [激光和刀切](../laser-cutting-module.md)
+
+### **A1 系列**
+
+- [A1 mini 泡泡罩 | 开箱指南](../a1-mini/manual/bubble-unbox.md)
+- [A1 mini 泡泡罩 FAQ](../a1-mini/manual/bubble-faq.md)
+
+### **AMS 系列**
+
+- [AMS 2 Pro 电源适配器](../ams-2-pro/maintenance/replace-switching-adapter.md)
+
+### **其他**
+
+- [Fleet Hub 产品介绍](../acc/manual/fleet-hub.md)
 
 ## 📦 拓竹工作站 L
 
@@ -97,6 +122,23 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc
   - [更换抽屉前板](../bambu-station-l/maintenance/replace-drawer-front.md)
   - [更换背板](../bambu-station-l/maintenance/replace-back-panel.md)
   - [更换侧板](../bambu-station-l/maintenance/replace-side-panel.md)
+
+## 📁 拓竹工作站
+
+- **快速入门**
+
+  - [拓竹工作站开箱组装指南](../p3c/manual/bambu-station-installation-guide.md)
+  - [拓竹工作站常见问答](../bambu-station/manual/faq.md)
+- **周边模型**
+
+  - [拓竹工作站 P3C 废料滑梯模型安装指南](../bambu-station/manual/p3c-purge-chute-guide.md)
+- **零件更换**
+
+  - [更换桌面和底板](../bambu-station/maintenance/replace-tabletop-and-base-panel.md)
+  - [更换抽屉把手与可调万向轮](../bambu-station/maintenance/replace-drawer-handle-and-adjustable-caster-wheel.md)
+  - [更换小抽屉](../bambu-station/maintenance/replace-small-drawer.md)
+  - [更换大抽屉](../bambu-station/maintenance/replace-large-drawer.md)
+  - [更换抽屉底板](../bambu-station/maintenance/replace-drawer-bottom-panel.md)
 
 ## 💨 E1 空气净化器
 

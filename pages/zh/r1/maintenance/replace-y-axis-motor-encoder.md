@@ -4,7 +4,7 @@ title: "Y 电机编码板更换指南"
 description: ""
 tags: []
 created: 2026-09-22T13:10:49.066Z
-updated: 2026-09-22T13:29:15.970Z
+updated: 2026-11-24T06:06:16.638Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-y-axis-motor-encoder
 ---
 
@@ -28,19 +28,19 @@ Y 电机编码板可以检测 Y 轴转动角度。
 ### 步骤 1.移除前后盖板
 
 参照下方教程移除前后盖板。  
-[https://wiki.bambulab.com/zh/r1/maintenance/replace-front-rear-panel-set](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-front-rear-panel-set)
+[移除前后盖板](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-front-rear-panel-set)
 
 ### 步骤 2.移除左壳体
 
 参照下方教程移除左壳体，无需拆卸右侧上盖。
 
-[https://wiki.bambulab.com/zh/r1/maintenance/replace-left-shell](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-left-shell)
+[移除左壳体](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-left-shell)
 
 ### 步骤 3.移除气泵组件
 
 参照下方教程移除气泵组件。
 
-[https://wiki.bambulab.com/zh/r1/maintenance/replace-air-pump](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-air-pump)
+[移除气泵组件](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-air-pump)
 
 ### 步骤 4.移除 Y 电机编码板
 
@@ -76,18 +76,18 @@ Y 电机编码板可以检测 Y 轴转动角度。
 
 参照下方教程装回气泵组件。
 
-[https://wiki.bambulab.com/zh/r1/maintenance/replace-air-pump](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-air-pump)
+[安装气泵](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-air-pump)
 
 ### 步骤 3.安装左壳体
 
 参照下方教程装回左壳体。
 
-[https://wiki.bambulab.com/zh/r1/maintenance/replace-left-shell](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-left-shell)
+[安装左壳体](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-left-shell)
 
 ### 步骤 4.安装前后盖板
 
 参照下方教程装回前后盖板。  
-[https://wiki.bambulab.com/zh/r1/maintenance/replace-front-rear-panel-set](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-front-rear-panel-set)
+[安装前后盖板](https://wiki-test.bambulab.net/zh/r1/maintenance/replace-front-rear-panel-set)
 
 ## 功能验证
 

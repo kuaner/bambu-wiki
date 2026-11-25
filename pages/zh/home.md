@@ -4,7 +4,7 @@ title: "主页"
 description: ""
 tags: []
 created: 2022-07-27T15:03:58.612Z
-updated: 2026-11-11T01:48:34.799Z
+updated: 2026-11-24T14:12:52.777Z
 source: https://wiki.bambulab.com/zh/home
 ---
 
@@ -55,24 +55,28 @@ R1](https://wiki.bambulab.com/zh/r1)
 
 ### Bambu Lab AMS
 
-[![AMS lite](https://wiki.bambulab.com/wiki/ams_3h_home_page.png)
-  
+[![AMS 3H](https://wiki.bambulab.com/wiki/ams_3h_home_page.png)
+
 AMS 3H](https://wiki.bambulab.com/zh/ams3h)
 
-[![AMS lite](https://wiki.bambulab.com/stock-images/ams_2_pro.jpg)
-  
+[![AMS 3P](https://wiki.bambulab.com/general/widgets/3-.png)
+
+AMS 3P](https://wiki.bambulab.com/zh/ams3p)
+
+[![AMS 2 Pro](https://wiki.bambulab.com/stock-images/ams_2_pro.jpg)
+
 AMS 2 Pro](https://wiki.bambulab.com/zh/ams-2-pro)
 
 [![AMS](https://wiki.bambulab.com/stock-images/ams.jpg)
-  
+
 AMS](https://wiki.bambulab.com/zh/ams)
 
-[![AMS lite](https://wiki.bambulab.com//ams-ht/ams-ht-cover-v2.png)
-  
+[![AMS HT](https://wiki.bambulab.com//ams-ht/ams-ht-cover-v2.png)
+
 AMS HT](https://wiki.bambulab.com/zh/ams-ht)
 
 [![AMS lite](https://wiki.bambulab.com/stock-images/amslite.jpg)
-  
+
 AMS lite](https://wiki.bambulab.com/zh/ams-lite)
 
 ### Bambu Lab 软件

@@ -4,7 +4,7 @@ title: "耗材烘干操作指南"
 description: ""
 tags: []
 created: 2023-09-18T12:14:02.019Z
-updated: 2026-11-19T01:55:57.510Z
+updated: 2026-11-25T03:36:30.661Z
 source: https://wiki.bambulab.com/zh/filament-acc/filament/dry-filament
 ---
 
@@ -40,16 +40,21 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/dry-filament
 耗材可通过以下方式进行烘干：
 
 - 使用封箱式打印机的热床烘干
-- 使用 AMS HT、AMS 2 Pro、AMS 3H 烘干
+- 使用 AMS HT、AMS 2 Pro、AMS 3H、AMS 3P（*加装烘干模块*）烘干
 - 使用鼓风式烤箱烘干
 
 请根据设备条件和耗材类型选择合适的烘干方式，并使用推荐的烘干参数。
+
+> 📌**说明**：AMS 3P 需自行加装**烘干升级模块**后，方可使用其烘干功能。
+>
+> - 了解其安装方法，请参考：[AMS 3P 烘干升级模块安装指南](../../p3c/maintenance/replace-optional-filament-dryer.md)
+> - 了解其烘干功能的详情，请参考：[AMS 3P 烘干功能介绍](https://wiki.bambulab.com/zh/ams3p/manual/workflow-and-features#%E7%83%98%E5%B9%B2%E5%8A%9F%E8%83%BD%EF%BC%88%E9%80%89%E9%85%8D%EF%BC%89)
 
 |  |  |  |
 | --- | --- | --- |
 |  |  |  |
 
-## 使用 AMS 2 Pro / AMS HT / **AMS 3H** 烘干
+## 使用 AMS 2 Pro / AMS HT / **AMS 3H** / AMS 3P 烘干
 
 ### ◾ 准备工作
 
@@ -57,15 +62,16 @@ source: https://wiki.bambulab.com/zh/filament-acc/filament/dry-filament
 
 阅读下方说明，确认所需耗材使用 AMS 是否可完全烘干。
 
-|  | AMS 2 Pro | AMS HT、AMS 3H |
-| --- | --- | --- |
-| **最高烘干温度** | **65°C** | **85°C** |
-| **说明** | - 适用于烘干温度 **≤ 65℃** 的耗材，如 PLA、PETG 等耗材。请参考 [**烘干参数表**](#%E7%83%98%E5%B9%B2%E5%8F%82%E6%95%B0%E8%A1%A8) 确认不同耗材的烘干温度。  - 烘干温度 **＞ 65℃** 的耗材，AMS 2 Pro 可能无法完全烘干，建议使用热床、AMS HT、AMS 3H 或鼓风式烤箱烘干。 | - **PPS-CF、PPA-CF** 耗材可能无法完全烘干，建议使用 **热床** 烘干。  - 其余耗材均可使用 AMS HT 和 AMS 3H 烘干。 |
+|  | AMS 2 Pro | AMS HT、AMS 3H | AMS 3P （加装烘干模块后） |
+| --- | --- | --- | --- |
+| **最高烘干温度** | **65°C** | **85°C** | **75°C** |
+| **说明** | - 适用于烘干温度 **≤ 65℃** 的耗材，如 PLA、PETG 等耗材。请参考 [**烘干参数表**](#%E7%83%98%E5%B9%B2%E5%8F%82%E6%95%B0%E8%A1%A8) 确认不同耗材的烘干温度。  - 烘干温度 **＞ 65℃** 的耗材，AMS 2 Pro 可能无法完全烘干，建议使用热床、AMS HT、AMS 3H 或鼓风式烤箱烘干。 | - **PPS-CF、PPA-CF** 耗材可能无法完全烘干，建议使用 **热床** 烘干。  - 其余耗材均可使用 AMS HT 和 AMS 3H 烘干。 | 适用于烘干温度 **≤ 75℃** 的耗材。请参考 [**烘干参数表**](#%E7%83%98%E5%B9%B2%E5%8F%82%E6%95%B0%E8%A1%A8) 确认不同耗材的烘干温度。 |
 
 #### **2. 准备电源线**
 
-需为 AMS 2 Pro / AMS HT / AMS 3H 连接电源，才可使用其烘干功能。请根据机型与 AMS 数量确认所需电源线数量。
+需为 AMS 2 Pro / AMS HT / AMS 3H / AMS 3P 连接电源，才可使用其烘干功能。请根据机型与 AMS 数量确认所需电源线数量。
 
 - **AMS HT**
 - **AMS 2 Pro**
 - **AMS 3H**
+- AMS 3P

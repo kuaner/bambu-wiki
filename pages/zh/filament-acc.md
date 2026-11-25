@@ -4,7 +4,7 @@ title: "耗材"
 description: ""
 tags: []
 created: 2023-09-15T09:47:06.270Z
-updated: 2026-11-17T09:12:55.676Z
+updated: 2026-11-24T08:03:06.847Z
 source: https://wiki.bambulab.com/zh/filament-acc
 ---
 
@@ -76,9 +76,11 @@ source: https://wiki.bambulab.com/zh/filament-acc
 
 - [拓竹H3C TPU 打印指南](h3c/manual/tpu-printing-guide.md)
 - [H2 系列的 TPU 85A 和 90A 打印指南](h2/h2d-tpu-printing-guide.md)
-- [X 系列的 TPU 90A 和 85A 打印指南](filament/tpu-85a-90a-printing-guide-for-x-series.md)
+- [X1 系列的 TPU 90A 和 85A 打印指南](filament/tpu-85a-90a-printing-guide-for-x-series.md)
+- [X2D TPU 打印指南](x2d/manual/tpu-printing-guide.md)
 - [P 系列的 TPU 90A 和 85A 打印指南](filament/tpu-85a-90a-printing-guide-for-p-series.md)
-- [A 系列的 TPU 90A 和 85A 打印指南](filament/tpu-85a-90a-printing-guide-for-a-series.md)
+- [A1 系列的 TPU 90A 和 85A 打印指南](filament/tpu-85a-90a-printing-guide-for-a-series.md)
+- [A2L TPU 打印指南](a2l/manual/tpu-printing-guide.md)
 
 2.2.4 [支撑耗材与支撑功能的介绍](software/bambu-studio/support.md)
 

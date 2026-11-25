@@ -4,11 +4,17 @@ title: "开箱&装箱指南"
 description: "本文列举了所有关于拓竹 3D 打印机 及 AMS 开箱和装箱链接。"
 tags: []
 created: 2023-09-07T05:04:28.330Z
-updated: 2026-11-16T07:24:38.154Z
+updated: 2026-11-24T14:53:51.676Z
 source: https://wiki.bambulab.com/zh/general/unboxing-guide
 ---
 
 ## 开箱
+
+### P3C 开箱指南
+
+- [P3C AMS 套装开箱指南](../p3c/manual/unboxing-p3c-ams-combo.md)
+- [平面加工头（刀切头/画笔头）开箱及安装教程](../h3c/manual/unboxing-crafttool.md)
+- [拓竹工作站开箱安装指南](../p3c/manual/bambu-station-installation-guide.md)
 
 ### 拓竹H3C 开箱指南
 
@@ -82,6 +88,10 @@ source: https://wiki.bambulab.com/zh/general/unboxing-guide
 - [AMS 开箱指南](../p1/manual/unboxing-p1s_combo.md)
 
 ## 装箱
+
+### P3C 装箱指南
+
+- [P3C AMS 套装装箱指南](../p3c/manual/packing-p3c-ams-combo.md)
 
 ### 拓竹H3C 装箱指南
 

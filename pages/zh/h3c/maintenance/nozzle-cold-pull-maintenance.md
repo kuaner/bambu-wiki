@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/maintenance/nozzle-cold-pull-maintenance
-title: "拓竹H3C 喷嘴冷拔指南"
+title: "拓竹H3C/P3C 喷嘴冷拔指南"
 description: ""
 tags: []
 created: 2026-11-03T12:38:47.890Z
-updated: 2026-11-10T11:48:22.509Z
+updated: 2026-11-24T14:12:22.113Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/nozzle-cold-pull-maintenance
 ---
 
