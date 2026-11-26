@@ -1,16 +1,16 @@
 ---
 path: zh/ams3/manual/filament-remaining-estimation
-title: "AMS 3H 余量估计功能介绍"
+title: "AMS 3 余量估计功能介绍"
 description: ""
 tags: []
 created: 2026-11-03T13:24:13.251Z
-updated: 2026-11-10T08:46:59.321Z
+updated: 2026-11-25T02:19:17.643Z
 source: https://wiki.bambulab.com/zh/ams3/manual/filament-remaining-estimation
 ---
 
 ## 功能说明
 
-拓竹H3C 支持耗材余量自动估算与同步——打印机配备检测传感器，可自动估算消耗重量并更新余量。本地与云端数据实时同步，便于跨设备查看。
+拓竹H3C / P3C 支持耗材余量自动估算与同步——打印机配备检测传感器，可自动估算消耗重量并更新余量。本地与云端数据实时同步，便于跨设备查看。
 
 余量估算的准确性依赖初始重量的准确设置，拓竹H3C 针对不同耗材来源提供了对应的初始重量设置方式。
 

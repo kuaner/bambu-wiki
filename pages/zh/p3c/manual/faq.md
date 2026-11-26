@@ -4,7 +4,7 @@ title: "P3C 常见问题"
 description: "本文收录关于 P3C 性能、配件、使用及维护相关的常见问题。"
 tags: []
 created: 2026-11-24T14:00:56.065Z
-updated: 2026-11-25T10:08:55.255Z
+updated: 2026-11-26T09:37:36.475Z
 source: https://wiki.bambulab.com/zh/p3c/manual/faq
 ---
 
@@ -677,6 +677,10 @@ P3C 可以在不接 AMS 3P 的情况下只外接一/二代 AMS 进行打印。�
 
 答：可以，详细说明请参见 [AMS 3 系列自动续料](../../ams3/manual/auto-refill.md)
 
+### P3C 外接 AMS/AMS 2 Pro/AMS HT 后，还需要手动进料吗？
+
+外接 AMS/AMS 2 Pro/AMS HT 到 1 号打印头后，支持自动进料。其余打印头使用 AMS 3P 内的耗材，仍需手动进料。
+
 ### 为什么 AMS 3P 的 7 个槽位中只有部分配有耗材直通口?
 
 因背部的组件会遮挡耗材出口，因此仅在第 1、3、4、5、7 号槽配有耗材直通口，第 2、6 号槽不支持。耗材直通口仅推荐用于 TPU 耗材，同时使用 2.85 mm TPU 还需要单独购买并安装 2.85 mm 线径用打印头。详情请参见 [P3C TPU 打印指南](tpu-printing-guide.md)。
@@ -719,6 +723,10 @@ AMS 3P 本身不区分高压/低压版本。不加装烘干模块时，AMS 3P �
 
 - AMS 2 Pro：需接入电源适配器才能烘干。P3C 需为多个热端供电，不支持 AMS 2 Pro 从打印机取电烘干。
 - AMS HT：需连接电源线才能烘干。
+
+### P3C 外接 AMS 2 Pro/ AMS HT 后可以实现边烘边打吗？
+
+可以。AMS 2 Pro 和 AMS HT 本身具备烘干功能，外接到 P3C 后可以边烘边打。AMS 2 Pro 需连接电源适配器，AMS HT 需连接电源线。详细介绍请参见 [AMS 2 Pro 和 AMS HT 烘干指南](../../ams-2-pro/manual/drying-function.md)。
 
 ### AMS 3P 选配烘干模块的电源适配器和 AMS 2 Pro 的电源适配器有什么区别，可以混用吗？
 
@@ -1055,6 +1063,9 @@ AMS 3P 不能放在打印机侧面，只能置顶放置。 由于 AMS 3P 集成�
 |  |  |
 | --- | --- |
 | p3c_____-img_v3_0217l_d125d205-261c-42f0-85a1-8147e4ef4c1g.jpg | p3c_____-img_v3_0217l_cd776136-ec36-4c03-a57a-62208030f73g.jpg |
+
+温馨提示：建议在AMS选项中启用自动读取未进料耗材：当 AMS 中放置了官方耗材，在进入耗材页面时，机器将自动读取耗材类型。为避免频繁操作，自动读取间隔不小于 10 分钟。  
+![54.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/54.png)
 
 ## 结束语
 

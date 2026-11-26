@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/maintenance/replace-front-door
-title: "玻璃前门更换指南"
+title: "拓竹H3C玻璃前门更换指南"
 description: ""
 tags: []
 created: 2026-11-03T12:39:15.416Z
-updated: 2026-11-03T12:39:16.454Z
+updated: 2026-11-25T09:36:05.743Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-front-door
 ---
 

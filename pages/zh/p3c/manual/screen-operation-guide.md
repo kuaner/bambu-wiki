@@ -4,7 +4,7 @@ title: "P3C 屏幕操作指南"
 description: "本文介绍 P3C 屏幕各页面的功能与操作。"
 tags: ["manual", "p3c"]
 created: 2026-11-24T14:02:17.629Z
-updated: 2026-11-24T14:02:17.629Z
+updated: 2026-11-26T01:47:35.710Z
 source: https://wiki.bambulab.com/zh/p3c/manual/screen-operation-guide
 ---
 
@@ -278,14 +278,13 @@ source: https://wiki.bambulab.com/zh/p3c/manual/screen-operation-guide
 
 ![52.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/52.png)
 
-- **运动精度增强**：专为对打印质量有高要求的用户设计，旨在解决 3D 打印过程中的绝对定位问题，从而提高打印精度，尤其是大尺寸打印的精度。通过这一过程，可以显著抑制运动迟滞和运动畸变，确保打印结果更加精准。
 - **打印结束时净化空气**：安装外排风扇后，打开该按钮，支持结束打印后自动开始净化腔内气体，通过外排风扇排出机箱残留气体。
 - **外接净化器自动模式参数设置**：可按耗材类型自定义自动模式下的净化强度和延时关闭的时长。
 - **打印状态快照**：打印任务完成后，打印机会自动拍摄打印件照片并上传至云端，该照片将同步显示在 Bambu Handy 的打印完成弹窗中。
 
-![53.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/53.png)
+![screen-cn.png](https://wiki.bambulab.com/p3c/manual/screen-operation-guide/screen-cn.png)
 
-- **AMS 选项**
+2. **AMS 选项**
 
 拓竹官方耗材均可自动读取，自动读取的耗材信息不支持修改。
 
@@ -294,45 +293,45 @@ source: https://wiki.bambulab.com/zh/p3c/manual/screen-operation-guide
 
 ![54.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/54.png)
 
-- **录像**：可选择开启实况摄像头或俯视摄像头。
+3. **录像**：可选择开启实况摄像头或俯视摄像头。
 
 ![55.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/55.png)
 
-- **声音**：如果开启声音选项，打印机在开机、打印开始和打印结束时都会发出提示音。
-- **状态指示灯**：用于提示打印机健康状态和打印任务状态。
-- **腔体灯模式**：可根据实际的使用需要选择手动模式或节能模式。
+4. **声音**：如果开启声音选项，打印机在开机、打印开始和打印结束时都会发出提示音。
+5. **状态指示灯**：用于提示打印机健康状态和打印任务状态。
+6. **腔体灯模式**：可根据实际的使用需要选择手动模式或节能模式。
 
 ![56.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/56.png)
 
-- **低功率模式**：在打印机供电功率受限的情况下，可通过延长热床升温时间，降低最大功率。
+7. **低功率模式**：在打印机供电功率受限的情况下，可通过延长热床升温时间，降低最大功率。
 
 ![57.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/57.png)
 
-- **自动休眠**：选择打印机自动休眠的时长。
+8. **自动休眠**：选择打印机自动休眠的时长。
 
 ![58.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/58.png)
 
-- **语言**：选择打印机屏幕的显示语言。
+9. **语言**：选择打印机屏幕的显示语言。
 
 ![59.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/59.png)
 
-- **设备和序列号**：查看打印机设备名、设备使用时间和序列号。
+10. **设备和序列号**：查看打印机设备名、设备使用时间和序列号。
 
 ![60.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/60.png)
 
-- **仅局域网**：开启仅局域网模式后，打印机只能在本地网络内进行连接和访问，不能通过互联网远程访问或控制。如果多个设备通过同一局域网连接，可进行视频直播或数据共享。
+11. **仅局域网**：开启仅局域网模式后，打印机只能在本地网络内进行连接和访问，不能通过互联网远程访问或控制。如果多个设备通过同一局域网连接，可进行视频直播或数据共享。
 
 ![61.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/61.png)
 
-- **导出日志到外部存储**：可根据需求，选择是否导出所有打印日志、关键照片（判断炒面等问题）和 G-code（判断打印质量问题）。
+12. **导出日志到外部存储**：可根据需求，选择是否导出所有打印日志、关键照片（判断炒面等问题）和 G-code（判断打印质量问题）。
 
 ![62.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/62.png)
 
-- **恢复出厂设置**：将打印机恢复至出厂设置。一旦重设，设定将无法恢复。
+13. **恢复出厂设置**：将打印机恢复至出厂设置。一旦重设，设定将无法恢复。
 
 ![63.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/63.png)
 
-- **认证信息**：可在此处查看机器的认证信息电子标签页。
+14. **认证信息**：可在此处查看机器的认证信息电子标签页。
 
 ![64.png](https://public-cdn.bblmw.com/wiki/new/p3c/manual/screen-operation-guide/zh/64.png)
 

@@ -1,10 +1,10 @@
 ---
 path: zh/r1/maintenance/replace-air-pump
-title: "气泵更换指南"
+title: "R1 气泵更换指南"
 description: ""
 tags: []
 created: 2026-10-10T10:04:47.705Z
-updated: 2026-11-20T02:38:54.278Z
+updated: 2026-11-26T03:13:57.496Z
 source: https://wiki.bambulab.com/zh/r1/maintenance/replace-air-pump
 ---
 
@@ -37,9 +37,9 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-air-pump
 
 ### 步骤 3.移除气泵组件
 
-使用 H2.0 内六角螺丝刀移除图示两颗螺丝。
+使用 H2.0 内六角螺丝刀移除图示 3 颗螺丝。
 
-![1.png](https://wiki.bambulab.com/r1/maintenance/replace-air-pump/1.png)
+![1-3.jpg](https://wiki.bambulab.com/r1/maintenance/replace-air-pump/1-3.jpg)
 
 上下错开管夹卡扣解锁管夹，拔出气管。
 
@@ -77,9 +77,9 @@ source: https://wiki.bambulab.com/zh/r1/maintenance/replace-air-pump
 
 ![1.png](https://wiki.bambulab.com/r1/maintenance/replace-air-pump/8.webp)
 
-使用 H2.0 内六角螺丝刀锁入两颗螺丝固定气泵组件。
+使用 H2.0 内六角螺丝刀锁入 3 颗螺丝固定气泵组件。
 
-![1.png](https://wiki.bambulab.com/r1/maintenance/replace-air-pump/9.png)
+![1-3.jpg](https://wiki.bambulab.com/r1/maintenance/replace-air-pump/1-3.jpg)
 
 ### 步骤 3.安装左壳体
 

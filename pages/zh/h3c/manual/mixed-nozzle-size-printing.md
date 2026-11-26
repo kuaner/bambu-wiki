@@ -1,14 +1,20 @@
 ---
 path: zh/h3c/manual/mixed-nozzle-size-printing
-title: "拓竹H3C 混合喷嘴尺寸打印指南"
+title: "混合喷嘴尺寸打印指南"
 description: ""
 tags: []
 created: 2026-11-03T12:10:48.721Z
-updated: 2026-11-10T08:47:12.780Z
+updated: 2026-11-25T02:45:43.127Z
 source: https://wiki.bambulab.com/zh/h3c/manual/mixed-nozzle-size-printing
 ---
 
 同一件模型作品里，细节和模型主体不必使用同一口径喷嘴，也不必共用相同层高。**Bambu Studio 的混合口径切片功能，让不同口径的喷嘴按各自适合的层高和线宽打印：小口径保留局部细节，大口径承担模型主体，并在一次打印任务中完成衔接。**
+
+## 适配机型
+
+- H3C
+- P3C
+- H2D
 
 ## 功能背景介绍
 

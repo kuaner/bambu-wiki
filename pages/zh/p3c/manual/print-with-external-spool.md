@@ -4,7 +4,7 @@ title: "P3C 外挂进料指南"
 description: "本文介绍如何使用 P3C 外挂料盘进料。"
 tags: ["manual", "p3c"]
 created: 2026-11-24T14:02:09.668Z
-updated: 2026-11-24T14:02:09.668Z
+updated: 2026-11-26T01:50:16.975Z
 source: https://wiki.bambulab.com/zh/p3c/manual/print-with-external-spool
 ---
 
@@ -25,8 +25,8 @@ source: https://wiki.bambulab.com/zh/p3c/manual/print-with-external-spool
 | **名称** | **备注** |
 | --- | --- |
 | **①料管** | 约 450 mm  建议[另购 PTFE 料管裁剪使用](../../filament-acc/acc/ptfe-tube.md)。 工具盒内附赠的 FEP 料管为工具头专用，直接用于长距离送料阻力较大，有卡料风险。 |
-| **②料盘支架接头** | 工具盒中 |
-| **③料盘支架** | 从机器屏幕的\*\*“机内存储”\*\*中打印： Image |
+| **②料盘支架接头** | 自行购买（和 P2S 共用） |
+| **③料盘支架** | 从机器屏幕的 **“机内存储”** 中打印： Image |
 
 ## 进料前准备
 

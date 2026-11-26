@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/internal-print-files
-title: "拓竹H3C 配件模型介绍"
-description: ""
+title: "拓竹H3C/P3C 配件模型介绍"
+description: "本文介绍适用于拓竹H3C 和 P3C 打印机的配件类模型"
 tags: []
 created: 2026-11-03T12:11:49.291Z
-updated: 2026-11-10T08:47:11.862Z
+updated: 2026-11-25T06:05:43.692Z
 source: https://wiki.bambulab.com/zh/h3c/manual/internal-print-files
 ---
 
@@ -16,7 +16,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/internal-print-files
 
 | 模型图片 | 名称 | 简介 |
 | --- | --- | --- |
-| Image | 润滑刷 | 连接到随附的润滑油管口，方便为光杆涂抹润滑油。 |
+| Image | 润滑刷 | 连接到随附的润滑油管口，方便为光轴涂抹润滑油。 |
 | Image | 闪切挂架维护挡块 | 进行维护保养时，将挂架固定在高位，方便更清晰地观察机箱内部。 |
 | Image | 外挂料盘支架 | 打印后，需在其上安装料盘支架接头，组装完成后，滑入机箱背板预留的料盘支架底座，承载外挂料盘进行打印。详细方法请参见[外挂进料指南](print-with-external-spool.md)。 |
 | Image | 刮刀 | 从打印板上取下模型，或从刀切垫板上移除材料。 |

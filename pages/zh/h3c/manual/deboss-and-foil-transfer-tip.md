@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/deboss-and-foil-transfer-tip
-title: "拓竹H3C 箔纸转印/压痕工艺介绍"
+title: "拓竹H3C / P3C 箔纸转印/压痕工艺介绍"
 description: "本文介绍了拓竹H3C 箔纸转印和基础压痕工艺"
 tags: []
 created: 2026-11-03T12:12:59.824Z
-updated: 2026-11-10T08:47:08.939Z
+updated: 2026-11-25T02:22:36.578Z
 source: https://wiki.bambulab.com/zh/h3c/manual/deboss-and-foil-transfer-tip
 ---
 

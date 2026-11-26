@@ -110,7 +110,7 @@ source: https://wiki.bambulab.com/zh/p3c
 - [P3C 同步带张紧指南](maintenance/belt_tension.md)
 - [P3C XYZ 轴润滑指南](maintenance/lubricate-x-y-z-axis.md)
 - [P3C XY 轴惰轮维护指南](maintenance/idle-gear.md)
-- [P3C AMS 3P 维护](https://wiki.bambulab.com/zh/p3c/maintenance/ams_3p)
+- [P3C AMS 3P 维护](maintenance/ams_3p.md)
 - [P3C/拓竹H3C 喷嘴冷拔指南](h3c/maintenance/nozzle-cold-pull-maintenance.md)
 
 ## 🛠️ 零件更换指南

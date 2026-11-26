@@ -4,7 +4,7 @@ title: "耗材指南 —— 耗材与机型、喷嘴、AMS、打印板、胶水�
 description: "耗材指南可帮助您选择合适的耗材打印材料，包括喷嘴和打印面板的兼容性、打印设置及存储办法。"
 tags: []
 created: 2023-05-12T03:43:34.799Z
-updated: 2026-11-12T02:02:49.171Z
+updated: 2026-11-25T03:41:54.449Z
 source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 ---
 
@@ -58,6 +58,7 @@ source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 
 - 本处 PLA 指**常规 PLA**（不含质地坚硬且颗粒尺寸较大的 碳纤维（CF），玻璃纤维（GF），或其他金属、无机非金属材质的填充物），包含 **PLA Basic/Matte/Tough/Metal/Silk/Aero/Dynamic** 等；不含 PLA-CF、PLA-GF、PLA Sparkle、PLA Marble 等特殊改性品类。
 - 拓竹H3C 各喷嘴与耗材兼容性请阅读：[拓竹H3C 3D 打印耗材兼容性指南](../h3c/manual/filament-compatibility-guide.md)
+- P3C 各喷嘴与耗材兼容性请阅读：[P3C 3D 打印耗材兼容性指南](../p3c/manual/filament-compatibility-guide.md)
 
 ---
 
@@ -89,6 +90,7 @@ source: https://wiki.bambulab.com/zh/general/filament-guide-material-table
 - [H2C 喷嘴/热端堵塞清理指南](../h2c/troubleshooting/unclogging.md)
 - [拓竹H3C 热端堵塞清理指南](../h3c/troubleshooting/unclogging.md)
 - [P2S 喷嘴/热端堵塞清理指南](../p2s/maintenance/cold-pull-maintenance-hotend.md)
+- [P3C 热端堵塞清理指南](../h3c/troubleshooting/unclogging.md)
 - [X2D 喷嘴/热端堵塞清理指南](../x2d/maintenance/cold-pull-maintenance-hotend.md)
 - [A1 系列喷嘴/热端堵塞清理指南](../a1-mini/troubleshooting/nozzle-clog.md)
 - [A2L 喷嘴/热端堵塞清理指南](../a2l/maintenance/cold-pull-maintenance-hotend.md)
@@ -140,7 +142,8 @@ AMS 与 AMS Lite 对耗材物理特性有明确要求，不推荐使用以下三
 **表附注**  
 ①仅从进退料角度说明 AMS、AMS Lite 与耗材的兼容性，**长期使用还需要检查耗材粗糙度是否会磨损 AMS 内部送线通道**。  
 ②本处 PLA 指**常规 PLA**（不含质地坚硬且颗粒尺寸较大的 碳纤维（CF），玻璃纤维（GF），或其他金属、无机非金属材质的填充物），包含 **PLA Basic/Matte/Tough/Metal/Silk/Aero/Dynamic** 等；不含 PLA-CF、PLA-GF、PLA Sparkle、PLA Marble 等特殊改性品类。  
-③**AMS 3H** 不同进料方式的耗材兼容性请参考：[拓竹H3C 3D 打印耗材兼容性指南](https://wiki.bambulab.com/zh/h3c/manual/filament-compatibility-guide#%E8%80%97%E6%9D%90%E8%BF%9B%E6%96%99%E5%BD%A2%E5%BC%8F%E9%80%82%E9%85%8D%E6%80%A7)
+③**AMS 3H** 不同进料方式的耗材兼容性请参考：[拓竹H3C 3D 打印耗材兼容性指南](https://wiki.bambulab.com/zh/h3c/manual/filament-compatibility-guide#%E8%80%97%E6%9D%90%E8%BF%9B%E6%96%99%E5%BD%A2%E5%BC%8F%E9%80%82%E9%85%8D%E6%80%A7)  
+④ **AMS 3P** 不同进料方式的耗材兼容性请参考：[P3C 3D 打印耗材兼容性指南](https://wiki.bambulab.com/zh/p3c/manual/filament-compatibility-guide#%E8%80%97%E6%9D%90%E8%BF%9B%E6%96%99%E5%BD%A2%E5%BC%8F%E9%80%82%E9%85%8D%E6%80%A7)
 
 ## 打印板选择与热床温度设置
 

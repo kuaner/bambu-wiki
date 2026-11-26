@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/maintenance/replace-printtool
-title: "打印头组件更换指南"
+title: "拓竹H3C打印头组件更换指南"
 description: "本文介绍了如何更换打印头组件。"
 tags: []
 created: 2026-11-03T12:36:56.980Z
-updated: 2026-11-03T12:37:21.874Z
+updated: 2026-11-25T08:51:09.504Z
 source: https://wiki.bambulab.com/zh/h3c/maintenance/replace-printtool
 ---
 

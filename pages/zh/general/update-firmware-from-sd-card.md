@@ -4,7 +4,7 @@ title: "离线升级固件"
 description: ""
 tags: []
 created: 2024-07-22T06:58:16.796Z
-updated: 2026-08-28T08:29:22.586Z
+updated: 2026-11-25T03:10:31.868Z
 source: https://wiki.bambulab.com/zh/general/update-firmware-from-sd-card
 ---
 
@@ -16,9 +16,9 @@ source: https://wiki.bambulab.com/zh/general/update-firmware-from-sd-card
 
 ## 使用方法
 
-### H2 系列
+### H 系列、P3C
 
-包含 H2C、H2D、H2S 和 H2D Pro。
+包含拓竹H3C、H2C、H2D、H2S、H2D Pro 和 P3C。
 
 详情请参见[通过 U 盘离线升级固件 —— H2D/H2C](../h2d/manual/offline-firmware-update.md)。
 

@@ -25,7 +25,7 @@ source: https://wiki.bambulab.com/zh/ams3p
 
 ## 🚧 维护指南
 
-- [AMS 3P 维护指南](https://wiki.bambulab.com/zh/p3c/maintenance/ams_3p)
+- [AMS 3P 维护指南](p3c/maintenance/ams_3p.md)
 
 ## 🛠️ 零件更换指南
 

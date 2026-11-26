@@ -4,7 +4,7 @@ title: "AMS 3H"
 description: ""
 tags: []
 created: 2026-11-02T06:51:38.960Z
-updated: 2026-11-10T08:46:59.499Z
+updated: 2026-11-25T10:18:09.626Z
 source: https://wiki.bambulab.com/zh/ams3h
 ---
 
@@ -22,7 +22,7 @@ source: https://wiki.bambulab.com/zh/ams3h
 
 - [AMS 3H 工作流程和功能介绍](ams3/manual/workflow-and-features.md)
 - [AMS 3H 部件介绍](ams3/manual/component-introduction.md)
-
+- [AMS 3H 自动续料功能介绍](ams3/manual/auto-refill.md)
 - [AMS 3H 余量估计功能介绍](ams3/manual/filament-remaining-estimation.md)
 
 ## 💡故障排除

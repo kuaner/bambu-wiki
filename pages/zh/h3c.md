@@ -4,7 +4,7 @@ title: "拓竹H3C"
 description: ""
 tags: []
 created: 2026-11-02T07:17:52.824Z
-updated: 2026-11-16T08:07:49.910Z
+updated: 2026-11-25T07:33:18.119Z
 source: https://wiki.bambulab.com/zh/h3c
 ---
 
@@ -39,8 +39,15 @@ source: https://wiki.bambulab.com/zh/h3c
 
 ## ⚡ 快速入门
 
+[💡
+
+遇到问题？先看拓竹H3C FAQ
+
+涵盖使用过程中最常见的问题与解决方案
+
+立即查看 →](manual/faq.md)
+
 - [拓竹H3C 首次打印指南](manual/first-print.md)
-- [拓竹H3C FAQ](manual/faq.md)
 - [拓竹H3C 部件介绍](manual/main-components.md)
 - [拓竹H3C 外接 AMS 指南](manual/ams-connection-guide.md)
 - [拓竹H3C 配件模型介绍](manual/internal-print-files.md)

@@ -4,9 +4,33 @@ title: "X2D 固件发布记录"
 description: "本指南提供 X2D 所有固件发布记录"
 tags: []
 created: 2026-04-14T13:20:37.383Z
-updated: 2026-08-28T06:41:27.511Z
+updated: 2026-11-25T06:39:50.149Z
 source: https://wiki.bambulab.com/zh/x2d/manual/x2d-firmware-release-history
 ---
+
+## 01.03.00.00（20261125）
+
+### 新增功能
+
+1. 支持拓竹增稳低温打印板，满足更低温度的打印，需配合 Bambu Studio 2.9.1.70 及以上版本和 Bambu Handy 4.4.0 及以上版本使用。
+
+![20261125-143826.png](https://wiki.bambulab.com/x2d/manual/x2d-firmware-release-history/20261125-143826.png)  
+2. 支持拓竹净化器 E1，需配合 Bambu Studio 2.9.1.70 及以上版本和 Bambu Handy 4.4.0 及以上版本使用。
+
+![01.03.00.00-e1-zh.png](https://wiki.bambulab.com/x2d/manual/x2d-firmware-release-history/01.03.00.00-e1-zh.png)
+
+3. 支持 E3D 高流量集成热端，需配合 Bambu Studio 2.9.1.70 及以上版本使用。
+
+![01.03.00.00-e3d-zh.png](https://wiki.bambulab.com/x2d/manual/x2d-firmware-release-history/01.03.00.00-e3d-zh.png)
+
+### 功能优化
+
+1. 优化打印时的漏料情况，减少模型表面的拉丝等问题，提升打印质量。
+2. 提升延时摄影的加载速度，减少 Bambu Handy 中查看视频时的等待时间，需配合 Bambu Handy 4.4.0 及以上版本使用。
+3. 优化打印中拔出外置存储导致打印小概率暂停的问题，确保打印质量。
+4. 优化日志导出逻辑，提升问题排查效率。
+5. 优化部分已知的 UI 与交互问题，提升用户体验。
+6. 软件安全升级。
 
 ## 01.02.00.00（20260730）
 

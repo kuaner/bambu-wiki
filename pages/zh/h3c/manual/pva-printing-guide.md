@@ -1,10 +1,10 @@
 ---
 path: zh/h3c/manual/pva-printing-guide
-title: "拓竹H3C PVA 打印指南"
+title: "拓竹H3C / P3C PVA 打印指南"
 description: "PVA（聚乙烯醇）为可水溶支撑材料，具有极强的吸湿性；若耗材吸潮，会导致拉丝、挤出不均、卡料甚至热端堵塞等问题。为确保打印质量与成功率，请严格遵循以下烘干与存储规范。"
 tags: []
 created: 2026-11-03T12:12:44.242Z
-updated: 2026-11-10T08:47:13.546Z
+updated: 2026-11-25T02:47:46.487Z
 source: https://wiki.bambulab.com/zh/h3c/manual/pva-printing-guide
 ---
 
@@ -12,7 +12,10 @@ source: https://wiki.bambulab.com/zh/h3c/manual/pva-printing-guide
 
 PVA 初次开封或暴露在空气中一段时间后，必须进行充分预烘干。
 
-- **推荐设备**：AMS 3H 或 AMS HT
+- **推荐设备**：AMS 3H、AMS 3P（加装烘干模块）或 AMS HT
+
+> 使用 AMS HT 烘干耗材的具体操作请参考：[AMS 2 Pro 和 AMS HT 烘干指南](../../ams-2-pro/manual/drying-function.md)。
+
 - **烘干参数**：
 
   - **温度**：**85°C**
@@ -46,7 +49,7 @@ PVA 初次开封或暴露在空气中一段时间后，必须进行充分预烘�
 若打印机环境湿度较高，建议在 AMS 内配合放置干燥剂，以阻隔外部湿气并延长耗材可用周期。
 
 - **控制目标**：仓内相对湿度建议长期维持在 **25% 以下。**
-- **放置位置**：少量干燥剂可放在最右侧小槽内，较多干燥剂需放在 8 号烘干槽右侧槽位内。
+- **放置位置**：少量干燥剂可放在最右侧小槽内，较多干燥剂需放在 **AMS 3H 的 8 号烘干槽 / AMS 3P 的 6 号烘干槽**右侧槽位内。
 
 ![002.png](https://public-cdn.bblmw.com/wiki/new/h3c/manual/pva-printing-guide/zh/002.png)
 

@@ -4,7 +4,7 @@ title: "Bambu Lab 打印机账号绑定指南"
 description: ""
 tags: []
 created: 2025-04-16T09:20:39.869Z
-updated: 2026-11-10T08:43:15.136Z
+updated: 2026-11-25T03:08:35.866Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-binding-guide
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-binding-g
 
 🔗 账号解绑指南请参考：[Bambu Lab 打印机账号解绑指南 | Bambu Lab Wiki](printer-account-unbinding-guide.md)
 
-##拓竹H3C
+## 拓竹H3C / P3C
 
 ### 连接 Wi-Fi
 

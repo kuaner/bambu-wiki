@@ -4,7 +4,7 @@ title: "如何查找序列号及注册新序列号"
 description: "本指南介绍了如何查找新旧序列号（SN）及注册新序列号"
 tags: []
 created: 2023-07-20T11:54:28.441Z
-updated: 2026-11-13T03:05:19.224Z
+updated: 2026-11-25T03:06:52.811Z
 source: https://wiki.bambulab.com/zh/general/find-sn
 ---
 
@@ -52,7 +52,7 @@ source: https://wiki.bambulab.com/zh/general/find-sn
 
 您可在打印机屏幕查看 SN 号，请根据机型查看对应位置。
 
-- H2 系列/X1 系列/P2S/X2D
+- H 系列/X1 系列/P2S/X2D/P3C
 - P1S
 - A 系列
 - R1

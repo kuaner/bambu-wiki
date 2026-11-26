@@ -4,7 +4,7 @@ title: "E1 滤芯更换指南"
 description: ""
 tags: []
 created: 2026-11-03T13:32:50.913Z
-updated: 2026-11-10T08:46:59.993Z
+updated: 2026-11-25T02:00:20.292Z
 source: https://wiki.bambulab.com/zh/e1/maintenance/replace-purifier-air-filter
 ---
 
@@ -17,8 +17,10 @@ source: https://wiki.bambulab.com/zh/e1/maintenance/replace-purifier-air-filter
 **复合滤芯：**
 
 - 高频使用时（每天24小时持续使用），建议每月更换一次滤芯；
-- 若使用频率较低（每天使用时长小于6小时），可适当延长更换周期，最长不宜超过 3 个月。  
-  **增强滤芯：**
+- 若使用频率较低（每天使用时长小于6小时），可适当延长更换周期，最长不宜超过 3 个月。
+
+**增强滤芯：**
+
 - 打印 ABS 高频使用时（每天24小时持续使用），建议每 15 天更换一次滤芯；
 - 若使用频率较低（每天使用时长小于6小时），可适当延长更换周期，最长不宜超过 1 个月。
 

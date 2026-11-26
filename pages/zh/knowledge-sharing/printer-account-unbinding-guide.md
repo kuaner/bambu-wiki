@@ -4,7 +4,7 @@ title: "Bambu Lab 打印机账号解绑指南"
 description: "本文介绍了如何将账号从打印机上解绑。"
 tags: []
 created: 2026-03-23T09:18:01.938Z
-updated: 2026-11-10T08:43:15.083Z
+updated: 2026-11-25T03:09:13.935Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-unbinding-guide
 ---
 
@@ -43,7 +43,7 @@ source: https://wiki.bambulab.com/zh/knowledge-sharing/printer-account-unbinding
 
 ![logoutzh.jpg](https://wiki.bambulab.com/knowledge-sharing/printer-account-unbinding-guide/logoutzh.jpg)
 
-### H2 系列 / P2S / X 系列
+### H 系列 / P3C / P2S / X 系列
 
 1. 在打印机屏幕上，点击**①左侧齿轮图标进入“设置”菜单**；然后点击 **②“账号”**。
 
