@@ -4,7 +4,7 @@ title: "导出Bambu PC 软件日志"
 description: ""
 tags: []
 created: 2022-08-26T07:54:36.304Z
-updated: 2026-08-28T08:23:38.567Z
+updated: 2026-11-26T10:45:35.954Z
 source: https://wiki.bambulab.com/zh/x1/troubleshooting/bambu-studio-log
 ---
 
@@ -60,10 +60,15 @@ source: https://wiki.bambulab.com/zh/x1/troubleshooting/bambu-studio-log
 
 ## **Bambu Suite**
 
-1. 打开Bambu Suite，点击“∨”图标，再点击“帮助”——“打开配置文件夹”，在弹出的窗口中可以看到log文件夹。  
+1. 打开Bambu Suite，点击“∨”图标，再点击 `帮助 —— 显示配置文件夹`，在弹出的窗口中可以看到 log 文件夹。  
    ![cn.png](https://wiki.bambulab.com/software/bambu-suite/cn.png)
-2. 在log文件夹中可以看到所有的log文件。如下图所示，将log文件全部打包压缩（zip）的形式，发送至我们的[技术支持工单](https://bambulab.cn/zh-cn/my/support/tickets?from=5)。  
-   ![file.png](https://wiki.bambulab.com/software/bambu-suite/file.png)
+2. 找到 `log` 文件夹。  
+   ![file.png](https://wiki.bambulab.com/software/bambu-suite/suite_log_update1.jpg)
+3. 如果你的软件版本低于 V1.6.0.00，请将下图所示前四个文件夹打包。  
+   ![file.png](https://wiki.bambulab.com/software/bambu-suite/suite_log_update2.jpg)
+
+> 如果你的软件版本 ≥ V1.6.0.00，请将最近修改的、文件名以日期开头的 .log 文件打包（例如：`20261123_xxxx_xxxx.log`）。  
+> ![file.png](https://wiki.bambulab.com/software/bambu-suite/suite_log_update3.jpg)
 
 > 注意：请将所有日志文件复制出来后再进行打包，或在关闭 Bambu Suite 软件后再进行打包。否则，软件可能会占用某些程序，导致日志信息缺失。
 

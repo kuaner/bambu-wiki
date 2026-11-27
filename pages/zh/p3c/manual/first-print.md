@@ -4,7 +4,7 @@ title: "P3C 首次打印"
 description: "本文介绍 P3C 首次打印流程，包括进料、发起打印、退料及常见进料问题。"
 tags: []
 created: 2026-11-24T14:02:07.932Z
-updated: 2026-11-24T14:49:19.166Z
+updated: 2026-11-27T07:17:32.280Z
 source: https://wiki.bambulab.com/zh/p3c/manual/first-print
 ---
 

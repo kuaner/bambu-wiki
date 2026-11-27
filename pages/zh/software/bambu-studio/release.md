@@ -4,7 +4,7 @@ title: "Bambu Studio 版本说明"
 description: ""
 tags: ["bambu studio", "studio"]
 created: 2023-07-28T04:00:09.579Z
-updated: 2026-11-24T14:26:31.159Z
+updated: 2026-11-27T03:43:59.163Z
 source: https://wiki.bambulab.com/zh/software/bambu-studio/release
 ---
 
@@ -91,3 +91,20 @@ source: https://wiki.bambulab.com/zh/software/bambu-studio/release
 ---
 
 更早版本发布说明请看[GitHub仓库](https://github.com/bambulab/BambuStudio/releases)。
+
+## 历史版本下载链接
+
+### V2.9.1
+
+- [点击此处](https://public-cdn.bblmw.cn/upgrade/studio/software/02.09.01.70/3dad1e9b33/Bambu_Studio_win-v02.09.01.70.exe)下载 Windows 版本。
+- [点击此处](https://public-cdn.bblmw.cn/upgrade/studio/software/02.09.01.70/3dad1e9b33/Bambu_Studio_mac-v02.09.01.70.dmg)下载 macos 版本。
+
+### V2.8.2.61
+
+- [点击此处](https://public-cdn.bblmw.cn/upgrade/studio/software/02.08.02.61/814ad2472d/Bambu_Studio_win-v02.08.02.61.exe)下载 Windows 版本。
+- [点击此处](https://public-cdn.bblmw.cn/upgrade/studio/software/02.08.02.61/814ad2472d/Bambu_Studio_mac-v02.08.02.61.dmg)下载 macos 版本。
+
+### V2.7.1.62
+
+- [点击此处](https://public-cdn.bblmw.cn/upgrade/studio/software/02.07.01.62/dab853f4b7/Bambu_Studio_win-v02.07.01.62.exe)下载 Windows 版本。
+- [点击此处](https://public-cdn.bblmw.cn/upgrade/studio/software/02.07.01.62/dab853f4b7/Bambu_Studio_mac-v02.07.01.62.dmg)下载 macos 版本。

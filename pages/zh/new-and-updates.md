@@ -4,9 +4,56 @@ title: "Wiki 新页面和内容更新"
 description: "本页包含更新日志，显示最近 Wiki 里新发布或有更改的页面。"
 tags: ["更新"]
 created: 2024-05-06T08:21:04.998Z
-updated: 2026-11-20T09:50:24.018Z
+updated: 2026-11-27T10:26:20.926Z
 source: https://wiki.bambulab.com/zh/new-and-updates
 ---
+
+## 2026-W48
+
+### 新页面
+
+| 标题+URL | Wiki 简介 | 分类 |
+| --- | --- | --- |
+| [HMS\_0300-1800-0001-0007：挤出机涡流传感器频率过高，可能涡流传感器与正对金属片距离过近或传感器已损坏。](https://wiki.bambulab.com/zh/h3c/troubleshooting/hmscode/0300_1800_0001_0007) | 介绍 0300-1800-0001-0007 报错的故障原因，并指导检查涡流传感器、金属片及固定状态。 | 拓竹H3C |
+| [HMS\_0500-0300-0001-0006：系统崩溃，需要断电重启。](https://wiki.bambulab.com/zh/h3c/troubleshooting/hmscode/0500_0300_0001_0006) | 介绍 HMS 0500-0300-0001-0006 故障现象及处理方法，指导用户通过断电重启恢复打印机运行。 | / |
+| [HMS\_0C00-0100-0002-0008：获取实况摄像头的图像失败，炒面及堆料检测暂时失效。](https://wiki.bambulab.com/zh/h3c/troubleshooting/hmscode/0C00_0100_0002_0008) | 介绍 HMS 0C00-0100-0002-0008 的故障含义与排查方法，涵盖 liveview 检查、摄像头排线连接和更换指引。 | / |
+| [HMS\_0C00-0300-0002-001C：检测到可能发生了裹头。](https://wiki.bambulab.com/zh/h3c/troubleshooting/hmscode/0C00_0300_0002_001C) | 介绍 HMS 0C00-0300-0002-001C 裹头报错的成因与排查方法，包括确认裹头、清理热端和摄像头。 | / |
+| [HMS\_0500-0100-0002-000D：未连接俯视摄像头，请检查硬件及线路连接。](https://wiki.bambulab.com/zh/h3c/troubleshooting/hmscode/0500_0100_0002_000D) | 介绍 HMS\_0500-0100-0002-000D 报错的含义及俯视摄像头硬件、线路连接的排查方法。 | 拓竹H3C |
+| [HMS\_0300-5000-0002-0004：Y轴磁编返回值异常，可能是磁编接线不良或损坏，请关机检查磁编接线](r1/troubleshooting/hmscode/0300_5000_0002_0004.md) | 本页说明 HMS 0300-5000-0002-0004 报错含义，并指导排查环境磁干扰及 Y 轴磁编码器接线问题。 | R1 |
+| [拓竹H3C / P3C 吐料组件松动导致擦嘴异常的排查指南](https://wiki.bambulab.com/zh/p3c/troubleshooting/p3c-h3c-nozzle-wiping-issues-loose-purge-wiper) | 介绍了吐料组件位置偏移导致喷嘴擦拭过程异常的排查步骤。 | / |
+
+### 更新页面
+
+| 标题+URL | 更新简要 | 关键词搜索 | 分类 |
+| --- | --- | --- | --- |
+| [拓竹H3C FAQ](h3c/manual/faq.md) | 更新工作站适配说明，并补充 A 系列暂不适配及使用提示。 | 拓竹工作站 | A 系列,P 系列,X 系列,H2C |
+| [R1 包装清单](r1/manual/acc-in-the-box.md) | 补充支撑刀条的随附数量、预装位置及用途说明。 | 支撑刀条 | / |
+| [R1 开箱指南](r1/manual/unboxing.md) | 补充产品随附 11 根支撑刀条及其预装位置说明 | 支撑刀条 | / |
+| [平面加工头（刀切头/画笔头）安装教程](h3c/manual/unboxing-crafttool.md) | 补充 P3C 与拓竹H3C安装差异及 P3C 对应配件/步骤说明 | P3C | AMS |
+| [挤出电机更换指南](h3c/maintenance/replace-2521-extruder-servo-motor.md) | 补充挤出电机作用说明及更换时机。 | 挤出电机 | / |
+| [堵嘴组件更换指南](h3c/maintenance/replace-flow-blocker.md) | 补充旧堵嘴硅胶复用安装提示及新硅胶替换建议。 | 堵嘴硅胶 | H2C |
+| [惰轮组件更换指南](h3c/maintenance/replace-idler-pulley.md) | 补充后惰轮拆装前需先松开XY皮带以避免螺丝滑牙，并增加皮带固定支架拆装步骤。 | 螺丝滑牙 | / |
+| [拓竹H3C 与AMS料管中断裂耗材的清理](h3c/troubleshooting/clear-filament-jam.md) | 更新 AMS 空状态判断，并补充咬合状态特征。 | AMS | AMS |
+| [批量雕刻功能使用指南](software/bambu-suite/manual/batch-engraving.md) | 更新批量雕刻说明，删除按相同相对位置和角度复制的表述 | 批量雕刻 | / |
+| [多机型 AMS 连接指南](ams/manual/multi-model-AMS-compatibility-guide.md) | 补充 P3C 连接 AMS 的数量、多色上限及配件需求。 | P3C | AMS,AMS 2 Pro,AMS HT |
+| [AMS 3 自动续料功能介绍](ams3/manual/auto-refill.md) | 更新多头续料适用机型，并补充 AMS 3H/3P 建立续料关系条件。 | 自动续料 | AMS |
+| [拓竹H3C / H2D 打印后刀切功能指南](h2/manual/post-printing-cutting.md) | 补充说明拓竹H3C 的操作步骤与 H2D 相同。 | 拓竹H3C | H2D,H2S,H2C |
+| [拓竹H3C / P3C PVA 打印指南](h3c/manual/pva-printing-guide.md) | 更新推荐设备为 AMS 3H/3P/HT，并补充 AMS HT 烘干指南链接及干燥剂槽位说明 | AMS HT | 耗材 |
+| [更换 H2 系列 MC-AP 线](h2/maintenance/replace-mc-ap-cable.md) | 补充说明不同批次 MC-AP 线缆外观细节可能不同但功能一致。 | MC-AP线缆 | H2 系列 |
+| [导出Bambu PC 软件日志](x1/troubleshooting/bambu-studio-log.md) | 更新 Bambu Suite 日志导出方式，按版本区分需打包的日志文件 | Bambu Suite 日志导出 | / |
+| [激光和刀切](laser-cutting-module.md) | 补充激光切割连接点参数设置指南链接 | 激光切割连接点参数设置指南 | / |
+| [R1 气泵更换指南](r1/maintenance/replace-air-pump.md) | 更新气泵拆装所需固定螺丝数量，由 2 颗改为 3 颗。 | 气泵 | / |
+| [R1 左壳体更换指南](r1/maintenance/replace-left-shell.md) | 补充 R1 左壳体拆卸更换所需工具、安全提示及分步操作。 | 左壳体更换 | / |
+| [激光切割连接点参数设置指南](r1/manual/laser-cut-tab-parameter-guide.md) | 补充说明 H2 系列激光模组也可参考本页设置连接点。 | 连接点 | H2 系列 |
+| [E1 空气净化器开箱和安装指南](e1/manual/unboxing-installation-guide.md) | 补充 P3C 机型的固件版本要求及转接件安装说明。 | P3C | P2S,H2D,H2S |
+| [配件](filament-acc/acc.md) | 补充 A1 mini 泡泡罩、拓竹工作站及多机型配件入口 | 拓竹工作站 | 耗材 |
+| [拓竹打印板介绍](filament-acc/acc/plates.md) | 补充 拓竹H3C、P3C 的打印板规格适配与兼容性提醒 | P3C打印板兼容性 | 耗材 |
+| [耗材烘干操作指南](filament-acc/filament/dry-filament.md) | 补充 AMS 3P 加装烘干模块后的烘干说明与参数表适用信息 | AMS 3P | 耗材 |
+| [混合耗材类型打印指南](filament-acc/filament/h2d-filament-config-limit.md) | 更新适用机型为 拓竹H3C/P3C，并补充 P3C 不支持 PPS-CF 的限制。 | PPS-CF | 耗材 |
+| [模型翘边、脱落或倒塌](filament-acc/filament/print-quality/warping-falling-off-collapsing.md) | 补充 P2S/X2D 模型翘曲问题改善指南链接 | 模型翘曲问题改善指南 | 耗材 |
+| [H2D 耗材打印建议](h2/h2d-filament-printing-guide.md) | 更新 TPU 热端限制，明确左热端不支持 TPU 85A，可支持 TPU 95A HF/90A。 | TPU | H2D |
+| [H2C 3D 打印耗材建议](h2c/h2c-filament-printing-guide.md) | 更新左热端 TPU 支持说明。 | TPU | H2C |
+| [TPU 打印指南](knowledge-sharing/tpu-printing-guide.md) | 补充 AMS 3P 与 P3C 的 TPU 使用和烘干说明，并更新兼容机型表述。 | AMS 3P | 耗材 |
 
 ## 2026-W47
 

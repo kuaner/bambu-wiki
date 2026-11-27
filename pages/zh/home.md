@@ -4,7 +4,7 @@ title: "主页"
 description: ""
 tags: []
 created: 2022-07-27T15:03:58.612Z
-updated: 2026-11-24T14:12:52.777Z
+updated: 2026-11-26T14:27:03.481Z
 source: https://wiki.bambulab.com/zh/home
 ---
 
@@ -52,6 +52,12 @@ A 系列](https://wiki.bambulab.com/zh/a-series)
 [![AMS lite](https://wiki.bambulab.com/r1/homepage/bambu-lab-r1end.png)
   
 R1](https://wiki.bambulab.com/zh/r1)
+
+### Bambu Lab 扫描仪类产品
+
+[![s1](https://wiki.bambulab.com/s1/s1_device.png)
+  
+S1](https://wiki.bambulab.com/zh/s1)
 
 ### Bambu Lab AMS
 
@@ -104,6 +110,10 @@ Bambu Connect](https://wiki.bambulab.com/zh/software/bambu-connect)
 [![Cyberbrick](https://wiki.bambulab.com/wiki/cyberbrick-en_wiki_home_new.jpg)
   
 CyberBrick](https://wiki.bambulab.com/zh/cyberbrick)
+
+[![Bambu Scan](https://wiki.bambulab.com/software/software-scan-zh.png)
+  
+Bambu Scan](https://wiki.bambulab.com/zh/software/bambu-scan)
 
 ### MakerWorld
 

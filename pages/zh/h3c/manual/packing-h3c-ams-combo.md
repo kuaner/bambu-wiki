@@ -4,7 +4,7 @@ title: "拓竹H3C AMS 套装装箱指南"
 description: ""
 tags: []
 created: 2026-11-03T12:11:22.685Z
-updated: 2026-11-10T08:47:12.987Z
+updated: 2026-11-26T07:46:04.099Z
 source: https://wiki.bambulab.com/zh/h3c/manual/packing-h3c-ams-combo
 ---
 
@@ -145,7 +145,7 @@ source: https://wiki.bambulab.com/zh/h3c/manual/packing-h3c-ams-combo
 | --- | --- |
 | 031.png | 032.png |
 
-##拓竹H3C 拆卸及装箱
+## 拓竹H3C 拆卸及装箱
 
 ### 移除屏幕
 

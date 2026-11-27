@@ -4,7 +4,7 @@ title: "Bambu Lab 软件"
 description: ""
 tags: []
 created: 2022-07-28T09:52:39.762Z
-updated: 2026-11-23T03:26:14.193Z
+updated: 2026-11-26T14:44:41.756Z
 source: https://wiki.bambulab.com/zh/software
 ---
 
@@ -45,6 +45,12 @@ Bambu Connect 是一款能连接和发送打印到 Bambu Lab 3D 打印机的精�
 ### [Cyberbrick](https://bambulab.cn/zh-cn/download/cyberbrick-apps)
 
 CyberBrick 是一款模块化智能玩具生态系统，结合了可编程硬件、3D 打印结构和双层编码环境，旨在让用户轻松搭建和体验各种 3D 打印项目，从遥控玩具到实用工具。
+
+![Bambu Scan](https://wiki.bambulab.com/software/software-scan-zh.png)
+
+### [Bambu Scan](https://bambulab.cn/zh-cn/download)
+
+Bambu Scan 专为拓竹 3D 扫描设备而生。内置8大高级编辑功能，涵盖雕刻、测量、热力图、特征拟合、坐标摆正等专业工具，并提供多种预设模式，让曾经复杂的功能变得一目了然。
 
 ### [🎓 拓竹学院｜Bambu Suite · Bambu Studio · Bambu Handy 专项课程](https://bambulab.cn/zh-cn/support/academy)
 
@@ -219,6 +225,40 @@ CyberBrick 是一款模块化智能玩具生态系统，结合了可编程硬件
 - [Bamby Handy 打印教程](makerworld/tutorials/printing-tutorial-on-bambu-handy.md)
 - [Bambu 账号安全认证功能](studio-handy/account-multifactor-authentication.md)
 - [Bambu Handy 无法连接网络（iOS 系统）](bambu-handy/troubleshoot/network-connection-failed.md)
+
+## Bambu Scan
+
+### 基础功能
+
+- [扫描模式介绍](bambu-scan/manual/scan.md)
+- [点云编辑](bambu-scan/manual/point_cloud_processing.md)
+- [模型拼接(点云拼接)技巧](bambu-scan/manual/model-merge.md)
+- [网格编辑](bambu-scan/manual/mesh_processing.md)
+- [高级编辑功能](bambu-scan/manual/advanced-editing.md)
+- [项目系统](bambu-scan/manual/project-system.md)
+- [预设系统](bambu-scan/manual/scan-and-encapsulation-presets.md)
+- [文件格式](bambu-scan/manual/file-format.md)
+
+### 高阶扫描技巧
+
+- [标记点使用教程](s1/manual/marker.md)
+- [透明物体扫描方式](bambu-scan/manual/transparent-reflective-dark-objects.md)
+- [带孔模型扫描方式](bambu-scan/manual/models-with-holes.md)
+- [人脸/人体扫描](bambu-scan/manual/human-body-scan.md)
+- [薄壁件扫描](bambu-scan/manual/thin-walled-object.md)
+
+### 故障排除
+
+- [日志导出方法](bambu-scan/troubleshooting/how-to-upload-log.md)
+- [PC 配置及常见性能问题](bambu-scan/troubleshooting/pc-configuration.md)
+- [显存不足的可能原因及解法](bambu-scan/troubleshooting/insufficient-video-memory.md)
+- [内存不足的可能原因及解法](bambu-scan/troubleshooting/insufficient-memory.md)
+- [无线连接可能原因及解法](bambu-scan/troubleshooting/wireless-connection-failure.md)
+- [有线连接可能原因及解法](bambu-scan/troubleshooting/wire-connection-failure.md)
+
+### 发布记录
+
+- [Bambu Scan 版本说明](bambu-scan/release-notes.md)
 
 ## 拓竹农场管家
 

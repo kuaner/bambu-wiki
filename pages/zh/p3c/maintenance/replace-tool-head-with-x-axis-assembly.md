@@ -4,7 +4,7 @@ title: "P3C X 轴工具头组件更换指南"
 description: "本文介绍 P3C XY 轴工具头更换的具体操作方式。"
 tags: []
 created: 2026-11-24T14:07:08.827Z
-updated: 2026-11-24T14:07:08.827Z
+updated: 2026-11-27T06:07:45.580Z
 source: https://wiki.bambulab.com/zh/p3c/maintenance/replace-tool-head-with-x-axis-assembly
 ---
 
