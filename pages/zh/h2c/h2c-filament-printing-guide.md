@@ -4,7 +4,7 @@ title: "H2C 3D 打印耗材建议"
 description: ""
 tags: []
 created: 2025-11-18T12:41:30.116Z
-updated: 2026-08-28T06:31:56.208Z
+updated: 2026-11-27T03:53:21.385Z
 source: https://wiki.bambulab.com/zh/h2c/h2c-filament-printing-guide
 ---
 
@@ -12,7 +12,7 @@ source: https://wiki.bambulab.com/zh/h2c/h2c-filament-printing-guide
 
 ## TPU
 
-- **左热端：**目前不支持打印 TPU 85A，存在较高的堵头风险，将来可支持打印 TPU 95A HF/90A，后续增加这项功能，我们会通过固件更新进行说明。
+- **左热端：**目前不支持打印 TPU 85A，存在较高的堵头风险；可支持打印 TPU 95A HF/90A。
 - **右热端：**支持打印 TPU 95A HF/90A/85A，详情请参考：[H2 系列 的 TPU 85A 和 90A 打印指南](../h2/h2d-tpu-printing-guide.md)。
 
 ## PLA/PETG 互为支撑

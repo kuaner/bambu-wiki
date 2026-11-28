@@ -4,7 +4,7 @@ title: "拓竹H3C 与AMS料管中断裂耗材的清理"
 description: ""
 tags: []
 created: 2026-11-03T12:07:11.841Z
-updated: 2026-11-10T12:18:38.010Z
+updated: 2026-11-27T03:50:35.774Z
 source: https://wiki.bambulab.com/zh/h3c/troubleshooting/clear-filament-jam
 ---
 
@@ -39,7 +39,8 @@ source: https://wiki.bambulab.com/zh/h3c/troubleshooting/clear-filament-jam
 ![图](https://public-cdn.bblmw.com/wiki/new/h3c/troubleshooting/clear-filament-jam/zh/03_h3c___________-04.webp)
 
 重启一次设备，确保AMS 将自动变为“空状态”。  
-空状态：该状态下 AMS 不会咬合耗材，此时能够轻易手动插入耗材，可通过观察黄色进料导向块与黑色外壳的间距判断。
+空状态：该状态下 AMS 不会咬合耗材，此时能够轻易手动插入耗材，可通过观察黄色入料口组件的状态进行判断，同一排入料口组件整齐排列。  
+咬合状态：黄色入料口组件有错位。
 
 |  |  |
 | --- | --- |

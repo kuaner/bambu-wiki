@@ -1,14 +1,14 @@
 ---
 path: zh/h2/manual/post-printing-cutting
-title: "H2D 打印后刀切功能指南"
+title: "拓竹H3C / H2D 打印后刀切功能指南"
 description: ""
 tags: []
 created: 2025-04-29T13:21:46.596Z
-updated: 2026-11-06T01:51:54.590Z
+updated: 2026-11-27T01:24:20.038Z
 source: https://wiki.bambulab.com/zh/h2/manual/post-printing-cutting
 ---
 
-> **注意**：本页面以 H2D 机器为例。**H2S 和 H2C 的操作步骤完全相同**。
+> **注意**：本页面以 H2D 机器为例。**拓竹H3C、H2S 和 H2C 的操作步骤完全相同**。
 
 ## 1. 功能介绍
 

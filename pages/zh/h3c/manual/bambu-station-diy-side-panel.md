@@ -4,7 +4,7 @@ title: "拓竹工作站 L DIY 侧板加工与更换指南"
 description: "本文介绍如何使用拓竹 R1 将木质板材加工为拓竹工作站 L 的洞洞板侧板，并安装至工作站两侧。"
 tags: []
 created: 2026-11-08T09:27:24.838Z
-updated: 2026-11-11T06:03:09.608Z
+updated: 2026-11-27T04:14:43.560Z
 source: https://wiki.bambulab.com/zh/h3c/manual/bambu-station-diy-side-panel
 ---
 
@@ -20,7 +20,8 @@ source: https://wiki.bambulab.com/zh/h3c/manual/bambu-station-diy-side-panel
 
 - 图案文件（[点击下载官方洞洞板侧板 .lac 文件](https://wiki.bambulab.com/h3c/manual/bambu-station-diy-side-panel/pegboard-side-panel/pegboard_side_panel.lac)）
 - 木质板材 × 2
-  - **尺寸建议**：厚度 10 mm，宽度 600 mm，长度不小于 600 mm
+  - **尺寸建议**：厚度 10 mm，宽度 600 mm，长度不小于 600 mm  
+    （注意：该尺寸为加工前原板材尺寸，而非加工后可安装的洞洞板尺寸）
   - **材质建议**：椴木 / 胡桃木
   - **板材状态**：板材需平整，**无明显翘曲、起拱或扭曲**，否则影响拍图、测距与加工精度
 - 拓竹 R1 （[购买链接](https://item.jd.com/10232365669917.html?pcdk=ApwIWW7jVBKGvFZHo5vjYbrfQIDILEcZ9mDfHVOCbfo%3D.M8AW.sbc1)）

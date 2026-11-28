@@ -4,7 +4,7 @@ title: "更换 H2D & H2C 堵嘴磁铁支架"
 description: "本文介绍如何更换 H2D & H2C 堵嘴磁铁支架"
 tags: []
 created: 2025-03-25T09:02:49.510Z
-updated: 2026-08-28T08:33:42.913Z
+updated: 2026-11-27T03:29:44.797Z
 source: https://wiki.bambulab.com/zh/h2/maintenance/replace-nozzle-blocker-magnet-bracket
 ---
 
@@ -28,8 +28,7 @@ source: https://wiki.bambulab.com/zh/h2/maintenance/replace-nozzle-blocker-magne
 
 ## 所需的工具和材料
 
-1. 新的部件冷却风扇
-2. H2.0 内六角扳手
+H2.0 内六角扳手
 
 ## 安全提示
 

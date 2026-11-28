@@ -4,7 +4,7 @@ title: "配件"
 description: ""
 tags: []
 created: 2023-09-07T02:38:24.600Z
-updated: 2026-11-24T14:14:17.761Z
+updated: 2026-11-27T07:53:54.355Z
 source: https://wiki.bambulab.com/zh/filament-acc/acc
 ---
 
@@ -77,7 +77,7 @@ source: https://wiki.bambulab.com/zh/filament-acc/acc
 - [X1/P1 系列供料缓冲器和料线选通器（AMS Hub）](../x1/maintenance/replace-filament-buffer-and-ams-hub.md)
 - [TPU 送料助力模块组装 & 使用指南](../general/manual/tpu-feed-assist-module.md)
 
-### **P 系列**
+### **P1 系列 / P2S**
 
 - [P2S 外排风扇加装指南](../p2s/manual/external-exhaust-fan-kit.md)
 - [P1P-P1S 升级包安装指引](../p1/manual/p1p-to-p1s.md)

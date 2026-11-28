@@ -102,7 +102,7 @@ source: https://wiki.bambulab.com/zh/p3c
 - [P3C/拓竹H3C 工具头定位槽粘料清理指南](h3c/troubleshooting/guide-for-cleaning-the-tool-holder.md)
 - [P3C/拓竹H3C 打印头进料霍尔排查指南](h3c/troubleshooting/filament-sensor-test.md)
 - [P3C/拓竹H3C 平面加工质量指南](h3c/manual/crafttool-quality.md)
-- [拓竹H3C / P3C 吐料组件松动导致擦嘴异常的排查指南](https://wiki.bambulab.com/zh/p3c/troubleshooting/p3c-h3c-nozzle-wiping-issues-loose-purge-wiper)
+- [拓竹H3C / P3C 吐料组件松动导致擦嘴异常的排查指南](troubleshooting/p3c-h3c-nozzle-wiping-issues-loose-purge-wiper.md)
 
 ## 🚧 维护指南
 

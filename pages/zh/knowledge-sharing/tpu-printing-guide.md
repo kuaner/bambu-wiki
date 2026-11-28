@@ -4,7 +4,7 @@ title: "TPU 打印指南"
 description: "本文介绍了打印 TPU 的建议"
 tags: ["tpu"]
 created: 2023-08-02T08:20:33.025Z
-updated: 2026-11-24T14:11:04.394Z
+updated: 2026-11-27T02:40:09.223Z
 source: https://wiki.bambulab.com/zh/knowledge-sharing/tpu-printing-guide
 ---
 
@@ -145,7 +145,7 @@ TPU 送料助力模块是用于提升 TPU 打印稳定性的可选增强组件�
 
 ![](https://wiki.bambulab.com/filament-acc/filament-dry-prepare/image-9.png)
 
-需注意的是，在烘干过程中，TPU 受热会产生轻微的膨胀，料盘宽度可能 **从 65.4 mm 增大到约 69.4 mm**，这是正常现象。使用 **热床** 烘干时，可在料盘上放置耐高温重物，以抑制料盘变形。
+需注意的是，在烘干过程中，TPU 受热会产生轻微的膨胀，料盘宽度可能 **从 65.4 mm 增大到约 69.4 mm**，这是正常现象。使用 封箱打印机的 **热床** 烘干时，可在料盘上放置耐高温重物，以抑制料盘变形。
 
 ![](https://wiki.bambulab.com/filament-acc/filament/tpu-85a-90a-printing-guide/spool-expansion.png)
 

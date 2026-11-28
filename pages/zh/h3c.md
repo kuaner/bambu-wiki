@@ -106,7 +106,7 @@ source: https://wiki.bambulab.com/zh/h3c
 - [拓竹H3C 平面加工质量指南](manual/crafttool-quality.md)
 - [拓竹H3C 空气净化器故障排查指南](e1/troubleshooting/purifier-troubleshooting-guide.md)
 - [拓竹H3C 手动解锁工具头上打印头](troubleshooting/how-to-place-printtool.md)
-- [拓竹H3C / P3C 吐料组件松动导致擦嘴异常的排查指南](https://wiki.bambulab.com/zh/p3c/troubleshooting/p3c-h3c-nozzle-wiping-issues-loose-purge-wiper)
+- [拓竹H3C / P3C 吐料组件松动导致擦嘴异常的排查指南](p3c/troubleshooting/p3c-h3c-nozzle-wiping-issues-loose-purge-wiper.md)
 
 ## 🚧 维护指南
 

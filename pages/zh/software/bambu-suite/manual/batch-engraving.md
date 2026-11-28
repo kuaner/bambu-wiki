@@ -4,7 +4,7 @@ title: "批量雕刻功能使用指南"
 description: ""
 tags: []
 created: 2025-03-25T13:01:19.878Z
-updated: 2026-08-28T08:34:12.889Z
+updated: 2026-11-27T07:15:29.480Z
 source: https://wiki.bambulab.com/zh/software/bambu-suite/manual/batch-engraving
 ---
 
@@ -38,8 +38,10 @@ source: https://wiki.bambulab.com/zh/software/bambu-suite/manual/batch-engraving
    - 鼠标移动到**拍照**上方，在浮窗内开启精细轮廓提取。
    - 通常在物体摆放紧密或者物体比较细小时，建议开启此选项以提高成功率。
    - 开启精细轮廓提取会提高轮廓处理的精度，同时也会增加轮廓的计算时间，批量雕刻和自动摆盘会等待精细轮廓计算完成。
-   - 首次开启精细轮廓提取时会联网下载“精细轮廓提取AI模型”，下载完成后拍照时可以处理得到目标物体的精细轮廓。  
-     ![](https://wiki.bambulab.com/h2/manual/batch-engraving/fine_contour_extraction.png)
+   - 首次开启精细轮廓提取时会联网下载“精细轮廓提取AI模型”，下载完成后拍照时可以处理得到目标物体的精细轮廓。
+
+![20261127-151007.jpg](https://wiki.bambulab.com/h2/manual/batch-engraving/20261127-151007.jpg)
+
 5. **拍摄材料图像**
 
    - 点击「拍照」以获取加工材料俯视图。Bambu Suite将会自动提取材料轮廓。这一步耗时约8~10秒，请耐心等待界面刷新出材料图。
@@ -48,12 +50,12 @@ source: https://wiki.bambulab.com/zh/software/bambu-suite/manual/batch-engraving
    - 将图案拖拽至**任意一个材料**表面，并调整位置和角度，使得图案完全落在材料轮廓的内部。
 7. **批量复制和摆放图案**
 
-   - 点击「批量雕刻」。Bambu Suite将自动识别其余材料轮廓，并按相同相对位置和角度复制图案到其余轮廓内部。
+   - 点击「批量雕刻」。Bambu Suite将自动识别其余材料轮廓，并复制图案到其余轮廓内部。
 8. **执行加工**
 
    - 点击「制作」。Bambu Suite将一次性制作出所有图案。
 
-![](https://wiki.bambulab.com/h2/manual/batch-engraving/1.gif)
+![20261127-151229.gif](https://wiki.bambulab.com/h2/manual/batch-engraving/20261127-151229.gif)
 
 ## 注意事项
 
